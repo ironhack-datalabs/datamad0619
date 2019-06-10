@@ -1,1 +1,1 @@
-print("solo se k lo se todo")
+print("solo se k lo se todo todo")
