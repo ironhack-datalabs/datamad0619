@@ -1,1 +1,3 @@
-Para realizar este ejercicio he creado este archivo
+Ejercicio
+1)Para realizar este ejercicio he creado este archivo
+2)Para generar el conflicto de github he creado el encabezado y he puesto los apartados 1) y 2)
