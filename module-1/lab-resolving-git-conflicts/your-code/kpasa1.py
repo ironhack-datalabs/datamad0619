@@ -1,1 +1,1 @@
-print("solo se k no se nada")
+print("LO SE TODO")
