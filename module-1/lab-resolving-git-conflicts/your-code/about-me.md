@@ -15,6 +15,8 @@ En cuanto al análisis de datos, en mi profesión me he encontrado en muchas oca
 * What has brought you to Ironhack?
 * What knowledge/skills do you expect to learn in this bootcamp?
 
+He entrado en el Ironhack porque me gustaría cambiar de profesión a alguna enfocada a la tecnología y la programación, que es lo que me gusta. Creo, además, que la ingeniería me aporta los conocimientos fundamentales en matemáticas y estadísticas necesarios para el análisis de datos.
+
 # What will I do after the bootcamp?
 
 * Which industry will you seek employment in?
