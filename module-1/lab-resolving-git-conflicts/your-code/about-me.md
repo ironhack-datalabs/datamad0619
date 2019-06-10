@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Who am I
 
 * Where are you from?
@@ -22,3 +23,4 @@ No me importa el sector, pero me gustaría trabajar para una empresa en la que a
 Me quiero convertir en una persona imprescindible en el lugar donde trabaje
 * What is your career goal?
 Me gustaría ser manager de proyectos en algun proyecto que me guste especialmente
+=======
