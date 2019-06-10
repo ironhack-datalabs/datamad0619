@@ -1,1 +1,1 @@
-print("LO SE TODO")
+print("estoy aprendiendo")
