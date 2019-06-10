@@ -1,0 +1,1 @@
+print("solo se k lo se todo")
