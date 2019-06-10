@@ -8,8 +8,7 @@
 
 * What has brought you to Ironhack?
 * What knowledge/skills do you expect to learn in this bootcamp?
-
-# What will I do after the bootcamp?
+ the bootcamp?
 
 * Which industry will you seek employment in?
 * What will your future role look like?
@@ -17,4 +16,6 @@
 
 # NEw line-+´`´+.
 
-* create new lines qith symbols #@%$
+* create new lines qith symbols #@%$fsczhjhjkdgvxz  bhiu fxddfs mp9ua<eg '9tQWHr98w<fm 098<dsuvodgruybxfomiubhdxoiht
+ñaksdflkajsdnfkajbdflad
+lj
