@@ -1,3 +1,5 @@
+Import text as .csv
+
 *Vamos a probar cambiar la primera linea
 
 *Metiendo caractereslaksdjfalksdjflakdmflk aflkmasdlkfmaskldfmñlaksdf lkamf02341'03914'0934 lkmng
@@ -17,6 +19,10 @@
 * What is your career goal?
 
 # NEw line-+´`´+.
+
+print("Hello world!!!")
+
+
 
 * create new lines qith symbols #@%$fsczhjhjkdgvxz  bhiu fxddfs mp9ua<eg '9tQWHr98w<fm 098<dsuvodgruybxfomiubhdxoiht
 ñaksdflkajsdnfkajbdflad
