@@ -24,7 +24,3 @@ Espero que el Ironhack me prepare lo suficiente como para encontrar empleo tras 
 * Which industry will you seek employment in?
 * What will your future role look like?
 * What is your career goal?
-
-A priori, me atrae mucho el módulo de Machine Learning. Me gustaría estar en una empresa donde pueda desarrollarme profesionalmente en este tema.
-
-No obstante, uno de mis objetivos también sería ser capaz de crear un producto y poder llegar a comercializarlo.
