@@ -17,8 +17,14 @@ En cuanto al análisis de datos, en mi profesión me he encontrado en muchas oca
 
 He entrado en el Ironhack porque me gustaría cambiar de profesión a alguna enfocada a la tecnología y la programación, que es lo que me gusta. Creo, además, que la ingeniería me aporta los conocimientos fundamentales en matemáticas y estadísticas necesarios para el análisis de datos.
 
+Espero que el Ironhack me prepare lo suficiente como para encontrar empleo tras acabar el bootcamp
+
 # What will I do after the bootcamp?
 
 * Which industry will you seek employment in?
 * What will your future role look like?
 * What is your career goal?
+
+A priori, me atrae mucho el módulo de Machine Learning. Me gustaría estar en una empresa donde pueda desarrollarme profesionalmente en este tema.
+
+No obstante, uno de mis objetivos también sería ser capaz de crear un producto y poder llegar a comercializarlo.
