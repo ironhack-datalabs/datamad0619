@@ -1,0 +1,20 @@
+PROBLEMA
+
+	LARGO:
+
+word_freq2 = {}
+
+for i in range(len(sorted_tups)):
+    word_freq2.update({sorted_tups[i][0]: sorted_tups[i][1]})
+
+print(word_freq2)
+
+	CORTO:
+
+word_freq2 = {}
+
+for tupla in sorted_tups:
+    print(tupla)
+    word_freq2.update({tupla[0]: tupla[1]})
+
+print(word_freq2)
