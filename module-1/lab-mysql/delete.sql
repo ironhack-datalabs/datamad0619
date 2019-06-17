@@ -1,0 +1,1 @@
+DELETE FROM `lab_mysql`.`cars` WHERE (`cars ID` = '5');
