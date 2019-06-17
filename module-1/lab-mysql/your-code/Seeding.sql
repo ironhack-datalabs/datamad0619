@@ -1,0 +1,17 @@
+SELECT * FROM lab_mysql.SALESPERSON;
+INSERT INTO `lab_mysql`.`SALESPERSON` (`idSALESPERSON`, `NAME`, `STORE`) VALUES ('00001', 'Petey Cruiser', 'Madrid');
+INSERT INTO `lab_mysql`.`SALESPERSON` (`idSALESPERSON`, `NAME`, `STORE`) VALUES ('00002', 'Anna Sthesia', 'Barcleona');
+INSERT INTO `lab_mysql`.`SALESPERSON` (`idSALESPERSON`, `NAME`, `STORE`) VALUES ('00003', 'Paul Molive', 'Berlin');
+INSERT INTO `lab_mysql`.`SALESPERSON` (`idSALESPERSON`, `NAME`, `STORE`) VALUES ('00004', 'Gail Forcewind', 'Paris');
+INSERT INTO `lab_mysql`.`SALESPERSON` (`idSALESPERSON`, `NAME`, `STORE`) VALUES ('00005', 'Paige Turner', 'Miami');
+INSERT INTO `lab_mysql`.`SALESPERSON` (`idSALESPERSON`, `NAME`, `STORE`) VALUES ('00006', 'Bob Frapples', 'Mexico City');
+INSERT INTO `lab_mysql`.`SALESPERSON` (`idSALESPERSON`, `NAME`, `STORE`) VALUES ('00007', 'Walter Melon', 'Amsterdam');
+INSERT INTO `lab_mysql`.`SALESPERSON` (`idSALESPERSON`, `NAME`, `STORE`) VALUES ('00008', 'Shonda Leer', 'São Paulo');
+SELECT * FROM lab_mysql.CUSTOMER;
+INSERT INTO `lab_mysql`.`CUSTOMER` (`idCUSTOMER`, `NAME`, `PHONE`, `ADDRESS`, `CITY`, `STATE`, `COUNTRY`, `POSTAL`) VALUES ('10001', 'Pablo Picasso', '+34 636 17 63 82', 'Paseo de la Chopera, 14', 'Madrid', 'Madrid', 'Spain', '28045');
+INSERT INTO `lab_mysql`.`CUSTOMER` (`idCUSTOMER`, `NAME`, `PHONE`, `ADDRESS`, `CITY`, `STATE`, `COUNTRY`, `POSTAL`) VALUES ('20001', 'Abraham Lincoln', '+1 305 907 7086', '120 SW 8th St', 'Miami', 'Florida', 'United States', '33130');
+INSERT INTO `lab_mysql`.`CUSTOMER` (`idCUSTOMER`, `NAME`, `PHONE`, `ADDRESS`, `CITY`, `STATE`, `COUNTRY`, `POSTAL`) VALUES ('30001', 'Napoléon Bonaparte', '+33 1 79 75 40 00', '40 Rue du Colisée', 'Paris', 'Île-de-France', 'France', '75008');
+SELECT * FROM lab_mysql.INVOICE;
+INSERT INTO `lab_mysql`.`INVOICE` (`idINVOICE`, `DATE`, `CUSTOMER_idCUSTOMER`, `SALESPERSON_idSALESPERSON`, `CAR_idCAR`) VALUES ('852399038', '22-08-2018', '20001', '00004', '0');
+INSERT INTO `lab_mysql`.`INVOICE` (`idINVOICE`, `DATE`, `CUSTOMER_idCUSTOMER`, `SALESPERSON_idSALESPERSON`, `CAR_idCAR`) VALUES ('731166526', '31-12-2018', '10001', '00006', '3');
+INSERT INTO `lab_mysql`.`INVOICE` (`idINVOICE`, `DATE`, `CUSTOMER_idCUSTOMER`, `SALESPERSON_idSALESPERSON`, `CAR_idCAR`) VALUES ('271135104', '22-01-2019', '30001', '00008', '2');
