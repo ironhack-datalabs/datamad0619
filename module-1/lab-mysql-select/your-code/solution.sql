@@ -45,7 +45,7 @@ IFNULL(SUM(qty), 0) AS `TOTAL`
 # BONUS CHALLENGE
 
 SELECT a.au_id AS `AUTHOR ID`, au_lname AS `LAST NAME`, au_fname AS `FIRST NAME`,
-IFNULL(ROUND(SUM(qty)*price*(100-royalty)/100+advance, 2),0) AS `PROFIT`
+IFNULL(ROUND(SUM(qty)*price*royalty/100+advance, 2),0) AS `PROFIT`
 	FROM authors AS a 
 	LEFT JOIN titleauthor AS ta ON a.au_id = ta.au_id
 	LEFT JOIN titles AS t ON ta.title_id = t.title_id
