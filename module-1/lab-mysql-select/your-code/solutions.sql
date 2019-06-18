@@ -22,12 +22,12 @@ SELECT authors.au_id as AUTHOR_ID, authors.au_lname as LAST_NAME, authors.au_fna
 
 #CHALLENGE 2
 SELECT AUTHOR_ID, LAST_NAME, FIRST_NAME, PUBLISHER, COUNT(TITLE) as TITLE_COUNT 
-FROM Authors_Titles_Publishers 
-GROUP BY AUTHOR_ID, LAST_NAME, FIRST_NAME, PUBLISHER;
+    FROM Authors_Titles_Publishers 
+    GROUP BY AUTHOR_ID, LAST_NAME, FIRST_NAME, PUBLISHER;
 
 #CHALLENGE 3
 SELECT titleauthor.au_id AS AUTHOR_ID, authors.au_lname AS LAST_NAME, authors.au_fname AS FIRST_NAME, SUM(sales.qty) as TOTAL 
-FROM titleauthor
+    FROM titleauthor
 	JOIN authors ON authors.au_id=titleauthor.au_id
     JOIN sales ON sales.title_id=titleauthor.title_id
     GROUP BY titleauthor.au_id, authors.au_lname, authors.au_fname
@@ -37,8 +37,26 @@ FROM titleauthor
 #CHALLENGE 4
 
 SELECT authors.au_id AS AUTHOR_ID, authors.au_lname AS LAST_NAME, authors.au_fname AS FIRST_NAME, IFNULL(SUM(sales.qty),0) as TOTAL 
-FROM authors
+    FROM authors
 	LEFT JOIN titleauthor ON titleauthor.au_id=authors.au_id
     LEFT JOIN sales ON sales.title_id=titleauthor.title_id
     GROUP BY authors.au_id
     ORDER BY SUM(sales.qty) DESC;
+
+
+#BONUS CHALLENGE
+
+CREATE TEMPORARY TABLE total_profit
+SELECT titleauthor.au_id AS AUTHOR_ID, authors.au_lname AS LAST_NAME, authors.au_fname as FIRST_NAME,(((titleauthor.royaltyper/100)*titles.advance)+(titles.royalty/100)*(titleauthor.royaltyper/100)*titles.price*(sum(sales.qty))) as PROFIT
+    FROM titleauthor
+	JOIN authors ON authors.au_id=titleauthor.au_id
+	JOIN titles ON titleauthor.title_id=titles.title_id
+    JOIN sales ON sales.title_id=titles.title_id
+    GROUP BY titleauthor.title_id, titleauthor.au_id, LAST_NAME, FIRST_NAME
+    ORDER BY PROFIT DESC;
+    
+SELECT AUTHOR_ID, LAST_NAME, FIRST_NAME, sum(PROFIT) AS PROFIT 
+    FROM total_profit  
+    GROUP BY AUTHOR_ID, LAST_NAME, FIRST_NAME
+    ORDER BY sum(PROFIT) DESC
+    LIMIT 3;
