@@ -36,9 +36,9 @@ SUM(qty) AS `TOTAL`
 SELECT a.au_id AS `AUTHOR ID`, au_lname AS `LAST NAME`, au_fname AS `FIRST NAME`,
 IFNULL(SUM(qty), 0) AS `TOTAL`
 	FROM authors AS a 
-	LEFT JOIN titleauthor AS ta ON a.au_id = ta.au_id
-	LEFT JOIN titles AS t ON ta.title_id = t.title_id
-    LEFT JOIN sales AS s ON t.title_id = s.title_id
+	INNER JOIN titleauthor AS ta ON a.au_id = ta.au_id
+	INNER JOIN titles AS t ON ta.title_id = t.title_id
+    INNER JOIN sales AS s ON t.title_id = s.title_id
     GROUP BY a.au_id
     ORDER BY TOTAL DESC;
     
@@ -47,8 +47,8 @@ IFNULL(SUM(qty), 0) AS `TOTAL`
 SELECT a.au_id AS `AUTHOR ID`, au_lname AS `LAST NAME`, au_fname AS `FIRST NAME`,
 IFNULL(ROUND((SUM(qty)*price*royalty/100+advance)*royaltyper/100, 2),0) AS `PROFIT`
 	FROM authors AS a 
-	LEFT JOIN titleauthor AS ta ON a.au_id = ta.au_id
-	LEFT JOIN titles AS t ON ta.title_id = t.title_id
-    LEFT JOIN sales AS s ON t.title_id = s.title_id
+	INNER JOIN titleauthor AS ta ON a.au_id = ta.au_id
+	INNER JOIN titles AS t ON ta.title_id = t.title_id
+    INNER JOIN sales AS s ON t.title_id = s.title_id
     GROUP BY a.au_id
     ORDER BY PROFIT DESC;
