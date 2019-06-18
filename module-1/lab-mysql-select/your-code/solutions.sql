@@ -32,3 +32,24 @@ LEFT JOIN titleauthor as ta ON a.au_id=ta.au_id
 LEFT JOIN sales as s ON ta.title_id = s.title_id
 GROUP BY AUTHOR_ID, LAST_NAME, FIRST_NAME
 ORDER BY TOTAL DESC;
+
+#BONUS: MOST PROFITING AUTHORS
+
+#TABLA TEMPORAL
+CREATE TEMPORARY TABLE tabla_datos
+SELECT ta.title_id as TITLE_ID, ta.au_id as AUT_ID, ta.royaltyper/100 as ROY_AUT, t.royalty/100 AS ROY_TITLE, 
+t.price AS PRICE_TITLE, t.advance AS ADV_TITLE, SUM(s.qty) AS QTY_TITLE,
+((t.royalty*t.price*SUM(s.qty)/100)+t.advance)*(ta.royaltyper/100) as PROFIT 
+FROM titleauthor as ta 
+LEFT JOIN titles as t ON ta.title_id=t.title_id
+LEFT JOIN sales as s ON ta.title_id=s.title_id
+GROUP BY TITLE_ID, AUT_ID
+ORDER BY ta.title_id;
+
+#TABLA DEFINITIVA
+SELECT a.au_id as AUTHOR_ID, a.au_lname as "NAME", a.au_fname as LAST_NAME, SUM(td.PROFIT) AS PROFIT
+FROM tabla_datos as td
+LEFT JOIN authors as a ON td.AUT_ID=a.au_id
+GROUP BY AUTHOR_ID
+ORDER BY PROFIT DESC
+LIMIT 3;
