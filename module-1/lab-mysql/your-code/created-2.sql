@@ -1,0 +1,66 @@
+-- MySQL Workbench Synchronization
+-- Generated: 2019-06-18 09:33
+-- Model: New Model
+-- Version: 1.0
+-- Project: Name of the project
+-- Author: Jjespper
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
+
+ALTER TABLE `mydb`.`Invoices` 
+DROP FOREIGN KEY `fk_Invoices_Car1`;
+
+ALTER TABLE `mydb`.`Costumers` 
+ADD COLUMN `ID` VARCHAR(45) NOT NULL FIRST,
+CHANGE COLUMN `Costumer ID` `Costumer ID` INT(11) NULL DEFAULT NULL ,
+DROP PRIMARY KEY,
+ADD PRIMARY KEY (`ID`);
+;
+
+ALTER TABLE `mydb`.`Salespersons` 
+ADD COLUMN `ID` VARCHAR(45) NOT NULL FIRST,
+CHANGE COLUMN `Staff ID` `Staff ID` INT(11) NULL DEFAULT NULL ,
+DROP PRIMARY KEY,
+ADD PRIMARY KEY (`ID`);
+;
+
+ALTER TABLE `mydb`.`Invoices` 
+DROP COLUMN `Salespersons_Staff ID`,
+DROP COLUMN `Costumers_Costumer ID`,
+ADD COLUMN `ID` VARCHAR(45) NOT NULL FIRST,
+ADD COLUMN `Costumers_ID` VARCHAR(45) NOT NULL AFTER `Car_ID`,
+ADD COLUMN `Salespersons_ID` VARCHAR(45) NOT NULL AFTER `Costumers_ID`,
+CHANGE COLUMN `Invoice Numbers` `Invoice Numbers` INT(11) NULL DEFAULT NULL ,
+DROP PRIMARY KEY,
+ADD PRIMARY KEY (`ID`, `Car_ID`, `Costumers_ID`, `Salespersons_ID`),
+ADD INDEX `fk_Invoices_Car_idx` (`Car_ID` ASC) VISIBLE,
+ADD INDEX `fk_Invoices_Costumers1_idx` (`Costumers_ID` ASC) VISIBLE,
+ADD INDEX `fk_Invoices_Salespersons1_idx` (`Salespersons_ID` ASC) VISIBLE,
+DROP INDEX `fk_Invoices_Car1_idx` ,
+DROP INDEX `fk_Invoices_Salespersons1_idx` ,
+DROP INDEX `fk_Invoices_Costumers_idx` ;
+;
+
+ALTER TABLE `mydb`.`Invoices` 
+ADD CONSTRAINT `fk_Invoices_Car`
+  FOREIGN KEY (`Car_ID`)
+  REFERENCES `mydb`.`Car` (`ID`)
+  ON DELETE NO ACTION
+  ON UPDATE NO ACTION,
+ADD CONSTRAINT `fk_Invoices_Costumers1`
+  FOREIGN KEY (`Costumers_ID`)
+  REFERENCES `mydb`.`Costumers` (`ID`)
+  ON DELETE NO ACTION
+  ON UPDATE NO ACTION,
+ADD CONSTRAINT `fk_Invoices_Salespersons1`
+  FOREIGN KEY (`Salespersons_ID`)
+  REFERENCES `mydb`.`Salespersons` (`ID`)
+  ON DELETE NO ACTION
+  ON UPDATE NO ACTION;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
