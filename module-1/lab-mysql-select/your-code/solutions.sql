@@ -45,7 +45,22 @@ SELECT authors.au_id AS AUTHOR_ID, authors.au_lname AS LAST_NAME, authors.au_fna
 
 
 #BONUS CHALLENGE
+SELECT summary.AUTHOR_ID,summary.LAST_NAME, summary.FIRST_NAME, sum(summary.PROFIT) as PROFIT
+FROM (
+    SELECT titleauthor.au_id AS AUTHOR_ID, authors.au_lname AS LAST_NAME, authors.au_fname as FIRST_NAME,(((titleauthor.royaltyper/100)*titles.advance)+(titles.royalty/100)*(titleauthor.royaltyper/100)*titles.price*(sum(sales.qty))) as PROFIT
+    FROM titleauthor
+	JOIN authors ON authors.au_id=titleauthor.au_id
+	JOIN titles ON titleauthor.title_id=titles.title_id
+    JOIN sales ON sales.title_id=titles.title_id
+    GROUP BY titleauthor.title_id, titleauthor.au_id, LAST_NAME, FIRST_NAME
+    ORDER BY PROFIT DESC
+)summary
+  
+GROUP BY summary.AUTHOR_ID, summary.LAST_NAME, summary.FIRST_NAME
+ORDER BY sum(PROFIT) DESC
+LIMIT 3;
 
+'''
 CREATE TEMPORARY TABLE total_profit
 SELECT titleauthor.au_id AS AUTHOR_ID, authors.au_lname AS LAST_NAME, authors.au_fname as FIRST_NAME,(((titleauthor.royaltyper/100)*titles.advance)+(titles.royalty/100)*(titleauthor.royaltyper/100)*titles.price*(sum(sales.qty))) as PROFIT
     FROM titleauthor
@@ -60,3 +75,5 @@ SELECT AUTHOR_ID, LAST_NAME, FIRST_NAME, sum(PROFIT) AS PROFIT
     GROUP BY AUTHOR_ID, LAST_NAME, FIRST_NAME
     ORDER BY sum(PROFIT) DESC
     LIMIT 3;
+'''
+
