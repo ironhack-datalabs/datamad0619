@@ -31,3 +31,15 @@ SELECT AUTHOR_ID, LAST_NAME, FIRST_NAME,SUM(SALES) AS TOTAL
         ORDER BY authors.au_id
         )Challenge1 GROUP BY AUTHOR_ID, LAST_NAME, FIRST_NAME ORDER BY TOTAL DESC LIMIT 3;
 
+#NUMERO 4 BUENO
+SELECT AUTHOR_ID, LAST_NAME, FIRST_NAME,IFNULL(SUM(SALES),0) AS TOTAL
+        FROM (
+        SELECT authors.au_id as AUTHOR_ID ,authors.au_lname AS LAST_NAME , authors.au_fname AS FIRST_NAME,
+        titles.title AS TITLE, sales.qty AS SALES
+        FROM authors
+        LEFT JOIN titleauthor ON authors.au_id=titleauthor.au_id
+        LEFT JOIN titles ON titles.title_id=titleauthor.title_id
+        LEFT JOIN sales ON titles.title_id=sales.title_id
+        ORDER BY authors.au_id
+        )Challenge1 GROUP BY AUTHOR_ID, LAST_NAME, FIRST_NAME ORDER BY TOTAL DESC;
+
