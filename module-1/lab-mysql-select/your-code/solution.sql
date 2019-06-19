@@ -11,7 +11,7 @@ FROM  authors
 INNER JOIN titleauthor
 ON authors.au_id = titleauthor.au_id  
 INNER JOIN titles
-ON  titleauthor.title_id = titles.title_id
+ON  author.title_id = titles.title_id
 INNER JOIN publishers
 ON titles.pub_id = publishers.pub_id;
 
@@ -30,7 +30,7 @@ INNER JOIN titles
 ON  titleauthor.title_id = titles.title_id
 INNER JOIN publishers
 ON titles.pub_id = publishers.pub_id
-GROUP BY titles.title, authors.au_lname
+GROUP BY publishers.pub_id, authors.au_id
 ORDER BY titleauthor.au_id DESC;
 
 # Challenge 3
@@ -54,17 +54,15 @@ LIMIT 3;
 
 # Chalenge 4
 SELECT  	
-titleauthor.au_id as 'AUTHOR ID',
+authors.au_id as 'AUTHOR ID',
 authors.au_lname as 'LAST NAME',
 authors.au_fname as 'FIRST NAME', 
-SUM(sales.qty) as TOTAL
+IFNULL(SUM(sales.qty), 0) as TOTAL
 FROM  authors
-INNER JOIN titleauthor
+LEFT JOIN titleauthor
 ON authors.au_id = titleauthor.au_id  
-INNER JOIN titles
-ON  titleauthor.title_id = titles.title_id
-INNER JOIN sales
+LEFT JOIN sales
 ON titleauthor.title_id = sales.title_id
-GROUP BY titleauthor.au_id
-ORDER BY TOTAL DESC
-LIMIT 23;
+GROUP BY authors.au_id
+ORDER BY TOTAL DESC;
+
