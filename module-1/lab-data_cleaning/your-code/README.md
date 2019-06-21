@@ -8,11 +8,13 @@ Al final, en el bonus, me sale un warning, pero no detecto que dataframe está c
 
 # Bonus: weather.csv
 
-He representado los datos de una manera más sencilla pero sin perder nada de información, haciendo el archivo csv más liviano (ha pasado de 2.9 kb a 1.07 kb).
+He representado los datos de una manera más sencilla pero sin perder nada de información, haciendo el archivo csv más liviano (ha pasado de 2.9 kb a 1.04 kb).
 
 ![Weather limpio](clean-weather.png)
 
 He decidido mantener los datos ID y año. Aunque son todos iguales, si la bbdd sigue recibiendo datos de otros años u otras estaciones, estos valores serían importantes.
+
+También he almacenado los días sólo con el número, como `int` en vez como `str`.
 
 Finalmente he ordenado los datos, he reseteado los índice y he exportado los datos en la carpeta `your-code` como `weather.csv`.
 
