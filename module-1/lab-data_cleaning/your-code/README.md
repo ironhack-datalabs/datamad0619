@@ -14,7 +14,15 @@ He representado los datos de una manera más sencilla pero sin perder nada de in
 
 He decidido mantener los datos ID y año. Aunque son todos iguales, si la bbdd sigue recibiendo datos de otros años u otras estaciones, estos valores serían importantes.
 
-Finalmente he exportado los datos en la carpeta `your-code` como `weather.csv`.
+Finalmente he ordenado los datos, he reseteado los índice y he exportado los datos en la carpeta `your-code` como `weather.csv`.
 
 El código es algo sucio y estoy seguro que existen métodos de pandas que facilitan mucho el trabajo. Sin embargo, lo he conseguido de dicha manera y he decidido dejarlo así por el momento.
+
+# Nota
+
+Estoy intentando a través de los datos, mostrar otros nuevos, como la temperatura media, la interpolación del mes de septiembre, etc... Estos datos no los agrego a mi bbdd (el csv en este caso) ya que se pueden calcular.
+
+No obstante, estoy algo pillado porque quiero representar los puntos en un plot y la librería `matplotlib` me está dando problemas.
+
+
 
