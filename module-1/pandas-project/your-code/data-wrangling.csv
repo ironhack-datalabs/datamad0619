@@ -1,0 +1,2242 @@
+Year,Month,Country,Area,Type,Age,Sex,Activity,Fatal (Y/N)
+2016,09,USA,Florida,Unprovoked,16,M,Surfing,N
+2016,09,USA,Florida,Unprovoked,36,M,Surfing,N
+2016,09,USA,Florida,Unprovoked,43,M,Surfing,N
+2016,09,AUSTRALIA,Victoria,Unprovoked,Unknown,M,Surfing,N
+2016,09,AUSTRALIA,Victoria,Unprovoked,Unknown,M,Surfing,N
+2016,09,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Fishing,N
+2016,09,USA,Florida,Unprovoked,60s,M,Wading,N
+2016,09,USA,Hawaii,Unprovoked,51,F,Swimming,N
+2016,09,USA,South Carolina,Unprovoked,12,F,Surfing,N
+2016,09,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Surfing,N
+2016,09,USA,Florida,Unprovoked,9,M,Surfing,N
+2016,09,USA,California,Unprovoked,22,M,Spearfishing,N
+2016,08,USA,Florida,Unprovoked,25,M,Surfing,N
+2016,08,USA,Florida,Unprovoked,37,M,Surfing,N
+2016,08,USA,Florida,Unprovoked,49,M,Wading,N
+2016,08,USA,Florida,Unprovoked,22,M,Surfing,N
+2016,07,AUSTRALIA,Western Australia,Boat,Unknown,M,Kayaking,N
+2016,07,AUSTRALIA,New South Wales,Unprovoked,18,M,Surfing,N
+2016,07,AUSTRALIA,Tasmania,Unprovoked,36,M,Surfing,N
+2016,07,BAHAMAS,Abaco Islands,Unprovoked,Unknown,M,Spearfishing,N
+2016,07,AUSTRALIA,Queensland,Provoked,31,M,Fishing,N
+2016,07,USA,Florida,Unprovoked,9,F,Surfing,N
+2016,07,USA,Florida,Unprovoked,11,F,Unknown,N
+2016,07,USA,South Carolina,Unprovoked,Unknown,M,Swimming,N
+2016,07,USA,Massachusetts,Provoked,59,M,Fishing,N
+2016,07,USA,Florida,Unprovoked,42,F,Swimming,N
+2016,07,AUSTRALIA,Queensland,Provoked,34,M,Fishing,N
+2016,06,USA,South Carolina,Unprovoked,35,M,Unknown,N
+2016,06,USA,North Carolina,Unprovoked,11,M,Surfing,N
+2016,06,SOUTH AFRICA,Western Cape Province,Unprovoked,43,M,Spearfishing,N
+2016,06,USA,Florida,Unprovoked,Unknown,M,Wading,N
+2016,06,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+2016,06,AUSTRALIA,Western Australia,Provoked,19,M,Spearfishing,N
+2016,06,USA,North Carolina,Unprovoked,19,M,Standing,N
+2016,06,USA,South Carolina,Invalid,27,M,Surfing,N
+2016,06,USA,Florida,Unprovoked,64,M,Swimming,N
+2016,06,AUSTRALIA,Western Australia,Unprovoked,60,F,Diving,Y
+2016,05,AUSTRALIA,Western Australia,Unprovoked,29,M,Surfing,Y
+2016,05,USA,California,Unprovoked,52,F,Swimming,N
+2016,05,USA,Florida,Unprovoked,13,M,Swimming,N
+2016,05,USA,Florida,Unprovoked,57,F,Swimming,N
+2016,05,USA,Florida,Unprovoked,22,F,Swimming,N
+2016,05,USA,Florida,Unprovoked,11,F,Swimming,N
+2016,05,USA,Florida,Unprovoked,48,M,Swimming,N
+2016,05,NEW ZEALAND,North Island,Provoked,39,M,Fishing,N
+2016,04,USA,Florida,Unprovoked,15,M,Surfing,N
+2016,04,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Surfing,N
+2016,04,AUSTRALIA,New South Wales,Unprovoked,12,M,Swimming,N
+2016,04,USA,Florida,Unprovoked,26,M,Spearfishing,N
+2016,04,USA,Florida,Unprovoked,34,M,Fishing,N
+2016,03,USA,Hawaii,Unprovoked,46,F,Snorkeling,N
+2016,03,AUSTRALIA,New South Wales,Unprovoked,22,M,Surfing,N
+2016,03,USA,Florida,Unprovoked,Teen,M,Unknown,N
+2016,03,AUSTRALIA,New South Wales,Unprovoked,41,M,Surfing,N
+2016,03,USA,California,Invalid,Unknown,Unknown,Surfing,N
+2016,03,USA,Florida,Unprovoked,19,M,Surfing,N
+2016,03,USA,Florida,Unprovoked,12,M,Unknown,N
+2016,03,AUSTRALIA,South Australia,Unprovoked,Unknown,M,Fishing,N
+2016,02,NEW CALEDONIA,South Province,Unprovoked,31,M,Spearfishing,N
+2016,02,AUSTRALIA,Tasmania,Invalid,Unknown,M,Surfing,N
+2016,02,AUSTRALIA,Queensland,Unprovoked,45,F,Walking,N
+2016,02,AUSTRALIA,New South Wales,Unprovoked,40,M,Surfing,N
+2016,01,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+2016,01,USA,Hawaii,Unprovoked,15,F,Surfing,N
+2016,01,USA,Texas,Unprovoked,Unknown,M,Spearfishing,N
+2016,01,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Surfing,N
+2016,01,AUSTRALIA,Queensland,Unprovoked,11,M,Wading,N
+2016,01,AUSTRALIA,Queensland,Unprovoked,31,M,Spearfishing,N
+2015,12,SOUTH AFRICA,KwaZulu-Natal,Boat,Unknown,M,Kayaking,N
+2015,12,AUSTRALIA,New South Wales,Unprovoked,43,M,Surfing,N
+2015,12,AUSTRALIA,New South Wales,Boat,Unknown,Unknown,Fishing,N
+2015,11,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2015,11,USA,Florida,Unprovoked,Unknown,F,Swimming,N
+2015,11,USA,Florida,Unprovoked,28,M,Surfing,N
+2015,11,AUSTRALIA,New South Wales,Unprovoked,20,M,Surfing,N
+2015,12,USA,Florida,Invalid,9,F,Surfing,N
+2015,11,USA,Hawaii,Unprovoked,54,M,Swimming,N
+2015,11,USA,Florida,Unprovoked,28,F,Wading,N
+2015,11,MOZAMBIQUE,Inhambane Province,Unprovoked,19,M,Fishing,N
+2015,10,AUSTRALIA,Western Australia,Unprovoked,50,M,Spearfishing,N
+2015,10,USA,Hawaii,Unprovoked,10,M,Surfing,N
+2015,10,SOUTH AFRICA,Western Cape Province,Unprovoked,42,M,Surfing,N
+2015,10,USA,Florida,Unprovoked,21,M,Surfing,N
+2015,10,USA,Florida,Unprovoked,21,M,Surfing,N
+2015,10,USA,Hawaii,Invalid,32,M,Surfing,N
+2015,10,USA,Hawaii,Unprovoked,44,M,Swimming,N
+2015,10,USA,California,Boat,Unknown,M,Kayaking,N
+2015,10,USA,South Carolina,Unprovoked,9,F,Surfing,N
+2015,10,USA,Hawaii,Unprovoked,25,M,Surfing,N
+2015,10,MOZAMBIQUE,Inhambane Province,Unprovoked,Unknown,M,Fishing,N
+2015,10,AUSTRALIA,Western Australia,Unprovoked,18,M,Surfing,N
+2015,10,USA,Florida,Unprovoked,22,M,Surfing,N
+2015,10,USA,Texas,Unprovoked,13,M,Wading,N
+2015,10,USA,Florida,Unprovoked,14,M,Surfing,N
+2015,09,USA,Florida,Unprovoked,22,M,Surfing,N
+2015,09,AUSTRALIA,Queensland,Unprovoked,7,F,Snorkeling,N
+2015,09,USA,Florida,Unprovoked,14,M,Surfing,N
+2015,09,USA,Hawaii,Unprovoked,27,M,Spearfishing,N
+2015,09,USA,Florida,Unprovoked,12,M,Wading,N
+2015,09,USA,Florida,Unprovoked,Unknown,M,Swimming,N
+2015,09,USA,Florida,Unprovoked,20,M,Surfing,N
+2015,09,AUSTRALIA,New South Wales,Unprovoked,42,M,Surfing,N
+2015,09,USA,California,Provoked,29,M,Kayaking,N
+2015,09,AUSTRALIA,New South Wales,Unprovoked,62,M,Surfing,N
+2015,09,USA,South Carolina,Unprovoked,Unknown,M,Unknown,N
+2015,08,USA,California,Unprovoked,54,F,Surfing,N
+2015,08,USA,California,Unprovoked,21,M,Surfing,N
+2015,08,USA,Florida,Invalid,Unknown,M,Unknown,N
+2015,08,AUSTRALIA,New South Wales,Unprovoked,38,M,Surfing,N
+2015,08,USA,South Carolina,Unprovoked,15,M,Surfing,N
+2015,08,USA,Florida,Unprovoked,10,F,Walking,N
+2015,08,USA,California,Unprovoked,22,M,Kayaking,N
+2015,08,USA,California,Provoked,57,M,Spearfishing,N
+2015,07,AUSTRALIA,New South Wales,Unprovoked,52,M,Surfing,N
+2015,07,USA,Florida,Unprovoked,25,M,Surfing,N
+2015,07,USA,California,Provoked,31,M,Kayaking,N
+2015,07,AUSTRALIA,Victoria,Unprovoked,40s,M,Surfing,N
+2015,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,34,M,Surfing,N
+2015,07,USA,California,Unprovoked,38,M,Surfing,N
+2015,07,USA,California,Invalid,39,M,Treading water,N
+2015,07,BAHAMAS,Grand Bahama Island,Unprovoked,23,F,Spearfishing,N
+2015,07,USA,North Carolina,Unprovoked,32,M,Unknown,N
+2015,07,AUSTRALIA,New South Wales,Unprovoked,52,M,Surfing,N
+2015,07,USA,North Carolina,Unprovoked,68,M,Swimming,N
+2015,06,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2015,06,USA,North Carolina,Unprovoked,18,M,Swimming,N
+2015,06,USA,Florida,Invalid,Unknown,F,Swimming,N
+2015,06,SOUTH AFRICA,Western Cape Province,Unprovoked,23,M,Surfing,N
+2015,06,USA,South Carolina,Unprovoked,43,M,Standing,N
+2015,06,AUSTRALIA,Western Australia,Provoked,19,M,Swimming,N
+2015,06,USA,North Carolina,Unprovoked,6,M,Swimming,N
+2015,06,AUSTRALIA,Western Australia,Invalid,37,F,Surfing,N
+2015,06,USA,South Carolina,Unprovoked,9,M,Standing,N
+2015,06,USA,Florida,Unprovoked,10,M,Swimming,N
+2015,06,USA,North Carolina,Unprovoked,16,M,Wading,N
+2015,06,USA,North Carolina,Unprovoked,12,F,Wading,N
+2015,06,USA,California,Unprovoked,Unknown,F,Unknown,N
+2015,06,USA,North Carolina,Unprovoked,13,F,Surfing,N
+2015,05,USA,Florida,Unprovoked,14,F,Standing,N
+2015,05,USA,Florida,Unprovoked,19,F,Wading,N
+2015,05,USA,Florida,Unprovoked,13,F,Swimming,N
+2015,05,USA,Florida,Unprovoked,18,M,Surfing,N
+2015,05,USA,South Carolina,Unprovoked,30,M,Unknown,N
+2015,05,USA,Florida,Unprovoked,Unknown,M,Swimming,N
+2015,05,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2015,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,29,M,Diving,N
+2015,04,USA,Hawaii,Unprovoked,65,F,Snorkeling,Y
+2015,04,USA,Florida,Unprovoked,63,M,Wading,N
+2015,04,AUSTRALIA,South Australia,Unprovoked,26,M,Surfing,N
+2015,04,USA,Florida,Unprovoked,70,M,Spearfishing,N
+2015,03,SOUTH AFRICA,Eastern Cape Province,Boat,36,M,Kayaking,N
+2015,03,AUSTRALIA,New South Wales,Boat,Unknown,M,Fishing,N
+2015,02,AUSTRALIA,New South Wales,Unprovoked,41,M,Surfing,Y
+2015,02,AUSTRALIA,New South Wales,Unprovoked,35,M,Surfing,N
+2015,01,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2015,01,USA,Florida,Boat,Unknown,M,Fishing,N
+2015,01,AUSTRALIA,New South Wales,Boat,Unknown,M,Fishing,N
+2015,01,BAHAMAS,Abaco Islands,Unprovoked,34,F,Snorkeling,N
+2015,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,15,M,Surfing,N
+2015,01,USA,Florida,Unprovoked,12,M,Unknown,N
+2014,12,AUSTRALIA,New South Wales,Unprovoked,Unknown,Unknown,Surfing,N
+2014,12,AUSTRALIA,Western Australia,Unprovoked,17,M,Spearfishing,Y
+2014,12,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,Unknown,Swimming,N
+2014,12,USA,California,Unprovoked,50,M,Surfing,N
+2014,12,AUSTRALIA,Victoria,Provoked,40s,M,Fishing,N
+2014,12,AUSTRALIA,Queensland,Unprovoked,17,M,Spearfishing,Y
+2014,11,AUSTRALIA,Western Australia,Unprovoked,13,M,Surfing,N
+2014,11,AUSTRALIA,Western Australia,Boat,Unknown,M,Fishing,N
+2014,11,USA,Florida,Unprovoked,44,M,Surfing,N
+2014,11,USA,California,Boat,Unknown,Unknown,Unknown,N
+2014,11,USA,Hawaii,Unprovoked,53,M,Snorkeling,N
+2014,11,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2014,11,USA,Florida,Unprovoked,18,M,Surfing,N
+2014,10,USA,Hawaii,Unprovoked,34,F,Surfing,N
+2014,10,AUSTRALIA,New South Wales,Provoked,20,M,Surfing,N
+2014,10,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+2014,10,AUSTRALIA,New South Wales,Unprovoked,13,F,Surfing,N
+2014,10,USA,Florida,Unprovoked,40,F,Fishing,N
+2014,10,AUSTRALIA,Western Australia,Boat,Unknown,M,Kayaking,N
+2014,10,USA,Florida,Unprovoked,29,M,Surfing,N
+2014,10,USA,Florida,Unprovoked,15,M,Surfing,N
+2014,10,USA,California,Boat,Unknown,M,Kayaking,N
+2014,10,USA,California,Unprovoked,28,M,Surfing,N
+2014,10,AUSTRALIA,Western Australia,Unprovoked,23,M,Surfing,N
+2014,09,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2014,09,USA,California,Invalid,Unknown,M,Surfing,N
+2014,09,AUSTRALIA,New South Wales,Unprovoked,50,M,Swimming,Y
+2014,09,USA,Florida,Provoked,52,M,Fishing,N
+2014,08,USA,Florida,Unprovoked,13,F,Surfing,N
+2014,08,USA,Florida,Unprovoked,17,M,Surfing,N
+2014,08,USA,Florida,Invalid,Unknown,Unknown,Unknown,N
+2014,08,USA,North Carolina,Unprovoked,29,M,Surfing,N
+2014,08,USA,South Carolina,Unprovoked,Unknown,F,Standing,N
+2014,08,AUSTRALIA,Western Australia,Unprovoked,31,M,Spearfishing,N
+2014,08,USA,Florida,Unprovoked,Unknown,M,Standing,N
+2014,08,USA,Florida,Unprovoked,26,M,Unknown,N
+2014,08,USA,Florida,Unprovoked,10,F,Swimming,N
+2014,08,USA,Louisiana,Unprovoked,7,M,Swimming,N
+2014,08,USA,South Carolina,Unprovoked,10,M,Surfing,N
+2014,08,USA,Florida,Unprovoked,45,F,Swimming,N
+2014,08,USA,Florida,Unprovoked,50s,M,Surfing,N
+2014,08,USA,Florida,Unprovoked,8,M,Surfing,N
+2014,08,SOUTH AFRICA,Western Cape Province,Unprovoked,20,M,Surfing,N
+2014,07,USA,North Carolina,Unprovoked,Teen,M,Swimming,N
+2014,07,USA,Florida,Unprovoked,8,M,Standing,N
+2014,07,USA,Hawaii,Unprovoked,61,M,Swimming,N
+2014,07,USA,Florida,Unprovoked,39,M,Swimming,N
+2014,07,USA,North Carolina,Unprovoked,Unknown,M,Surfing,N
+2014,07,USA,Florida,Unprovoked,14,M,Surfing,N
+2014,07,USA,California,Provoked,Unknown,M,Swimming,N
+2014,07,USA,California,Unprovoked,Unknown,M,Surfing,N
+2014,07,USA,South Carolina,Unprovoked,19,M,Surfing,N
+2014,06,BAHAMAS,Abaco Islands,Unprovoked,42,M,Spearfishing,N
+2014,06,AUSTRALIA,South Australia,Unprovoked,Unknown,M,Surfing,N
+2014,06,AUSTRALIA,South Australia,Unprovoked,15,M,Surfing,N
+2014,06,USA,Delaware,Unprovoked,16,M,Standing,N
+2014,06,AUSTRALIA,South Australia,Unprovoked,39,M,Surfing,N
+2014,06,USA,Florida,Unprovoked,22,F,Swimming,N
+2014,06,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2014,05,USA,Florida,Unprovoked,38,F,Surfing,N
+2014,05,AUSTRALIA,South Australia,Unprovoked,35,M,Surfing,N
+2014,05,USA,Florida,Unprovoked,44,F,Wading,N
+2014,05,USA,Georgia,Unprovoked,12,M,Surfing,N
+2014,05,USA,Florida,Invalid,Unknown,M,Diving,N
+2014,05,USA,South Carolina,Unprovoked,40,F,Swimming,N
+2014,05,USA,Florida,Unprovoked,23,M,Surfing,N
+2014,04,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Spearfishing,N
+2014,04,USA,Florida,Unprovoked,25,M,Wading,N
+2014,04,SOUTH AFRICA,Eastern Cape Province,Provoked,Unknown,M,Fishing,N
+2014,04,USA,Florida,Unprovoked,teen,M,Surfing,N
+2014,04,USA,Florida,Unprovoked,teen,M,Surfing,N
+2014,04,AUSTRALIA,New South Wales,Unprovoked,63,F,Swimming,Y
+2014,03,SOUTH AFRICA,Eastern Cape Province,Unprovoked,66,M,Swimming,Y
+2014,03,USA,Florida,Unprovoked,9,M,Surfing,N
+2014,03,AUSTRALIA,Victoria,Unprovoked,42,M,Surfing,N
+2014,03,AUSTRALIA,New South Wales,Invalid,10,F,Unknown,N
+2014,03,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Swimming,N
+2014,03,USA,Florida,Unprovoked,21,M,Surfing,N
+2014,02,NEW ZEALAND,South Island,Unprovoked,28,M,Surfing,N
+2014,01,AUSTRALIA,New South Wales,Provoked,Unknown,M,Fishing,N
+2014,01,NEW ZEALAND,South Island,Unprovoked,24,M,Spearfishing,N
+2013,12,NEW CALEDONIA,North Province,Unprovoked,37,M,Snorkeling,N
+2013,12,SOUTH AFRICA,Western Cape Province,Unprovoked,19,M,Surfing,N
+2013,12,USA,Hawaii,Unprovoked,29,M,Surfing,N
+2013,12,USA,Florida,Unprovoked,30,M,Surfing,N
+2013,12,AUSTRALIA,New South Wales,Unprovoked,26,M,Surfing,N
+2013,11,AUSTRALIA,New South Wales,Unprovoked,19,M,Surfing,Y
+2013,11,USA,Hawaii,Unprovoked,58,F,Snorkeling,N
+2013,11,AUSTRALIA,Western Australia,Unprovoked,35,M,Surfing,Y
+2013,11,USA,Oregon,Unprovoked,25,M,Surfing,N
+2013,11,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Surfing,N
+2013,11,USA,New Jersey,Unprovoked,16,M,Surfing,N
+2013,11,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2013,10,AUSTRALIA,Western Australia,Unprovoked,60,F,Snorkeling,N
+2013,10,AUSTRALIA,New South Wales,Unprovoked,41,M,Surfing,N
+2013,10,USA,Hawaii,Unprovoked,25,M,Surfing,N
+2013,10,USA,Florida,Unprovoked,6,M,Wading,N
+2013,10,USA,California,Unprovoked,45,M,Surfing,N
+2013,10,USA,Florida,Unprovoked,12,M,Wading,N
+2013,09,USA,Florida,Unprovoked,50,M,Surfing,N
+2013,09,USA,Florida,Unprovoked,7,M,Standing,N
+2013,09,USA,Florida,Unprovoked,45,M,Swimming,N
+2013,09,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2013,09,USA,Florida,Unprovoked,21,M,Swimming,N
+2013,09,USA,Florida,Unprovoked,13,F,Surfing,N
+2013,09,USA,South Carolina,Unprovoked,Unknown,F,Unknown,UNKNOWN
+2013,09,USA,Florida,Provoked,43,M,Surfing,N
+2013,09,USA,Florida,Unprovoked,25,M,Standing,N
+2013,09,USA,Florida,Unprovoked,17,M,Swimming,N
+2013,09,USA,Florida,Provoked,3,M,Unknown,N
+2013,08,USA,California,Unprovoked,Unknown,M,Swimming,N
+2013,08,USA,Florida,Unprovoked,11,F,Surfing,N
+2013,08,USA,Hawaii,Unprovoked,16,M,Surfing,N
+2013,08,USA,California,Unprovoked,Unknown,F,Surfing,N
+2013,08,USA,Hawaii,Unprovoked,20,F,Snorkeling,Y
+2013,08,USA,South Carolina,Unprovoked,10,M,Surfing,N
+2013,08,USA,Florida,Unprovoked,17,M,Fishing,N
+2013,07,USA,Hawaii,Unprovoked,56,F,Snorkeling,N
+2013,07,USA,South Carolina,Unprovoked,32,M,Swimming,N
+2013,07,BAHAMAS,Abaco Islands,Unprovoked,40,M,Spearfishing,N
+2013,07,MEXICO,Quintana Roo,Unprovoked,Unknown,F,Wading,N
+2013,07,USA,Hawaii,Unprovoked,18,M,Surfing,N
+2013,07,BAHAMAS,Abaco Islands,Unprovoked,50,M,Diving,N
+2013,07,USA,Florida,Unprovoked,teen,M,Swimming,N
+2013,07,USA,North Carolina,Unprovoked,63,F,Wading,N
+2013,07,AUSTRALIA,Victoria,Unprovoked,29,M,Surfing,N
+2013,06,USA,Florida,Unprovoked,Unknown,M,Swimming,N
+2013,06,USA,South Carolina,Unprovoked,14,M,Swimming,N
+2013,06,USA,Hawaii,Unprovoked,28,M,Swimming,N
+2013,06,USA,Texas,Unprovoked,15,M,Swimming,N
+2013,06,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Surfing,N
+2013,06,USA,Florida,Unprovoked,Unknown,F,Surfing,N
+2013,06,USA,South Carolina,Unprovoked,10,F,Surfing,N
+2013,06,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2013,05,USA,Hawaii,Unprovoked,32,M,Diving,N
+2013,05,USA,Florida,Unprovoked,11,M,Swimming,N
+2013,05,USA,California,Invalid,42,M,Surfing,Y
+2013,05,USA,Florida,Unprovoked,16,M,Surfing,N
+2013,04,AUSTRALIA,New South Wales,Provoked,Unknown,M,Fishing,N
+2013,04,MEXICO,Quintana Roo,Unprovoked,34,F,Swimming,N
+2013,04,AUSTRALIA,New South Wales,Unprovoked,51,M,Fishing,N
+2013,04,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Diving,N
+2013,04,USA,Florida,Unprovoked,21,M,Surfing,N
+2013,04,USA,Florida,Unprovoked,50,M,Swimming,N
+2013,04,AUSTRALIA,Western Australia,Invalid,24,M,Unknown,Y
+2013,04,USA,Hawaii,Unprovoked,58,M,Surfing,N
+2013,03,AUSTRALIA,New South Wales,Invalid,47,M,Surfing,N
+2013,03,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Surfing,N
+2013,03,AUSTRALIA,Western Australia,Unprovoked,28,M,Spearfishing,N
+2013,03,SOUTH AFRICA,Eastern Cape Province,Unprovoked,39,M,Swimming,N
+2013,02,NEW ZEALAND,North Island,Unprovoked,46,M,Swimming,Y
+2013,02,USA,Hawaii,Unprovoked,Unknown,Unknown,Surfing,N
+2013,02,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+2013,02,USA,Florida,Unprovoked,16,M,Surfing,N
+2013,01,AUSTRALIA,Victoria,Boat,Unknown,M,Fishing,N
+2013,01,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Surfing,N
+2013,01,USA,Hawaii,Unprovoked,43,M,Surfing,N
+2012,12,USA,Florida,Unprovoked,Unknown,M,Swimming,N
+2012,12,AUSTRALIA,New South Wales,Unprovoked,23,M,Surfing,N
+2012,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,20,M,Swimming,Y
+2012,12,AUSTRALIA,Western Australia,Unprovoked,32,M,Surfing,N
+2012,12,USA,Hawaii,Unprovoked,60,M,Surfing,N
+2012,12,AUSTRALIA,New South Wales,Unprovoked,31,M,Spearfishing,N
+2012,12,NEW ZEALAND,South Island,Unprovoked,25,F,Diving,N
+2012,11,USA,Hawaii,Unprovoked,61,M,Snorkeling,N
+2012,11,AUSTRALIA,Queensland,Invalid,20,M,Unknown,N
+2012,11,USA,Florida,Unprovoked,14,M,Surfing,N
+2012,11,USA,Hawaii,Unprovoked,30,M,Diving,N
+2012,11,USA,Hawaii,Unprovoked,43,M,Surfing,N
+2012,10,USA,California,Unprovoked,25,M,Surfing,N
+2012,10,USA,Hawaii,Unprovoked,51,F,Swimming,N
+2012,10,USA,California,Unprovoked,39,M,Surfing,Y
+2012,10,USA,Florida,Unprovoked,35,F,Unknown,N
+2012,10,USA,Florida,Unprovoked,24,M,Surfing,N
+2012,10,USA,Florida,Invalid,Unknown,M,Unknown,N
+2012,10,USA,California,Unprovoked,42,M,Surfing,N
+2012,09,USA,Florida,Unprovoked,21,M,Surfing,N
+2012,09,USA,Florida,Unprovoked,22,M,Surfing,N
+2012,09,USA,Florida,Unprovoked,52,M,Surfing,N
+2012,09,USA,Florida,Unprovoked,19,Unknown,Surfing,N
+2012,09,USA,Florida,Unprovoked,25,M,Surfing,N
+2012,09,USA,Florida,Unprovoked,Unknown,M,Swimming,N
+2012,09,USA,Florida,Unprovoked,30s,M,Surfing,N
+2012,09,USA,Florida,Unprovoked,37,M,Surfing,N
+2012,09,USA,Florida,Unprovoked,32,M,Surfing,N
+2012,09,USA,Florida,Unprovoked,8,F,Surfing,N
+2012,09,USA,Hawaii,Provoked,Unknown,Unknown,Spearfishing,N
+2012,08,AUSTRALIA,Western Australia,Unprovoked,34,M,Surfing,N
+2012,08,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Fishing,N
+2012,07,USA,California,Unprovoked,17,M,Surfing,N
+2012,07,AUSTRALIA,South Australia,Unprovoked,48,M,Surfing,N
+2012,07,USA,Hawaii,Unprovoked,44,M,Surfing,N
+2012,07,USA,Massachusetts,Unprovoked,50,M,Surfing,N
+2012,07,USA,North Carolina,Invalid,12,M,Unknown,N
+2012,07,AUSTRALIA,Western Australia,Unprovoked,24,M,Surfing,Y
+2012,07,USA,North Carolina,Unprovoked,43,F,Swimming,N
+2012,07,AUSTRALIA,Victoria,Invalid,42,F,Diving,Y
+2012,07,USA,California,Unprovoked,52,M,Kayaking,N
+2012,07,SOUTH AFRICA,Western Cape Province,Unprovoked,29,M,Surfing,N
+2012,06,USA,Florida,Unprovoked,6,M,Swimming,N
+2012,06,USA,Florida,Unprovoked,26,M,Surfing,N
+2012,06,AUSTRALIA,Tasmania,Unprovoked,Unknown,M,Surfing,N
+2012,06,USA,Florida,Unprovoked,12,M,Swimming,N
+2012,06,USA,South Carolina,Invalid,16,M,Standing,N
+2012,06,USA,North Carolina,Unprovoked,6,F,Wading,N
+2012,06,USA,Florida,Provoked,23,M,Fishing,N
+2012,06,USA,South Carolina,Unprovoked,18,F,Swimming,N
+2012,06,USA,South Carolina,Unprovoked,Unknown,M,Swimming,N
+2012,06,USA,South Carolina,Unprovoked,Unknown,M,Swimming,N
+2012,06,USA,South Carolina,Unprovoked,16,M,Swimming,N
+2012,06,AUSTRALIA,Victoria,Unprovoked,42,M,Surfing,N
+2012,06,USA,Florida,Unprovoked,12,F,Surfing,N
+2012,06,USA,South Carolina,Unprovoked,25,M,Surfing,N
+2012,05,USA,North Carolina,Unprovoked,33,F,Wading,N
+2012,05,USA,Florida,Unprovoked,22,M,Surfing,N
+2012,05,USA,Hawaii,Unprovoked,Unknown,M,Kayaking,N
+2012,05,USA,Florida,Unprovoked,47,F,Swimming,N
+2012,04,USA,Florida,Unprovoked,28,M,Surfing,N
+2012,04,SOUTH AFRICA,Western Cape Province,Unprovoked,20,M,Surfing,Y
+2012,04,AUSTRALIA,South Australia,Unprovoked,27,M,Kayaking,N
+2012,04,USA,Hawaii,Unprovoked,28,M,Surfing,N
+2012,04,USA,Florida,Unprovoked,Unknown,M,Unknown,N
+2012,03,AUSTRALIA,Western Australia,Unprovoked,33,M,Diving,Y
+2012,03,USA,Florida,Unprovoked,21,M,Surfing,N
+2012,03,AUSTRALIA,Queensland,Unprovoked,20,M,Surfing,N
+2012,03,USA,Florida,Unprovoked,61,M,Surfing,N
+2012,03,USA,Florida,Unprovoked,15,F,Surfing,N
+2012,03,USA,Florida,Unprovoked,17,M,Surfing,N
+2012,03,NEW ZEALAND,North Island,Unprovoked,Unknown,M,Surfing,N
+2012,02,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Fishing,N
+2012,02,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Fishing,N
+2012,02,AUSTRALIA,Queensland,Unprovoked,29,M,Surfing,N
+2012,01,USA,Hawaii,Unprovoked,Unknown,Unknown,Snorkeling,N
+2012,01,AUSTRALIA,Western Australia,Unprovoked,26,M,Snorkeling,N
+2012,01,AUSTRALIA,New South Wales,Unprovoked,44,M,Surfing,N
+2012,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,25,M,Swimming,Y
+2012,01,USA,Oregon,Unprovoked,53,M,Surfing,N
+2012,01,AUSTRALIA,New South Wales,Unprovoked,28,M,Surfing,N
+2012,01,AUSTRALIA,Queensland,Unprovoked,34,M,Spearfishing,N
+2011,12,USA,Florida,Unprovoked,Unknown,M,Unknown,N
+2011,12,USA,Florida,Unprovoked,27,M,Surfing,N
+2011,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,35,M,Kayaking,N
+2011,12,AUSTRALIA,New South Wales,Unprovoked,51,M,Surfing,N
+2011,12,AUSTRALIA,New South Wales,Unprovoked,14,M,Surfing,N
+2011,12,USA,Oregon,Unprovoked,Unknown,F,Surfing,N
+2011,12,AUSTRALIA,Queensland,Invalid,Unknown,Unknown,Spearfishing,Y
+2011,12,AUSTRALIA,New South Wales,Unprovoked,63,M,Surfing,N
+2011,11,AUSTRALIA,Queensland,Unprovoked,10,M,Swimming,N
+2011,11,USA,California,Unprovoked,Unknown,M,Kayaking,N
+2011,10,USA,California,Unprovoked,27,M,Surfing,N
+2011,10,SOUTH AFRICA,KwaZulu-Natal,Provoked,Unknown,Unknown,Diving,N
+2011,10,AUSTRALIA,Western Australia,Unprovoked,32,M,Diving,Y
+2011,10,USA,Oregon,Unprovoked,41,M,Surfing,N
+2011,10,AUSTRALIA,Victoria,Unprovoked,50,M,Diving,N
+2011,10,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2011,10,USA,Oregon,Unprovoked,Unknown,M,Surfing,N
+2011,10,AUSTRALIA,Western Australia,Unprovoked,64,M,Swimming,Y
+2011,10,USA,Alabama,Unprovoked,29,M,Unknown,N
+2011,09,USA,Puerto Rico,Invalid,27,M,Surfing,N
+2011,09,SOUTH AFRICA,Western Cape Province,Unprovoked,43,M,Swimming,N
+2011,09,USA,Florida,Unprovoked,21,M,Spearfishing,N
+2011,09,USA,Florida,Unprovoked,25,M,Surfing,N
+2011,09,USA,California,Unprovoked,37,M,Surfing,N
+2011,09,USA,Hawaii,Unprovoked,Unknown,Unknown,Surfing,N
+2011,09,AUSTRALIA,Western Australia,Unprovoked,21,M,Surfing,Y
+2011,09,USA,Florida,Unprovoked,19,M,Surfing,N
+2011,08,USA,Florida,Unprovoked,19,M,Surfing,N
+2011,08,AUSTRALIA,Queensland,Invalid,48,M,Swimming,Y
+2011,08,USA,North Carolina,Unprovoked,21,M,Surfing,N
+2011,08,USA,North Carolina,Unprovoked,10,M,Unknown,N
+2011,08,SOUTH AFRICA,Western Cape Province,Unprovoked,49,M,Surfing,Y
+2011,08,USA,North Carolina,Unprovoked,20s,F,Wading,N
+2011,08,USA,North Carolina,Invalid,12,M,Unknown,N
+2011,08,USA,North Carolina,Unprovoked,54,M,Swimming,N
+2011,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,29,M,Surfing,N
+2011,07,USA,North Carolina,Unprovoked,6,F,Surfing,N
+2011,07,USA,Texas,Unprovoked,Unknown,M,Fishing,N
+2011,07,BAHAMAS,Grand Bahama Island,Unprovoked,54,M,Diving,N
+2011,07,USA,Texas,Unprovoked,12,M,Swimming,N
+2011,06,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,22,M,Diving,N
+2011,06,USA,California,Unprovoked,Unknown,M,Surfing,N
+2011,06,USA,Florida,Unprovoked,28,M,Diving,N
+2011,06,USA,California,Unprovoked,28,M,Spearfishing,N
+2011,06,USA,Florida,Unprovoked,19,M,Wading,N
+2011,05,SOUTH AFRICA,Western Cape Province,Unprovoked,33,M,Surfing,N
+2011,05,USA,Hawaii,Unprovoked,Unknown,F,Surfing,N
+2011,05,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,28,M,Spearfishing,Y
+2011,05,USA,Florida,Unprovoked,86,M,Surfing,N
+2011,05,USA,Florida,Unprovoked,37,M,Surfing,N
+2011,05,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,37,M,Spearfishing,N
+2011,04,USA,Florida,Unprovoked,32,M,Spearfishing,N
+2011,04,NEW ZEALAND,South Island,Unprovoked,41,M,Surfing,N
+2011,03,MEXICO,Quintana Roo,Unprovoked,Unknown,F,Swimming,N
+2011,03,AUSTRALIA,New South Wales,Unprovoked,48,M,Surfing,N
+2011,03,MEXICO,Quintana Roo,Unprovoked,46,M,Swimming,N
+2011,03,EGYPT,South Sinai Peninsula,Invalid,Unknown,F,Unknown,N
+2011,03,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2011,02,AUSTRALIA,Queensland,Provoked,36,M,Fishing,N
+2011,02,AUSTRALIA,Queensland,Provoked,Unknown,M,Fishing,N
+2011,02,AUSTRALIA,Western Australia,Unprovoked,58,M,Snorkeling,N
+2011,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,37,M,Fishing,N
+2011,01,MEXICO,Quintana Roo,Unprovoked,38,F,Swimming,N
+2011,01,AUSTRALIA,New South Wales,Invalid,7,F,Swimming,N
+2011,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Surfing,Y
+2011,01,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Fishing,N
+2010,12,USA,Hawaii,Unprovoked,16,M,Surfing,N
+2010,12,USA,Hawaii,Unprovoked,46,M,Surfing,N
+2010,12,EGYPT,South Sinai Peninsula,Unprovoked,70,F,Snorkeling,Y
+2010,12,EGYPT,South Sinai Peninsula,Unprovoked,54,M,Snorkeling,N
+2010,12,EGYPT,South Sinai Peninsula,Unprovoked,46,M,Snorkeling,N
+2010,11,EGYPT,South Sinai Peninsula,Unprovoked,70,F,Snorkeling,N
+2010,11,EGYPT,South Sinai Peninsula,Unprovoked,48,F,Snorkeling,N
+2010,11,AUSTRALIA,Western Australia,Invalid,Unknown,M,Swimming,Y
+2010,11,AUSTRALIA,Western Australia,Boat,Unknown,M,Fishing,N
+2010,10,AUSTRALIA,Western Australia,Unprovoked,20,F,Snorkeling,N
+2010,10,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Spearfishing,N
+2010,10,USA,Oregon,Unprovoked,Unknown,M,Surfing,N
+2010,10,USA,California,Unprovoked,19,M,Surfing,Y
+2010,10,EGYPT,South Sinai Peninsula,Unprovoked,Unknown,F,Snorkeling,N
+2010,10,AUSTRALIA,New South Wales,Unprovoked,22,M,Surfing,N
+2010,10,BAHAMAS,Exuma Islands,Unprovoked,Unknown,M,Snorkeling,N
+2010,10,BAHAMAS,Abaco Islands,Unprovoked,Unknown,F,Surfing,N
+2010,10,SOUTH AFRICA,Western Cape Province,Unprovoked,Teen,M,Surfing,N
+2010,09,USA,Oregon,Unprovoked,29,M,Surfing,N
+2010,09,USA,Virginia,Unprovoked,18,M,Surfing,N
+2010,09,SOUTH AFRICA,Western Cape Province,Unprovoked,29,M,Swimming,Y
+2010,09,AUSTRALIA,New South Wales,Unprovoked,15,M,Surfing,N
+2010,09,USA,Florida,Unprovoked,27,M,Swimming,N
+2010,09,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2010,09,USA,Florida,Unprovoked,24,M,Surfing,N
+2010,09,USA,Florida,Unprovoked,24,M,Surfing,N
+2010,08,USA,Florida,Unprovoked,10,M,Surfing,N
+2010,08,AUSTRALIA,Western Australia,Unprovoked,31,M,Surfing,Y
+2010,08,USA,California,Unprovoked,45,M,Kayaking,N
+2010,08,AUSTRALIA,Queensland,Provoked,Unknown,F,Fishing,N
+2010,08,AUSTRALIA,New South Wales,Unprovoked,47,M,Surfing,N
+2010,08,USA,North Carolina,Unprovoked,25,M,Surfing,N
+2010,08,USA,Florida,Invalid,Unknown,F,Swimming,N
+2010,08,USA,California,Unprovoked,Unknown,M,Kayaking,N
+2010,08,USA,Florida,Unprovoked,37,F,Standing,N
+2010,07,USA,South Carolina,Unprovoked,16,M,Standing,N
+2010,07,USA,Florida,Unprovoked,20,M,Surfing,N
+2010,07,USA,South Carolina,Unprovoked,10,M,Swimming,N
+2010,07,USA,North Carolina,Unprovoked,13,F,Swimming,N
+2010,07,USA,Florida,Unprovoked,55,M,Surfing,N
+2010,07,USA,Texas,Unprovoked,Unknown,M,Fishing,N
+2010,07,USA,Florida,Provoked,Unknown,M,Fishing,N
+2010,07,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,21,F,Snorkeling,N
+2010,07,USA,New York,Provoked,20,M,Fishing,N
+2010,07,USA,California,Unprovoked,19,M,Surfing,N
+2010,06,USA,Texas,Unprovoked,20,M,Surfing,N
+2010,06,USA,South Carolina,Unprovoked,6,F,Surfing,N
+2010,06,USA,North Carolina,Unprovoked,13,F,Swimming,N
+2010,06,VIETNAM,Binh Dinh Province,Unprovoked,17,M,Swimming,N
+2010,06,USA,Florida,Unprovoked,18,F,Surfing,N
+2010,06,AUSTRALIA,Western Australia,Unprovoked,40,M,Surfing,N
+2010,06,USA,Florida,Unprovoked,20,M,Surfing,N
+2010,05,USA,Florida,Provoked,49,M,Fishing,N
+2010,05,VIETNAM,Binh Dinh Province,Unprovoked,60,F,Swimming,N
+2010,05,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2010,05,USA,Florida,Unprovoked,10,F,Wading,N
+2010,04,USA,Hawaii,Unprovoked,68,M,Surfing,N
+2010,04,SOUTH AFRICA,Eastern Cape Province,Unprovoked,35,M,Surfing,N
+2010,02,NEW ZEALAND,South Island,Unprovoked,Unknown,M,Swimming,N
+2010,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Surfing,N
+2010,02,AUSTRALIA,Queensland,Unprovoked,60,F,Snorkeling,N
+2010,02,AUSTRALIA,New South Wales,Unprovoked,46,M,Surfing,N
+2010,02,NEW ZEALAND,South Island,Provoked,Unknown,M,Spearfishing,N
+2010,02,AUSTRALIA,New South Wales,Unprovoked,18,M,Surfing,N
+2010,02,NEW ZEALAND,South Island,Provoked,14,F,Surfing,N
+2010,01,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Surfing,N
+2010,01,AUSTRALIA,Victoria,Unprovoked,Unknown,M,Surfing,N
+2010,01,AUSTRALIA,Torres Strait,Unprovoked,9,F,Snorkeling,N
+2010,01,VIETNAM,Binh Dinh Province,Unprovoked,Unknown,F,Unknown,N
+2010,01,VIETNAM,Binh Dinh Province,Unprovoked,Unknown,M,Unknown,N
+2010,01,USA,Florida,Unprovoked,32,M,Spearfishing,N
+2009,12,AUSTRALIA,New South Wales,Provoked,55,M,Swimming,N
+2009,12,MOZAMBIQUE,Maputo Province,Unprovoked,27,M,Swimming,N
+2009,12,AUSTRALIA,Queensland,Boat,Unknown,M,Kayaking,N
+2009,12,AUSTRALIA,Queensland,Unprovoked,18,M,Spearfishing,N
+2009,12,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Surfing,N
+2009,12,AUSTRALIA,New South Wales,Unprovoked,39,M,Surfing,N
+2009,12,USA,New Jersey,Provoked,58,M,Diving,N
+2009,11,USA,California,Invalid,49,M,Surfing,N
+2009,11,USA,Florida,Unprovoked,10,M,Wading,N
+2009,11,USA,California,Unprovoked,31,M,Fishing,N
+2009,11,USA,Florida,Unprovoked,22,M,Surfing,N
+2009,11,USA,Florida,Unprovoked,27,F,Surfing,N
+2009,11,USA,Florida,Unprovoked,18,M,Surfing,N
+2009,11,AUSTRALIA,South Australia,Unprovoked,25,M,Kayaking,N
+2009,11,USA,California,Unprovoked,21,M,Surfing,N
+2009,10,AUSTRALIA,Victoria,Unprovoked,27,M,Kayaking,N
+2009,10,MOZAMBIQUE,Inhambane Province,Unprovoked,Unknown,M,Spearfishing,N
+2009,10,USA,California,Unprovoked,Unknown,M,Surfing,N
+2009,10,USA,Hawaii,Unprovoked,54,M,Surfing,N
+2009,10,AUSTRALIA,Western Australia,Unprovoked,23,M,Diving,N
+2009,10,USA,California,Unprovoked,Unknown,M,Surfing,N
+2009,09,USA,Florida,Unprovoked,Unknown,M,Swimming,N
+2009,09,USA,North Carolina,Invalid,60,M,Swimming,Y
+2009,08,USA,California,Unprovoked,Unknown,M,Surfing,N
+2009,08,SOUTH AFRICA,Western Cape Province,Unprovoked,25,M,Surfing,Y
+2009,08,USA,California,Unprovoked,22,F,Swimming,N
+2009,08,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,Unknown,M,Surfing,N
+2009,08,USA,Florida,Unprovoked,26,M,Swimming,N
+2009,08,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+2009,07,BAHAMAS,Abaco Islands,Unprovoked,14,M,Spearfishing,N
+2009,07,AUSTRALIA,New South Wales,Unprovoked,14,M,Surfing,N
+2009,07,VIETNAM,Binh Dinh Province,Unprovoked,41,F,Swimming,N
+2009,07,USA,Texas,Unprovoked,14,F,Wading,N
+2009,07,USA,North Carolina,Unprovoked,26,F,Swimming,N
+2009,07,USA,Florida,Unprovoked,19,F,Swimming,N
+2009,07,VIETNAM,Binh Dinh Province,Unprovoked,57,M,Swimming,N
+2009,07,SOUTH AFRICA,Western Cape Province,Unprovoked,37,M,Surfing,N
+2009,07,USA,Florida,Unprovoked,12,F,Surfing,N
+2009,07,USA,Florida,Provoked,43,F,Swimming,N
+2009,06,AUSTRALIA,New South Wales,Unprovoked,52,M,Surfing,N
+2009,06,USA,California,Invalid,26,M,Surfing,N
+2009,05,USA,Florida,Provoked,Unknown,M,Swimming,N
+2009,05,USA,Florida,Unprovoked,31,M,Surfing,N
+2009,05,USA,Florida,Unprovoked,49,M,Surfing,N
+2009,05,USA,Florida,Unprovoked,55,M,Surfing,N
+2009,05,BAHAMAS,Exuma Islands,Provoked,48,M,Spearfishing,N
+2009,04,USA,Florida,Unprovoked,Unknown,F,Unknown,N
+2009,04,USA,California,Unprovoked,Unknown,M,Surfing,N
+2009,04,USA,Florida,Unprovoked,20,M,Surfing,N
+2009,04,USA,Florida,Unprovoked,52,M,Surfing,N
+2009,04,USA,Florida,Unprovoked,31,M,Surfing,N
+2009,04,USA,Hawaii,Invalid,49,M,Spearfishing,N
+2009,04,SOUTH AFRICA,KwaZulu-Natal,Invalid,24,M,Swimming,Y
+2009,04,USA,California,Unprovoked,Unknown,M,Spearfishing,N
+2009,04,USA,Florida,Unprovoked,15,M,Wading,N
+2009,03,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Surfing,Y
+2009,03,AUSTRALIA,New South Wales,Unprovoked,17,M,Surfing,N
+2009,03,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2009,03,AUSTRALIA,New South Wales,Unprovoked,Unknown,F,Surfing,N
+2009,03,USA,Florida,Unprovoked,17,F,Surfing,N
+2009,03,USA,Hawaii,Unprovoked,61,M,Swimming,N
+2009,03,AUSTRALIA,Western Australia,Provoked,21,M,Wading,N
+2009,03,NEW CALEDONIA,South Province,Unprovoked,19,M,Surfing,Y
+2009,03,SOUTH AFRICA,Western Cape Province,Provoked,40,M,Fishing,N
+2009,03,NEW ZEALAND,North Island,Boat,Unknown,M,Fishing,N
+2009,03,AUSTRALIA,New South Wales,Unprovoked,15,M,Surfing,N
+2009,02,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Fishing,N
+2009,02,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2009,02,AUSTRALIA,New South Wales,Unprovoked,33,M,Surfing,N
+2009,02,AUSTRALIA,New South Wales,Unprovoked,41,M,Surfing,N
+2009,02,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2009,01,NEW ZEALAND,North Island,Boat,Unknown,Unknown,Fishing,N
+2009,01,AUSTRALIA,New South Wales,Unprovoked,19,M,Swimming,N
+2009,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,25,M,Swimming,Y
+2009,01,AUSTRALIA,Victoria,Boat,Unknown,M,Fishing,N
+2009,01,NEW ZEALAND,South Island,Unprovoked,Unknown,M,Surfing,N
+2009,01,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,Unknown,Unknown,Y
+2009,01,AUSTRALIA,New South Wales,Unprovoked,24,M,Snorkeling,N
+2009,01,AUSTRALIA,Tasmania,Unprovoked,13,F,Surfing,N
+2009,01,AUSTRALIA,New South Wales,Unprovoked,31,M,Surfing,N
+2009,01,NEW ZEALAND,North Island,Boat,Unknown,Unknown,Fishing,N
+2009,01,NEW ZEALAND,North Island,Unprovoked,49,M,Swimming,N
+2008,12,AUSTRALIA,New South Wales,Unprovoked,10,M,Surfing,N
+2008,12,AUSTRALIA,New South Wales,Unprovoked,29,M,Kayaking,N
+2008,12,AUSTRALIA,Western Australia,Unprovoked,51,M,Snorkeling,Y
+2008,12,USA,California,Unprovoked,Unknown,M,Kayaking,N
+2008,12,NEW ZEALAND,North Island,Unprovoked,Unknown,M,Fishing,N
+2008,12,SOUTH AFRICA,Western Cape Province,Provoked,15,M,Fishing,N
+2008,12,AUSTRALIA,New South Wales,Boat,Unknown,Unknown,Fishing,N
+2008,12,MOZAMBIQUE,Inhambane Province,Unprovoked,Unknown,M,Spearfishing,Y
+2008,11,EGYPT,Red Sea,Unprovoked,Unknown,F,Diving,N
+2008,11,AUSTRALIA,South Australia,Boat,Unknown,M,Fishing,N
+2008,10,AUSTRALIA,New South Wales,Provoked,34,M,Diving,N
+2008,10,AUSTRALIA,Northern Territory,Provoked,50,M,Fishing,N
+2008,10,AUSTRALIA,New South Wales,Unprovoked,15,M,Surfing,N
+2008,10,USA,Florida,Unprovoked,11,M,Fishing,N
+2008,09,USA,Florida,Unprovoked,44,M,Surfing,N
+2008,09,USA,Florida,Unprovoked,40,M,Surfing,N
+2008,09,AUSTRALIA,Northern Territory,Provoked,43,M,Swimming,N
+2008,09,USA,Florida,Unprovoked,32,M,Swimming,N
+2008,09,USA,Hawaii,Unprovoked,40,M,Surfing,N
+2008,09,USA,California,Unprovoked,Unknown,M,Surfing,N
+2008,09,AUSTRALIA,New South Wales,Unprovoked,51,M,Surfing,N
+2008,09,USA,Florida,Unprovoked,43,M,Surfing,N
+2008,09,USA,Florida,Unprovoked,15,M,Surfing,N
+2008,09,USA,Florida,Unprovoked,52,M,Surfing,N
+2008,09,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2008,08,AUSTRALIA,New South Wales,Unprovoked,29,M,Surfing,N
+2008,08,USA,Hawaii,Invalid,27,M,Swimming,Y
+2008,08,USA,Florida,Unprovoked,19,M,Surfing,N
+2008,08,USA,Florida,Unprovoked,26,M,Surfing,N
+2008,08,USA,North Carolina,Invalid,20,F,Surfing,N
+2008,08,USA,Florida,Unprovoked,47,M,Swimming,N
+2008,08,USA,South Carolina,Invalid,7,M,Unknown,N
+2008,08,USA,Florida,Unprovoked,13,F,Wading,N
+2008,08,USA,Hawaii,Unprovoked,Unknown,M,Diving,N
+2008,07,AUSTRALIA,Victoria,Unprovoked,31,M,Surfing,N
+2008,07,USA,Hawaii,Unprovoked,Unknown,M,Swimming,N
+2008,07,USA,Florida,Unprovoked,17,M,Surfing,N
+2008,07,USA,Hawaii,Unprovoked,44,F,Snorkeling,N
+2008,07,USA,North Carolina,Unprovoked,9,M,Wading,N
+2008,07,USA,North Carolina,Unprovoked,8,F,Wading,N
+2008,07,USA,Florida,Provoked,15,M,Surfing,N
+2008,07,USA,Florida,Unprovoked,16,M,Wading,N
+2008,07,USA,North Carolina,Invalid,52,M,Surfing,N
+2008,07,USA,South Carolina,Unprovoked,24,M,Surfing,N
+2008,07,USA,North Carolina,Unprovoked,14,F,Swimming,N
+2008,07,USA,South Carolina,Unprovoked,17,F,Unknown,N
+2008,06,USA,Hawaii,Invalid,53,M,Wading,Y
+2008,06,BAHAMAS,Abaco Islands,Unprovoked,42,M,Spearfishing,N
+2008,06,USA,Florida,Unprovoked,29,M,Surfing,N
+2008,06,USA,South Carolina,Unprovoked,37,M,Swimming,N
+2008,06,USA,California,Unprovoked,40,F,Kayaking,N
+2008,06,USA,Florida,Unprovoked,35,F,Wading,N
+2008,06,USA,Florida,Unprovoked,40,M,Surfing,N
+2008,06,USA,South Carolina,Unprovoked,15,F,Surfing,N
+2008,05,USA,North Carolina,Unprovoked,9,M,Surfing,N
+2008,05,AUSTRALIA,Western Australia,Unprovoked,37,M,Swimming,N
+2008,05,NEW CALEDONIA,North Province,Unprovoked,40,M,Fishing,N
+2008,05,USA,Florida,Unprovoked,6,M,Wading,N
+2008,04,USA,Florida,Unprovoked,18,M,Surfing,N
+2008,04,USA,Florida,Unprovoked,24,M,Surfing,N
+2008,04,NEW CALEDONIA,North Province,Unprovoked,32,M,Swimming,N
+2008,04,USA,Florida,Provoked,21,M,Surfing,N
+2008,04,USA,California,Unprovoked,66,M,Swimming,Y
+2008,04,USA,Florida,Unprovoked,14,M,Surfing,N
+2008,04,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Unknown,UNKNOWN
+2008,04,MEXICO,Quintana Roo,Invalid,32,M,Swimming,Y
+2008,04,AUSTRALIA,Queensland,Invalid,19,M,Surfing,N
+2008,04,USA,Florida,Unprovoked,30,M,Surfing,N
+2008,03,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2008,04,USA,Florida,Unprovoked,Unknown,Unknown,Surfing,N
+2008,04,AUSTRALIA,New South Wales,Unprovoked,16,M,Surfing,Y
+2008,03,USA,Florida,Unprovoked,52,M,Surfing,N
+2008,03,USA,Florida,Unprovoked,15,M,Wading,N
+2008,03,USA,Florida,Unprovoked,14,M,Wading,N
+2008,03,USA,California,Unprovoked,27,M,Surfing,N
+2008,02,USA,Florida,Unprovoked,25,M,Surfing,N
+2008,02,AUSTRALIA,New South Wales,Unprovoked,14,F,Surfing,N
+2008,02,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2008,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,42,M,Surfing,N
+2008,01,NEW ZEALAND,South Island,Invalid,Unknown,M,Wading,N
+2008,01,USA,Florida,Unprovoked,20,M,Surfing,N
+2007,12,AUSTRALIA,New South Wales,Unprovoked,31,M,Surfing,N
+2007,12,AUSTRALIA,Queensland,Unprovoked,teen,M,Swimming,N
+2007,12,AUSTRALIA,New South Wales,Invalid,34,M,Swimming,N
+2007,12,USA,Hawaii,Unprovoked,52,M,Surfing,N
+2007,12,NEW ZEALAND,South Island,Unprovoked,Unknown,F,Surfing,N
+2007,11,AUSTRALIA,Western Australia,Provoked,32,M,Fishing,N
+2007,11,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2007,11,SOUTH AFRICA,Western Cape Province,Unprovoked,14,M,Surfing,N
+2007,11,USA,Florida,Unprovoked,21,M,Surfing,N
+2007,11,USA,Florida,Unprovoked,42,M,Surfing,N
+2007,11,SOUTH AFRICA,Eastern Cape Province,Unprovoked,37,M,Surfing,N
+2007,10,AUSTRALIA,New South Wales,Unprovoked,52,F,Surfing,N
+2007,10,AUSTRALIA,Queensland,Unprovoked,31,M,Spearfishing,N
+2007,10,USA,California,Unprovoked,22,M,Surfing,N
+2007,10,USA,Florida,Unprovoked,16,M,Surfing,N
+2007,09,USA,California,Unprovoked,Unknown,M,Surfing,N
+2007,09,NEW CALEDONIA,Loyalty Islands,Unprovoked,23,F,Swimming,Y
+2007,09,BAHAMAS,Grand Bahama Island,Unprovoked,48,F,Spearfishing,N
+2007,09,USA,California,Unprovoked,Unknown,F,Surfing,N
+2007,09,EGYPT,Red Sea,Unprovoked,18 or 20,F,Swimming,N
+2007,09,USA,Florida,Invalid,Unknown,F,Diving,Y
+2007,09,USA,Florida,Unprovoked,Unknown,F,Surfing,N
+2007,09,USA,Florida,Unprovoked,23,M,Surfing,N
+2007,09,USA,Florida,Unprovoked,Teen,F,Surfing,N
+2007,09,USA,Florida,Unprovoked,14,M,Snorkeling,N
+2007,09,USA,Florida,Unprovoked,58,F,Wading,N
+2007,09,USA,Florida,Unprovoked,36,F,Wading,N
+2007,09,USA,South Carolina,Unprovoked,15,M,Standing,N
+2007,09,USA,Florida,Unprovoked,58,M,Swimming,N
+2007,08,USA,Hawaii,Unprovoked,15,M,Surfing,N
+2007,08,USA,California,Unprovoked,24,M,Surfing,N
+2007,08,USA,Florida,Unprovoked,54,M,Surfing,N
+2007,08,USA,Florida,Unprovoked,27,M,Surfing,N
+2007,08,USA,North Carolina,Provoked,Unknown,M,Diving,N
+2007,08,USA,Delaware,Provoked,Unknown,M,Fishing,N
+2007,08,USA,Florida,Unprovoked,52,M,Swimming,N
+2007,08,USA,Florida,Unprovoked,16,M,Surfing,N
+2007,08,USA,Florida,Unprovoked,15,F,Swimming,N
+2007,08,USA,South Carolina,Unprovoked,30,M,Swimming,N
+2007,08,USA,South Carolina,Unprovoked,9,M,Surfing,N
+2007,07,USA,Florida,Unprovoked,51,M,Surfing,N
+2007,07,USA,California,Unprovoked,20,M,Surfing,N
+2007,07,USA,California,Boat,Unknown,M,Kayaking,N
+2007,07,USA,Hawaii,Unprovoked,36,M,Snorkeling,N
+2007,07,USA,North Carolina,Unprovoked,14,M,Swimming,N
+2007,07,USA,California,Invalid,43,F,Swimming,N
+2007,07,USA,North Carolina,Unprovoked,30,F,Wading,N
+2007,07,BAHAMAS,Abaco Islands,Unprovoked,48,F,Spearfishing,N
+2007,07,USA,Florida,Unprovoked,18,M,Surfing,N
+2007,06,USA,California,Unprovoked,Unknown,F,Swimming,N
+2007,06,USA,Florida,Unprovoked,20,M,Surfing,N
+2007,06,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+2007,06,USA,Florida,Invalid,9,F,Surfing,N
+2007,06,USA,Florida,Unprovoked,Unknown,F,Swimming,N
+2007,06,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2007,05,USA,South Carolina,Unprovoked,Unknown,F,Wading,N
+2007,05,AUSTRALIA,Western Australia,Unprovoked,38,F,Wading,N
+2007,05,AUSTRALIA,Victoria,Unprovoked,19,M,Surfing,N
+2007,05,USA,Florida,Unprovoked,21,F,Surfing,N
+2007,05,AUSTRALIA,New South Wales,Invalid,45,M,Swimming,Y
+2007,05,USA,Hawaii,Unprovoked,63,F,Snorkeling,N
+2007,05,USA,Florida,Unprovoked,68,M,Swimming,N
+2007,04,USA,Florida,Unprovoked,12,M,Surfing,N
+2007,04,USA,Florida,Unprovoked,24,M,Surfing,N
+2007,04,USA,Florida,Boat,Unknown,Unknown,Fishing,N
+2007,04,NEW CALEDONIA,South Province,Unprovoked,26,M,Surfing,N
+2007,03,USA,Florida,Unprovoked,27,M,Surfing,N
+2007,03,USA,Florida,Unprovoked,9,M,Unknown,N
+2007,03,USA,Florida,Unprovoked,11,M,Surfing,N
+2007,03,AUSTRALIA,New South Wales,Unprovoked,42,F,Surfing,N
+2007,03,AUSTRALIA,Queensland,Unprovoked,59,F,Swimming,N
+2007,03,USA,Florida,Unprovoked,29,M,Surfing,N
+2007,02,AUSTRALIA,New South Wales,Unprovoked,26,M,Surfing,N
+2007,02,NEW CALEDONIA,Loyalty Islands,Unprovoked,Unknown,M,Spearfishing,N
+2007,01,AUSTRALIA,New South Wales,Unprovoked,41,M,Diving,N
+2007,01,AUSTRALIA,New South Wales,Invalid,20,M,Swimming,Y
+2007,01,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2007,01,USA,New York,Invalid,54,M,Surfing,N
+2007,01,USA,Hawaii,Unprovoked,24,M,Surfing,N
+2006,12,AUSTRALIA,Victoria,Unprovoked,25,M,Surfing,N
+2006,12,NEW ZEALAND,North Island,Unprovoked,10,M,Surfing,N
+2006,12,USA,California,Unprovoked,43,M,Surfing,N
+2006,12,SOUTH AFRICA,KwaZulu-Natal,Provoked,25,M,Fishing,N
+2006,12,AUSTRALIA,Western Australia,Unprovoked,15,M,Surfing,N
+2006,11,USA,Hawaii,Unprovoked,29,M,Swimming,N
+2006,10,USA,Oregon,Unprovoked,22,M,Surfing,N
+2006,10,USA,Florida,Unprovoked,15,M,Fishing,N
+2006,10,USA,Florida,Unprovoked,20,M,Surfing,N
+2006,10,USA,Texas,Unprovoked,Unknown,M,Surfing,N
+2006,09,SOUTH AFRICA,Western Cape Province,Invalid,36,M,Spearfishing,N
+2006,09,USA,Florida,Unprovoked,19,M,Surfing,N
+2006,09,USA,North Carolina,Unprovoked,16,M,Surfing,N
+2006,09,USA,Florida,Unprovoked,55,M,Swimming,N
+2006,09,USA,Florida,Unprovoked,52,M,Surfing,N
+2006,09,AUSTRALIA,Queensland,Invalid,44,M,Diving,Y
+2006,09,USA,Florida,Unprovoked,33,M,Standing,N
+2006,09,USA,Florida,Unprovoked,12 or 13,M,Swimming,N
+2006,09,SOUTH AFRICA,Western Cape Province,Unprovoked,37,M,Surfing,N
+2006,08,USA,Oregon,Unprovoked,23,M,Surfing,N
+2006,08,AUSTRALIA,South Australia,Unprovoked,Unknown,M,Surfing,N
+2006,08,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Surfing,N
+2006,08,USA,North Carolina,Unprovoked,59,F,Wading,N
+2006,07,USA,Oregon,Unprovoked,41,M,Surfing,N
+2006,07,USA,California,Invalid,Unknown,M,Surfing,N
+2006,07,USA,Florida,Unprovoked,15,M,Surfing,N
+2006,07,SOUTH AFRICA,Western Cape Province,Unprovoked,19,M,Surfing,N
+2006,07,USA,Florida,Unprovoked,14,M,Surfing,N
+2006,07,USA,Texas,Unprovoked,Unknown,M,Fishing,N
+2006,07,AUSTRALIA,Torres Strait,Invalid,Unknown,Unknown,Unknown,N
+2006,07,USA,South Carolina,Unprovoked,49,M,Standing,N
+2006,07,USA,South Carolina,Unprovoked,21,F,Swimming,N
+2006,07,USA,Florida,Unprovoked,40,M,Wading,N
+2006,07,USA,Florida,Unprovoked,11,M,Walking,N
+2006,07,USA,South Carolina,Unprovoked,14,F,Surfing,N
+2006,07,USA,Florida,Unprovoked,13,M,Swimming,N
+2006,06,USA,Florida,Unprovoked,28,F,Spearfishing,N
+2006,06,USA,Florida,Unprovoked,35,M,Spearfishing,N
+2006,06,USA,Florida,Unprovoked,9,F,Surfing,N
+2006,06,USA,Florida,Provoked,Unknown,M,Fishing,N
+2006,06,USA,Florida,Unprovoked,22,F,Surfing,N
+2006,06,USA,California,Unprovoked,43,M,Diving,N
+2006,06,USA,Florida,Unprovoked,24,M,Surfing,N
+2006,06,AUSTRALIA,South Australia,Unprovoked,40,M,Surfing,N
+2006,05,USA,Hawaii,Unprovoked,26,M,Spearfishing,N
+2006,05,USA,Hawaii,Unprovoked,31,M,Surfing,N
+2006,05,USA,Hawaii,Provoked,15,M,Spearfishing,N
+2006,05,USA,Florida,Unprovoked,Unknown,M,Unknown,N
+2006,05,USA,Florida,Unprovoked,20s,F,Swimming,N
+2006,05,AUSTRALIA,Queensland,Provoked,46,M,Snorkeling,N
+2006,04,USA,Florida,Invalid,Unknown,M,Unknown,Y
+2006,04,USA,Florida,Unprovoked,54,M,Surfing,N
+2006,04,USA,Florida,Unprovoked,13,F,Standing,N
+2006,04,USA,Florida,Provoked,35,M,Fishing,N
+2006,04,AUSTRALIA,New South Wales,Unprovoked,15,M,Surfing,N
+2006,04,SOUTH AFRICA,Eastern Cape Province,Unprovoked,15,M,Surfing,N
+2006,04,USA,Florida,Unprovoked,11,M,Wading,N
+2006,03,USA,Hawaii,Unprovoked,28,F,Surfing,N
+2006,03,SOUTH AFRICA,Eastern Cape Province,Invalid,17,M,Swimming,Y
+2006,03,AUSTRALIA,New South Wales,Unprovoked,15,M,Surfing,N
+2006,02,USA,Hawaii,Unprovoked,15,F,Standing,N
+2006,02,USA,Hawaii,Invalid,45,M,Diving,Y
+2006,02,AUSTRALIA,Queensland,Unprovoked,18,M,Wading,N
+2006,02,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Swimming,N
+2006,02,AUSTRALIA,South Australia,Boat,Unknown,M,Fishing,N
+2006,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,15,M,Surfing,N
+2006,02,USA,Hawaii,Boat,57,M,Kayaking,N
+2006,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,34,M,Spearfishing,N
+2006,01,AUSTRALIA,Western Australia,Unprovoked,52,M,Diving,N
+2006,01,AUSTRALIA,Queensland,Unprovoked,21,F,Swimming,Y
+2006,01,USA,Florida,Unprovoked,21,M,Surfing,N
+2005,12,USA,Oregon,Unprovoked,30,M,Surfing,N
+2005,12,USA,Hawaii,Unprovoked,29,M,Swimming,N
+2005,12,AUSTRALIA,Queensland,Unprovoked,44,M,Spearfishing,N
+2005,12,AUSTRALIA,South Australia,Boat,Unknown,Unknown,Fishing,N
+2005,11,USA,Florida,Unprovoked,teen,M,Surfing,N
+2005,11,USA,Florida,Unprovoked,23,M,Surfing,N
+2005,11,AUSTRALIA,Victoria,Boat,Unknown,Unknown,Fishing,N
+2005,11,AUSTRALIA,Victoria,Unprovoked,18,M,Surfing,N
+2005,11,SOUTH AFRICA,Eastern Cape Province,Unprovoked,26,M,Surfing,N
+2005,11,NEW CALEDONIA,Loyalty Islands,Unprovoked,Unknown,Unknown,Spearfishing,N
+2005,11,USA,Florida,Unprovoked,30s,M,Surfing,N
+2005,11,USA,Florida,Unprovoked,17,M,Surfing,N
+2005,11,USA,Florida,Unprovoked,18,M,Surfing,N
+2005,11,USA,California,Unprovoked,25,M,Surfing,N
+2005,11,USA,California,Unprovoked,26,M,Surfing,N
+2005,10,USA,Florida,Unprovoked,15,M,Wading,N
+2005,10,USA,California,Unprovoked,36,M,Surfing,N
+2005,10,USA,California,Unprovoked,20,F,Surfing,N
+2005,10,USA,Florida,Provoked,15,M,Wading,N
+2005,10,USA,Hawaii,Unprovoked,22,M,Surfing,N
+2005,10,BAHAMAS,Abaco Islands,Unprovoked,35,M,Diving,N
+2005,10,SOUTH AFRICA,Western Cape Province,Unprovoked,52,M,Surfing,N
+2005,09,AUSTRALIA,New South Wales,Unprovoked,28,M,Surfing,N
+2005,09,AUSTRALIA,South Australia,Unprovoked,26,M,Surfing,N
+2005,09,AUSTRALIA,Western Australia,Unprovoked,44,M,Surfing,N
+2005,09,USA,Florida,Invalid,Unknown,M,Surfing,N
+2005,09,USA,South Carolina,Unprovoked,68,F,Surfing,N
+2005,09,USA,South Carolina,Unprovoked,18,M,Surfing,Y
+2005,09,AUSTRALIA,New South Wales,Unprovoked,15,M,Standing,N
+2005,09,USA,North Carolina,Unprovoked,18,F,Wading,N
+2005,09,AUSTRALIA,South Australia,Unprovoked,40,M,Surfing,N
+2005,08,AUSTRALIA,South Australia,Unprovoked,23,M,Diving,Y
+2005,08,USA,California,Unprovoked,37,M,Surfing,N
+2005,08,USA,South Carolina,Unprovoked,8,M,Swimming,N
+2005,08,USA,Texas,Unprovoked,12,M,Walking,N
+2005,08,SOUTH AFRICA,Western Cape Province,Invalid,Unknown,Unknown,Unknown,N
+2005,08,USA,North Carolina,Unprovoked,16,M,Surfing,N
+2005,08,USA,South Carolina,Unprovoked,14,M,Swimming,N
+2005,07,USA,Florida,Unprovoked,13,F,Wading,N
+2005,07,USA,Florida,Unprovoked,61,M,Surfing,N
+2005,07,USA,Florida,Invalid,25,M,Surfing,N
+2005,07,USA,North Carolina,Unprovoked,22,M,Swimming,N
+2005,07,USA,Florida,Unprovoked,19,M,Standing,N
+2005,06,USA,Florida,Unprovoked,16,M,Fishing,N
+2005,06,USA,Hawaii,Invalid,49,M,Swimming,N
+2005,06,USA,Florida,Unprovoked,20,M,Swimming,N
+2005,06,USA,South Carolina,Unprovoked,11,F,Surfing,N
+2005,06,USA,New Jersey,Invalid,17,M,Surfing,N
+2005,06,USA,Texas,Unprovoked,6,M,Wading,N
+2005,05,USA,Florida,Unprovoked,33,M,Swimming,N
+2005,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,32,M,Surfing,N
+2005,05,USA,Hawaii,Unprovoked,Unknown,Unknown,Kayaking,N
+2005,05,USA,Hawaii,Unprovoked,47,M,Surfing,N
+2005,04,AUSTRALIA,New South Wales,Provoked,25,M,Fishing,N
+2005,04,AUSTRALIA,New South Wales,Unprovoked,Unknown,Unknown,Unknown,N
+2005,04,AUSTRALIA,Northern Territory,Unprovoked,20,M,Spearfishing,N
+2005,04,AUSTRALIA,New South Wales,Unprovoked,40,M,Surfing,N
+2005,04,USA,Florida,Unprovoked,70,F,Wading,N
+2005,04,USA,Florida,Invalid,52,M,Surfing,N
+2005,04,USA,Texas,Unprovoked,37,M,Surfing,N
+2005,04,USA,Florida,Unprovoked,Unknown,F,Unknown,N
+2005,03,SOUTH AFRICA,Western Cape Province,Unprovoked,32,M,Surfing,N
+2005,03,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2005,03,AUSTRALIA,Western Australia,Unprovoked,26,M,Snorkeling,Y
+2005,03,SOUTH AFRICA,KwaZulu-Natal,Invalid,51,M,Unknown,N
+2005,03,NEW ZEALAND,North Island,Provoked,Unknown,M,Fishing,N
+2005,02,AUSTRALIA,Queensland,Unprovoked,18,M,Swimming,N
+2005,02,USA,Florida,Provoked,Unknown,M,Spearfishing,N
+2005,02,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+2005,02,USA,Florida,Unprovoked,Unknown,M,Spearfishing,N
+2005,01,AUSTRALIA,Victoria,Provoked,Unknown,M,Spearfishing,N
+2004,12,AUSTRALIA,Queensland,Unprovoked,38,M,Spearfishing,Y
+2004,11,SOUTH AFRICA,Eastern Cape Province,Unprovoked,20,M,Surfing,N
+2004,11,SOUTH AFRICA,Western Cape Province,Unprovoked,77,F,Swimming,Y
+2004,11,NEW CALEDONIA,North Province,Unprovoked,Unknown,Unknown,Diving,N
+2004,10,NEW ZEALAND,North Island,Invalid,Unknown,Unknown,Unknown,N
+2004,10,AUSTRALIA,New South Wales,Unprovoked,59,M,Surfing,N
+2004,10,USA,California,Unprovoked,Unknown,M,Surfing,N
+2004,10,USA,Hawaii,Unprovoked,34,M,Spearfishing,N
+2004,10,SOUTH AFRICA,Eastern Cape Province,Unprovoked,34,M,Surfing,N
+2004,10,USA,California,Unprovoked,16,M,Surfing,N
+2004,10,USA,California,Unprovoked,40,M,Surfing,N
+2004,09,USA,Oregon,Unprovoked,26,M,Surfing,N
+2004,09,USA,Texas,Invalid,Unknown,M,Fishing,N
+2004,08,USA,Florida,Unprovoked,38,F,Walking,N
+2004,08,USA,California,Unprovoked,Unknown,M,Surfing,N
+2004,08,USA,California,Unprovoked,50,M,Diving,Y
+2004,08,USA,Florida,Unprovoked,47,M,Swimming,N
+2004,08,AUSTRALIA,New South Wales,Unprovoked,30,M,Spearfishing,N
+2004,08,SOUTH AFRICA,KwaZulu-Natal,Boat,Unknown,Unknown,Fishing,N
+2004,07,USA,Florida,Unprovoked,20,F,Surfing,N
+2004,07,USA,North Carolina,Unprovoked,28,F,Surfing,N
+2004,07,USA,North Carolina,Unprovoked,13,F,Swimming,N
+2004,07,USA,Texas,Unprovoked,19,F,Swimming,N
+2004,07,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Fishing,N
+2004,07,AUSTRALIA,Western Australia,Unprovoked,30,M,Surfing,Y
+2004,07,USA,Alabama,Unprovoked,7,M,Wading,N
+2004,06,USA,California,Unprovoked,45,M,Surfing,N
+2004,06,AUSTRALIA,Western Australia,Unprovoked,17,M,Surfing,N
+2004,06,USA,Florida,Unprovoked,8,M,Swimming,N
+2004,05,USA,Texas,Unprovoked,16,M,Wading,N
+2004,05,USA,California,Unprovoked,44,M,Surfing,N
+2004,05,USA,Florida,Invalid,9,M,Swimming,N
+2004,05,USA,Florida,Unprovoked,9,F,Unknown,N
+2004,04,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Diving,N
+2004,04,NEW ZEALAND,North Island,Boat,Unknown,Unknown,Fishing,N
+2004,04,USA,Hawaii,Unprovoked,57,M,Surfing,Y
+2004,04,SOUTH AFRICA,Western Cape Province,Unprovoked,16,M,Surfing,N
+2004,04,USA,Hawaii,Invalid,22,F,Surfing,Y
+2004,03,USA,Florida,Unprovoked,26,M,Unknown,N
+2004,03,USA,Florida,Unprovoked,20,M,Surfing,N
+2004,03,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2004,03,USA,Florida,Unprovoked,61,M,Swimming,N
+2004,03,USA,Hawaii,Unprovoked,Unknown,F,Snorkeling,N
+2004,03,NEW ZEALAND,North Island,Unprovoked,Unknown,M,Spearfishing,N
+2004,03,USA,Hawaii,Unprovoked,51,M,Surfing,N
+2004,03,AUSTRALIA,Western Australia,Unprovoked,47,M,Spearfishing,N
+2004,02,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Swimming,N
+2004,02,AUSTRALIA,New South Wales,Unprovoked,22,M,Snorkeling,N
+2004,01,AUSTRALIA,Western Australia,Unprovoked,46,M,Diving,N
+2004,01,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Diving,N
+2004,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,22,M,Surfing,N
+2003,12,SOUTH AFRICA,KwaZulu-Natal,Boat,Unknown,Unknown,Unknown,N
+2003,12,USA,Florida,Invalid,28,M,Swimming,N
+2003,12,USA,Florida,Unprovoked,13,M,Swimming,N
+2003,11,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Swimming,N
+2003,11,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Swimming,N
+2003,11,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,21,M,Spearfishing,Y
+2003,11,USA,Florida,Unprovoked,35,F,Surfing,N
+2003,11,USA,Florida,Unprovoked,24,M,Surfing,N
+2003,11,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Standing,N
+2003,10,USA,Florida,Unprovoked,18,M,Surfing,N
+2003,10,AUSTRALIA,New South Wales,Unprovoked,22,M,Surfing,N
+2003,10,USA,Hawaii,Unprovoked,13,F,Surfing,N
+2003,10,USA,Florida,Unprovoked,46,M,Surfing,N
+2003,10,USA,Hawaii,Invalid,56,M,Snorkeling,N
+2003,10,USA,Florida,Unprovoked,19,M,Surfing,N
+2003,10,USA,Florida,Unprovoked,Unknown,F,Surfing,N
+2003,10,USA,Florida,Unprovoked,18,M,Surfing,N
+2003,10,USA,Florida,Provoked,30,M,Surfing,N
+2003,09,USA,Florida,Unprovoked,16,M,Surfing,N
+2003,09,USA,Florida,Unprovoked,21,M,Surfing,N
+2003,09,USA,Florida,Unprovoked,19,M,Surfing,N
+2003,09,USA,Florida,Unprovoked,17,M,Surfing,N
+2003,09,USA,Florida,Unprovoked,30,M,Surfing,N
+2003,09,USA,Florida,Invalid,8 or 10,F,Swimming,N
+2003,09,USA,Florida,Unprovoked,18,M,Surfing,N
+2003,09,SOUTH AFRICA,Western Cape Province,Unprovoked,19,M,Surfing,Y
+2003,08,USA,Texas,Provoked,Unknown,M,Fishing,N
+2003,08,USA,California,Invalid,31,M,Swimming,N
+2003,07,USA,Florida,Unprovoked,18,M,Surfing,N
+2003,07,USA,Florida,Unprovoked,15,F,Wading,N
+2003,07,BAHAMAS,Abaco Islands,Unprovoked,58,M,Spearfishing,N
+2003,07,USA,Florida,Unprovoked,21,M,Surfing,N
+2003,07,BAHAMAS,Abaco Islands,Unprovoked,39,M,Spearfishing,N
+2003,07,USA,Florida,Unprovoked,Unknown,M,Spearfishing,N
+2003,06,USA,Florida,Unprovoked,17,M,Surfing,N
+2003,06,USA,Florida,Unprovoked,15,M,Surfing,N
+2003,06,USA,Florida,Unprovoked,12,F,Standing,N
+2003,06,USA,Florida,Unprovoked,15,Unknown,Surfing,N
+2003,06,USA,South Carolina,Invalid,22,F,Swimming,N
+2003,05,USA,Florida,Unprovoked,18,M,Surfing,N
+2003,05,USA,Florida,Unprovoked,22,M,Wading,N
+2003,05,USA,Hawaii,Unprovoked,20,M,Swimming,N
+2003,05,USA,Florida,Provoked,34,M,Surfing,N
+2003,05,USA,Florida,Unprovoked,9,F,Walking,N
+2003,04,USA,Florida,Unprovoked,36,M,Surfing,N
+2003,04,USA,Florida,Unprovoked,17,M,Surfing,N
+2003,04,USA,Florida,Unprovoked,30,M,Surfing,N
+2003,04,USA,Florida,Unprovoked,23,M,Surfing,N
+2003,04,USA,Florida,Unprovoked,18,M,Surfing,N
+2003,04,USA,Florida,Unprovoked,12,M,Surfing,N
+2003,04,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2003,04,USA,Florida,Unprovoked,50,M,Surfing,N
+2003,02,AUSTRALIA,South Australia,Unprovoked,37,M,Wading,N
+2003,02,USA,Florida,Unprovoked,54,M,Swimming,N
+2003,02,AUSTRALIA,New South Wales,Unprovoked,24,M,Swimming,N
+2003,02,AUSTRALIA,Queensland,Unprovoked,84,M,Swimming,Y
+2003,01,SOUTH AFRICA,Western Cape Province,Invalid,14,M,Unknown,Y
+2003,01,AUSTRALIA,Western Australia,Unprovoked,Unknown,F,Surfing,N
+2002,12,AUSTRALIA,Queensland,Unprovoked,18,F,Snorkeling,N
+2002,12,SOUTH AFRICA,Western Cape Province,Unprovoked,25,M,Snorkeling,N
+2002,12,AUSTRALIA,Queensland,Unprovoked,26,M,Diving,N
+2002,12,AUSTRALIA,Queensland,Invalid,11,M,Swimming,N
+2002,12,AUSTRALIA,Queensland,Unprovoked,23,M,Swimming,Y
+2002,11,USA,California,Unprovoked,48,M,Surfing,N
+2002,11,USA,Hawaii,Unprovoked,34,F,Swimming,N
+2002,11,USA,Florida,Unprovoked,21,M,Surfing,N
+2002,11,USA,Florida,Unprovoked,16,M,Surfing,N
+2002,10,USA,Hawaii,Unprovoked,60,F,Swimming,N
+2002,10,USA,Florida,Unprovoked,21,M,Surfing,N
+2002,10,USA,Florida,Unprovoked,14,M,Surfing,N
+2002,10,USA,Florida,Unprovoked,35,M,Surfing,N
+2002,10,USA,Florida,Unprovoked,18,M,Surfing,N
+2002,09,USA,Florida,Unprovoked,47,M,Surfing,N
+2002,09,USA,Florida,Unprovoked,32,M,Surfing,N
+2002,09,USA,Florida,Provoked,� ,M,Fishing,N
+2002,09,USA,California,Unprovoked,35,M,Surfing,N
+2002,09,USA,Hawaii,Unprovoked,Unknown,Unknown,Surfing,N
+2002,09,USA,Florida,Unprovoked,20,M,Surfing,N
+2002,08,USA,Hawaii,Unprovoked,16,M,Surfing,N
+2002,08,USA,Alabama,Unprovoked,29,F,Swimming,N
+2002,08,USA,Florida,Unprovoked,27,M,Surfing,N
+2002,08,USA,Florida,Unprovoked,15,M,Surfing,N
+2002,08,USA,Florida,Unprovoked,15,M,Standing,N
+2002,08,USA,North Carolina,Unprovoked,14,M,Standing,N
+2002,07,USA,South Carolina,Unprovoked,13,M,Surfing,N
+2002,07,USA,North Carolina,Unprovoked,15,F,Swimming,N
+2002,07,USA,Florida,Provoked,19,M,Surfing,N
+2002,07,USA,North Carolina,Unprovoked,9,F,Standing,N
+2002,06,AUSTRALIA,Queensland,Unprovoked,30,M,Surfing,N
+2002,06,USA,Florida,Unprovoked,11,F,Swimming,N
+2002,06,USA,Florida,Unprovoked,28,M,Surfing,N
+2002,06,USA,Florida,Unprovoked,50,M,Surfing,N
+2002,06,USA,Florida,Unprovoked,10,M,Swimming,N
+2002,05,USA,California,Unprovoked,24,M,Surfing,N
+2002,05,USA,Florida,Unprovoked,31,M,Fishing,N
+2002,04,USA,Florida,Unprovoked,28,M,Surfing,N
+2002,04,AUSTRALIA,New South Wales,Unprovoked,45,M,Swimming,N
+2002,04,BAHAMAS,Abaco Islands,Unprovoked,43,M,Standing,N
+2002,04,USA,Florida,Unprovoked,41,M,Wading,N
+2002,03,USA,Florida,Unprovoked,11,F,Wading,N
+2002,03,USA,Florida,Unprovoked,39,M,Snorkeling,N
+2002,03,USA,Florida,Unprovoked,31,M,Surfing,N
+2002,03,NEW CALEDONIA,Loyalty Islands,Invalid,44,M,Spearfishing,Y
+2002,02,AUSTRALIA,Queensland,Unprovoked,30 or 36,M,Surfing,N
+2002,02,AUSTRALIA,New South Wales,Unprovoked,35,M,Kayaking,N
+2002,01,AUSTRALIA,New South Wales,Unprovoked,20,M,Surfing,N
+2002,01,AUSTRALIA,Western Australia,Unprovoked,32,M,Swimming,N
+2002,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,16,M,Fishing,N
+2002,01,USA,Hawaii,Unprovoked,35,M,Snorkeling,N
+2001,12,AUSTRALIA,Western Australia,Invalid,36,M,Surfing,N
+2001,11,AUSTRALIA,New South Wales,Unprovoked,49,M,Surfing,N
+2001,11,USA,Hawaii,Unprovoked,Unknown,Unknown,Surfing,N
+2001,11,AUSTRALIA,Western Australia,Invalid,Unknown,M,Surfing,N
+2001,10,AUSTRALIA,Queensland,Unprovoked,20,F,Snorkeling,N
+2001,09,MEXICO,Guerrero,Unprovoked,26,M,Surfing,N
+2001,09,AUSTRALIA,Queensland,Boat,31,M,Unknown,N
+2001,09,USA,Florida,Unprovoked,14,M,Surfing,N
+2001,09,USA,Florida,Unprovoked,6�,M,Surfing,N
+2001,09,USA,North Carolina,Unprovoked,16,M,Surfing,N
+2001,09,USA,Florida,Provoked,44,M,Fishing,N
+2001,09,USA,South Carolina,Invalid,Unknown,F,Swimming,N
+2001,09,USA,North Carolina,Unprovoked,28,M,Swimming,Y
+2001,09,USA,North Carolina,Unprovoked,23,F,Swimming,N
+2001,09,USA,Florida,Unprovoked,20,M,Wading,N
+2001,09,USA,Virginia,Unprovoked,10,M,Swimming,Y
+2001,08,BAHAMAS,Abaco Islands,Unprovoked,44,M,Spearfishing,N
+2001,08,USA,Florida,Unprovoked,29,F,Standing,N
+2001,08,USA,Florida,Unprovoked,69,M,Wading,N
+2001,08,USA,Florida,Unprovoked,18,M,Surfing,N
+2001,08,USA,Florida,Unprovoked,18,M,Surfing,N
+2001,08,USA,Florida,Unprovoked,17,M,Surfing,N
+2001,08,USA,Florida,Unprovoked,27,M,Surfing,N
+2001,08,USA,Florida,Unprovoked,32,M,Surfing,N
+2001,08,USA,Florida,Unprovoked,17,F,Surfing,N
+2001,08,USA,Florida,Unprovoked,17,F,Surfing,N
+2001,08,USA,Florida,Unprovoked,20,M,Surfing,N
+2001,08,USA,Florida,Unprovoked,19,M,Surfing,N
+2001,08,USA,Florida,Unprovoked,19,M,Surfing,N
+2001,08,BAHAMAS,Grand Bahama Island,Unprovoked,43,M,Spearfishing,N
+2001,08,USA,South Carolina,Unprovoked,Unknown,F,Unknown,N
+2001,08,BAHAMAS,Grand Bahama Island,Unprovoked,36,M,Swimming,N
+2001,07,USA,South Carolina,Unprovoked,Unknown,F,Unknown,N
+2001,07,USA,Florida,Unprovoked,Unknown,M,Unknown,N
+2001,07,USA,Florida,Unprovoked,Unknown,F,Unknown,N
+2001,07,USA,Massachusetts,Boat,Unknown,Unknown,Fishing,N
+2001,07,USA,Florida,Unprovoked,48,M,Surfing,N
+2001,07,USA,Florida,Unprovoked,18,M,Surfing,N
+2001,07,MEXICO,California,Unprovoked,42,M,Surfing,N
+2001,07,USA,Florida,Unprovoked,8,M,Swimming,N
+2001,07,USA,South Carolina,Unprovoked,Unknown,Unknown,Unknown,N
+2001,06,USA,Texas,Unprovoked,14,M,Swimming,N
+2001,06,USA,California,Provoked,52,M,Spearfishing,N
+2001,06,USA,South Carolina,Unprovoked,29,F,Wading,N
+2001,05,USA,Texas,Unprovoked,16,M,Unknown,N
+2001,05,USA,South Carolina,Unprovoked,11,M,Swimming,N
+2001,05,USA,South Carolina,Unprovoked,Unknown,M,Swimming,N
+2001,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,26,M,Surfing,N
+2001,05,AUSTRALIA,New South Wales,Unprovoked,33 or 37,M,Surfing,N
+2001,05,USA,Florida,Unprovoked,45,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,14,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,16,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,12,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,mid-30s,M,Unknown,N
+2001,04,USA,Florida,Unprovoked,38,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,21,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,12,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,22,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,19,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,22,M,Surfing,N
+2001,04,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+2001,04,USA,Florida,Unprovoked,16,Unknown,Surfing,N
+2001,04,SOUTH AFRICA,Eastern Cape Province,Unprovoked,46,M,Surfing,N
+2001,04,AUSTRALIA,New South Wales,Provoked,Unknown,M,Snorkeling,N
+2001,04,AUSTRALIA,New South Wales,Unprovoked,40,M,Surfing,N
+2001,03,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+2001,02,AUSTRALIA,New South Wales,Unprovoked,40,M,Surfing,N
+2001,01,AUSTRALIA,New South Wales,Boat,35,M,Kayaking,N
+2001,01,AUSTRALIA,South Australia,Boat,Unknown,Unknown,Fishing,N
+2001,01,USA,California,Unprovoked,Unknown,M,Surfing,N
+2001,01,NEW ZEALAND,North Island,Boat,Unknown,M,Kayaking,N
+2000,12,AUSTRALIA,Queensland,Unprovoked,23,M,Diving,N
+2000,12,AUSTRALIA,Queensland,Unprovoked,38,M,Spearfishing,N
+2000,11,USA,Florida,Unprovoked,73,M,Swimming,N
+2000,11,USA,Florida,Invalid,27,F,Walking,N
+2000,11,AUSTRALIA,Western Australia,Unprovoked,52,M,Swimming,N
+2000,11,AUSTRALIA,Western Australia,Unprovoked,49,M,Swimming,Y
+2000,11,USA,California,Unprovoked,27,M,Surfing,N
+2000,10,USA,Florida,Unprovoked,23,M,Surfing,N
+2000,10,USA,Florida,Unprovoked,69,M,Swimming,N
+2000,10,USA,Florida,Unprovoked,17,M,Surfing,N
+2000,10,USA,Florida,Unprovoked,23,M,Surfing,N
+2000,10,USA,Florida,Unprovoked,11,M,Surfing,N
+2000,10,USA,North Carolina,Unprovoked,24,M,Surfing,N
+2000,09,AUSTRALIA,South Australia,Unprovoked,17,M,Surfing,Y
+2000,09,AUSTRALIA,South Australia,Unprovoked,25,M,Surfing,Y
+2000,09,USA,South Carolina,Unprovoked,Unknown,Unknown,Unknown,N
+2000,09,USA,Florida,Unprovoked,26,F,Surfing,N
+2000,09,USA,Florida,Unprovoked,8,M,Swimming,N
+2000,09,SOUTH AFRICA,Western Cape Province,Unprovoked,48,M,Diving,N
+2000,09,USA,Florida,Unprovoked,40,M,Wading,N
+2000,08,USA,Florida,Unprovoked,47,M,Swimming,N
+2000,08,USA,Florida,Unprovoked,44,F,Standing,N
+2000,08,USA,North Carolina,Invalid,Unknown,M,Swimming,N
+2000,07,USA,Florida,Unprovoked,5,M,Unknown,N
+2000,07,USA,Florida,Unprovoked,45,F,Snorkeling,N
+2000,07,USA,North Carolina,Unprovoked,16,M,Surfing,N
+2000,07,USA,North Carolina,Unprovoked,14,M,Surfing,N
+2000,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,15,M,Surfing,N
+2000,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,18,M,Surfing,N
+2000,07,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,Unknown,M,Surfing,N
+2000,07,USA,Florida,Unprovoked,13,M,Wading,N
+2000,07,USA,Florida,Unprovoked,41,M,Swimming,N
+2000,07,USA,Florida,Unprovoked,20,F,Wading,N
+2000,07,USA,Florida,Unprovoked,13,F,Wading,N
+2000,07,USA,Florida,Unprovoked,19,F,Standing,N
+2000,06,PAPUA NEW GUINEA,Madang Province,Unprovoked,Unknown,M,Unknown,Y
+2000,06,NEW ZEALAND,North Island,Boat,Unknown,M,Fishing,N
+2000,06,USA,Florida,Unprovoked,52,M,Standing,N
+2000,06,USA,Texas,Unprovoked,17,M,Surfing,N
+2000,06,USA,Alabama,Unprovoked,55,M,Swimming,N
+2000,06,USA,Alabama,Unprovoked,44,M,Swimming,N
+2000,06,USA,Florida,Unprovoked,13,M,Snorkeling,N
+2000,05,AUSTRALIA,Victoria,Invalid,Unknown,Unknown,Unknown,Y
+2000,05,PAPUA NEW GUINEA,Madang Province,Unprovoked,9,M,Standing,N
+2000,05,PAPUA NEW GUINEA,Madang Province,Unprovoked,Unknown,M,Diving,Y
+2000,04,USA,Florida,Unprovoked,34,M,Walking,N
+2000,03,USA,Florida,Unprovoked,Unknown,M,Fishing,N
+2000,03,AUSTRALIA,Queensland,Unprovoked,26,M,Swimming,N
+2000,03,USA,Florida,Unprovoked,14,F,Surfing,N
+2000,03,USA,Florida,Unprovoked,37,M,Surfing,N
+2000,03,NEW CALEDONIA,North Province,Unprovoked,35,M,Spearfishing,Y
+2000,03,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Surfing,N
+2000,03,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Swimming,N
+2000,03,USA,Louisiana,Unprovoked,39,M,Spearfishing,N
+2000,02,USA,Florida,Unprovoked,27,M,Unknown,N
+2000,02,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Surfing,N
+2000,02,NEW ZEALAND,South Island,Unprovoked,12,M,Surfing,N
+2000,02,AUSTRALIA,South Australia,Unprovoked,26,M,Surfing,N
+1999,12,NEW ZEALAND,South Island,Unprovoked,15,M,Surfing,N
+1999,12,NEW ZEALAND,South Island,Unprovoked,13,F,Swimming,N
+1999,12,USA,California,Invalid,Unknown,M,Diving,Y
+1999,12,USA,Florida,Unprovoked,35,M,Surfing,N
+1999,11,USA,Florida,Unprovoked,19,M,Surfing,N
+1999,11,USA,Hawaii,Unprovoked,51,F,Swimming,N
+1999,11,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,35,M,Surfing,N
+1999,10,USA,Florida,Unprovoked,45,M,Surfing,N
+1999,10,USA,Florida,Unprovoked,13,M,Surfing,N
+1999,10,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1999,09,USA,Florida,Unprovoked,61,F,Wading,N
+1999,09,USA,South Carolina,Unprovoked,10,F,Wading,N
+1999,09,USA,Florida,Unprovoked,13,M,Surfing,N
+1999,09,USA,Florida,Provoked,7,M,Wading,N
+1999,08,USA,Florida,Unprovoked,28,M,Surfing,N
+1999,08,USA,North Carolina,Unprovoked,Unknown,M,Surfing,N
+1999,08,USA,Florida,Unprovoked,17,M,Surfing,N
+1999,08,USA,Florida,Unprovoked,62,M,Surfing,N
+1999,07,SOUTH AFRICA,Western Cape Province,Unprovoked,42,M,Surfing,N
+1999,07,USA,Hawaii,Unprovoked,43,M,Surfing,N
+1999,07,SOUTH AFRICA,Western Cape Province,Unprovoked,14,M,Surfing,Y
+1999,07,USA,South Carolina,Unprovoked,Unknown,M,Unknown,N
+1999,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,29,M,Surfing,N
+1999,06,USA,Florida,Unprovoked,21,M,Surfing,N
+1999,06,USA,Florida,Unprovoked,41,M,Swimming,N
+1999,05,AUSTRALIA,South Australia,Unprovoked,22,M,Surfing,Y
+1999,04,USA,Florida,Unprovoked,14,M,Surfing,N
+1999,03,NEW CALEDONIA,Loyalty Islands,Unprovoked,Unknown,M,Spearfishing,N
+1999,02,AUSTRALIA,New South Wales,Unprovoked,35,M,Surfing,N
+1999,02,USA,Florida,Unprovoked,25,M,Surfing,N
+1999,01,AUSTRALIA,Northern Territory,Invalid,37,F,Fishing,N
+1998,12,USA,Florida,Provoked,19,M,Surfing,N
+1998,12,AUSTRALIA,South Australia,Unprovoked,21,F,Standing,N
+1998,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,18,M,Surfing,N
+1998,12,AUSTRALIA,South Australia,Unprovoked,21,F,Surfing,N
+1998,11,USA,Florida,Unprovoked,9,M,Swimming,Y
+1998,11,USA,Florida,Unprovoked,14,M,Surfing,N
+1998,11,USA,Florida,Unprovoked,13,M,Walking,N
+1998,11,USA,Oregon,Unprovoked,32,M,Surfing,N
+1998,10,USA,Florida,Unprovoked,17,F,Swimming,N
+1998,10,SOUTH AFRICA,Eastern Cape Province,Unprovoked,30,M,Surfing,N
+1998,10,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1998,10,USA,Florida,Unprovoked,28,M,Unknown,N
+1998,09,USA,Florida,Unprovoked,6,M,Surfing,N
+1998,09,USA,Florida,Unprovoked,18,M,Surfing,N
+1998,09,USA,Florida,Unprovoked,28,M,Surfing,N
+1998,08,USA,Florida,Unprovoked,26,M,Surfing,N
+1998,08,USA,California,Unprovoked,16,M,Surfing,N
+1998,08,USA,Virginia,Unprovoked,Unknown,M,Spearfishing,N
+1998,08,SOUTH AFRICA,Western Cape Province,Unprovoked,24,M,Spearfishing,N
+1998,07,USA,Florida,Unprovoked,13,M,Surfing,N
+1998,07,SOUTH AFRICA,Western Cape Province,Unprovoked,47,M,Wading,N
+1998,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Surfing,N
+1998,07,SOUTH AFRICA,Western Cape Province,Unprovoked,10,M,Surfing,N
+1998,06,USA,Florida,Unprovoked,18,M,Surfing,N
+1998,06,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Surfing,N
+1998,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,17,M,Surfing,N
+1998,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,15,M,Surfing,N
+1998,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Surfing,N
+1998,05,USA,Florida,Unprovoked,40,M,Surfing,N
+1998,05,USA,Florida,Unprovoked,14,F,Swimming,N
+1998,05,SOUTH AFRICA,Western Cape Province,Unprovoked,22,M,Surfing,N
+1998,04,USA,Florida,Provoked,16,M,Diving,N
+1998,03,USA,Florida,Unprovoked,40,M,Swimming,N
+1998,02,USA,Florida,Unprovoked,Unknown,M,Swimming,N
+1998,01,AUSTRALIA,New South Wales,Invalid,31,M,Spearfishing,Y
+1998,01,NEW CALEDONIA,South Province,Unprovoked,Unknown,M,Surfing,N
+1998,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,21,M,Surfing,N
+1998,01,AUSTRALIA,South Australia,Unprovoked,Unknown,M,Surfing,N
+1998,01,MOZAMBIQUE,Maputo Province,Unprovoked,23,M,Surfing,N
+1997,12,SOUTH AFRICA,Western Cape Province,Unprovoked,39,M,Spearfishing,Y
+1997,12,USA,Florida,Invalid,29,F,Unknown,N
+1997,12,USA,Florida,Unprovoked,8,M,Swimming,N
+1997,11,USA,Florida,Unprovoked,32,M,Swimming,N
+1997,11,AUSTRALIA,New South Wales,Invalid,21,M,Unknown,Y
+1997,10,AUSTRALIA,Western Australia,Unprovoked,51,M,Surfing,N
+1997,10,USA,Florida,Unprovoked,23,M,Surfing,N
+1997,10,USA,Florida,Unprovoked,12,M,Surfing,N
+1997,10,USA,Florida,Unprovoked,14,F,Swimming,N
+1997,09,USA,Florida,Unprovoked,12,M,Surfing,N
+1997,09,USA,Florida,Unprovoked,17,Unknown,Surfing,N
+1997,09,USA,Florida,Unprovoked,20,M,Surfing,N
+1997,08,USA,Florida,Unprovoked,18,M,Surfing,N
+1997,08,EGYPT,Red Sea,Unprovoked,17,M,Fishing,N
+1997,08,EGYPT,Red Sea,Unprovoked,16,M,Fishing,Y
+1997,08,USA,Florida,Unprovoked,17,M,Surfing,N
+1997,08,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1997,08,USA,Texas,Unprovoked,10,F,Wading,N
+1997,08,USA,Florida,Unprovoked,17,M,Surfing,N
+1997,07,AUSTRALIA,Queensland,Unprovoked,19,M,Surfing,N
+1997,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,25,M,Surfing,Y
+1997,07,USA,South Carolina,Unprovoked,50,M,Standing,N
+1997,06,USA,Florida,Unprovoked,18,M,Surfing,N
+1997,05,USA,Florida,Unprovoked,35,M,Spearfishing,N
+1997,05,USA,Florida,Unprovoked,34,M,Surfing,N
+1997,05,USA,Florida,Unprovoked,12,M,Surfing,N
+1997,05,BAHAMAS,Abaco Islands,Unprovoked,54,M,Spearfishing,N
+1997,05,BAHAMAS,Abaco Islands,Unprovoked,Unknown,M,Spearfishing,N
+1997,02,AUSTRALIA,Queensland,Unprovoked,21,F,Swimming,N
+1997,02,AUSTRALIA,Queensland,Unprovoked,30,M,Diving,N
+1997,02,USA,Hawaii,Unprovoked,Unknown,M,Unknown,UNKNOWN
+1997,01,AUSTRALIA,Queensland,Unprovoked,27,M,Snorkeling,N
+1997,01,AUSTRALIA,Western Australia,Unprovoked,41,M,Surfing,Y
+1996,12,AUSTRALIA,Queensland,Unprovoked,18,M,Surfing,UNKNOWN
+1996,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Surfing,N
+1996,11,USA,California,Unprovoked,45,M,Surfing,N
+1996,11,USA,Florida,Unprovoked,26,M,Surfing,N
+1996,10,USA,California,Unprovoked,22,M,Surfing,N
+1996,10,USA,Florida,Unprovoked,21,M,Surfing,N
+1996,10,USA,California,Unprovoked,31,M,Surfing,N
+1996,09,USA,Florida,Unprovoked,14,M,Swimming,N
+1996,09,USA,Florida,Unprovoked,5,M,Standing,N
+1996,09,USA,South Carolina,Invalid,28,F,Surfing,N
+1996,09,SOUTH AFRICA,KwaZulu-Natal,Provoked,29,M,Spearfishing,N
+1996,07,USA,Florida,Unprovoked,8,F,Standing,N
+1996,07,USA,Massachusetts,Unprovoked,46,M,Swimming,N
+1996,07,USA,Florida,Unprovoked,9,M,Swimming,N
+1996,07,USA,Hawaii,Unprovoked,Unknown,Unknown,Unknown,UNKNOWN
+1996,07,USA,Florida,Unprovoked,18,M,Unknown,N
+1996,07,USA,Florida,Unprovoked,63,F,Standing,N
+1996,06,USA,South Carolina,Unprovoked,24,F,Surfing,N
+1996,06,AUSTRALIA,Victoria,Unprovoked,Unknown,M,Surfing,N
+1996,06,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,Unknown,M,Surfing,N
+1996,05,SOUTH AFRICA,Western Cape Province,Unprovoked,17,M,Surfing,N
+1996,05,USA,Florida,Unprovoked,22,M,Surfing,N
+1996,05,USA,Florida,Unprovoked,27,M,Surfing,N
+1996,04,USA,Hawaii,Unprovoked,Unknown,M,Unknown,UNKNOWN
+1996,04,AUSTRALIA,New South Wales,Unprovoked,11,M,Swimming,N
+1996,04,AUSTRALIA,New South Wales,Unprovoked,16,F,Swimming,N
+1996,02,PAPUA NEW GUINEA,Madang Province,Unprovoked,Unknown,M,Unknown,Y
+1996,02,PAPUA NEW GUINEA,Madang Province,Unprovoked,Unknown,Unknown,Unknown,N
+1996,02,AUSTRALIA,New South Wales,Unprovoked,7,M,Swimming,N
+1996,01,USA,Florida,Provoked,33,M,Wading,N
+1996,01,AUSTRALIA,Queensland,Unprovoked,13,F,Swimming,N
+1996,01,AUSTRALIA,Western Australia,Unprovoked,Unknown,Unknown,Unknown,UNKNOWN
+1995,12,USA,Hawaii,Unprovoked,Unknown,M,Unknown,UNKNOWN
+1995,11,USA,Hawaii,Invalid,Unknown,M,Unknown,N
+1995,11,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,N
+1995,10,USA,Florida,Unprovoked,13,M,Surfing,N
+1995,10,USA,Florida,Unprovoked,17,M,Surfing,N
+1995,10,USA,Florida,Unprovoked,39,M,Surfing,N
+1995,09,USA,Florida,Unprovoked,14,M,Surfing,N
+1995,09,USA,Florida,Unprovoked,17,M,Surfing,N
+1995,09,USA,California,Unprovoked,25,M,Surfing,N
+1995,09,USA,Florida,Unprovoked,19,M,Surfing,N
+1995,09,USA,Florida,Unprovoked,19,F,Swimming,N
+1995,09,USA,Florida,Unprovoked,25,M,Diving,Y
+1995,09,USA,North Carolina,Invalid,9,M,Swimming,N
+1995,08,USA,Florida,Unprovoked,19,M,Surfing,N
+1995,08,USA,Florida,Unprovoked,16,M,Surfing,N
+1995,08,USA,Florida,Unprovoked,18,M,Surfing,N
+1995,08,USA,North Carolina,Unprovoked,16,M,Swimming,N
+1995,08,USA,North Carolina,Unprovoked,23,M,Swimming,N
+1995,08,USA,Florida,Unprovoked,19,M,Surfing,N
+1995,08,USA,North Carolina,Unprovoked,Unknown,Unknown,Diving,N
+1995,08,USA,Florida,Unprovoked,20,M,Wading,N
+1995,08,USA,North Carolina,Invalid,15,M,Swimming,Y
+1995,08,USA,Florida,Unprovoked,20,M,Surfing,N
+1995,08,USA,Florida,Unprovoked,12,M,Surfing,N
+1995,08,USA,California,Invalid,Unknown,M,Diving,N
+1995,07,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1995,07,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1995,07,USA,Florida,Unprovoked,18,M,Surfing,N
+1995,07,USA,Florida,Unprovoked,18,M,Standing,N
+1995,07,USA,South Carolina,Unprovoked,12,M,Unknown,N
+1995,07,USA,South Carolina,Unprovoked,7,F,Swimming,N
+1995,07,USA,Florida,Unprovoked,47,M,Surfing,N
+1984,11,SOUTH AFRICA,Eastern Cape Province,Unprovoked,14,M,Surfing,N
+1995,07,USA,Texas,Unprovoked,34,M,Surfing,N
+1995,06,USA,California,Unprovoked,Unknown,F,Kayaking,N
+1995,06,USA,South Carolina,Unprovoked,Unknown,M,Surfing,N
+1995,06,USA,Florida,Unprovoked,45,M,Swimming,N
+1995,06,USA,Florida,Unprovoked,10,F,Swimming,N
+1995,06,USA,Hawaii,Unprovoked,38,M,Swimming,N
+1995,05,USA,Florida,Unprovoked,15,M,Surfing,N
+1995,05,AUSTRALIA,Western Australia,Unprovoked,Unknown,Unknown,Unknown,UNKNOWN
+1995,04,USA,Florida,Invalid,12,M,Unknown,N
+1995,04,USA,Florida,Unprovoked,20,M,Unknown,N
+1995,04,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Diving,N
+1995,03,AUSTRALIA,South Australia,Unprovoked,35,M,Surfing,N
+1995,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,22,M,Swimming,N
+1995,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,14,M,Swimming,Y
+1994,12,SOUTH AFRICA,Western Cape Province,Unprovoked,26,M,Surfing,N
+1994,11,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Spearfishing,N
+1994,11,USA,Hawaii,Unprovoked,Unknown,Unknown,Surfing,N
+1994,10,USA,Florida,Provoked,9,F,Wading,N
+1994,10,USA,Florida,Unprovoked,16,M,Surfing,N
+1994,09,USA,South Carolina,Unprovoked,30,F,Swimming,N
+1994,09,USA,Oregon,Unprovoked,43,M,Surfing,N
+1994,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,22,M,Surfing,Y
+1994,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,31,M,Surfing,N
+1994,07,USA,Florida,Unprovoked,15,M,Surfing,N
+1994,06,BAHAMAS,Grand Bahama Island,Unprovoked,30,M,Spearfishing,N
+1994,05,USA,Florida,Unprovoked,24,M,Surfing,N
+1994,05,USA,Florida,Unprovoked,28,M,Surfing,N
+1994,05,USA,Florida,Unprovoked,35,M,Spearfishing,N
+1994,05,USA,Florida,Unprovoked,36,F,Wading,N
+1994,05,USA,Florida,Unprovoked,26,M,Wading,N
+1994,05,USA,Florida,Unprovoked,22,M,Surfing,N
+1994,04,USA,California,Invalid,25,F,Unknown,Y
+1994,04,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Spearfishing,Y
+1994,02,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Spearfishing,N
+1994,02,USA,Florida,Unprovoked,23,M,Surfing,N
+1994,02,USA,Hawaii,Provoked,Unknown,M,Fishing,N
+1994,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,15,M,Surfing,N
+1994,02,NEW CALEDONIA,South Province,Unprovoked,Unknown,Unknown,Fishing,Y
+1994,01,USA,Hawaii,Unprovoked,Unknown,M,Surfing,Y
+1994,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,44,M,Surfing,N
+1994,01,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Fishing,N
+1994,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,33,M,Swimming,N
+1993,12,USA,Hawaii,Unprovoked,Unknown,M,Surfing,Y
+1993,11,USA,Florida,Unprovoked,30,M,Swimming,N
+1993,10,USA,California,Unprovoked,26,M,Surfing,N
+1993,10,USA,Florida,Unprovoked,26,F,Swimming,N
+1993,10,USA,California,Boat,34,F,Kayaking,N
+1993,10,USA,Hawaii,Unprovoked,Unknown,Unknown,Surfing,N
+1993,09,SOUTH AFRICA,Western Cape Province,Unprovoked,36,M,Spearfishing,N
+1993,09,USA,Florida,Unprovoked,19,M,Wading,N
+1993,09,USA,Florida,Unprovoked,16,M,Unknown,N
+1993,08,USA,Florida,Unprovoked,13,Unknown,Surfing,N
+1993,08,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Fishing,N
+1993,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,28,M,Surfing,N
+1993,06,MEXICO,Quintana Roo,Unprovoked,42,F,Diving,Y
+1993,06,AUSTRALIA,New South Wales,Unprovoked,31,M,Diving,Y
+1993,06,USA,North Carolina,Unprovoked,60's,F,Swimming,N
+1993,04,AUSTRALIA,Tasmania,Invalid,32,M,Spearfishing,N
+1993,03,JAPAN,Ehime Prefecture,Unprovoked,Unknown,Unknown,Unknown,N
+1993,03,NEW CALEDONIA,South Province,Unprovoked,Unknown,Unknown,Swimming,N
+1993,02,AUSTRALIA,Queensland,Provoked,69,M,Fishing,N
+1993,01,AUSTRALIA,Queensland,Unprovoked,21,M,Spearfishing,N
+1993,01,USA,Oregon,Unprovoked,29,M,Surfing,N
+1992,11,USA,Florida,Unprovoked,19,M,Surfing,N
+1992,11,USA,Florida,Unprovoked,24,M,Surfing,N
+1992,11,USA,California,Boat,46,M,Kayaking,N
+1992,11,USA,Florida,Unprovoked,17,M,Surfing,N
+1992,11,USA,Hawaii,Unprovoked,18,M,Surfing,Y
+1992,10,USA,Hawaii,Unprovoked,28,M,Surfing,N
+1992,10,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Diving,N
+1992,10,AUSTRALIA,Queensland,Unprovoked,28,M,Surfing,Y
+1992,09,USA,Oregon,Unprovoked,20,M,Surfing,N
+1992,09,USA,Florida,Unprovoked,18,F,Standing,N
+1992,09,USA,Florida,Unprovoked,Unknown,M,Fishing,N
+1992,08,AUSTRALIA,South Australia,Unprovoked,17,M,Surfing,N
+1992,08,USA,California,Unprovoked,22,M,Surfing,N
+1992,08,USA,Florida,Provoked,26,M,Snorkeling,N
+1992,07,USA,Florida,Unprovoked,42,F,Standing,N
+1992,04,SOUTH AFRICA,Eastern Cape Province,Unprovoked,35,M,Surfing,N
+1992,03,AUSTRALIA,Victoria,Unprovoked,17,M,Surfing,N
+1992,02,USA,Hawaii,Unprovoked,Unknown,M,Surfing,Y
+1992,02,AUSTRALIA,Tasmania,Invalid,19,M,Surfing,N
+1992,01,AUSTRALIA,New South Wales,Unprovoked,19,M,Surfing,N
+1992,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,19,M,Swimming,N
+1992,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,36,M,Spearfishing,N
+1992,01,JAPAN,Ehime Prefecture,Unprovoked,Unknown,M,Unknown,N
+1991,11,USA,Hawaii,Unprovoked,41,F,Snorkeling,Y
+1991,11,USA,Hawaii,Unprovoked,Unknown,F,Snorkeling,N
+1991,11,USA,Florida,Provoked,Unknown,M,Fishing,N
+1991,11,AUSTRALIA,Western Australia,Unprovoked,14,M,Surfing,N
+1991,10,USA,Florida,Unprovoked,21,M,Surfing,N
+1991,10,USA,California,Unprovoked,32,M,Surfing,N
+1991,09,AUSTRALIA,South Australia,Unprovoked,19,M,Diving,Y
+1991,08,USA,South Carolina,Unprovoked,23,M,Swimming,N
+1991,08,USA,Florida,Unprovoked,10,F,Wading,N
+1991,08,USA,Florida,Provoked,Unknown,M,Fishing,N
+1991,07,USA,Florida,Unprovoked,39,M,Snorkeling,N
+1991,07,USA,Florida,Unprovoked,22,M,Swimming,N
+1991,07,USA,California,Unprovoked,32,M,Surfing,N
+1991,07,USA,Virginia,Unprovoked,13,M,Surfing,N
+1991,06,USA,Florida,Unprovoked,18,M,Surfing,N
+1991,05,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Diving,N
+1991,03,AUSTRALIA,New South Wales,Unprovoked,18,M,Diving,N
+1991,02,USA,Oregon,Unprovoked,38,M,Surfing,N
+1991,02,SOUTH AFRICA,Western Cape Province,Unprovoked,20,M,Spearfishing,N
+1991,01,AUSTRALIA,Queensland,Unprovoked,35,M,Swimming,N
+1991,01,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Surfing,N
+1990,12,SOUTH AFRICA,Eastern Cape Province,Invalid,Unknown,M,Unknown,N
+1990,11,AUSTRALIA,Queensland,Unprovoked,26,M,Swimming,N
+1990,11,USA,Florida,Unprovoked,24,M,Surfing,N
+1990,10,USA,Florida,Unprovoked,50,M,Surfing,N
+1990,10,USA,Florida,Unprovoked,18,M,Surfing,N
+1990,10,AUSTRALIA,Queensland,Unprovoked,26,M,Swimming,N
+1990,10,AUSTRALIA,South Australia,Unprovoked,Unknown,M,Surfing,N
+1990,10,USA,Florida,Unprovoked,25,M,Surfing,N
+1990,10,USA,Hawaii,Unprovoked,43,M,Surfing,N
+1990,10,USA,Florida,Unprovoked,19,M,Surfing,N
+1990,09,SOUTH AFRICA,Western Cape Province,Unprovoked,26,M,Spearfishing,N
+1990,09,USA,California,Boat,44,M,Kayaking,N
+1990,08,USA,California,Unprovoked,22,M,Surfing,N
+1990,08,USA,Texas,Unprovoked,Unknown,M,Surfing,N
+1990,07,USA,Texas,Unprovoked,53,F,Wading,N
+1990,07,USA,Florida,Unprovoked,17,M,Surfing,N
+1990,05,SOUTH AFRICA,KwaZulu-Natal,Provoked,Unknown,Unknown,Fishing,N
+1990,05,AUSTRALIA,Queensland,Unprovoked,30s,F,Snorkeling,N
+1990,04,AUSTRALIA,Queensland,Unprovoked,31,M,Surfing,N
+1990,04,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Surfing,N
+1990,04,AUSTRALIA,Queensland,Unprovoked,29,M,Surfing,N
+1989,12,AUSTRALIA,Northern Territory,Unprovoked,17,M,Unknown,UNKNOWN
+1989,12,AUSTRALIA,Queensland,Invalid,27,M,Swimming,Y
+1989,11,AUSTRALIA,Victoria,Unprovoked,32,M,Surfing,N
+1989,10,AUSTRALIA,Northern Territory,Unprovoked,31,F,Swimming,N
+1989,10,AUSTRALIA,Tasmania,Unprovoked,17,M,Surfing,N
+1989,10,USA,Hawaii,Invalid,Unknown,M,Diving,Y
+1989,10,USA,Texas,Unprovoked,12,M,Surfing,N
+1989,10,USA,North Carolina,Invalid,49,M,Diving,Y
+1989,10,AUSTRALIA,Victoria,Unprovoked,Unknown,M,Surfing,UNKNOWN
+1989,09,SOUTH AFRICA,Western Cape Province,Unprovoked,29,M,Diving,N
+1989,09,USA,North Carolina,Unprovoked,31,M,Surfing,N
+1989,08,USA,Florida,Unprovoked,21,M,Swimming,N
+1989,08,SOUTH AFRICA,Western Cape Province,Unprovoked,21,M,Surfing,N
+1989,08,AUSTRALIA,New South Wales,Unprovoked,17,M,Surfing,N
+1989,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,34,M,Surfing,N
+1989,07,USA,Florida,Unprovoked,16,M,Surfing,N
+1989,06,USA,Louisiana,Unprovoked,45,M,Spearfishing,N
+1989,06,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Surfing,N
+1989,06,SOUTH AFRICA,Eastern Cape Province,Unprovoked,28,M,Diving,N
+1989,04,USA,Florida,Unprovoked,19,M,Swimming,N
+1989,04,USA,California,Boat,Unknown,Unknown,Unknown,N
+1989,03,AUSTRALIA,South Australia,Unprovoked,27,M,Surfing,Y
+1989,03,AUSTRALIA,Western Australia,Boat,Unknown,M,Kayaking,N
+1989,02,SOUTH AFRICA,Western Cape Province,Provoked,Unknown,M,Fishing,N
+1989,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,26,M,Surfing,N
+1989,01,USA,California,Invalid,24,M,Kayaking,Y
+1989,01,USA,California,Unprovoked,24,F,Kayaking,Y
+1989,01,USA,Hawaii,Unprovoked,10,M,Surfing,N
+1988,10,AUSTRALIA,Victoria,Unprovoked,38,M,Surfing,N
+1988,10,USA,Florida,Unprovoked,15,M,Surfing,N
+1988,10,USA,Florida,Unprovoked,30,M,Surfing,N
+1988,10,USA,Florida,Unprovoked,23,M,Surfing,N
+1988,10,AUSTRALIA,South Australia,Unprovoked,15,M,Surfing,N
+1988,10,USA,Florida,Unprovoked,23,F,Wading,N
+1988,09,USA,Florida,Unprovoked,21,M,Surfing,N
+1988,09,USA,Florida,Unprovoked,Unknown,F,Walking,N
+1988,09,USA,Florida,Unprovoked,38,M,Snorkeling,Y
+1988,08,USA,California,Unprovoked,27,M,Surfing,N
+1988,07,USA,Florida,Unprovoked,15,F,Swimming,N
+1988,07,USA,Florida,Unprovoked,37,M,Surfing,N
+1988,06,SOUTH AFRICA,Western Cape Province,Unprovoked,36,M,Spearfishing,N
+1988,06,USA,North Carolina,Unprovoked,42,M,Diving,N
+1988,06,USA,Florida,Unprovoked,12,M,Swimming,N
+1988,06,USA,Florida,Unprovoked,25,M,Surfing,N
+1988,05,USA,Florida,Unprovoked,31,M,Surfing,N
+1988,04,USA,California,Unprovoked,Unknown,M,Surfing,N
+1988,04,USA,Florida,Unprovoked,24,M,Swimming,N
+1988,04,USA,Florida,Unprovoked,14,M,Surfing,N
+1988,04,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1988,04,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,F,Unknown,Y
+1988,03,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+1988,03,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,17,M,Surfing,N
+1988,02,SOUTH AFRICA,KwaZulu-Natal,Boat,Unknown,Unknown,Unknown,N
+1988,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,20,M,Surfing,N
+1988,01,SOUTH AFRICA,KwaZulu-Natal,Invalid,22,M,Surfing,N
+1988,01,USA,Louisiana,Provoked,Unknown,M,Fishing,N
+1987,12,USA,Florida,Unprovoked,16,M,Surfing,N
+1987,12,AUSTRALIA,New South Wales,Invalid,16 to 18,F,Unknown,Y
+1987,11,USA,Florida,Unprovoked,15,M,Surfing,N
+1987,11,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Unknown,N
+1987,10,USA,California,Unprovoked,20,M,Surfing,N
+1987,10,SOUTH AFRICA,KwaZulu-Natal,Invalid,14,M,Surfing,N
+1987,10,SOUTH AFRICA,Western Cape Province,Unprovoked,21,M,Spearfishing,N
+1987,09,SOUTH AFRICA,Western Cape Province,Unprovoked,24,M,Surfing,N
+1987,08,USA,Florida,Unprovoked,12,M,Wading,N
+1987,07,USA,Florida,Unprovoked,27,M,Surfing,N
+1987,07,USA,Texas,Unprovoked,32,F,Surfing,N
+1987,07,USA,Texas,Unprovoked,16,F,Wading,N
+1987,07,BAHAMAS,Exuma Islands,Unprovoked,35,M,Snorkeling,N
+1987,06,USA,Florida,Provoked,Unknown,M,Fishing,N
+1987,05,USA,South Carolina,Unprovoked,12,M,Unknown,N
+1987,05,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1987,05,AUSTRALIA,New South Wales,Provoked,34,M,Fishing,N
+1987,04,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Fishing,Y
+1987,04,USA,Texas,Unprovoked,16,F,Swimming,N
+1987,03,AUSTRALIA,Western Australia,Unprovoked,18,M,Surfing,N
+1987,03,SOUTH AFRICA,Western Cape Province,Provoked,Unknown,Unknown,Unknown,N
+1987,02,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1987,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,30,M,Spearfishing,N
+1987,01,AUSTRALIA,Queensland,Unprovoked,37,M,Swimming,N
+1986,12,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Spearfishing,N
+1986,12,SOUTH AFRICA,Western Cape Province,Unprovoked,21,M,Surfing,Y
+1986,12,USA,Florida,Unprovoked,40,M,Surfing,N
+1986,12,SOUTH AFRICA,Western Cape Province,Invalid,22,M,Spearfishing,N
+1986,11,USA,Florida,Unprovoked,17,M,Surfing,N
+1986,11,USA,Florida,Unprovoked,26,M,Surfing,N
+1986,11,USA,Florida,Unprovoked,23,M,Surfing,N
+1986,10,USA,Florida,Unprovoked,6,F,Swimming,N
+1986,10,AUSTRALIA,Western Australia,Unprovoked,Unknown,Unknown,Unknown,UNKNOWN
+1986,10,USA,Florida,Unprovoked,28,M,Surfing,N
+1986,09,USA,Florida,Invalid,Unknown,Unknown,Unknown,N
+1986,09,USA,Florida,Unprovoked,Unknown,Unknown,Surfing,N
+1986,09,USA,Florida,Unprovoked,18,Unknown,Surfing,N
+1986,08,USA,North Carolina,Unprovoked,16,Unknown,Surfing,N
+1986,08,SOUTH AFRICA,Western Cape Province,Invalid,35,M,Spearfishing,N
+1986,08,AUSTRALIA,New South Wales,Unprovoked,Unknown,F,Diving,N
+1986,07,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Fishing,N
+1986,07,USA,South Carolina,Unprovoked,8,M,Unknown,N
+1986,07,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,26,M,Spearfishing,N
+1986,05,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Diving,N
+1986,03,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,26,M,Treading water,N
+1986,03,SOUTH AFRICA,Eastern Cape Province,Unprovoked,23,M,Surfing,N
+1986,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,21,M,Surfing,N
+1986,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Surfing,N
+1986,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,46,M,Swimming,N
+1986,02,SOUTH AFRICA,Western Cape Province,Unprovoked,29,M,Spearfishing,N
+1986,02,AUSTRALIA,Victoria,Unprovoked,29,M,Surfing,N
+1986,01,USA,Florida,Unprovoked,22,M,Surfing,N
+1985,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,Unknown,M,Surfing,N
+1985,12,USA,North Carolina,Unprovoked,Unknown,M,Unknown,N
+1985,11,AUSTRALIA,Queensland,Provoked,Unknown,M,Fishing,N
+1985,11,USA,California,Provoked,24,M,Fishing,N
+1985,10,SOUTH AFRICA,Eastern Cape Province,Unprovoked,22,M,Surfing,N
+1985,10,USA,Hawaii,Unprovoked,33,M,Surfing,N
+1985,10,USA,Alabama,Provoked,Unknown,M,Fishing,N
+1985,09,SOUTH AFRICA,KwaZulu-Natal,Invalid,21,M,Swimming,Y
+1985,09,USA,Florida,Unprovoked,Unknown,M,Diving,N
+1985,09,USA,Florida,Invalid,17,M,Swimming,N
+1985,08,USA,South Carolina,Unprovoked,87,M,Wading,N
+1985,08,USA,Florida,Invalid,11,M,Wading,N
+1985,08,USA,Florida,Invalid,67,M,Diving,Y
+1985,07,USA,Florida,Unprovoked,13,F,Wading,N
+1985,07,USA,Florida,Unprovoked,15,M,Surfing,N
+1985,05,SOUTH AFRICA,KwaZulu-Natal,Provoked,39,M,Spearfishing,N
+1985,03,USA,Florida,Unprovoked,25,M,Surfing,N
+1985,02,USA,Florida,Unprovoked,16,M,Surfing,N
+1985,01,SOUTH AFRICA,Western Cape Province,Unprovoked,15,M,Swimming,N
+1985,01,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Unknown,Y
+1985,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,18,M,Surfing,N
+1985,01,SOUTH AFRICA,Western Cape Province,Unprovoked,34,M,Spearfishing,N
+1985,01,NEW CALEDONIA,South Province,Unprovoked,Unknown,Unknown,Spearfishing,N
+1985,01,SOUTH AFRICA,KwaZulu-Natal,Provoked,20,M,Spearfishing,N
+1984,11,USA,Florida,Unprovoked,13,M,Surfing,N
+1984,11,USA,Florida,Provoked,29,M,Spearfishing,N
+1984,10,USA,Florida,Invalid,22,M,Swimming,Y
+1984,10,USA,Florida,Invalid,77,F,Wading,N
+1984,10,USA,Florida,Unprovoked,15,M,Surfing,N
+1984,09,USA,Florida,Unprovoked,17,M,Surfing,N
+1984,09,USA,Florida,Unprovoked,Elderly,M,Swimming,N
+1984,09,USA,Florida,Unprovoked,16,M,Surfing,N
+1984,09,USA,Florida,Unprovoked,Unknown,Unknown,Swimming,UNKNOWN
+1984,09,USA,California,Unprovoked,Unknown,M,Wading,N
+1984,09,MEXICO,California,Provoked,Unknown,M,Spearfishing,N
+1984,07,USA,Texas,Unprovoked,13,F,Swimming,N
+1984,07,USA,Texas,Unprovoked,18,F,Swimming,N
+1984,07,SOUTH AFRICA,Western Cape Province,Invalid,21,M,Spearfishing,Y
+1984,07,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,Unknown,M,Spearfishing,N
+1984,06,SOUTH AFRICA,Western Cape Province,Unprovoked,27,M,Surfing,N
+1984,05,SOUTH AFRICA,Western Cape Province,Unprovoked,28,M,Spearfishing,N
+1984,03,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,Unknown,M,Surfing,N
+1984,03,AUSTRALIA,Western Australia,Unprovoked,Unknown,Unknown,Unknown,UNKNOWN
+1984,02,SOUTH AFRICA,Eastern Cape Province,Provoked,Unknown,M,Fishing,N
+1984,02,SOUTH AFRICA,KwaZulu-Natal,Provoked,33,M,Diving,N
+1984,02,SOUTH AFRICA,Eastern Cape Province,Invalid,Unknown,Unknown,Unknown,Y
+1984,02,AUSTRALIA,Queensland,Unprovoked,27,M,Spearfishing,N
+1984,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,14,M,Swimming,N
+1984,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,14,F,Unknown,Y
+1983,12,USA,Florida,Unprovoked,17,M,Surfing,N
+1983,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Swimming,N
+1983,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,47,M,Swimming,N
+1983,12,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Unknown,N
+1983,11,USA,Florida,Unprovoked,15,M,Surfing,N
+1983,11,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,F,Swimming,Y
+1983,10,USA,Florida,Unprovoked,16,M,Surfing,N
+1983,10,USA,Florida,Unprovoked,20,M,Wading,N
+1983,09,USA,Florida,Unprovoked,15,M,Standing,N
+1983,08,USA,Oregon,Unprovoked,Unknown,M,Surfing,N
+1983,08,SOUTH AFRICA,Western Cape Province,Unprovoked,29,M,Spearfishing,N
+1983,08,USA,Virginia,Unprovoked,14,F,Swimming,N
+1983,08,USA,Florida,Unprovoked,22,F,Diving,N
+1983,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Surfing,N
+1983,07,USA,Florida,Unprovoked,39,F,Surfing,N
+1983,07,BAHAMAS,Abaco Islands,Unprovoked,13,M,Spearfishing,N
+1983,06,USA,Florida,Unprovoked,42,M,Swimming,N
+1983,06,BAHAMAS,Abaco Islands,Unprovoked,15,M,Spearfishing,Y
+1983,05,USA,Florida,Unprovoked,15,M,Surfing,N
+1983,05,USA,Florida,Unprovoked,22,M,Surfing,N
+1983,04,USA,Florida,Unprovoked,Unknown,M,Surfing,UNKNOWN
+1983,04,SOUTH AFRICA,Eastern Cape Province,Unprovoked,27,M,Fishing,N
+1983,04,USA,Florida,Unprovoked,16,M,Surfing,N
+1983,04,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Unknown,N
+1983,03,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,17,M,Spearfishing,N
+1983,03,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Surfing,N
+1983,03,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1983,03,NEW CALEDONIA,Loyalty Islands,Unprovoked,Unknown,Unknown,Unknown,N
+1983,01,USA,South Carolina,Provoked,43,M,Fishing,N
+1983,01,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Unknown,Y
+1983,01,SOUTH AFRICA,Western Cape Province,Unprovoked,22,M,Surfing,N
+1983,01,SOUTH AFRICA,Western Cape Province,Unprovoked,32,M,Spearfishing,N
+1982,10,USA,Florida,Unprovoked,26,M,Surfing,N
+1982,09,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Surfing,N
+1982,09,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Surfing,N
+1982,09,USA,Florida,Unprovoked,20,M,Surfing,N
+1982,09,USA,California,Unprovoked,36,M,Diving,N
+1982,09,USA,Florida,Invalid,mid-20s,M,Unknown,Y
+1982,08,USA,California,Invalid,17,M,Surfing,N
+1982,08,SOUTH AFRICA,Western Cape Province,Unprovoked,18,F,Swimming,N
+1982,07,SOUTH AFRICA,KwaZulu-Natal,Invalid,20,M,Surfing,N
+1982,07,USA,Florida,Unprovoked,17,M,Swimming,N
+1982,07,USA,California,Invalid,43,M,Swimming,N
+1982,07,USA,Florida,Unprovoked,19,F,Swimming,N
+1982,07,NEW CALEDONIA,South Province,Unprovoked,Unknown,Unknown,Unknown,N
+1982,06,SOUTH AFRICA,Eastern Cape Province,Unprovoked,27,M,Surfing,Y
+1982,06,USA,South Carolina,Unprovoked,20,M,Swimming,N
+1982,06,USA,Florida,Unprovoked,8,F,Unknown,N
+1982,05,USA,South Carolina,Invalid,Ca. 33,F,Unknown,Y
+1982,03,USA,Florida,Unprovoked,16,M,Surfing,N
+1982,03,AUSTRALIA,New South Wales,Unprovoked,20,M,Surfing,Y
+1982,02,AUSTRALIA,Tasmania,Unprovoked,32,M,Spearfishing,Y
+1982,02,USA,Florida,Unprovoked,18,M,Surfing,N
+1982,02,SOUTH AFRICA,Western Cape Province,Provoked,Unknown,M,Fishing,N
+1982,02,USA,Hawaii,Unprovoked,Unknown,F,Wading,N
+1982,02,USA,Hawaii,Unprovoked,Unknown,F,Swimming,N
+1982,02,USA,Florida,Unprovoked,75,F,Swimming,Y
+1982,02,USA,Florida,Unprovoked,29,M,Diving,Y
+1982,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,20,M,Swimming,N
+1981,12,USA,California,Unprovoked,24,M,Surfing,Y
+1981,12,AUSTRALIA,Queensland,Unprovoked,Unknown,Unknown,Unknown,N
+1981,10,USA,Florida,Unprovoked,19,M,Swimming,N
+1981,10,USA,Florida,Unprovoked,Unknown,M,Surfing,UNKNOWN
+1981,10,USA,Florida,Unprovoked,17,M,Surfing,N
+1981,10,USA,Florida,Unprovoked,24,M,Surfing,N
+1981,09,USA,Florida,Unprovoked,28,M,Surfing,N
+1981,09,USA,Florida,Unprovoked,Unknown,Unknown,Surfing,N
+1981,09,USA,Florida,Unprovoked,26,M,Swimming,Y
+1981,09,USA,Florida,Unprovoked,25,M,Surfing,N
+1981,09,USA,Florida,Unprovoked,24,M,Surfing,N
+1981,08,USA,Florida,Unprovoked,15,M,Surfing,N
+1981,08,USA,Florida,Provoked,19,M,Spearfishing,N
+1981,08,USA,Hawaii,Invalid,Unknown,M,Fishing,Y
+1981,08,USA,Florida,Unprovoked,Unknown,M,Diving,N
+1981,07,USA,Florida,Unprovoked,16,F,Swimming,N
+1981,07,SOUTH AFRICA,Eastern Cape Province,Unprovoked,32,M,Surfing,N
+1981,07,USA,Florida,Unprovoked,Unknown,M,Spearfishing,N
+1981,06,USA,Hawaii,Invalid,Unknown,M,Unknown,Y
+1981,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,27,M,Surfing,N
+1981,05,USA,Florida,Unprovoked,32,M,Diving,N
+1981,05,USA,Florida,Unprovoked,Unknown,M,Diving,N
+1981,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,19,M,Surfing,N
+1981,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,24,M,Surfing,N
+1981,03,USA,Florida,Unprovoked,24,M,Surfing,N
+1981,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,30,M,Swimming,N
+1981,02,AUSTRALIA,Western Australia,Unprovoked,Unknown,Unknown,Unknown,UNKNOWN
+1981,02,USA,Florida,Unprovoked,15,M,Surfing,N
+1981,01,SOUTH AFRICA,KwaZulu-Natal,Invalid,23,M,Swimming,Y
+1980,12,SOUTH AFRICA,Eastern Cape Province,Invalid,Unknown,Unknown,Unknown,Y
+1980,11,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Swimming,N
+1980,11,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Swimming,Y
+1980,10,USA,Oregon,Unprovoked,29,M,Surfing,N
+1980,10,USA,California,Unprovoked,19,M,Surfing,N
+1980,08,USA,North Carolina,Unprovoked,10,F,Wading,N
+1980,07,USA,New Jersey,Unprovoked,15,M,Surfing,N
+1980,07,USA,Delaware,Unprovoked,22,F,Standing,N
+1980,07,USA,North Carolina,Unprovoked,Unknown,M,Surfing,N
+1980,07,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1980,06,USA,California,Provoked,44,F,Diving,N
+1980,05,SOUTH AFRICA,Eastern Cape Province,Unprovoked,22,M,Surfing,N
+1980,03,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,52,M,Diving,Y
+1980,03,SOUTH AFRICA,Western Cape Province,Provoked,61,M,Fishing,N
+1980,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,24,M,Surfing,N
+1980,01,SOUTH AFRICA,KwaZulu-Natal,Provoked,29,M,Spearfishing,N
+1980,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Swimming,N
+1980,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,25,M,Swimming,N
+1979,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,18,M,Swimming,N
+1979,11,USA,Oregon,Unprovoked,20,M,Surfing,N
+1979,10,SOUTH AFRICA,Eastern Cape Province,Provoked,Unknown,M,Fishing,N
+1979,09,AUSTRALIA,New South Wales,Unprovoked,18,M,Diving,N
+1979,08,USA,Florida,Unprovoked,49,M,Kayaking,N
+1979,05,USA,Florida,Invalid,36,M,Diving,Y
+1979,05,SOUTH AFRICA,Western Cape Province,Provoked,25,M,Spearfishing,N
+1979,05,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,Unknown,M,Diving,Y
+1979,05,NEW CALEDONIA,North Province,Unprovoked,Unknown,Unknown,Fishing,N
+1979,05,NEW CALEDONIA,North Province,Unprovoked,Unknown,M,Unknown,Y
+1979,04,USA,Florida,Unprovoked,24,M,Swimming,N
+1979,04,USA,Florida,Unprovoked,8,M,Surfing,N
+1979,03,USA,Florida,Unprovoked,27,M,Surfing,N
+1979,03,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Unknown,N
+1978,12,AUSTRALIA,Queensland,Unprovoked, ,M,Unknown,N
+1978,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,23,M,Spearfishing,Y
+1978,11,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+1978,11,USA,Florida,Unprovoked,17,M,Surfing,N
+1978,10,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Fishing,Y
+1978,09,SOUTH AFRICA,Western Cape Province,Unprovoked,27,M,Spearfishing,N
+1978,08,USA,California,Unprovoked,Unknown,M,Wading,N
+1978,07,USA,California,Provoked,27,M,Fishing,N
+1978,06,USA,Florida,Unprovoked,20,M,Surfing,N
+1978,06,USA,Florida,Unprovoked,17,M,Surfing,N
+1978,04,AUSTRALIA,Tasmania,Unprovoked,Unknown,M,Diving,N
+1978,03,SOUTH AFRICA,Eastern Cape Province,Boat,Unknown,Unknown,Unknown,N
+1978,02,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Diving,N
+1978,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,17,M,Surfing,N
+1978,01,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Unknown,Y
+1977,12,USA,Florida,Unprovoked,27,M,Surfing,N
+1977,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,18,M,Surfing,N
+1977,11,SOUTH AFRICA,Western Cape Province,Provoked,Unknown,M,Standing,N
+1977,10,SOUTH AFRICA,Western Cape Province,Unprovoked,25,M,Spearfishing,N
+1977,08,AUSTRALIA,South Australia,Unprovoked,17,M,Surfing,N
+1977,08,SOUTH AFRICA,Western Cape Province,Boat,Unknown,M,Fishing,N
+1977,08,USA,Florida,Invalid,17,M,Wading,N
+1977,05,AUSTRALIA,Queensland,Invalid,Unknown,M,Unknown,N
+1977,04,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,N
+1977,04,USA,Hawaii,Unprovoked,Unknown,M,Swimming,N
+1977,03,SOUTH AFRICA,Western Cape Province,Unprovoked,31,M,Swimming,N
+1977,02,AUSTRALIA,Victoria,Invalid,Unknown,M,Unknown,Y
+1977,01,MEXICO,Guerrero,Unprovoked,Unknown,M,Swimming,Y
+1976,12,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,N
+1976,11,AUSTRALIA,Queensland,Invalid,Unknown,Unknown,Unknown,Y
+1976,11,USA,Florida,Unprovoked,19,M,Surfing,N
+1976,11,SOUTH AFRICA,KwaZulu-Natal,Invalid,17,M,Swimming,N
+1976,10,USA,California,Unprovoked,25,M,Surfing,N
+1976,10,SOUTH AFRICA,Eastern Cape Province,Unprovoked,20,M,Surfing,N
+1976,09,USA,Florida,Unprovoked,16,M,Swimming,Y
+1976,09,USA,Florida,Unprovoked,Unknown,M,Swimming,Y
+1976,09,USA,Florida,Unprovoked,15,M,Surfing,N
+1976,08,USA,Oregon,Unprovoked,19,M,Surfing,N
+1976,07,USA,Florida,Unprovoked,24,M,Spearfishing,N
+1976,07,USA,Hawaii,Unprovoked,18,M,Diving,Y
+1976,07,USA,Florida,Unprovoked,23,M,Spearfishing,N
+1976,06,USA,Hawaii,Unprovoked,Unknown,M,Swimming,N
+1976,04,USA,Texas,Invalid,Unknown,Unknown,Unknown,Y
+1976,03,USA,Florida,Unprovoked,21 or 26,M,Standing,N
+1976,03,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Fishing,N
+1976,03,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Unknown,N
+1976,03,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Unknown,N
+1976,01,AUSTRALIA,Queensland,Unprovoked,Unknown,F,Unknown,N
+1976,01,NEW ZEALAND,North Island,Unprovoked,Unknown,M,Spearfishing,Y
+1975,11,AUSTRALIA,New South Wales,Unprovoked,20,M,Standing,N
+1975,11,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,33,M,Standing,N
+1975,11,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,N
+1975,11,USA,Florida,Unprovoked,18,M,Surfing,N
+1975,10,USA,New Jersey,Invalid,Unknown,M,Fishing,N
+1975,10,AUSTRALIA,New South Wales,Unprovoked,20,M,Surfing,N
+1975,10,USA,California,Invalid,Unknown,Unknown,Surfing,UNKNOWN
+1975,08,SOUTH AFRICA,Eastern Cape Province,Unprovoked,19,M,Surfing,N
+1975,07,USA,Florida,Unprovoked,24,M,Diving,N
+1975,07,AUSTRALIA,Queensland,Unprovoked,21,M,Surfing,N
+1975,07,USA,Florida,Unprovoked,14,F,Swimming,N
+1975,07,AUSTRALIA,Western Australia,Provoked,29,M,Spearfishing,N
+1975,07,USA,Florida,Unprovoked,16,M,Surfing,N
+1975,06,USA,South Carolina,Unprovoked,18,M,Swimming,N
+1975,06,USA,South Carolina,Unprovoked,15,F,Standing,N
+1975,06,USA,Florida,Unprovoked,20,M,Surfing,N
+1975,06,USA,Florida,Provoked,Unknown,M,Unknown,N
+1975,05,USA,Florida,Unprovoked,17,M,Surfing,N
+1975,04,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Unknown,Y
+1975,03,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Swimming,Y
+1975,03,AUSTRALIA,Queensland,Unprovoked,Unknown,F,Unknown,N
+1975,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,16,M,Surfing,N
+1975,02,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Unknown,N
+1975,02,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,N
+1975,02,SOUTH AFRICA,Western Cape Province,Provoked,12,M,Fishing,N
+1975,01,AUSTRALIA,South Australia,Unprovoked,17,M,Surfing,Y
+1974,12,AUSTRALIA,Western Australia,Unprovoked,32,Unknown,Unknown,N
+1974,11,USA,Florida,Unprovoked,24,M,Standing,N
+1974,09,USA,California,Unprovoked,17,M,Surfing,N
+1974,09,USA,Oregon,Unprovoked,24,M,Surfing,N
+1974,08,USA,California,Unprovoked,Unknown,M,Surfing,N
+1974,07,USA,Georgia,Unprovoked,17,M,Swimming,Y
+1974,06,USA,Florida,Unprovoked,61,F,Swimming,N
+1974,04,SOUTH AFRICA,Western Cape Province,Unprovoked,22,M,Spearfishing,N
+1974,04,SOUTH AFRICA,Eastern Cape Province,Unprovoked,19,M,Standing,N
+1974,04,USA,Florida,Unprovoked,11,F,Swimming,N
+1974,04,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,17,M,Surfing,N
+1974,03,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,21,M,Surfing,N
+1974,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,14,M,Swimming,N
+1974,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,19,M,Swimming,N
+1974,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,33,M,Swimming,N
+1974,01,MOZAMBIQUE,Gaza,Unprovoked,Unknown,M,Swimming,Y
+1974,01,MOZAMBIQUE,Gaza,Unprovoked,32,M,Swimming,Y
+1973,12,MOZAMBIQUE,Gaza,Unprovoked,41,M,Spearfishing,N
+1973,12,MOZAMBIQUE,Gaza,Unprovoked,20,M,Swimming,Y
+1973,12,USA,Hawaii,Unprovoked,Unknown,M,Swimming,N
+1973,11,AUSTRALIA,Western Australia,Unprovoked,Unknown,Unknown,Unknown,N
+1973,11,USA,Florida,Unprovoked,13,M,Surfing,N
+1973,11,AUSTRALIA,Queensland,Unprovoked,Unknown,Unknown,Unknown,N
+1973,09,EGYPT,Red Sea,Unprovoked,Unknown,M,Unknown,N
+1973,08,AUSTRALIA,Queensland,Unprovoked,21,Unknown,Unknown,UNKNOWN
+1973,08,AUSTRALIA,Queensland,Unprovoked,16,M,Surfing,N
+1973,04,MEXICO,Guerrero,Unprovoked,45,M,Wading,Y
+1973,03,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,N
+1973,03,MOZAMBIQUE,Gaza,Unprovoked,28,M,Spearfishing,Y
+1973,03,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,26,M,Spearfishing,N
+1973,02,MEXICO,Guerrero,Unprovoked,57,Unknown,Swimming,Y
+1973,01,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+1972,12,SOUTH AFRICA,Western Cape Province,Unprovoked,29,M,Treading water,N
+1972,12,MOZAMBIQUE,Gaza,Unprovoked,25,M,Swimming,N
+1972,12,MEXICO,Guerrero,Unprovoked,17,M,Surfing,Y
+1972,12,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Swimming,N
+1972,12,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,N
+1972,12,AUSTRALIA,New South Wales,Provoked,24,Unknown,Unknown,N
+1972,10,AUSTRALIA,Queensland,Unprovoked,24,M,Spearfishing,N
+1972,10,AUSTRALIA,New South Wales,Unprovoked,19,M,Surfing,N
+1972,10,USA,Florida,Unprovoked,17,M,Surfing,N
+1972,10,NEW ZEALAND,North Island,Unprovoked,17,M,Swimming,N
+1972,09,USA,California,Unprovoked,Unknown,M,Surfing,N
+1972,09,MOZAMBIQUE,Maputo Province,Invalid,20,F,Swimming,N
+1972,08,USA,Florida,Unprovoked,15,M,Surfing,N
+1972,08,USA,Hawaii,Unprovoked,Unknown,M,Spearfishing,N
+1972,07,USA,California,Invalid,Unknown,Unknown,Diving,N
+1972,06,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,Y
+1972,06,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Unknown,Y
+1972,06,USA,Florida,Unprovoked,22,M,Surfing,N
+1972,04,AUSTRALIA,Queensland,Unprovoked,Unknown,F,Unknown,N
+1972,04,MOZAMBIQUE,Gaza,Unprovoked,19,M,Swimming,Y
+1972,03,USA,Hawaii,Unprovoked,Unknown,M,Spearfishing,N
+1972,02,AUSTRALIA,Victoria,Unprovoked,18,M,Surfing,N
+1972,02,AUSTRALIA,Tasmania,Unprovoked,Unknown,Unknown,Unknown,N
+1972,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,20,M,Swimming,Y
+1972,01,MOZAMBIQUE,Gaza,Unprovoked,24,M,Standing,N
+1971,12,AUSTRALIA,New South Wales,Unprovoked,22,Unknown,Unknown,N
+1971,12,SOUTH AFRICA,Western Cape Province,Unprovoked,16,F,Swimming,N
+1971,12,AUSTRALIA,Queensland,Unprovoked,20,M,Unknown,Y
+1971,11,AUSTRALIA,New South Wales,Provoked,20,Unknown,Unknown,N
+1971,10,USA,Florida,Unprovoked,18,M,Surfing,N
+1971,10,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,25,M,Swimming,N
+1971,10,USA,California,Unprovoked,30,M,Diving,N
+1971,09,USA,North Carolina,Unprovoked,17,Unknown,Surfing,N
+1971,09,AUSTRALIA,South Australia,Unprovoked,51,M,Fishing,Y
+1971,07,USA,Florida,Unprovoked,8,M,Wading,N
+1971,06,SOUTH AFRICA,Western Cape Province,Unprovoked,21,M,Surfing,N
+1971,04,SOUTH AFRICA,Western Cape Province,Unprovoked,>50,M,Swimming,Y
+1971,04,MEXICO,Guerrero,Unprovoked,19,M,Surfing,Y
+1971,03,NEW ZEALAND,South Island,Unprovoked,16,M,Surfing,N
+1971,01,AUSTRALIA,Tasmania,Unprovoked,Unknown,M,Swimming,N
+1970,10,USA,Hawaii,Unprovoked,Unknown,M,Surfing,N
+1970,10,USA,Florida,Unprovoked,Unknown,M,Surfing,N
+1970,09,AUSTRALIA,New South Wales,Provoked,20,M,Unknown,N
+1970,09,USA,South Carolina,Unprovoked,Unknown,M,Swimming,N
+1970,09,USA,Florida,Unprovoked,Unknown,M,Diving,N
+1970,06,USA,Florida,Provoked,13,M,Fishing,N
+1970,03,USA,Hawaii,Invalid,Unknown,M,Surfing,Y
+1970,03,USA,Florida,Unprovoked,19,M,Wading,N
+1970,01,MOZAMBIQUE,Limpopo River,Unprovoked,14,M,Swimming,N
+1970,01,MOZAMBIQUE,Limpopo River,Unprovoked,16,M,Swimming,N
+1970,01,MOZAMBIQUE,Limpopo River,Unprovoked,12,M,Swimming,N
+1970,01,MOZAMBIQUE,Limpopo River,Unprovoked,10,M,Swimming,N
+1970,01,MEXICO,Guerrero,Unprovoked,22,M,Swimming,N
+1969,11,AUSTRALIA,Western Australia,Unprovoked,15,M,Swimming,N
+1969,11,AUSTRALIA,New South Wales,Provoked,27,M,Unknown,N
+1969,10,USA,Hawaii,Unprovoked,Unknown,M,Diving,N
+1969,08,USA,Massachusetts,Provoked,28,M,Fishing,N
+1969,08,USA,Florida,Unprovoked,15,M,Surfing,N
+1969,08,USA,Florida,Unprovoked,13,M,Surfing,N
+1969,07,USA,Florida,Provoked,13,M,Unknown,N
+1969,06,USA,Florida,Unprovoked,22,M,Wading,UNKNOWN
+1969,06,USA,Florida,Unprovoked,8,M,Wading,N
+1969,05,USA,Florida,Provoked,23,M,Diving,N
+1969,05,AUSTRALIA,Queensland,Unprovoked,Unknown,Unknown,Unknown,N
+1969,04,USA,Florida,Provoked,adult,M,Fishing,N
+1969,03,AUSTRALIA,New South Wales,Provoked,65,M,Unknown,N
+1969,03,USA,Hawaii,Unprovoked,16,M,Surfing,N
+1969,02,AUSTRALIA,Tasmania,Provoked,49,M,Fishing,N
+1969,01,AUSTRALIA,Victoria,Unprovoked,Unknown,M,Unknown,N
+1968,12,NEW ZEALAND,South Island,Unprovoked,17,M,Surfing,N
+1968,12,AUSTRALIA,South Australia,Unprovoked,Unknown,M,Unknown,N
+1968,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,28,M,Spearfishing,N
+1968,12,SOUTH AFRICA,KwaZulu-Natal,Invalid,30,M,Unknown,N
+1968,11,SOUTH AFRICA,KwaZulu-Natal,Boat,22,M,Fishing,N
+1968,11,AUSTRALIA,Western Australia,Provoked,16,M,Unknown,N
+1968,09,USA,Florida,Invalid,Unknown,Unknown,Surfing,UNKNOWN
+1968,09,NEW ZEALAND,South Island,Unprovoked,24,M,Spearfishing,Y
+1968,08,USA,Florida,Unprovoked,15,M,Standing,N
+1968,07,USA,California,Unprovoked,25,M,Diving,N
+1968,07,USA,Florida,Unprovoked,33,M,Wading,N
+1968,07,MEXICO,California,Invalid,43,M,Unknown,N
+1968,05,PAPUA NEW GUINEA,New Ireland Province,Unprovoked,17,M,Standing,N
+1968,04,USA,Florida,Invalid,63,M,Wading,N
+1968,04,USA,Florida,Unprovoked,10,M,Unknown,N
+1968,04,AUSTRALIA,New South Wales,Provoked,47,M,Unknown,N
+1968,03,USA,Florida,Unprovoked,20,M,Surfing,N
+1968,03,USA,Florida,Invalid,28,M,Treading water,N
+1968,02,USA,Florida,Unprovoked,17,M,Surfing,N
+1968,02,AUSTRALIA,Western Australia,Unprovoked,14,F,Swimming,N
+1968,02,AUSTRALIA,South Australia,Unprovoked,26,M,Spearfishing,N
+1968,02,AUSTRALIA,New South Wales,Unprovoked,Unknown,Unknown,Unknown,N
+1967,12,SOUTH AFRICA,Western Cape Province,Unprovoked,22,M,Surfing,N
+1967,12,PAPUA NEW GUINEA,Central Province,Invalid,32,M,Spearfishing,N
+1967,12,AUSTRALIA,Victoria,Unprovoked,59,M,Swimming,Y
+1967,11,AUSTRALIA,Queensland,Unprovoked,18,M,Unknown,N
+1967,11,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,F,Unknown,Y
+1967,10,MEXICO,Veracruz,Unprovoked,Unknown,Unknown,Swimming,Y
+1967,09,PAPUA NEW GUINEA,New Ireland Province,Provoked,Unknown,Unknown,Diving,UNKNOWN
+1967,09,USA,Florida,Unprovoked,Unknown,Unknown,Spearfishing,N
+1967,09,PAPUA NEW GUINEA,New Ireland Province,Unprovoked,Unknown,M,Spearfishing,Y
+1967,09,PAPUA NEW GUINEA,New Ireland Province,Unprovoked,23,M,Spearfishing,Y
+1967,08,USA,Florida,Unprovoked,15,M,Spearfishing,N
+1967,07,USA,Florida,Unprovoked,20,M,Snorkeling,N
+1967,07,USA,South Carolina,Invalid,18,M,Surfing,N
+1967,06,USA,Florida,Provoked,26,M,Spearfishing,N
+1967,05,AUSTRALIA,South Australia,Provoked,30,M,Unknown,N
+1967,03,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,32,M,Spearfishing,N
+1967,03,AUSTRALIA,Victoria,Provoked,36,M,Spearfishing,N
+1967,03,PAPUA NEW GUINEA,New Britain,Unprovoked,14,M,Unknown,N
+1966,12,AUSTRALIA,Tasmania,Unprovoked,30,M,Fishing,N
+1966,12,AUSTRALIA,New South Wales,Provoked,29,M,Spearfishing,N
+1966,12,AUSTRALIA,New South Wales,Unprovoked,19,M,Spearfishing,N
+1966,12,AUSTRALIA,New South Wales,Unprovoked,29,M,Spearfishing,N
+1966,10,PAPUA NEW GUINEA,New Ireland Province,Unprovoked,13,F,Swimming,Y
+1966,09,USA,Hawaii,Provoked,20,M,Fishing,N
+1966,09,AUSTRALIA,Western Australia,Invalid,Unknown,M,Spearfishing,N
+1966,09,AUSTRALIA,Western Australia,Provoked,Unknown,M,Spearfishing,UNKNOWN
+1966,09,AUSTRALIA,Western Australia,Unprovoked,43,M,Spearfishing,N
+1966,08,AUSTRALIA,Northern Territory,Boat,Unknown,M,Unknown,N
+1966,08,USA,Florida,Unprovoked,8,M,Wading,N
+1966,07,USA,Texas,Unprovoked,14,M,Fishing,N
+1966,07,USA,Florida,Invalid,46,M,Diving,N
+1966,06,USA,Florida,Provoked,18,M,Fishing,N
+1966,06,USA,Texas,Unprovoked,18,M,Swimming,N
+1966,05,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Fishing,N
+1966,04,USA,Puerto Rico,Unprovoked,25,M,Swimming,N
+1966,02,AUSTRALIA,New South Wales,Unprovoked,13,M,Treading water,N
+1966,01,AUSTRALIA,New South Wales,Unprovoked,30,M,Spearfishing,N
+1966,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,16,M,Standing,N
+1966,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,15,M,Surfing,N
+1966,01,USA,Florida,Unprovoked,35,M,Swimming,N
+1965,12,AUSTRALIA,South Australia,Boat,Unknown,Unknown,Fishing,N
+1965,11,AUSTRALIA,Queensland,Unprovoked,24,M,Surfing,N
+1965,10,PAPUA NEW GUINEA,New Britain,Unprovoked,27,M,Wading,N
+1965,09,MEXICO,Veracruz,Unprovoked,23,M,Unknown,N
+1965,08,USA,New Jersey,Unprovoked,15,M,Swimming,N
+1965,06,USA,Florida,Invalid,6,M,Wading,N
+1965,06,MEXICO,Veracruz,Unprovoked,38,M,Swimming,N
+1965,05,MEXICO,Veracruz,Unprovoked,Unknown,M,Swimming,Y
+1965,05,MEXICO,Veracruz,Unprovoked,Unknown,M,Swimming,Y
+1965,05,MEXICO,Veracruz,Unprovoked,35,M,Swimming,N
+1965,04,USA,Florida,Unprovoked,49,M,Unknown,N
+1965,04,USA,California,Invalid,19,M,Surfing,Y
+1965,04,USA,Florida,Unprovoked,28,M,Spearfishing,N
+1965,03,USA,Florida,Unprovoked,16,M,Diving,N
+1965,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,25,M,Treading water,N
+1965,02,USA,Massachusetts,Unprovoked,18,M,Diving,N
+1965,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,20,M,Surfing,N
+1965,01,AUSTRALIA,Victoria,Unprovoked,Unknown,M,Swimming,N
+1964,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,19,M,Swimming,N
+1964,12,PAPUA NEW GUINEA,Bougainville (North Solomons),Unprovoked,Unknown,M,Unknown,N
+1964,12,AUSTRALIA,New South Wales,Boat,Unknown,Unknown,Fishing,N
+1964,10,SOUTH AFRICA,KwaZulu-Natal,Provoked,Unknown,M,Fishing,N
+1964,08,USA,Florida,Unprovoked,14,M,Swimming,N
+1964,08,USA,Florida,Unprovoked,Unknown,M,Swimming,N
+1964,07,USA,Puerto Rico,Provoked,22,M,Unknown,N
+1964,06,USA,California,Boat,Unknown,Unknown,Fishing,N
+1964,06,PAPUA NEW GUINEA,New Britain,Boat,Unknown,M,Fishing,N
+1964,06,SOUTH AFRICA,KwaZulu-Natal,Invalid,40,M,Swimming,Y
+1964,04,PAPUA NEW GUINEA,Madang Province,Unprovoked,Unknown,M,Fishing,Y
+1964,03,AUSTRALIA,South Australia,Unprovoked,19,M,Surfing,N
+1964,02,NEW ZEALAND,North Island,Unprovoked,26,M,Spearfishing,N
+1964,02,SOUTH AFRICA,Western Cape Province,Unprovoked,25,M,Surfing,N
+1964,02,NEW ZEALAND,South Island,Unprovoked,19,M,Swimming,Y
+1964,02,AUSTRALIA,Queensland,Invalid,23,M,Swimming,Y
+1964,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,39,M,Surfing,N
+1964,01,SOUTH AFRICA,Eastern Cape Province,Unprovoked,17,M,Standing,N
+1964,01,PAPUA NEW GUINEA,New Britain,Unprovoked,Unknown,M,Fishing,Y
+1964,01,AUSTRALIA,Western Australia,Unprovoked,Unknown,Unknown,Unknown,UNKNOWN
+1964,01,NEW ZEALAND,North Island,Invalid,Unknown,M,Snorkeling,N
+1963,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,20,F,Standing,N
+1963,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,24,M,Swimming,N
+1963,12,SOUTH AFRICA,Eastern Cape Province,Unprovoked,18,M,Swimming,Y
+1963,12,AUSTRALIA,New South Wales,Provoked,Unknown,M,Fishing,N
+1963,12,SOUTH AFRICA,Western Cape Province,Unprovoked,Unknown,M,Spearfishing,N
+1963,12,AUSTRALIA,South Australia,Unprovoked,23,M,Spearfishing,N
+1963,11,PAPUA NEW GUINEA,New Britain,Unprovoked,Unknown,M,Wading,N
+1963,09,AUSTRALIA,New South Wales,Provoked,18,M,Surfing,N
+1963,06,PAPUA NEW GUINEA,Central Province,Provoked,30,M,Fishing,N
+1963,05,USA,California,Invalid,Unknown,M,Swimming,N
+1963,04,AUSTRALIA,New South Wales,Provoked,Unknown,M,Fishing,N
+1963,04,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,15,M,Swimming,N
+1963,02,PAPUA NEW GUINEA,New Ireland Province,Unprovoked,Unknown,M,Swimming,N
+1963,02,AUSTRALIA,New South Wales,Unprovoked,18,M,Spearfishing,N
+1963,01,AUSTRALIA,New South Wales,Unprovoked,32,F,Wading,Y
+1963,01,AUSTRALIA,New South Wales,Invalid,25,M,Swimming,Y
+1963,01,NEW ZEALAND,North Island,Provoked,14,Unknown,Fishing,N
+1963,01,SOUTH AFRICA,Eastern Cape Province,Provoked,Unknown,M,Fishing,N
+1963,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,24,M,Spearfishing,N
+1962,12,SOUTH AFRICA,KwaZulu-Natal,Provoked,Unknown,M,Diving,N
+1962,12,AUSTRALIA,South Australia,Unprovoked,16,M,Spearfishing,Y
+1962,12,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Fishing,N
+1962,11,AUSTRALIA,Queensland,Invalid,Unknown,M,Unknown,Y
+1962,11,AUSTRALIA,New South Wales,Boat,Unknown,Unknown,Fishing,N
+1962,10,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,30,M,Spearfishing,N
+1962,10,MEXICO,Veracruz,Unprovoked,32,M,Wading,Y
+1962,09,MEXICO,Veracruz,Unprovoked,20,M,Swimming,N
+1962,08,USA,Florida,Boat,Unknown,Unknown,Unknown,N
+1962,08,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Fishing,N
+1962,08,USA,New Jersey,Unprovoked,24,M,Standing,N
+1962,07,USA,South Carolina,Unprovoked,21,M,Standing,N
+1962,06,USA,South Carolina,Unprovoked,13,M,Standing,N
+1962,06,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Fishing,N
+1962,06,USA,Florida,Unprovoked,31,M,Diving,N
+1962,05,USA,Florida,Unprovoked,17,M,Unknown,N
+1962,04,AUSTRALIA,Queensland,Provoked,Unknown,Unknown,Fishing,N
+1962,04,MOZAMBIQUE,Gaza,Unprovoked,16,M,Swimming,N
+1962,04,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,13,M,Wading,N
+1962,04,SOUTH AFRICA,Eastern Cape Province,Provoked,Unknown,Unknown,Fishing,N
+1962,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,22,M,Swimming,Y
+1962,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,13,M,Treading water,Y
+1962,02,AUSTRALIA,Queensland,Unprovoked,35,M,Swimming,N
+1962,02,NEW ZEALAND,North Island,Boat,Unknown,Unknown,Fishing,UNKNOWN
+1962,01,MOZAMBIQUE,Gaza,Unprovoked,16,M,Unknown,UNKNOWN
+1962,01,AUSTRALIA,New South Wales,Provoked,19,M,Spearfishing,N
+1962,01,NEW ZEALAND,South Island,Provoked,Unknown,Unknown,Fishing,N
+1962,01,NEW ZEALAND,North Island,Unprovoked,44,M,Spearfishing,N
+1962,01,AUSTRALIA,New South Wales,Provoked,Unknown,Unknown,Spearfishing,N
+1962,01,AUSTRALIA,New South Wales,Unprovoked,19,M,Surfing,N
+1962,01,AUSTRALIA,South Australia,Boat,Unknown,Unknown,Fishing,N
+1962,01,NEW ZEALAND,South Island,Unprovoked,54,F,Fishing,N
+1962,01,AUSTRALIA,New South Wales,Invalid,25,M,Swimming,Y
+1962,01,AUSTRALIA,New South Wales,Unprovoked,Unknown,Unknown,Surfing,N
+1962,01,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Fishing,N
+1962,01,AUSTRALIA,New South Wales,Provoked,Unknown,Unknown,Fishing,N
+1961,12,AUSTRALIA,Queensland,Unprovoked,18,F,Standing,Y
+1961,12,AUSTRALIA,Queensland,Unprovoked,24,M,Standing,N
+1961,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,18,M,Treading water,N
+1961,12,AUSTRALIA,Western Australia,Provoked,23,M,Spearfishing,N
+1961,10,USA,Florida,Invalid,45,M,Swimming,Y
+1961,10,USA,Florida,Unprovoked,45,M,Unknown,Y
+1961,09,USA,Florida,Provoked,16,M,Unknown,N
+1961,08,USA,California,Unprovoked,16,M,Swimming,N
+1961,08,USA,South Carolina,Unprovoked,19,M,Wading,N
+1961,07,USA,New York,Provoked,57,M,Spearfishing,N
+1961,06,USA,Florida,Unprovoked,25,M,Standing,N
+1961,05,AUSTRALIA,Western Australia,Provoked,Unknown,M,Spearfishing,N
+1961,04,AUSTRALIA,New South Wales,Provoked,Unknown,M,Spearfishing,N
+1961,04,MOZAMBIQUE,Gaza,Unprovoked,37,M,Swimming,N
+1961,04,SOUTH AFRICA,Eastern Cape Province,Provoked,Unknown,M,Diving,N
+1961,04,USA,Florida,Unprovoked,22,M,Spearfishing,N
+1961,04,AUSTRALIA,New South Wales,Provoked,21,M,Spearfishing,N
+1961,04,AUSTRALIA,Victoria,Unprovoked,24,M,Spearfishing,N
+1961,04,AUSTRALIA,Western Australia,Provoked,Unknown,M,Spearfishing,N
+1961,03,AUSTRALIA,South Australia,Unprovoked,24,M,Spearfishing,N
+1961,03,AUSTRALIA,Victoria,Unprovoked,24,M,Swimming,N
+1961,03,AUSTRALIA,South Australia,Unprovoked,21,M,Spearfishing,N
+1961,03,SOUTH AFRICA,KwaZulu-Natal,Provoked,44,M,Fishing,N
+1961,02,AUSTRALIA,Victoria,Unprovoked,Unknown,F,Standing,N
+1961,02,SOUTH AFRICA,Eastern Cape Province,Unprovoked,14,M,Swimming,Y
+1961,02,USA,California,Invalid,Unknown,M,Unknown,N
+1961,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,15,M,Swimming,N
+1961,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,13,M,Standing,N
+1961,01,AUSTRALIA,Northern Territory,Provoked,Unknown,M,Fishing,N
+1961,01,MOZAMBIQUE,Limpopo River,Unprovoked,Unknown,M,Swimming,N
+1961,01,SOUTH AFRICA,Western Cape Province,Unprovoked,25 or 28,M,Standing,N
+1961,01,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,Unknown,Unknown,Y
+1960,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,25,M,Swimming,Y
+1960,12,AUSTRALIA,Queensland,Unprovoked,Unknown,M,Fishing,N
+1960,11,PAPUA NEW GUINEA,Central Province,Unprovoked,Unknown,M,Fishing,Y
+1960,10,USA,Florida,Invalid,Unknown,M,Diving,Y
+1960,10,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Fishing,N
+1960,09,AUSTRALIA,Western Australia,Boat,Unknown,Unknown,Unknown,N
+1960,08,USA,New Jersey,Unprovoked,14,M,Unknown,N
+1960,07,PAPUA NEW GUINEA,Milne Bay,Unprovoked,25,M,Spearfishing,N
+1960,06,USA,South Carolina,Provoked,Unknown,M,Fishing,N
+1960,06,USA,Florida,Unprovoked,39,M,Diving,N
+1960,06,USA,Georgia,Unprovoked,24,M,Swimming,N
+1960,05,USA,California,Unprovoked,16,F,Swimming,N
+1960,05,USA,Florida,Provoked,Unknown,Unknown,Unknown,N
+1960,04,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,16,M,Treading water,N
+1960,04,SOUTH AFRICA,Eastern Cape Province,Provoked,Unknown,M,Fishing,N
+1960,04,AUSTRALIA,New South Wales,Unprovoked,17,M,Surfing,N
+1960,04,AUSTRALIA,Victoria,Unprovoked,Unknown,M,Spearfishing,N
+1960,04,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Fishing,N
+1960,03,USA,Florida,Unprovoked,42,M,Treading water,N
+1960,02,NEW ZEALAND,North Island,Unprovoked,22,M,Spearfishing,N
+1960,02,USA,Hawaii,Invalid,36,M,Spearfishing,N
+1960,02,PAPUA NEW GUINEA,Central Province,Unprovoked,26,M,Spearfishing,Y
+1960,02,AUSTRALIA,New South Wales,Provoked,20,M,Spearfishing,N
+1960,01,AUSTRALIA,South Australia,Boat,Unknown,Unknown,Unknown,N
+1960,01,AUSTRALIA,New South Wales,Unprovoked,13,M,Diving,Y
+1959,12,AUSTRALIA,New South Wales,Boat,50 & 30,Unknown,Fishing,N
+1959,12,AUSTRALIA,South Australia,Invalid,Unknown,M,Spearfishing,N
+1959,11,AUSTRALIA,Victoria,Unprovoked,19,M,Surfing,N
+1959,11,PAPUA NEW GUINEA,New Britain,Provoked,Unknown,M,Fishing,N
+1959,10,MOZAMBIQUE,Maputo Province,Unprovoked,X,M,Swimming,Y
+1959,08,AUSTRALIA,Tasmania,Invalid,Unknown,M,Swimming,N
+1959,08,USA,Florida,Invalid,21,M,Diving,N
+1959,08,USA,South Carolina,Provoked,Unknown,M,Fishing,N
+1959,08,USA,Georgia,Unprovoked,15,F,Standing,N
+1959,08,USA,California,Invalid,Unknown,M,Wading,N
+1959,07,USA,California,Boat,21,Unknown,Unknown,N
+1959,07,USA,California,Boat,Unknown,Unknown,Fishing,N
+1959,07,USA,Florida,Provoked,13,M,Diving,N
+1959,07,MEXICO,Quintana Roo,Unprovoked,Unknown,M,Wading,Y
+1959,06,USA,California,Invalid,Unknown,Unknown,Swimming,Y
+1959,05,SOUTH AFRICA,Eastern Cape Province,Provoked,23,M,Spearfishing,N
+1959,05,USA,Florida,Unprovoked,37,F,Unknown,N
+1959,05,USA,California,Unprovoked,18,M,Treading water,Y
+1959,05,USA,Florida,Unprovoked,19,M,Spearfishing,N
+1959,04,AUSTRALIA,New South Wales,Invalid,22,M,Spearfishing,N
+1959,04,USA,Hawaii,Unprovoked,Unknown,M,Fishing,N
+1959,04,SOUTH AFRICA,Eastern Cape Province,Unprovoked,Unknown,M,Fishing,N
+1959,04,AUSTRALIA,New South Wales,Unprovoked,Unknown,M,Spearfishing,N
+1959,03,USA,Florida,Unprovoked,13,M,Swimming,N
+1959,02,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,14,M,Treading water,N
+1959,01,SOUTH AFRICA,Western Cape Province,Unprovoked,18,M,Swimming,N
+1958,12,PAPUA NEW GUINEA,Madang Province,Unprovoked,Unknown,Unknown,Unknown,N
+1958,12,SOUTH AFRICA,Western Cape Province,Unprovoked,14,M,Swimming,Y
+1958,11,AUSTRALIA,Queensland,Unprovoked,21,M,Swimming,Y
+1958,11,SOUTH AFRICA,Western Cape Province,Invalid,Unknown,M,Fishing,N
+1958,11,USA,California,Boat,Unknown,Unknown,Fishing,N
+1958,10,USA,Florida,Unprovoked,60,M,Unknown,N
+1958,09,USA,New York,Provoked,20,M,Spearfishing,N
+1958,07,MEXICO,Guerrero,Unprovoked,Unknown,F,Swimming,Y
+1958,07,USA,Florida,Unprovoked,35,M,Unknown,Y
+1958,07,USA,Florida,Provoked,20,M,Diving,N
+1958,07,USA,Florida,Unprovoked,Unknown,M,Unknown,N
+1958,06,USA,Florida,Provoked,59,M,Wading,N
+1958,06,USA,Florida,Unprovoked,17,M,Walking,N
+1958,06,AUSTRALIA,Queensland,Invalid,Unknown,F,Swimming,N
+1958,06,SOUTH AFRICA,KwaZulu-Natal,Invalid,Unknown,M,Spearfishing,N
+1958,04,USA,Florida,Provoked,29,M,Diving,N
+1958,02,AUSTRALIA,New South Wales,Invalid,21,M,Spearfishing,Y
+1958,01,AUSTRALIA,New South Wales,Unprovoked,14,M,Surfing,N
+1958,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,Unknown,M,Swimming,Y
+1957,12,AUSTRALIA,South Australia,Unprovoked,Unknown,M,Spearfishing,N
+1957,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,14,F,Standing,N
+1957,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,15,M,Standing,Y
+1957,12,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,16,M,Surfing,N
+1957,11,AUSTRALIA,New South Wales,Boat,Unknown,Unknown,Fishing,N
+1957,07,USA,North Carolina,Unprovoked,57,M,Swimming,Y
+1957,04,USA,California,Unprovoked,25,M,Swimming,Y
+1957,04,AUSTRALIA,New South Wales,Unprovoked,15,M,Surfing,N
+1957,04,USA,Florida,Provoked,17,M,Standing,N
+1957,02,AUSTRALIA,Western Australia,Unprovoked,Unknown,M,Unknown,UNKNOWN
+1957,01,SOUTH AFRICA,KwaZulu-Natal,Unprovoked,12,M,Wading,Y
+1956,12,PAPUA NEW GUINEA,Milne Bay,Unprovoked,19,M,Spearfishing,Y
+1956,12,PAPUA NEW GUINEA,Milne Bay,Unprovoked,16,M,Spearfishing,Y
+1956,12,NEW ZEALAND,North Island,Provoked,70,M,Fishing,N
+1956,09,USA,Florida,Unprovoked,27,M,Fishing,N
+1956,08,PAPUA NEW GUINEA,Central Province,Unprovoked,Unknown,M,Fishing,N
+1956,08,AUSTRALIA,Queensland,Provoked,Unknown,M,Diving,N
+1956,08,PAPUA NEW GUINEA,Central Province,Unprovoked,Unknown,M,Fishing,N
+1956,08,PAPUA NEW GUINEA,Central Province,Unprovoked,Unknown,M,Fishing,N
+1956,07,USA,California,Provoked,38,M,Fishing,N
+1956,07,USA,Florida,Unprovoked,38,F,Wading,N
+1956,07,USA,South Carolina,Unprovoked,7,M,Swimming,N
+1956,05,SOUTH AFRICA,Western Cape Province,Boat,Unknown,Unknown,Fishing,N
+1956,05,AUSTRALIA,Torres Strait,Unprovoked,Unknown,Unknown,Diving,N
+1956,02,AUSTRALIA,Victoria,Unprovoked,8,M,Swimming,N
