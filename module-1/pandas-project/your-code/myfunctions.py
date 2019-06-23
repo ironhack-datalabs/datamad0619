@@ -1,7 +1,12 @@
+# -*- coding: utf-8 -*-
+# Funciones de limpieza para el proyecto sobre pandas
+
 import pandas as pd
 import re
 import statistics as st
 
+# Función de limpieza que recibe un df, una columna afectada y una regex. La función busca filas que cumplan el regex y crea tantas filas idénticas según grupos
+# devuelva el regex, cambiando únicamente el valor de la columna afectada. A continuación, borra las filas afectas.
 def quitarDuplicados(fdf, col, regex):
     aux_fdf = fdf.copy()
     for e in fdf[col].fillna("Unknown"):
@@ -13,6 +18,7 @@ def quitarDuplicados(fdf, col, regex):
             aux_fdf = aux_fdf[aux_fdf[col]!=e].copy()
     return aux_fdf.copy()
 
+# Función para limpiar la columna Sizes (copia de Species) a través de regex
 def create_sizes(spe):
     tmn_i = re.findall("\d+''|\d+\"", spe)
     tmn_oi = re.findall("[\d\.]+(?='')|[\d\.]+(?= '')|[\d\.]+(?=\")|[\d\.]+(?= \")", spe)
@@ -56,7 +62,8 @@ def create_sizes(spe):
             return round(st.mean(map(float,re.findall("([\d\.]+)(?= cm\s+to\s+([\d\.]+))", spe)[0]))/30.48)    
     else:
         return "UNKNOWN"
-    
+
+# Función para limpiar la columna Species
 def cleanspecies(spe):
     spe = spe.lower()
     if "unknown" in spe:
@@ -147,6 +154,7 @@ def cleanspecies(spe):
     else:
         return "UNKNOWN"
 
+# Función para limpiar la columna Injury
 def cleaninjury(inj):
     inj = inj.lower()
     if "unknown" in inj:
@@ -170,6 +178,7 @@ def cleaninjury(inj):
     else:
         return "UNKNOWN"
 
+# Función para limpiar la columna Type
 def cleantype(typ):
     typ = typ.lower()
     if "boating" in typ:
@@ -178,3 +187,46 @@ def cleantype(typ):
         return "UNKNOWN"
     else:
         return typ.capitalize()
+
+# Función para limpiar la columna Type
+def cleanactivity(act):
+    act = act.lower()
+    if "unknown" in act:
+        return "UNKNOWN"
+    elif "surf" in act or "body" in act or "boogie" in act or "riding" in act or "paddl" in act or "kite" in act\
+    or "skiing" in act or "body board" in act:
+        return "Surfing"
+    elif "swimming" in act or "floating" in act or "tread" in act or "bath" in act or "splash" in act \
+    or "jump" in act or "playing" in act or "swim" in act:
+        return "Swimming"
+    elif "spearfishing" in act or "spearing" in act:
+        return "Spearfishing"
+    elif ("fishing" in act and "shark" in act) \
+    or ("shark" in act and "net" in act) or ("kill" in act and "shark" in act) or "finning" in act \
+    or ("hunt" in act and "shark" in act):
+        return "Fishing sharks"
+    elif "fish" in act or "shrimping" in act or "hunt" in act or "net" in act:
+        return "Fishing"
+    elif "walk" in act or "stand" in act or "wading" in act:
+        return "Walking"
+    elif "diving" in act or "dive" in act:
+        return "Diving"
+    elif "sitt" in act or "feet" in act or "wash" in act or "crouch" in act or "knee" in act:
+        return "Sitting"
+    elif "war" in act or "torpedo" in act or "navy" in act or ("air" in act and "force" in act) \
+    or "destroyer" in act or "submarine" in act:
+        return "Militar incident"
+    elif "filming" in act or "watching" in act or "tagging" in act or "measuring" in act or "photograph" in act:
+        return "Shark investigating"
+    elif "disaster" in act or "drift" in act or "went down" in act or "go down" in act or "lifesav" in act\
+    or "sank" in act or "sunk" in act or "boeing 757" in act or "fell" in act:
+        return "Sea Disaster"
+    elif "snorkel" in act:
+        return "Snorkeling"
+    elif "playing" in act or "picking up" in act or "teasing" in act or "petting" in act:
+        return "Touching a shark"
+    elif "canoeing" in act or "kayak" in act or "boat" in act or "rowing" in act or "overboard" in act \
+    or "ship" in act or "sail" in act:
+        return "Boat"
+    else:
+        return "UNKNOWN"
