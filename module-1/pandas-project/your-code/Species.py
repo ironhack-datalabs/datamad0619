@@ -63,5 +63,3 @@ def normal_species(str):
     elif re.search("\d'",y) or re.search("\d*.m",y) or re.search("small",y) or re.search("kg",y):
         return 'Other'
     else: return 'Other'
-    
-print(normal_species("Shark in msadfasfj white oceanic"))
