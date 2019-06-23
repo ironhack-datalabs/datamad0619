@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 import math
 import pandas as pd
 
-# Función que devuelve n_plots gráficos de la columna f_col del dataframe f_df.
+# Función que devuelve n_plots gráficos de la columna f_col del dataframe f_df. El df se ordena para devolver primero los gráficos con más counts()
 
 def draw_plot(f_df, f_col, n_plots):
 
@@ -14,6 +14,7 @@ def draw_plot(f_df, f_col, n_plots):
     f_df_order = f_df.groupby([f_col])["Sizes"].count().reset_index(name='count').sort_values(['count'], ascending=False)
     
     fig=plt.figure(figsize=(20,10))
+    fig.suptitle("Cantidad de {} vs Sizes".format(f_col), fontsize=16) # No me funciona, no sé por qué
     fig.subplots_adjust(hspace=0.4, wspace=0.4)
     
     colors = ["gray", "b", "g", "orange", "skyblue", "r", "black", "coral", "brown", "k", "pink"]
@@ -28,7 +29,7 @@ def draw_plot(f_df, f_col, n_plots):
             plt.subplot(math.ceil(n_plots/2),2,i+1)
             ataque=f_df_aux[e]
             ataque.plot(kind='bar', color=colors[ic])
-            plt.title(e,size=12,fontweight='bold')
+            plt.title(e + "Shark",size=12,fontweight='bold')
             plt.ylabel('Number of attacks',size=10) 
             plt.xlabel('Sizes',size=10)
             ic += 1
