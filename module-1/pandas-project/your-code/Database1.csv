@@ -1,0 +1,513 @@
+,Case Number,Date,Year,Type,Country,Area,Location,Activity,Sex ,Age,Fatal (Y/N)
+5,2016.09.15.R,Sep,2016,Boat,AUSTRALIA,Western Australia,Bunbury,Fishing,Unknown,Unknown,N
+7,2016.09.07,Sep,2016,Unprovoked,USA,Hawaii,"Makaha, Oahu",Swimming,F,51,N
+9,2016.09.05.b,Sep,2016,Unprovoked,USA,South Carolina,"Kingston Plantation, Myrtle Beach, Horry County",Boogie boarding,F,12,N
+29,2016.07.17,Jul,2016,Boat,USA,Alabama,8 miles off Mobile,Fishing in Alabama Deep Fishing Rodeo,Unknown,Unknown,N
+30,2016.07.16.b,Jul,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,9,N
+31,2016.07.16.a,Jul,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Unknown,F,11,N
+34,2016.07.08.R,Jul,2016,Unprovoked,SPAIN,Canary Islands,"Las Teresitas, Tenerife",Wading,F,10,N
+38,2016.07.06,Jul,2016,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,F,42,N
+48,2016.06.14,Jun,2016,Unprovoked,USA,Texas,"Pirates Beach, Galveston",Floating in tube,F,6,N
+52,2016.06.05.a,Jun,2016,Unprovoked,AUSTRALIA,Western Australia,Mindarie,Diving,F,60,Y
+57,2016.05.29.b,May,2016,Unprovoked,USA,California,"Corona Del Mar, Newport, Orange County",Swimming,F,52,N
+59,2016.05.22,May,2016,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,F,57,N
+60,2016.05.21.b,May,2016,Unprovoked,USA,Florida,"St. Petersburg, Pinellas County",Swimming,F,22,N
+61,2016.05.21.a,May,2016,Unprovoked,USA,Florida,"Hugenot Beach , Jacksonville, Duval County",Swimming,F,11,N
+63,2016.05.15,May,2016,Provoked,USA,Florida,"Boca Raton, Palm Beach County",Teasing a shark,F,23,N
+72,2016.04.09,Apr,2016,Unprovoked,NEW CALEDONIA,Grand Terre,Poe Beach,Walking,F,69,Y
+76,2016.03.31,Mar,2016,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,F,46,N
+81,2016.03.13,Mar,2016,Invalid,USA,California,"Bolsa Chica State Park, Orange County",Surfing,Unknown,Unknown,N
+89,2016.02.12,Feb,2016,Unprovoked,DOMINICAN REPUBLIC,Altagracia Province,"Bavaro Beach, Punta Cana",Wading,F,Unknown,N
+92,2016.02.05,Feb,2016,Unprovoked,AUSTRALIA,Queensland,Stradbroke Island,Walking,F,45,N
+96,2016.01.25,Jan,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai, ",Surfing,F,15,N
+104,2015.12.25,Dec,2015,Unprovoked,SPAIN,Grand Canary Island,"Arinaga Beach, Aguimes, Gran Canaria",Swimming,F,38,N
+109,2015.12.13,Dec,2015,Boat,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,Unknown,Unknown,N
+111,2015.12.08,Dec,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Mpande,Swimming / Wading,F,22,N
+113,2015.11.15.b,Nov,2015,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Swimming,F,Unknown,N
+116,2015.12.23,Nov,2015,Invalid,USA,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,F,9,N
+118,2015.11.01.b,Nov,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Wading,F,28,N
+125,2015.10.17.c,Oct,2015,Unprovoked,MOZAMBIQUE,Inhambane Province,"Nahaduga, Inhambane Bay",Fishing for shrimp,F,35,Y
+129,2015.10.09.b,Oct,2015,Unprovoked,USA,South Carolina,"Shipyard Beach Club, Hilton Head Island, Beaufort County",Boogie boarding,F,9,N
+137,2015.09.26,Sep,2015,Unprovoked,AUSTRALIA,Queensland,"Russel Island, Frankland Group",Snorkeling,F,7,N
+146,2015.09.06,Sep,2015,Unprovoked,USA,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,F,50,N
+150,2015.09.01,Sep,2015,Unprovoked,THAILAND,Phuket,Karon Beach,Wading,F,37,N
+152,2015.08.29.b,Aug,2015,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,F,54,N
+157,2015.08.19,Aug,2015,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Walking,F,10,N
+163,2015.07.26.a,Jul,2015,Invalid,USA,South Carolina,"Edisto Beach, Colleton County",Floating,F,35,N
+172,2015.07.04.b,Jul,2015,Unprovoked,BAHAMAS,Grand Bahama Island,"Port Lucaya, Freeport",Spearfishing,F,23,N
+181,2015.06.26.c,Jun,2015,Invalid,USA,Florida,"Jacksonville Beach, Duval County",Swimming,F,Unknown,N
+187,2015.06.24.a,Jun,2015,Invalid,AUSTRALIA,Western Australia,Denmark,Surfing,F,37,N
+192,2015.06.14.a,Jun,2015,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,F,12,N
+193,2015.06.13,Jun,2015,Unprovoked,USA,California,Off San Diego,Unknown,F,Unknown,N
+194,2015.06.11,Jun,2015,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Boogie boarding,F,13,N
+196,2015.06.05,Jun,2015,Unprovoked,USA,Florida,Fort Lauderdale,Attempting to rescue a shark,F,17,N
+198,2015.05.29.b,May,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Standing,F,14,N
+199,2015.05.29.a,May,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,F,19,N
+201,2015.05.24,May,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,F,13,N
+208,2015.04.29,Apr,2015,Unprovoked,USA,Hawaii,Kanahena Cove ,Snorkeling,F,65,Y
+225,2015.02.15,Feb,2015,Boat,ATLANTIC OCEAN,Unknown,Unknown,Transatlantic Rowing,Unknown,Unknown,N
+226,2015.02.14,Feb,2015,Unprovoked,REUNION,d��tang-Sal�,Ravine Mula,Swimming,F,22,Y
+234,2015.01.19.a,Jan,2015,Invalid,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",Surfing & filming dolphins,F,Unknown,N
+238,2015.01.06,Jan,2015,Unprovoked,BAHAMAS,Abaco Islands,"Tahiti Beach, Elbow Cay",Snorkeling,F,34,N
+241,2014.12.29.b,Dec,2014,Unprovoked,AUSTRALIA,New South Wales,Bherwerre Beach,Surfing,Unknown,Unknown,N
+243,2014.12.28.d,Dec,2014,Sea Disaster,GREECE,Unknown,33 nautical miles off Othonoi Island,Unknown,Unknown,Unknown,N
+244,2014.12.28.c,Dec,2014,Invalid,SOUTH AFRICA,KwaZulu-Natal,Durban,Swimming,Unknown,Unknown,N
+254,2014.11.17,Nov,2014,Boat,USA,California,"Franklin Point, San Mateo County",Unknown,Unknown,Unknown,N
+258,2014.10.31,Oct,2014,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,F,34,N
+260,2014.10.22,Oct,2014,Unprovoked,USA,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,F,Unknown,N
+262,2014.10.19,Oct,2014,Boat,USA,California,"Leadbetter Beach, Santa Barbara County",Canoeing,F,Unknown,N
+264,2014.10.17,Oct,2014,Unprovoked,AUSTRALIA,New South Wales,Avoca Beach,Surfing,F,13,N
+265,2014.10.14,Oct,2014,Unprovoked,USA,South Carolina,"Hilton Head Island, Beaufort County",Standing in inner tube,F,7,N
+266,2014.10.12,Oct,2014,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Body surfing or Boogie boarding,F,Unknown,N
+267,2014.10.07,Oct,2014,Unprovoked,USA,Florida,"Cherie Down Park, Brevard County",Fishing,F,40,N
+276,2014.09.13.R,Sep,2014,Unprovoked,FRENCH POLYNESIA,Moorea,Tiahura Lagoon,Feeding fish,F,36,N
+280,2014.09.03,Sep,2014,Unprovoked,USA,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking ,F,20,N
+283,2014.08.31,Aug,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,F,13,N
+285,2014.08.29.a,Aug,2014,Invalid,USA,Florida,"Atlantic Beach, Duval County",Unknown,Unknown,Unknown,N
+287,2014.08.27.c,Aug,2014,Unprovoked,SPAIN,Alicante,Benidorm,Swimming,F,30,N
+289,2014.08.27.a,Aug,2014,Unprovoked,USA,South Carolina,"Surfside Beach, Horry  County",Standing,F,Unknown,N
+291,2014.08.24,Aug,2014,Unprovoked,USA,North Carolina,"Off Masonboro Island, New Hanover County",Kite boarding,Unknown,Unknown,N
+296,2014.08.09,Aug,2014,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Swimming,F,10,N
+299,2014.08.05,Aug,2014,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,F,45,N
+307,2014.07.20,Jul,2014,Unprovoked,SPAIN,Canary Islands,"Teresita, Santa Cruz, Tenerife",Wading,Unknown,Unknown,N
+325,2014.06.07,Jun,2014,Unprovoked,USA,Texas,"West Beach, Galveston",Kneeling in the water,F,14,N
+326,2014.06.01.c,Jun,2014,Unprovoked,USA,Florida,Fort Lauderdale,Swimming,F,22,N
+328,2014.06.01.a,Jun,2014,Unprovoked,USA,Palmyra Atoll,Unknown,Tagging sharks,F,37,N
+329,2014.05.27.R,May,2014,Unprovoked,AUSTRALIA,Queensland,Nerang River near Chevron Island,Fell into the water,F,29,N
+333,2014.05.15,May,2014,Unprovoked,USA,Florida,"Juan Ponce de Le�n Landing, Melbourne Beach, Brevard County",Body boarding,F,38,N
+335,2014.05.13,May,2014,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Wading,F,44,N
+338,2014.05.06,May,2014,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,F,40,N
+341,2014.04.22,Apr,2014,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,M ,42,N
+343,2014.04.12.R,Apr,2014,Boat,SOUTH AFRICA,Unknown,Unknown,Shark watching,Unknown,Unknown,N
+347,2014.04.03,Apr,2014,Unprovoked,AUSTRALIA,New South Wales,Tathra,Swimming,F,63,Y
+355,2014.03.18,Mar,2014,Invalid,AUSTRALIA,New South Wales,Lennox Head,Unknown,F,10,N
+366,2014.00.00,-,2014,Boat,NEW ZEALAND,Unknown,Stewart Island,Filming a documentary,Unknown,Unknown,N
+375,2013.11.29,Nov,2013,Unprovoked,USA,Hawaii,"Keawekapu Beach, Kihei, Maui",Snorkeling,F,58,N
+383,2013.10.28,Oct,2013,Unprovoked,AUSTRALIA,Western Australia,Turquoise Bay,Snorkeling,F,60,N
+400,2013.09.12,Sep,2013,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,F,13,N
+401,2013.09.08,Sep,2013,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",Unknown,F,Unknown,UNKNOWN
+410,2013.08.29,Aug,2013,Invalid,USA,California,Catalina Channel,Marathon swimming,F,47,N
+412,2013.08.25.b,Aug,2013,Unprovoked,USA,Florida,"Winterhaven Park,           Ponce Inlet, Volusia County",Boogie boarding,F,11,N
+415,2013.08.17,Aug,2013,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,F,Unknown,N
+416,2013.08.14,Aug,2013,Unprovoked,USA,Hawaii,"Makenat, Maui",Snorkeling,F,20,Y
+417,2013.08.13,Aug,2013,Unprovoked,USA,Hawaii,"Ka'a Point, Maui",Kiteboarding,F,19,N
+421,2013.07.31,Jul,2013,Unprovoked,USA,Hawaii,"Ulua Beach, Maui",Snorkeling,F,56,N
+424,2013.07.29.b,Jul,2013,Unprovoked,MEXICO,Quintana Roo,Unknown,Wading,F,Unknown,N
+428,2013.07.22,Jul,2013,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Swimming,F,18,Y
+429,2013.07.19,Jul,2013,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Walking in surf,F,50,N
+431,2013.07.15,Jul,2013,Unprovoked,REUNION,Saint-Paul,Le cimeti�re marin,Swimming & snorkeling,F,15,Y
+433,2013.07.11,Jul,2013,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Wading,F,63,N
+444,2013.06.15,Jun,2013,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,F,Unknown,N
+445,2013.06.14.R,Jun,2013,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,F,10,N
+457,2013.04.24,Apr,2013,Unprovoked,MEXICO,Quintana Roo,"Seagull Beach, Cancun",Swimming,F,34,N
+469,2013.03.21.R,Mar,2013,Unprovoked,BELIZE,Unknown,Unknown,Snorkeling,F,Unknown,N
+478,2013.02.21.b,Feb,2013,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,Unknown,Unknown,N
+496,2012.12.00,-,2012,Unprovoked,NEW ZEALAND,South Island,"Sunday Cove, Fiordland",Scuba diving,F,25,N
+504,2012.10.27,Oct,2012,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Swimming,F,51,N
+506,2012.10.19,Oct,2012,Unprovoked,USA,Florida,"Seaport, Brevard County",Unknown,F,35,N
+510,2012.10.11.R,Oct,2012,Unprovoked,NIGERIA,Delta,Oboro,Bathing,F,38,N
+516,2012.09.10,Sep,2012,Unprovoked,TONGA,Vava'u,Eueiki Island,Swimming,F,29,N
+517,2012.09.09,Sep,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Unknown,19,N
+523,2012.09.02.b,Sep,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,F,8,N
+524,2012.09.02.b,Sep,2012,Provoked,USA,Hawaii,"Spreckelsville, Maui",Spearfishing,Unknown,Unknown,N
+525,2012.09.02.a,Sep,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,F,56,N
+530,2012.08.11,Aug,2012,Boat,AUSTRALIA,Western Australia,Ocean Reef,Fishing,Unknown,Unknown,N
+541,2012.07.19,Jul,2012,Invalid,CANADA,British Colombia,"Tofino, Vancouver",Surfing,F,23,N
+543,2012.07.08,Jul,2012,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Swimming,F,43,N
+545,2012.07.07.b,Jul,2012,Invalid,AUSTRALIA,Victoria,Ship's Graveyard off Point Lonsdale,Scuba diving,F,42,Y
+548,2012.06.28.R,Jun,2012,Invalid,CROATIA,Unknown,Buccari Bay,Swimming,Unknown,60,N
+551,2012.06.26.a,Jun,2012,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Sitting in the water,F,16,N
+556,2012.06.18,Jun,2012,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Wading,F,6,N
+558,2012.06.14.d,Jun,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,F,18,N
+565,2012.06.02.b,Jun,2012,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,F,12,N
+567,2012.05.31,May,2012,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Wading,F,33,N
+573,2012.05.09,May,2012,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,F,47,N
+574,2012.05.06,May,2012,Unprovoked,USA,California,Off Catalina Island,Paddle boarding,F,15,N
+582,2012.03.22,Mar,2012,Boat,AUSTRALIA,Western Australia,Kalbarri,Crayfishing,Unknown,Unknown,N
+585,2012.03.14.b,Mar,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,15,N
+588,2012.03.06.a,Mar,2012,Provoked,AUSTRALIA,Victoria,"Shipwreck Cove, Melbourne Aquarium","Diving, feeding sharks",F,34,N
+595,2012.02.20,Feb,2012,Boat,SOUTH AFRICA,Western Cape Province,Strandfontein,Fishing,Unknown,Unknown,N
+598,2012.01.27,Jan,2012,Unprovoked,USA,Hawaii,Lanai,Snorkeling,Unknown,Unknown,N
+615,2011.12.06,Dec,2011,Unprovoked,USA,Oregon,Seaside Cove,Surfing,F,Unknown,N
+616,2011.12.05,Dec,2011,Invalid,AUSTRALIA,Queensland,Bushy Ilet,Spearfishing,Unknown,Unknown,Y
+626,2011.10.28.,Oct,2011,Provoked,SOUTH AFRICA,KwaZulu-Natal,"uShaka Aquarium, Durban",Diving,Unknown,Unknown,N
+647,2011.09.04.b,Sep,2011,Unprovoked,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,Unknown,Unknown,N
+652,2011.08.28.a,Aug,2011,Unprovoked,USA,Texas,"Grass Island, Aransas County",Wade Fishing,F,39,N
+658,2011.08.17.c.,Aug,2011,Unprovoked,USA,North Carolina,"Kure Beach, New Hanover County",Wading,F,20,N
+671,2011.07.19,Jul,2011,Unprovoked,USA,North Carolina,"Ocracoke Island, Hyde County",Boogie Boarding,F,6,N
+682,2011.06.26,Jun,2011,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Playing in the surf,F,10,N
+688,2011.06.14.R,Jun,2011,Boat,UNITED KINGDOM,Cornwall,St. Ives,Fishing,Unknown,Unknown,N
+693,2011.06.01,Jun,2011,Unprovoked,MALAYSIA,Kedah,Palau Payar,Snorkeling,F,Unknown,N
+694,2011.05.30,May,2011,Unprovoked,USA,Texas,"Follett's Island, Brazoria County",Standing or boogie boardin,F,22,N
+696,2011.05.25,May,2011,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,F,Unknown,N
+697,2011.05.22,May,2011,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Paddle boarding,F,Unknown,N
+712,2011.03.24,Mar,2011,Unprovoked,MEXICO,Quintana Roo,"Gaviotas Beach, Cancun",Swimming,F,Unknown,N
+716,2011.03.16,Mar,2011,Unprovoked,AUSTRALIA,New South Wales,"Jimmys Beach, Port Stephens",Wakeboarding,F,24,N
+717,2011.03.10.R,Mar,2011,Invalid,EGYPT,South Sinai Peninsula,Sharm-el-Sheikh,Unknown,F,Unknown,N
+727,2011.01.31,Jan,2011,Unprovoked,MEXICO,Quintana Roo,Cancun,Swimming,F,38,N
+730,2011.01.20,Jan,2011,Invalid,AUSTRALIA,New South Wales,Cudgen Creek ,Swimming,F,7,N
+733,2011.01.03,Jan,2011,Boat,AUSTRALIA,Western Australia,Busselton,Fishing,Unknown,Unknown,N
+737,2010.12.05,Dec,2010,Unprovoked,EGYPT,South Sinai Peninsula,"Middle Garden, Sharm el-Shiekh",Snorkeling,F,70,Y
+741,2010.11.30.b,Nov,2010,Unprovoked,EGYPT,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",Snorkeling,F,70,N
+742,2010.11.30.a,Nov,2010,Unprovoked,EGYPT,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",Snorkeling,F,48,N
+749,2010.10.30,Oct,2010,Unprovoked,AUSTRALIA,Western Australia,Off Garden Island,Snorkeling,F,20,N
+756,2010.10.20,Oct,2010,Unprovoked,EGYPT,South Sinai Peninsula,Sharm el-Sheikh ,Snorkeling,F,Unknown,N
+759,2010.10.02.a,Oct,2010,Unprovoked,BAHAMAS,Abaco Islands,Elbow Cay,Surfing,F,Unknown,N
+775,2010.08.10.b,Aug,2010,Provoked,AUSTRALIA,Queensland,"Three Mile Creek, Townsville",Fishing,F,Unknown,N
+776,2010.08.10,Aug,2010,Unprovoked,SOUTH KOREA,Jeju Province,Jeju Island,Swimming,F,16,N
+780,2010.08.05,Aug,2010,Invalid,USA,Florida,"Bethune Beach, Volusia County",Swimming,F,Unknown,N
+782,2010.08.02.a,Aug,2010,Unprovoked,USA,Florida,"Micklers Landing, St. Johns County",Standing,F,37,N
+786,2010.07.17.b,Jul,2010,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Swimming,F,13,N
+791,2010.07.04,Jul,2010,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,"Two Mile Reef, Sodwana Bay",Snorkeling,F,21,N
+796,2010.06.25.b,Jun,2010,Unprovoked,USA,South Carolina,Fripp Island,Boogie Boarding,F,6,N
+797,2010.06.25.a,Jun,2010,Unprovoked,USA,North Carolina,"Topsail Island, Pender County",Swimming,F,13,N
+799,2010.06.10,Jun,2010,Unprovoked,USA,Florida,Jacksonville,Boogie Boarding,F,18,N
+803,2010.05.18.c,May,2010,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon ,Rescuing,F,58,N
+804,2010.05.18.b,May,2010,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon ,Swimming,F,60,N
+807,2010.05.01,May,2010,Unprovoked,USA,Florida,New Smyrna Beach,Wading,F,10,N
+816,2010.02.13,Feb,2010,Unprovoked,AUSTRALIA,Queensland,"Dent Island, Whitsundays",Snorkeling,F,60,N
+823,2010.02.01,Feb,2010,Provoked,NEW ZEALAND,South Island,Oreti Beach,Boogie Boarding,F,14,N
+829,2010.01.09.d,Jan,2010,Unprovoked,AUSTRALIA,Torres Strait,Thursday Island,Snorkeling,F,9,N
+830,2010.01.09.c,Jan,2010,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon ,Unknown,F,Unknown,N
+844,2009.12.12,Dec,2009,Boat,AUSTRALIA,New South Wales,Hawks Nest Beach,Rowing,Unknown,Unknown,N
+850,2009.11.13,Nov,2009,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,F,27,N
+856,2009.10.28,Oct,2009,Unprovoked,AUSTRALIA,New South Wales,Lennox Heads,Paddle-boarding,F,17,N
+859,2009.10.18,Oct,2009,Unprovoked,PANAMA,Bocas,Playa La Caba�a ,Wading,F,10,N
+874,2009.08.25,Aug,2009,Unprovoked,USA,California,"Terramar Beach, Carlsbad, San Diego County",Swimming,F,22,N
+881,2009.07.29,Jul,2009,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon ,Swimming,F,41,N
+883,2009.07.24.b,Jul,2009,Unprovoked,USA,Texas,South Padre Island,Wading,F,14,N
+884,2009.07.24.a,Jul,2009,Invalid,SPAIN,Catalunya,Sant Salvador,Swimming,F,11,N
+885,2009.07.22.b,Jul,2009,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Swimming,F,26,N
+886,2009.07.22.a,Jul,2009,Unprovoked,USA,Florida,"Intracoastal Waterway,      St. Petersburg",Swimming,F,19,N
+891,2009.07.05,Jul,2009,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Boogie Boarding,F,12,N
+892,2009.07.04,Jul,2009,Provoked,USA,Florida,"Biscayne National Park, Miami",Swimming,F,43,N
+899,2009.06.01,Jun,2009,Unprovoked,EGYPT,St. Johns Reef,Habili Gafar,Snorkeling,F,50,Y
+907,2009.04.28,Apr,2009,Unprovoked,USA,Florida,"St. Augustine, St. John's County",Unknown,F,Unknown,N
+922,2009.03.19.a,Mar,2009,Unprovoked,AUSTRALIA,New South Wales,Bateman's Bay,Surfing,F,Unknown,N
+923,2009.03.18.a,Mar,2009,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,F,17,N
+924,2009.03.17.R,Mar,2009,Unprovoked,MALAYSIA,Strait of Malacca,Pulau Payar Island,Feeding fish,F,Unknown,N
+941,2009.01.24.c,Jan,2009,Boat,NEW ZEALAND,North Island,Alderman Islands,Fishing,Unknown,Unknown,N
+947,2009.01.13.R,Jan,2009,Unprovoked,SOUTH AFRICA,Western Cape Province,"Shark Alley, off Gansbaai",Unknown,Unknown,Unknown,Y
+949,2009.01.11.b,Jan,2009,Unprovoked,AUSTRALIA,Tasmania,Binalong Bay,Surfing,F,13,N
+951,2009.01.10.R,Jan,2009,Boat,NEW ZEALAND,North Island,Hawkes Bay,Fishing,Unknown,Unknown,N
+954,2009.01.00,-,2009,Unprovoked,CUBA,Guantanamo Province,Guantanamo,Spearfishing,Unknown,Unknown,N
+955,2008.12.30,Dec,2008,Invalid,AUSTRALIA,Western Australia,Port Kennedy Beach,Crabbing,Unknown,Unknown,N
+956,2008.12.27.d,Dec,2008,Boat,AUSTRALIA,Tasmania,near Schouten Island,Yacht race,Unknown,Unknown,N
+963,2008.12.06,Dec,2008,Boat,AUSTRALIA,New South Wales,Mowarry Point,Fishing,Unknown,Unknown,N
+965,2008.11.28,Nov,2008,Unprovoked,EGYPT,Red Sea,Elphinstone Reef,Scuba diving,F,Unknown,N
+967,2008.11.24,Nov,2008,Unprovoked,ECUADOR,Galapagos Islands,Santa Cruz,Unknown,F,Unknown,N
+994,2008.08.22,Aug,2008,Invalid,USA,North Carolina,"Surf City, Topsail Island, Pender County",Surfing,F,20,N
+997,2008.08.16,Aug,2008,Unprovoked,USA,US Virgin Islands,Buck Island,Treading water,F,38,N
+998,2008.08.12,Aug,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,F,13,N
+1006,2008.07.25.a,Jul,2008,Unprovoked,USA,Hawaii,"Lahilahi Point, Oahu",Snorkeling,F,44,N
+1008,2008.07.24.a,Jul,2008,Unprovoked,USA,North Carolina,"Topsail Island, Pender County",Wading,F,8,N
+1014,2008.07.09,Jul,2008,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,F,14,N
+1015,2008.07.05,Jul,2008,Unprovoked,USA,South Carolina,"Litchfield Beach, Georgetown County",Unknown,F,17,N
+1024,2008.06.21,Jun,2008,Unprovoked,USA,California,"West Cove, Catalina Island",Kayaking,F,40,N
+1025,2008.06.20,Jun,2008,Unprovoked,USA,Florida,"Fernandina Beach, Nassau County",Wading,F,35,N
+1028,2008.06.02.R,Jun,2008,Boat,SCOTLAND,Easter Ross,Balintore Bay,Fishing,Unknown,Unknown,N
+1029,2008.06.01.b,Jun,2008,Unprovoked,USA,South Carolina,Cherry Grove,Body surfing,F,15,N
+1054,2008.04.08.R,Apr,2008,Unprovoked,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Surfing,Unknown,Unknown,N
+1067,2008.02.07,Feb,2008,Unprovoked,AUSTRALIA,New South Wales,Horseshoe Bay,Surfing,F,14,N
+1072,2008.01.14,Jan,2008,Boat,NEW ZEALAND,North Island,Omaha Beach,Attempting to chase shark out to sea,Unknown,Unknown,N
+1082,2007.12.09,Dec,2007,Unprovoked,NEW ZEALAND,South Island,Kaikoura,Surfing,F,Unknown,N
+1092,2007.10.15,Oct,2007,Unprovoked,AUSTRALIA,New South Wales,Byron Bay,Surf-skiing,F,52,N
+1098,2007.09.30.a,Sep,2007,Unprovoked,NEW CALEDONIA,Loyalty Islands,"Bay of Luengoni, Lifou Island",Swimming,F,23,Y
+1099,2007.09.28,Sep,2007,Unprovoked,BAHAMAS,Grand Bahama Island,Sweetings Cay,Spearfishing,F,48,N
+1100,2007.09.27.b,Sep,2007,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,F,Unknown,N
+1101,2007.09.27.a,Sep,2007,Unprovoked,EGYPT,Red Sea,Daedalus Reef�,Swimming,F,Unknown,N
+1102,2007.09.22.b,Sep,2007,Invalid,USA,Florida,Jupiter Inlet,Scuba diving,F,Unknown,Y
+1103,2007.09.22.a,Sep,2007,Unprovoked,USA,Florida,Huguenot Park,Surfing,F,Unknown,N
+1107,2007.09.16.a,Sep,2007,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,F,Unknown,N
+1109,2007.09.08,Sep,2007,Unprovoked,USA,Florida,"Pepper Park Beach, St. Lucie County",Wading,F,58,N
+1110,2007.09.05,Sep,2007,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Wading,F,36,N
+1112,2007.09.03.b,Sep,2007,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Jumping,F,12,N
+1124,2007.08.12,Aug,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,F,15,N
+1128,2007.08.07,Aug,2007,Unprovoked,USA,Florida,"Islamorada, Monroe County",Jumped into the water,F,19,N
+1137,2007.07.17.b,Jul,2007,Invalid,USA,California,"Faria Beach, Ventura County",Swimming,F,43,N
+1138,2007.07.17.a,Jul,2007,Unprovoked,USA,North Carolina,"Atlantic Beach, Carteret County",Wading,F,30,N
+1139,2007.07.10,Jul,2007,Unprovoked,BAHAMAS,Abaco Islands,Allan-Pensacola Cay,Spearfishing,F,48,N
+1142,2007.07.00,-,2007,Invalid,SENEGAL,Unknown,Unknown,Murder,Unknown,Unknown,UNKNOWN
+1144,2007.06.30.a,Jun,2007,Unprovoked,USA,California,"Will Rogers State Beach, Los Angeles County",Swimming,F,Unknown,N
+1147,2007.06.17,Jun,2007,Invalid,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,F,9,N
+1148,2007.06.12,Jun,2007,Unprovoked,USA,Florida,"Turtle Beach, Siesta Key, Sarasota County",Swimming,F,Unknown,N
+1150,2007.05.26,May,2007,Unprovoked,USA,South Carolina,Garden City,Wading,F,Unknown,N
+1151,2007.05.24,May,2007,Provoked,USA,Virginia,"Virginia Aquarium & Marine Science Center, Virginia Beach ",Reviving a sedated shark,F,40,N
+1153,2007.05.16,May,2007,Unprovoked,AUSTRALIA,Western Australia,"Warra Beach, Coral Bay",Wading,F,38,N
+1155,2007.05.10,May,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,21,N
+1158,2007.05.07.b,May,2007,Unprovoked,USA,Hawaii,"Keawakapu Beach, Maui",Snorkeling,F,63,N
+1160,2007.05.04,May,2007,Sea Disaster,TURKS & CAICOS,Providenciales,Unknown,Sea Disaster,Unknown,Unknown,Y
+1161,2007.05.00,-,2007,Provoked,BAHAMAS,Bimini Islands,Unknown,Shark tagging,F,20,N
+1162,2007.04.26,Apr,2007,Unprovoked,AUSTRALIA,Queensland,"Mornington Island, Gulf of Carpentaria",Swimming / jumping off a jetty,F,13,N
+1165,2007.04.13.R,Apr,2007,Boat,USA,Florida,"Florida Keys, Monroe County",Fishing,Unknown,Unknown,N
+1170,2007.03.22,Mar,2007,Unprovoked,YEMEN,Muhafazat Hadramawt,Ras-Alkalb,Murder,Unknown,Unknown,Y
+1172,2007.03.20,Mar,2007,Unprovoked,AUSTRALIA,New South Wales,South Golden Beach,Surfing,F,42,N
+1174,2007.03.12,Mar,2007,Unprovoked,AUSTRALIA,Queensland,"Moore Park, north of Bundaberg",Swimming,F,59,N
+1181,2007.01.25.a,Jan,2007,Boat,USA,Florida,100 miles off Ft. Myers Beach,Shrimping,Unknown,Unknown,N
+1193,2006.11.25,Nov,2006,Sea Disaster,PHILIPPINES,Surigao del Norte,"Off Bilisan Point, Hinatuarn Island",Sea Disaster,Unknown,Unknown,Y
+1201,2006.10.00.b,-,2006,Unprovoked,BAHAMAS,New Providence Island,Nassau,Free diving / modeling,F,26,N
+1202,2006.10.00.a,-,2006,Unprovoked,GULF OF ADEN,Between Somalia & Yemen,Unknown,Murder,Unknown,Unknown,Y
+1223,2006.08.00.b,-,2006,Unprovoked,USA,North Carolina,"Masonboro Island, New Hanover County",Wading,F,59,N
+1225,2006.07.31.R,Jul,2006,Provoked,USA,Kentucky,"Newport Aquarium, Newport",Touching sharks,Unknown,Unknown,N
+1232,2006.07.17.R,Jul,2006,Invalid,AUSTRALIA,Torres Strait,Western Province,Unknown,Unknown,Unknown,N
+1234,2006.07.13,Jul,2006,Invalid,SPAIN,Alicante,San Juan Beach  ,Swimming,F,7,N
+1235,2006.07.12,Jul,2006,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,F,21,N
+1239,2006.07.08.b,Jul,2006,Unprovoked,USA,South Carolina,"Debordieu Beach, Georgetown County",Body boarding,F,14,N
+1241,2006.06.30.b,-,2006,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Spearfishing,F,28,N
+1243,2006.06.27,Jun,2006,Unprovoked,USA,Florida,"Hutchinson Island, St. Lucie County",Body boarding,F,9,N
+1246,2006.06.20,Jun,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,22,N
+1250,2006.06.07,Jun,2006,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Playing,F,7,N
+1253,2006.05.28,May,2006,Provoked,USA,Hawaii,French Frigate Shoals,Tagging sharks,Unknown,Unknown,N
+1257,2006.05.19,May,2006,Unprovoked,USA,Guam,Gun Beach,Scuba diving,F,30,N
+1259,2006.05.04,May,2006,Unprovoked,USA,Florida,"Hutchinson Island, St. Lucie County",Swimming,F,20,N
+1263,2006.04.19,Apr,2006,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Standing,F,13,N
+1270,2006.03.23,Mar,2006,Unprovoked,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",Surfing,F,28,N
+1274,2006.02.27,Feb,2006,Unprovoked,USA,Hawaii,"Makena, Maui",Standing,F,15,N
+1280,2006.02.01.b,Feb,2006,Unprovoked,TONGA,Vava'u,Tu�anuku,Swimming,F,24,Y
+1284,2006.01.23,Jan,2006,Boat,ATLANTIC OCEAN,800 miles from land,Unknown,Competing in the Woodvale Atlantic Rowing Race,F,Unknown,N
+1288,2006.01.07,Jan,2006,Unprovoked,AUSTRALIA,Queensland,"Amity Point, North Stradbroke Island",Swimming,F,21,Y
+1293,2005.12.20,Dec,2005,Boat,ATLANTIC OCEAN,600 nm west of the Canary Islands,Unknown,Competing in the Woodvale Atlantic Rowing Race,Unknown,Unknown,N
+1295,2005.12.05.R,Dec,2005,Boat,AUSTRALIA,South Australia,"Middle Beach, 40 km north of Adelaide",Fishing,Unknown,Unknown,N
+1298,2005.11.25.c,Nov,2005,Boat,AUSTRALIA,Victoria,"6 km off Collendina, south of Melbourne",Fishing,Unknown,Unknown,N
+1301,2005.11.24,Nov,2005,Unprovoked,NEW CALEDONIA,Loyalty Islands,Mar�,Spearfishing,Unknown,Unknown,N
+1304,2005.11.16.R,Nov,2005,Boat,NEW CALEDONIA,Unknown,Unknown,Unknown,Unknown,Unknown,N
+1313,2005.10.19,Oct,2005,Unprovoked,USA,California,"Salmon Beach, Sonoma County",Surfing,F,20,N
+1316,2005.10.11,Oct,2005,Unprovoked,GRAND CAYMAN,East Wall,Jack McKenney's Canyon,Scuba diving,F,57,N
+1324,2005.09.20,Sep,2005,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Body surfing,F,68,N
+1327,2005.09.05,Sep,2005,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Wading,F,18,N
+1336,2005.08.14,Aug,2005,Invalid,SOUTH AFRICA,Western Cape Province,"Milnerton Lagoon, Cape Town",Unknown,Unknown,Unknown,N
+1340,2005.07.27,Jul,2005,Unprovoked,USA,Florida,"Off Zelda Boulevard, Daytona Beach, Volusia Countyy",Wading,F,13,N
+1345,2005.07.15.R,Jul,2005,Invalid,AUSTRALIA,Unknown,Unknown,Unknown,Unknown,Unknown,N
+1347,2005.07.13,Jul,2005,Unprovoked,USA,Texas,"Port Bolivar, Galveston County",Holding onto an inflatable boat,F,14,N
+1350,2005.06.25,Jun,2005,Unprovoked,USA,Florida,"Destin, Walton County",Swimming with boogie board,F,14,Y
+1351,2005.06.22,Jun,2005,Unprovoked,VANUATU,Malampa Province,Atchin Island off Malakula,Swimming,F,7,Y
+1355,2005.06.13,Jun,2005,Unprovoked,SOUTH KOREA,South Ch'ungch'ong Province,Dando/Kaeui Island ,Diving,F,38,N
+1356,2005.06.07,Jun,2005,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Boogie boarding,F,11,N
+1361,2005.05.27,May,2005,Unprovoked,USA,Florida,"Sand Key Beach, Clearwater, Pinellas County",Crouching in 2' of water,F,Unknown,N
+1363,2005.05.15,May,2005,Unprovoked,AUSTRALIA,Queensland,50 km east of Townsville,Spearfishing,M ,Unknown,N
+1364,2005.05.14,May,2005,Unprovoked,USA,Hawaii,"North Kihei, Maui",Kayaking,Unknown,Unknown,N
+1369,2005.04.17.R,Apr,2005,Unprovoked,AUSTRALIA,New South Wales,Crookhaven,Unknown,Unknown,Unknown,N
+1372,2005.04.13,Apr,2005,Unprovoked,USA,Florida,"Crescent Beach, Sarasota County",Wading,F,70,N
+1375,2005.04.06,Apr,2005,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Unknown,F,Unknown,N
+1376,2005.04.06,Apr,2005,Invalid,HONDURAS,Bay Islands,Utila,SCUBA Diving,F,Unknown,N
+1392,2005.01.14,Jan,2005,Provoked,AUSTRALIA,Victoria,Blairgowrie,Attempting to drive shark away from sailing regatta,Unknown,Unknown,N
+1394,2004.12.26,Dec,2004,Invalid,SRI LANKA,Eastern Province,Pasikudha,"Swept out to sea by the tsunami, she clung  to a log for 24 hours",F,11,N
+1399,2004.11.15,Nov,2004,Unprovoked,SOUTH AFRICA,Western Cape Province,"Fish Hoek, False Bay",Swimming,F,77,Y
+1402,2004.11.00,-,2004,Unprovoked,NEW CALEDONIA,North Province,Koumac,Diving,Unknown,Unknown,N
+1404,2004.10.30.x,Oct,2004,Invalid,NEW ZEALAND,North Island,Whangarei,Unknown,Unknown,Unknown,N
+1413,2004.09.25,Sep,2004,Boat,AUSTRALIA,Queensland,Batt Reef,Spearfishing/ filming,Unknown,Unknown,N
+1416,2004.09.08,Sep,2004,Unprovoked,BRAZIL,Pernambuco,"Pina, Recife",Swimming,Unknown,Unknown,Y
+1417,2004.09.04,Sep,2004,Unprovoked,USA,South Carolina ,"North of Apache Pier, Myrtle Beach, Horry County",Jumping,F,17,N
+1418,2004.08.29,Aug,2004,Unprovoked,USA,Florida,"New Smyrna Beach / Cape Canaveral  National Seashore, Brevard County",Walking,F,38,N
+1424,2004.08.00,-,2004,Boat,SOUTH AFRICA,KwaZulu-Natal,Park Rynie,Fishing,Unknown,Unknown,N
+1425,2004.07.31,Jul,2004,Unprovoked,USA,Florida,"Cocoa  Beach, Brevard County",Surfing,F,20,N
+1427,2004.07.28,Jul,2004,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Surfing,F,28,N
+1428,2004.07.27.b,Jul,2004,Unprovoked,USA,North Carolina,"Carolina Beach, New Hanover County",Swimming,F,13,N
+1429,2004.07.27.a,Jul,2004,Unprovoked,USA,Texas,Galveston Island,Swimming,F,19,N
+1431,2004.07.19.R,Jul,2004,Boat,AUSTRALIA,Western Australia,"7 km off Trigg surf beach, Perth",Fishing,Unknown,Unknown,N
+1434,2004.07.02.b,Jul,2004,Unprovoked,EGYPT,Sinai Peninsula,The lagoon at Dahab,Snorkeling,F,Unknown,N
+1438,2004.06.14,Jun,2004,Unprovoked,USA,Florida,"Disney / Vero Beach, Indian River County",In water with diving seabirds,F,Unknown,N
+1447,2004.05.22.b,May,2004,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Unknown,F,9,N
+1448,2004.05.22.a,May,2004,Unprovoked,BRAZIL,Pernambuco,"Piedade Beach, Recife",Wading,F,24,N
+1453,2004.04.22,Apr,2004,Boat,NEW ZEALAND,North Island,Motunui,Fishing,Unknown,Unknown,N
+1458,2004.04.04,Apr,2004,Invalid,USA,Hawaii,Velzyland,Surfing,F,22,Y
+1465,2004.03.24,Mar,2004,Unprovoked,USA,Hawaii,Punaluu,Snorkeling,F,Unknown,N
+1484,2004.01.03.a,Jan,2004,Sea Disaster,EGYPT,Sinai Peninsula,Off Sharm El-Sheikh,Air disaster. Flash Airlines Boeing 737 crashed into the Red Sea,Unknown,Unknown,Y
+1486,2003.12.31,Dec,2003,Boat,SOUTH AFRICA,KwaZulu-Natal,Salt Rock ,Unknown,Unknown,Unknown,N
+1494,2003.11.22,Nov,2003,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,F,35,N
+1498,2003.11.06.a,Nov,2003,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Karridene,Surf skiing,Unknown,Unknown,N
+1503,2003.10.31.a,Oct,2003,Unprovoked,USA,Hawaii,"Tunnels surf break off Makua Beach, Kaua'i",Surfing,F,13,N
+1508,2003.10.05.e,Oct,2003,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,F,Unknown,N
+1512,2003.10.05.a,Oct,2003,Unprovoked,USA,Hawaii,"Cove Beach / Kalama Beach, Kihei, Maui",Wading near a fishing net,F,41,N
+1519,2003.09.14.b,Sep,2003,Boat,SOUTH AFRICA,Western Cape Province,Melkbosstrand,Fishing ,Unknown,Unknown,N
+1520,2003.09.14.a,Sep,2003,Invalid,USA,Florida,"Bathtub Reef Beach, Martin County",Swimming,F,Unknown,N
+1526,2003.08.19,Aug,2003,Unprovoked,USA,California,"Avila Beach, San Luis Obispo County","Swimming, wearing black wetsuit & swim fins",F,50,Y
+1531,2003.07.15,Jul,2003,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Wading,F,15,N
+1542,2003.06.24.b,Jun,2003,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Standing,F,12,N
+1546,2003.06.08,Jun,2003,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Unknown,15,N
+1547,2003.06.00,-,2003,Invalid,USA,South Carolina,"Pawleys Island, Georgetown County",Swimming,F,22,N
+1552,2003.05.03,May,2003,Unprovoked,USA,Florida,"Daytona Beach Shores, Volusia County",Walking,F,9,N
+1553,2003.05.00,-,2003,Unprovoked,PHILIPPINES,Baatan,Limay,Unknown,Unknown,Unknown,N
+1569,2003.03.10,Mar,2003,Provoked,USA,Florida,"Petting Tank, Florida Aquarium, Tampa, Hillsborough County",Petting captive sharks,F,Unknown,N
+1577,2003.01.02,Jan,2003,Unprovoked,AUSTRALIA,Western Australia,Left break at the �Hot Spot� at Sheringa Beach,Surfing,F,Unknown,N
+1578,2002.12.29,Dec,2002,Unprovoked,AUSTRALIA,Queensland,Great Barrier Reef  (near Upolu Bay),Snorkeling,F,18,N
+1586,2002.11.17,Nov,2002,Unprovoked,USA,Hawaii,Ka'anapali,Swimming,F,34,N
+1587,2002.11.14,Nov,2002,Unprovoked,TURKS & CAICOS,Caicos Bank,French Cay,Snorkeling,F,41,N
+1591,2002.10.30,Oct,2002,Unprovoked,USA,Hawaii,"Kama'ole Beach Park I, Kihei, Maui",Swimming,F,60,N
+1605,2002.09.16.a,Sep,2002,Unprovoked,USA,Hawaii,"Hideaways Beach, Princeville, Kaua'i",Body boarding,Unknown,Unknown,N
+1610,2002.08.17,Aug,2002,Unprovoked,USA,Alabama,"Gulf of Mexico, 65 miles offshore from Mobile",Swimming,F,29,N
+1617,2002.07.20,Jul,2002,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,F,15,N
+1621,2002.07.04,Jul,2002,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Standing,F,9,N
+1623,2002.06.20.a,Jun,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,F,11,N
+1624,2002.06.16,Jun,2002,Invalid,INDONESIA,Unknown,"Shark caught in Indonesia, offloaded to trawler that docked at Samut Prakan, 20 miles south of Bangkok, Thailand",Unknown,Unknown,Unknown,Y
+1625,2002.06.13.R2,Jun,2002,Unprovoked,PAPUA NEW GUINEA,Louisiade Archipelago,"Brooker Island , Calvados Chain",Unknown,Unknown,Unknown,N
+1626,2002.06.13.R1,Jun,2002,Unprovoked,PAPUA NEW GUINEA,Louisiade Archipelago,"Gawa Reefs, Sudest Island",Attempting to retreive a dinghy,Unknown,Unknown,Y
+1627,2002.06.11.b,Jun,2002,Unprovoked,USA,Hawaii,"Anini Beach, Kaua'i",Sitting on surfboard,Unknown,Unknown,N
+1650,2002.03.25.a,Mar,2002,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Wading,F,11,N
+1663,2002.01.03,Jan,2002,Unprovoked,BRAZIL,Pernambuco,Candeias,Swimming,Unknown,Unknown,Y
+1668,2001.11.14,Nov,2001,Unprovoked,USA,Hawaii,"Kapalua, Maui",Surfing,Unknown,Unknown,N
+1671,2001.10.02,Oct,2001,Unprovoked,AUSTRALIA,Queensland,200 miles offshore,Snorkeling,F,20,N
+1682,2001.09.07.a,Sep,2001,Invalid,USA,South Carolina,"Waites Island, Horry County",Swimming,F,Unknown,N
+1684,2001.09.03.a,Sep,2001,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Swimming,F,23,N
+1688,2001.08.29,Aug,2001,Unprovoked,USA,Florida,"Coquina Beach, Anna Maria Island, Manatee County",Standing,F,29,N
+1695,2001.08.19.b,Aug,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,17,N
+1696,2001.08.19.a,Aug,2001,Unprovoked,USA,Florida,"Wilbur-by-the-Sea, Volusia County",Surfing,F,17,N
+1702,2001.08.05,Aug,2001,Unprovoked,USA,South Carolina,"Near 70th Avenue, Myrtle Beach, Horry County",Unknown,F,Unknown,N
+1704,2001.08.03,Aug,2001,Boat,ITALY,Unknown,Rimini,Fishing,Unknown,Unknown,N
+1705,2001.07.26,Jul,2001,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Unknown,F,Unknown,N
+1707,2001.07.24,Jul,2001,Unprovoked,USA,Florida,"Marathon , Monroe County",Unknown,F,Unknown,N
+1708,2001.07.21,Jul,2001,Boat,USA,Massachusetts,Chatham Island,Fishing,Unknown,Unknown,N
+1713,2001.07.03,Jul,2001,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County ",Unknown,Unknown,Unknown,N
+1718,2001.06.03,Jun,2001,Unprovoked,USA,South Carolina,"Off 21st Avenue, Isle of Palms, Charleston County",Wading,F,29,N
+1739,2001.04.10,Apr,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Unknown,16,N
+1749,2001.03.00,-,2001,Sea Disaster,CARIBBEAN SEA,Unknown,Between St. Maarten & Anguilla,Sinking of the 40' Esperanza off St. Maartin with 36 refugees on board,Unknown,Unknown,Y
+1750,2001.02.26,Feb,2001,Boat,AUSTRALIA,Western Australia,Albany (incident took place 200 metres from swimmers),Fishing for whiting,Unknown,Unknown,N
+1751,2001.02.11,Feb,2001,Invalid,MALAYSIA,Off the western coast of peninsular Malaysia,Pulau Pangkor (Pangkor Island),Unknown,F,Unknown,Y
+1754,2001.01.24,Jan,2001,Unprovoked,CUBA,Holquin Province,Off Blau Costa Verde resort,Swimming,F,55,N
+1755,2001.01.21 ,Jan,2001,Boat,AUSTRALIA,South Australia,Adelaide,Fishing,Unknown,Unknown,N
+1760,2000.12.11,Dec,2000,Boat,AUSTRALIA,South Australia,"3 km off Port Victoria, Yorke Peninsula",Fishing for whiting,Unknown,Unknown,N
+1763,2000.12.00,-,2000,Unprovoked,NEW ZEALAND,Cook Islands,"Arorangi, Rarotonga",Surfing,F,Unknown,Y
+1767,2000.11.10,Nov,2000,Invalid,USA,Florida,"Vaughn Beach, Flagler County",Walking,F,27,N
+1771,2000.10.29,Oct,2000,Boat,AUSTRALIA,Queensland,Peel Island,Fishing ,Unknown,31,N
+1773,2000.10.18,Oct,2000,Unprovoked,USA,Hawaii,Olowalu,Swimming / snorkeling,F,56,N
+1784,2000.09.16.a,Sep,2000,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Unknown,Unknown,Unknown,N
+1786,2000.09.12,Sep,2000,Unprovoked,USA,Florida,"Sebastian Inlet, Indian River or Brevard County",Surfing,F,26,N
+1793,2000.09.00.b,-,2000,Unprovoked,TANZANIA,Unknown,"Coco Beach, Dar-es-Salaam",Swimming,Unknown,Unknown,Y
+1800,2000.08.12,Aug,2000,Unprovoked,USA,Florida,"St. Augustine, St. Johns County",Standing,F,44,N
+1803,2000.08.00,-,2000,Unprovoked,TANZANIA,Unknown,"Coco Beach, Dar-es-Salaam",Swimming,Unknown,Unknown,Y
+1805,2000.07.22,Jul,2000,Unprovoked,USA,Florida,"Big Pine Key, Monroe County ",Snorkeling,F,45,N
+1815,2000.07.06,Jul,2000,Unprovoked,USA,North Carolina,"Pine Island, Corolla, Currituck County",Playing,F,12,N
+1816,2000.07.04.b,Jul,2000,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Wading,F,20,N
+1817,2000.07.04.a,Jul,2000,Unprovoked,USA,Florida,"Artifical reef 3 miles off Manatee Beach, Manatee County","Spearfishing, holding mesh bag with speared fish",F,55,N
+1818,2000.07.02.b,Jul,2000,Unprovoked,USA,Florida,"Smyrna Dunes  Park, New Smyrna Beach, Volusia County",Wading,F,13,N
+1819,2000.07.02.a,Jul,2000,Unprovoked,USA,Florida,"Smyrna Dunes Park, New Smyrna Beach, Volusia County",Standing,F,19,N
+1820,2000.07.00,-,2000,Unprovoked,TANZANIA,Unknown,"Coco Beach, Dar-es-Salaam",Swimming,Unknown,Unknown,Y
+1824,2000.06.13,Jun,2000,Boat,USA,Florida,"Pensacola Bay, Escambia County",Sailing,Unknown,Unknown,N
+1830,2000.05.13,May,2000,Sea Disaster,NEW CALEDONIA,South Province,Mont Dore,"Air Disaster - Piper aircraft crashed into the sea, killing all on board",Unknown,Unknown,Y
+1831,2000.05.09,May,2000,Invalid,AUSTRALIA,Victoria,"Koonya Beach, Melbourne",Unknown,Unknown,Unknown,Y
+1838,2000.03.26,Mar,2000,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Boogie boarding,F,14,N
+1842,2000.03.10,Mar,2000,Boat,AUSTRALIA,New South Wales,Parramatta River,Rowing,Unknown,Unknown,N
+1843,2000.03.09,Mar,2000,Boat,AUSTRALIA,New South Wales,Parramatta River,Rowing,Unknown,Unknown,N
+1856,1999.12.31.b,Dec,1999,Unprovoked,NEW ZEALAND,South Island,Oreti Beach,Swimming,F,13,N
+1857,1999.12.31.a,Dec,1999,Unprovoked,NEW ZEALAND,South Island,Oreti Beach,Bathing,F,12,N
+1863,1999.11.23,Nov,1999,Unprovoked,USA,Hawaii,"Big Island off Kona Village Resort, North Kona",Swimming,F,51,N
+1874,1999.09.24,Sep,1999,Boat,ITALY,Adriatic Sea,San Benedetto,Fishing,Unknown,Unknown,N
+1875,1999.09.16,Sep,1999,Unprovoked,USA,Florida,"Cape Canaveral, Brevard County",Wading,F,61,N
+1876,1999.09.10,Sep,1999,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Wading,F,10,N
+1892,1999.07.04,Jul,1999,Unprovoked,USA,Florida,"Pensacola  Beach, Escambia County",Wading in school of baitfish,F,30,N
+1900,1999.04.22,Apr,1999,Unprovoked,MAURITIUS,Grand Baie,Pointe aux Canonniers,Swimming,F,41,N
+1905,1999.03.18.a,Mar,1999,Unprovoked,USA,Hawaii,"Olowalu side of Lahina, Maui ","Swimming, towing a kayak",F,29,Y
+1909,1999.03.05,Mar,1999,Unprovoked,USA,Hawaii,"Quarter mile offshore in Kaanapali, West Maui",Swimming near pod of whales,F,29,N
+1910,1999.02.26.R,Feb,1999,Boat,USA,North Carolina,Frying Pan Shoals,Cruising,Unknown,Unknown,N
+1915,1999.01.07,Jan,1999,Boat,NEW ZEALAND,North Island,"Papamoa, near Tauranga, Bay of Plenty",Inflatable boat,Unknown,Unknown,N
+1916,1999.01.03.R,Jan,1999,Invalid,AUSTRALIA,Northern Territory,Gulf of Carpenteria,Fishing,F,37,N
+1917,1999.01.03,Jan,1999,Unprovoked,REUNION,Saint-Leu,Pointe au Sel,Spearfishing,Unknown,Unknown,Y
+1921,1998.12.22,Dec,1998,Unprovoked,AUSTRALIA,South Australia,Middleton Beach,Standing,F,21,N
+1924,1998.12.15,Dec,1998,Unprovoked,AUSTRALIA,South Australia,Middleton Beach,Surfing,F,21,N
+1931,1998.10.24,Oct,1998,Unprovoked,USA,Florida,"Jupiter Beach, Palm Beach County",Swimming,F,17,N
+1935,1998.10.01.b,Oct,1998,Unprovoked,REUNION,Saint-Beno�t,Unknown,Diving,Unknown,Unknown,N
+1943,1998.08.27,Aug,1998,Invalid,ITALY,Marches region,12 miles off Senigallia (Adriatic Sea),Fishing,Unknown,Unknown,N
+1964,1998.05.16.c,May,1998,Unprovoked,USA,Florida,"Pecks Lake, Martin County",Swimming,F,14,N
+1967,1998.04.26,Apr,1998,Unprovoked,MOZAMBIQUE,Gaza,"Bilene Bay, 180 km north of Maputo",Towing rubber dinghy,F,35,Y
+1971,1998.04.00,-,1998,Unprovoked,NEW CALEDONIA,Unknown,�le de Sable,Unknown,Unknown,Unknown,N
+1983,1998.00.00.b,-,1998,Unprovoked,REUNION,Beaufonds,Unknown,Diving,Unknown,Unknown,Y
+1987,1997.12.25.b,Dec,1997,Invalid,USA,Florida,"Fort Lauderdale, Broward County",Unknown,F,29,N
+1996,1997.10.11.R,Oct,1997,Boat,SOUTH AFRICA,Eastern Cape Province,Off Port Alfred,Fishingat,Unknown,Unknown,N
+1997,1997.10.04,Oct,1997,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Swimming,F,14,N
+2000,1997.09.08,Sep,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Unknown,17,N
+2007,1997.08.11.c,Aug,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Floating on raft,F,12,N
+2012,1997.08.05,Aug,1997,Unprovoked,USA,Texas,"East Beach, Galveston",Wading,F,10,N
+2021,1997.07.02.R,Jul,1997,Unprovoked,BRAZIL,Pernambuco,Paiva,Surfing,Unknown,Unknown,N
+2023,1997.06.15,Jun,1997,Unprovoked,FIJI,Taveuni,Off a small island 5 km from Garden Island Resort,Snorkeling,F,47,N
+2033,1997.02.28.b,Feb,1997,Unprovoked,AUSTRALIA,Queensland,"Carrara, Nerang River",Swimming,F,21,N
+2037,1997.02.03,Feb,1997,Boat,AUSTRALIA,New South Wales,"Iron Cove, Sydney",Rowing ,F,49,N
+2041,1997.01.01,Jan,1997,Boat,AUSTRALIA,Victoria,"Seal Rocks, Phillip Island",Watching seals,Unknown,Unknown,N
+2045,1996.12.00.a,-,1996,Unprovoked,NEW CALEDONIA,South Province,L'llot Maetre,Attempting to attract dolphins,F,Unknown,N
+2048,1996.10.28.b,Oct,1996,Unprovoked,BRAZIL,Pernambuco,Barra de Jangada,Surfing,Unknown,Unknown,N
+2054,1996.10.00,-,1996,Unprovoked,BRAZIL,Pernambuco,Unknown,Unknown,Unknown,Unknown,N
+2060,1996.09.01.b,Sep,1996,Invalid,USA,South Carolina,"Garden City Beach, Horry County",Boogie boarding,F,28,N
+2065,1996.07.26,Jul,1996,Unprovoked,USA,Florida,"Wiggins Pass, Collier County",Standing,F,8,N
+2070,1996.07.14,Jul,1996,Unprovoked,USA,Hawaii,"Nakalele Point, Maui",Unknown,Unknown,Unknown,UNKNOWN
+2072,1996.07.04.b,Jul,1996,Unprovoked,USA,Florida,"Public Beach, Siesta Key, Sarasota County",Standing,F,63,N
+2074,1996.06.25,Jun,1996,Unprovoked,USA,South Carolina,"Fripp Island, Beaufort County",Body surfing,F,24,N
+2084,1996.04.25.a,Apr,1996,Unprovoked,AUSTRALIA,New South Wales,Mona Vale,Swimming,F,16,N
+2086,1996.03.05,Mar,1996,Unprovoked,AUSTRALIA,Queensland,Heron Island,Swimming breast stoke,F,47,N
+2089,1996.02.19.R,Feb,1996,Provoked,USA,Missouri,St. Louis,Swimming in fish tank,F,32,N
+2091,1996.02.10.b,Feb,1996,Unprovoked,PAPUA NEW GUINEA,Madang Province,Madang,Unknown,Unknown,Unknown,N
+2092,1996.02.10.a,Feb,1996,Unprovoked,PAPUA NEW GUINEA,Madang Province,Madang,Diving ,Unknown,14,Y
+2093,1996.02.05,Feb,1996,Sea Disaster,DOMINICAN REPUBLIC,12 miles off the north coast,Boeing 757 enroute from Porta Plata,Boeing 757 enroute from Porta Plata plunged into the sea,Unknown,Unknown,Y
+2096,1996.01.22,Jan,1996,Unprovoked,AUSTRALIA,Queensland,"Brown's Inlet, Broadwater",Swimming,F,13,N
+2098,1996.01.14.b,Jan,1996,Unprovoked,AUSTRALIA,Western Australia,"Mutton Bird Island, Albany",Unknown,Unknown,Unknown,UNKNOWN
+2099,1996.01.12,Jan,1996,Boat,AUSTRALIA,New South Wales,Eight-mile reef off Port Kembla,Chumming for sharks,Unknown,Unknown,N
+2110,1995.10.11,Oct,1995,Unprovoked,AUSTRALIA,Queensland,"Pialba, Hervey Bay",Playing / standing,F,15,N
+2116,1995.09.17,Sep,1995,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Swimming,F,19,N
+2130,1995.08.21,Aug,1995,Unprovoked,USA,North Carolina,Cape Lookout Bight,Diving,Unknown,Unknown,N
+2135,1995.08.10.a,Aug,1995,Unprovoked,USA,South Carolina,"Ocean Lakes Campground, south of Myrtle Beach, Horry County","""Riding waves on a board""",F,14,N
+2144,1995.07.24,Jul,1995,Unprovoked,USA,South Carolina,"Pawleys Island, Georgetown County",Swimming,F,7,N
+2149,1995.07.03,Jul,1995,Provoked,USA,Mississippi,"Cat Island, Harrison County",Fishing,F,32,N
+2152,1995.06.24,Jun,1995,Unprovoked,USA,California,"LaJolla Shores, San Diego County",Kayaking,F,Unknown,N
+2156,1995.06.16,Jun,1995,Unprovoked,USA,Florida,"Tiger Shores Beach, Martin County",Swimming,F,10,N
+2158,1995.06.13,Jun,1995,Unprovoked,HONG KONG,Clearwater Bay,First Beach,Swimming,F,45,Y
+2160,1995.05.31,May,1995,Unprovoked,HONG KONG,New Territories,Sai Kung Beach,Diving,Unknown,44,Y
+2163,1995.05.18,May,1995,Unprovoked,AUSTRALIA,Western Australia,"Bernier Island, Shark Bay",Unknown,Unknown,Unknown,UNKNOWN
+2164,1995.05.12,May,1995,Unprovoked,SOUTH KOREA,Unknown,Jangkodo Island,Diving for abalone,F,44,Y
+2169,1995.03.21,Mar,1995,Unprovoked,AUSTRALIA,New South Wales,"Clark Island, Sydney Harbour",Surf skiing,F,Unknown,N
+2171,1995.03.05,Mar,1995,Unprovoked,BRAZIL,Maranh�o,"Praia do Olho D'�gua, S�o Luis",Swimming,Unknown,Unknown,Y
+2181,1994.12.18,Dec,1994,Unprovoked,USA,Hawaii,"Kinikini, Mana, Kaua'i","Surfing, sitting on board",Unknown,Unknown,N
+2184,1994.12.10,Dec,1994,Unprovoked,VANUATU,Tafea Province,Aniwa Island,Unknown,Unknown,Unknown,UNKNOWN
+2189,1994.11.13,Nov,1994,Unprovoked,USA,Hawaii,"Off the Hanalei River, Kaua'i","Surfing, paddling seawards",F,34,N
+2190,1994.11.06.a,Nov,1994,Unprovoked,USA,Hawaii,"Kealia Beach, Kaua'i",Surfing,Unknown,Unknown,N
+2191,1994.10.18,Oct,1994,Unprovoked,BRAZIL,Pernambuco,Piedade,Surfing,Unknown,Unknown,N
+2193,1994.10.08,Oct,1994,Provoked,USA,Florida,"Bill Baggs Cape Florida State Recreation Area, Miami-Dade County",Wading,F,9,N
+2195,1994.09.26,Sep,1994,Unprovoked,USA,South Carolina,"North Forest Beach, near Hilton Head, Beaufort County",Swimming,F,30,N
+2198,1994.09.05,Sep,1994,Unprovoked,USA,Hawaii,Makaha Surf Beach,Jumped off rocks into white water,F,12,N
+2199,1994.08.22,Aug,1994,Unprovoked,JAPAN,Kagoshima Prefecture,Tatsugo-cho,Unknown,Unknown,Unknown,N
+2211,1994.05.24,May,1994,Unprovoked,USA,Florida,"Spessard Holland Park, Melbourne Beach, Brevard County",Wading,F,36,N
+2214,1994.04.16,Apr,1994,Invalid,USA,California,"Sunset Cliffs, San Diego, San Diego County",Unknown,F,25,Y
+2215,1994.04.15,Apr,1994,Unprovoked,REUNION,Saint-Joseph,Lieu-dit Cayenne,Unknown,Unknown,Unknown,Y
+2219,1994.03.23.b,Mar,1994,Unprovoked,CHILE,Unknown,300 miles east of Easter Island,Swimming alongside NOAA research vessel Discoverer,F,19,N
+2227,1994.02.00,-,1994,Unprovoked,NEW CALEDONIA,South Province,Cap Goulvain,Fishing,Unknown,Unknown,Y
+2231,1994.01.12.R,Jan,1994,Boat,AUSTRALIA,Western Australia,Albany,Fishing,Unknown,Unknown,N
+2234,1994.00.00.b,-,1994,Unprovoked,HONG KONG,Unknown,Unknown,Playing volleyball with friends,F,Unknown,N
+2242,1993.10.26,Oct,1993,Unprovoked,USA,Florida,"Treasure Shores Beach, Indian River County",Swimming,F,26,N
+2243,1993.10.10,Oct,1993,Boat,USA,California,"Goat Rock, Bodega Bay, Sonoma County?",Kayaking,F,34,N
+2244,1993.10.00,-,1993,Unprovoked,USA,Hawaii,"Mouth of Wallua River, Kaua'i",Surfing,Unknown,Unknown,N
+2247,1993.09.16.b,Sep,1993,Unprovoked,EL SALVADOR,La Libertad,near El Cocal Beach,Surfing,Unknown,15,N
+2253,1993.08.19.R,Aug,1993,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,Unknown,13,N
+2255,1993.08.15.b,Aug,1993,Boat,USA,California,Between Santa Cruz Island and Santa Barbara,Watching the shark feeding on a dead pinniped,Unknown,Unknown,N
+2256,1993.08.15.a,Aug,1993,Unprovoked,USA,North Carolina,Pamlico Sound,Riding floatation device,F,19,N
+2257,1993.08.14,Aug,1993,Boat,AUSTRALIA,Western Australia,Off Rottnest Island,Fishing,Unknown,Unknown,N
+2260,1993.08.00.a,-,1993,Boat,EL SALVADOR,La Libertad,La Libertad,Oyster fishing,Unknown,Unknown,Y
+2262,1993.07.07,Jul,1993,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Playing,F,12,N
+2266,1993.06.11.a,Jun,1993,Unprovoked,MEXICO,Quintana Roo,"Santa Rosa Shallows, Cozumel",Scuba diving,F,42,Y
+2269,1993.06.05,Jun,1993,Unprovoked,AUSTRALIA,Tasmania,Tenth Island (King Island),Scuba diving at seal colony,F,34,Y
+2271,1993.06.00,-,1993,Unprovoked,USA,North Carolina,"Hamstead, Pender County",Swimming,F,60,N
+2272,1993.05.00.b,-,1993,Unprovoked,HONG KONG,"On the Kowloon penisula, south of Sai Kung",Silverstrand,Unknown,F,Unknown,Y
+2273,1993.05.00.a,-,1993,Unprovoked,SOMALIA,Banaadir Region,"Arroyo Beach, Mogadishu",Swimming,F,Unknown,Y
+2277,1993.03.17,Mar,1993,Unprovoked,JAPAN,Ehime Prefecture,Iyo,Unknown,Unknown,Unknown,N
+2280,1993.03.00,-,1993,Unprovoked,NEW CALEDONIA,South Province,�le de Casey,Swimming,Unknown,Unknown,N
+2289,1993.00.00.c,-,1993,Unprovoked,SOMALIA,Banaadir Region,Mogadishu,Unknown,Unknown,Unknown,Y
+2290,1993.00.00.b,-,1993,Unprovoked,TONGA,Vava�u,Between Ofu & Fafini Islands,Spearfishing,Unknown,30,N
+2291,1993.00.00.a,-,1993,Unprovoked,USA,Florida,"Key West, Monroe County",Snorkeling,Unknown,Unknown,N
+2305,1992.10.11,Oct,1992,Unprovoked,BRAZIL,Maranh�o,"Praia de S�o Marcus, S�o Luiz",Boogie boarding,Unknown,Unknown,N
+2309,1992.09.11,Sep,1992,Unprovoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Standing,F,18,N
+2312,1992.08.29,Aug,1992,Unprovoked,BAHAMAS,Abaco Islands,Double Breasted Cays ,"Snorkeling, carrying a speared fish in her hand",F,34,N
+2319,1992.07.21,Jul,1992,Unprovoked,USA,Florida,"Manasota Beach, Sarasota County",Standing,F,42,N
+2324,1992.06.19,Jun,1992,Unprovoked,VANUATU,Malampa Province,"Port Sandwich, Malakula",Swimming,F,21,N
+2325,1992.06.17,Jun,1992,Boat,JAPAN,Ehime Prefecture,"1.5 km north of Igata-cho, 60 km south of Matsyama",Preparing to fish for jack-mackerel,Unknown,Unknown,N
+2326,1992.06.00,-,1992,Unprovoked,REUNION,Saint-Paul,Unknown,Diving,Unknown,Unknown,N
+2332,1992.03.28,Mar,1992,Unprovoked,USA,Hawaii,"Cannons, at Ha'ena on the north shore of Kaua'i Island","Surfing, paddling seawards",F,36,N
+2335,1992.03.08.b,Mar,1992,Boat,JAPAN,Ehime Prefecture,"Nagahama-cho, 40 km southwest of Matsuyama ","Fishing for yellowtail, Seriola quinqueradiata",Unknown,Unknown,N
+2346,1992.01.00,-,1992,Invalid,JAPAN,Sea of Japan,Kanazawa?,Unknown,Unknown,Unknown,N
+2349,1991.11.26.b,Nov,1991,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,F,41,Y
+2350,1991.11.26.a,Nov,1991,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,F,Unknown,N
+2360,1991.08.12,Aug,1991,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Wading,F,10,N
+2362,1991.07.30,Jul,1991,Boat,ITALY,Ligurian Sea,"Portofino, 20 miles offshore, Tigullio Bay, Santa Margherita Ligure (Liguria)",Canoeing,F,40,N
+2373,1991.06.07.a,Jun,1991,Unprovoked,HONG KONG,Port Shelter,"Silverstrand Beach, near Hung Hau ",Swimming ,F,65,Y
+2376,1991.04.24,Apr,1991,Provoked,BRAZIL,Pernambuco,"Praia de Pau Amarelo, Recife",Fishing,Unknown,Unknown,N
+2377,1991.04.16.b,Apr,1991,Provoked,USA,Maryland,Baltimore Aquarium,Diving,Unknown,Unknown,N
+2388,1990.11.03,Nov,1990,Unprovoked,USA,California,"Monastery Beach, Carmel Bay, Monterey County",Scuba diving (but on surface),F,Unknown,N
+2404,1990.07.22,Jul,1990,Unprovoked,USA,Texas,"Mustang Island State Park, Nueces County",Wading,F,53,N
+2406,1990.06.24,Jun,1990,Unprovoked,SOUTH AFRICA,Western Cape Province,Mossel Bay,Scuba diving (but on surface),F,21,Y
+2408,1990.05.13,May,1990,Provoked,SOUTH AFRICA,KwaZulu-Natal,Protea Reef,Fishing,Unknown,Unknown,N
+2409,1990.05.10,May,1990,Unprovoked,AUSTRALIA,Queensland,Outer Barrier Reef near Port Douglas,Snorkeling,F,30,N
