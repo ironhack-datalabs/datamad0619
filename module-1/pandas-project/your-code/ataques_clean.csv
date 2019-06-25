@@ -1,0 +1,1329 @@
+,SEX,AGE,ACTIVITY,COUNTRY,MONTH,YEAR,SPECIES,TYPE,FATAL,INJURY
+0,F,Adult,Paddling,USA,6,2018,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+6,M,Youth,Swimming,BRAZIL,6,2018,Tiger shark,Unprovoked,Y,FATAL
+8,M,Youth,Walking,USA,5,2018,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+10,M,Young Adult,Feeding,AUSTRALIA,5,2018,Non defined,Provoked,N,OTHERS
+18,M,Young Adult,diving,COSTA RICA,4,2018,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+21,M,Adult,Surfing,AUSTRALIA,4,2018,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+23,M,Young Adult,Fishing,MALDIVES,4,2018,Tiger shark,Unprovoked,N,OTHERS
+24,M,Young Adult,skiing,SOUTH AFRICA,4,2018,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+34,M,Youth,Surfing,SOUTH AFRICA,4,2018,White shark,Unprovoked,N,LOWER EXTREMITIES
+35,M,Young Adult,Paddleboarding,USA,3,2018,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+36,M,Children,Wading,AUSTRALIA,3,2018,Non defined,Unprovoked,N,LOWER EXTREMITIES
+37,M,Senior,Swimming,AUSTRALIA,3,2018,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+38,M,Youth,Surfing,AUSTRALIA,3,2018,Non defined,Unprovoked,N,LOWER EXTREMITIES
+40,F,Adult,Swimming,AUSTRALIA,2,2018,White shark,Unprovoked,N,LOWER EXTREMITIES
+42,M,Young Adult,Walking,AUSTRALIA,2,2018,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+51,M,Youth,Surfing,BRAZIL,1,2018,Non defined,Unprovoked,N,OTHERS
+53,F,Adult,Surfing,USA,12,2017,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+60,M,Young Adult,Spearfishing,USA,11,2017,White shark,Unprovoked,N,LOWER EXTREMITIES
+63,M,Young Adult,Surfing,AUSTRALIA,11,2017,Non defined,Unprovoked,N,OTHERS
+64,M,Youth,bathing,CUBA,11,2017,Tiger shark,Unprovoked,Y,FATAL
+66,M,Young Adult,Surfing,AUSTRALIA,1,2017,Non defined,Unprovoked,N,LOWER EXTREMITIES
+71,F,Youth,Kayaking,AUSTRALIA,1,2017,White shark,Unprovoked,N,OTHERS
+74,M,Adult,Surfing,USA,1,2017,Tiger shark,Unprovoked,N,OTHERS
+75,F,Adult,Snorkeling,USA,1,2017,Non defined,Unprovoked,N,OTHERS
+87,M,Youth,Surfing,USA,9,2017,Non defined,Unprovoked,N,LOWER EXTREMITIES
+89,M,Young Adult,Surfing,AUSTRALIA,9,2017,White shark,Unprovoked,N,LOWER EXTREMITIES
+96,M,Adult,Surfing,AUSTRALIA,8,2017,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+100,M,Senior,Undefined,USA,8,2017,White shark,Unprovoked,N,OTHERS
+102,M,Children,Swimming,USA,8,2017,Non defined,Unprovoked,N,LOWER EXTREMITIES
+104,M,Young Adult,Fishing,USA,8,2017,White shark,Provoked,N,LOWER EXTREMITIES
+116,M,Adult,Kayaking,USA,7,2017,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+117,M,Adult,Undefined,USA,7,2017,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+121,M,Adult,Swimming,USA,7,2017,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+123,F,Children,Surfing,SOUTH AFRICA,7,2017,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+133,M,Adult,boarding,AUSTRALIA,6,2017,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+138,F,Young Adult,Snorkeling,BAHAMAS,6,2017,Tiger shark,Unprovoked,N,OTHERS
+155,F,Youth,Surfing,AUSTRALIA,4,2017,White shark,Unprovoked,Y,FATAL
+156,M,Young Adult,Surfing,USA,4,2017,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+166,F,Youth,Swimming,USA,4,2017,Bull shark,Unprovoked,N,OTHERS
+183,M,Adult,Diving,AUSTRALIA,1,2017,Bull shark,Unprovoked,N,OTHERS
+186,M,Adult,Surfing,INDONESIA,1,2017,Bull shark,Unprovoked,N,OTHERS
+192,M,Adult,skiing,SOUTH AFRICA,12,2016,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+196,M,Youth,fishing,AUSTRALIA,12,2016,Non defined,Provoked,N,OTHERS
+197,M,Senior,Surfing,AUSTRALIA,12,2016,White shark,Unprovoked,N,LOWER EXTREMITIES
+198,M,Senior,Fishing,AUSTRALIA,11,2016,Non defined,Provoked,N,OTHERS
+199,F,Adult,Floating,USA,11,2016,Tiger shark,Unprovoked,N,OTHERS
+203,M,Adult,Surfing,USA,1,2016,Non defined,Unprovoked,N,LOWER EXTREMITIES
+211,M,Youth,Surfing,AUSTRALIA,9,2016,White shark,Unprovoked,N,OTHERS
+219,M,Children,Wading,USA,9,2016,White shark,Unprovoked,N,OTHERS
+220,F,Adult,Swimming,USA,9,2016,Tiger shark,Unprovoked,N,OTHERS
+227,M,Young Adult,Surfing,USA,8,2016,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+232,M,Youth,boarding,USA,8,2016,Tiger shark,Unprovoked,N,OTHERS
+234,M,Adult,Swimming,SPAIN,7,2016,Non defined,Unprovoked,N,OTHERS
+242,M,Young Adult,Fishing,AUSTRALIA,7,2016,Non defined,Provoked,N,OTHERS
+246,M,Adult,surfing,USA,7,2016,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+251,M,Adult,Fishing,USA,7,2016,Non defined,Provoked,N,OTHERS
+254,M,Young Adult,Fishing,AUSTRALIA,7,2016,Non defined,Provoked,N,OTHERS
+259,M,Adult,Floating,USA,6,2016,Non defined,Unprovoked,N,LOWER EXTREMITIES
+263,F,Children,Floating,USA,6,2016,White shark,Unprovoked,N,LOWER EXTREMITIES
+264,M,Youth,Standing,USA,6,2016,Non defined,Unprovoked,N,OTHERS
+267,F,Adult,Diving,AUSTRALIA,6,2016,Non defined,Unprovoked,Y,FATAL
+268,M,Youth,Swimming,EGYPT,6,2016,Non defined,Unprovoked,N,LOWER EXTREMITIES
+271,M,Young Adult,Surfing,AUSTRALIA,5,2016,White shark,Unprovoked,Y,FATAL
+273,M,Children,Swimming,USA,5,2016,Non defined,Unprovoked,N,LOWER EXTREMITIES
+275,F,Youth,Swimming,USA,5,2016,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+277,M,Adult,Swimming,USA,5,2016,Non defined,Unprovoked,N,LOWER EXTREMITIES
+278,F,Youth,Teasing,USA,5,2016,Non defined,Provoked,N,OTHERS
+280,M,Adult,Fishing,NEW ZEALAND,5,2016,Non defined,Provoked,N,LOWER EXTREMITIES
+281,M,Youth,Surfing,INDONESIA,4,2016,Bull shark,Unprovoked,N,OTHERS
+284,M,Children,Swimming,AUSTRALIA,4,2016,Non defined,Unprovoked,N,LOWER EXTREMITIES
+285,M,Youth,Spearfishing,FRENCH POLYNESIA,4,2016,Non defined,Provoked,N,LOWER EXTREMITIES
+286,M,Young Adult,Spearfishing,FRENCH POLYNESIA,4,2016,Non defined,Provoked,N,OTHERS
+288,F,Senior,Walking,NEW CALEDONIA,4,2016,Tiger shark,Unprovoked,Y,FATAL
+316,M,Adult,boarding,USA,1,2016,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+318,M,Children,Wading,AUSTRALIA,1,2016,Non defined,Unprovoked,N,OTHERS
+319,M,Young Adult,Spearfishing,AUSTRALIA,1,2016,Non defined,Unprovoked,N,LOWER EXTREMITIES
+322,M,Senior,boarding,USA,12,2015,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+323,M,Adult,Surfing,AUSTRALIA,12,2015,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+329,M,Adult,Snorkeling,ECUADOR,11,2015,Non defined,Unprovoked,N,OTHERS
+333,M,Youth,Surfing,AUSTRALIA,11,2015,Bull shark,Unprovoked,N,OTHERS
+336,F,Young Adult,Wading,USA,11,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+340,M,Adult,Surfing,SOUTH AFRICA,1,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+341,M,Youth,Surfing,USA,1,2015,Non defined,Unprovoked,N,OTHERS
+342,M,Youth,Surfing,USA,1,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+345,M,Adult,Swimming,USA,1,2015,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+348,M,Young Adult,Surfing,USA,1,2015,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+352,M,Children,Wading,USA,1,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+353,M,Children,Surfing,USA,1,2015,Non defined,Unprovoked,N,OTHERS
+354,M,Youth,Surfing,USA,9,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+357,M,Children,Surfing,USA,9,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+358,M,Young Adult,Spearfishing,USA,9,2015,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+359,M,Children,Wading,USA,9,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+364,M,Adult,Surfing,AUSTRALIA,9,2015,Non defined,Unprovoked,N,OTHERS
+365,F,Adult,Paddleboarding,USA,9,2015,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+366,M,Young Adult,Fishing,USA,9,2015,Non defined,Provoked,N,LOWER EXTREMITIES
+367,M,Adult,skiing,AUSTRALIA,9,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+369,F,Adult,Wading,THAILAND,9,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+371,F,Adult,Surfing,USA,8,2015,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+372,M,Youth,Surfing,USA,8,2015,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+375,M,Youth,Surfing,USA,8,2015,White shark,Unprovoked,N,OTHERS
+376,F,Children,Walking,USA,8,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+377,M,Youth,Fishing,USA,8,2015,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+379,M,Adult,Spearfishing,USA,8,2015,Non defined,Provoked,N,OTHERS
+380,M,Adult,Surfing,AUSTRALIA,7,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+383,M,Young Adult,Surfing,USA,7,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+385,M,Adult,diving,AUSTRALIA,7,2015,White shark,Unprovoked,Y,FATAL
+390,M,Adult,Surfing,USA,7,2015,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+395,M,Adult,Surfing,AUSTRALIA,7,2015,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+396,M,Young Adult,boarding,AUSTRALIA,7,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+397,M,Senior,Swimming,USA,7,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+399,M,Children,Playing,USA,6,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+400,M,Youth,Swimming,USA,6,2015,Bull shark,Unprovoked,N,OTHERS
+401,M,Youth,Boarding,SOUTH AFRICA,6,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+403,M,Youth,Surfing,SOUTH AFRICA,6,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+404,M,Adult,Standing,USA,6,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+407,M,Children,Swimming,USA,6,2015,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+412,M,Youth,Wading,USA,6,2015,Bull shark,Unprovoked,N,OTHERS
+413,F,Children,Wading,USA,6,2015,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+415,F,Children,boarding,USA,6,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+416,M,Children,Playing,USA,6,2015,Bull shark,Unprovoked,N,OTHERS
+418,M,Adult,Surfing,REUNION,6,2015,Bull shark,Unprovoked,N,OTHERS
+421,M,Youth,Spearfishing,FRENCH POLYNESIA,5,2015,Non defined,Unprovoked,N,OTHERS
+428,M,Young Adult,Diving,SOUTH AFRICA,5,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+430,M,Adult,Wading,USA,4,2015,Non defined,Unprovoked,N,OTHERS
+431,M,Young Adult,Surfing,AUSTRALIA,4,2015,White shark,Unprovoked,N,LOWER EXTREMITIES
+432,M,Senior,skiing,AUSTRALIA,6,2015,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+434,M,Children,Surfing,REUNION,4,2015,Bull shark,Unprovoked,Y,FATAL
+436,M,Senior,Spearfishing,USA,4,2015,Bull shark,Unprovoked,N,OTHERS
+441,M,Adult,Standing,USA,3,2015,Tiger shark,Unprovoked,N,OTHERS
+442,M,Children,feeding,FRENCH POLYNESIA,3,2015,Non defined,Unprovoked,N,OTHERS
+447,F,Youth,Swimming,REUNION,2,2015,Tiger shark,Unprovoked,Y,FATAL
+448,M,Adult,Surfing,AUSTRALIA,2,2015,Non defined,Unprovoked,Y,FATAL
+449,M,Young Adult,Surfing,AUSTRALIA,2,2015,Non defined,Unprovoked,N,LOWER EXTREMITIES
+451,M,Adult,Rowing,AUSTRALIA,1,2015,Bull shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+452,M,Youth,fishing,USA,1,2015,White shark,Provoked,N,OTHERS
+460,F,Young Adult,Snorkeling,BAHAMAS,1,2015,White shark,Unprovoked,N,OTHERS
+461,M,Youth,Surfing,SOUTH AFRICA,1,2015,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+464,M,Youth,Spearfishing,AUSTRALIA,12,2014,White shark,Unprovoked,Y,FATAL
+467,M,Adult,Surfing,USA,12,2014,White shark,Unprovoked,N,LOWER EXTREMITIES
+468,M,Children,Fishing,AUSTRALIA,12,2014,Non defined,Provoked,N,OTHERS
+470,M,Youth,Spearfishing,AUSTRALIA,12,2014,Tiger shark,Unprovoked,Y,FATAL
+476,M,Adult,Surfing,USA,11,2014,Non defined,Unprovoked,N,OTHERS
+477,M,Adult,Snorkeling,USA,11,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+480,F,Young Adult,Surfing,USA,1,2014,Tiger shark,Unprovoked,N,OTHERS
+486,F,Children,Surfing,AUSTRALIA,1,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+490,M,Young Adult,Surfing,USA,1,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+492,M,Youth,Surfing,USA,1,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+495,M,Young Adult,Surfing,USA,1,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+496,M,Youth,Surfing,AUSTRALIA,1,2014,White shark,Unprovoked,N,LOWER EXTREMITIES
+500,M,Adult,Swimming,AUSTRALIA,9,2014,Non defined,Unprovoked,Y,FATAL
+501,M,Adult,Fishing,USA,9,2014,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+502,F,Children,Kayaking,USA,9,2014,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+503,M,Adult,Fishing,USA,9,2014,White shark,Provoked,N,LOWER EXTREMITIES
+505,F,Children,surfing,USA,8,2014,Non defined,Unprovoked,N,OTHERS
+519,M,Children,Swimming,USA,8,2014,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+520,M,Children,boarding,USA,8,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+524,M,Youth,Surfing,SOUTH AFRICA,8,2014,White shark,Unprovoked,N,OTHERS
+530,M,Adult,Swimming,USA,7,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+531,M,Adult,Swimming,USA,7,2014,White shark,Unprovoked,N,LOWER EXTREMITIES
+537,M,Youth,surfing,USA,7,2014,Non defined,Unprovoked,N,OTHERS
+544,M,Youth,Standing,USA,6,2014,Non defined,Unprovoked,N,OTHERS
+545,M,Adult,boarding,AUSTRALIA,6,2014,Non defined,Unprovoked,N,OTHERS
+548,F,Youth,Swimming,USA,6,2014,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+555,M,Young Adult,Surfing,AUSTRALIA,5,2014,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+559,F,Adult,Swimming,USA,5,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+561,M,Youth,Surfing,USA,5,2014,Non defined,Unprovoked,N,OTHERS
+569,F,Adult,Swimming,AUSTRALIA,4,2014,White shark,Unprovoked,Y,FATAL
+571,M,Senior,Swimming,SOUTH AFRICA,3,2014,Non defined,Unprovoked,Y,FATAL
+580,M,Youth,Kitesurfing,FRENCH POLYNESIA,2,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+584,M,Young Adult,Surfing,NEW ZEALAND,2,2014,Non defined,Unprovoked,N,LOWER EXTREMITIES
+590,M,Adult,Snorkeling,NEW CALEDONIA,12,2013,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+591,M,Youth,Surfing,SOUTH AFRICA,12,2013,White shark,Unprovoked,N,OTHERS
+593,M,Young Adult,boarding,USA,12,2013,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+594,M,Young Adult,Surfing,USA,12,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+595,M,Young Adult,Surfing,AUSTRALIA,12,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+597,M,Youth,boarding,AUSTRALIA,11,2013,Tiger shark,Unprovoked,Y,FATAL
+599,M,Young Adult,Surfing,AUSTRALIA,11,2013,White shark,Unprovoked,Y,FATAL
+600,M,Young Adult,Surfing,USA,11,2013,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+605,M,Adult,Kiteboarding,USA,1,2013,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+606,F,Adult,Snorkeling,AUSTRALIA,1,2013,Non defined,Unprovoked,N,OTHERS
+607,M,Youth,boarding,REUNION,1,2013,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+609,M,Adult,Surfing,AUSTRALIA,1,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+610,M,Adult,Diving,USA,1,2013,White shark,Unprovoked,N,LOWER EXTREMITIES
+611,M,Young Adult,Surfing,USA,1,2013,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+612,M,Children,Wading,USA,1,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+613,M,Senior,Swimming,SOUTH AFRICA,1,2013,White shark,Unprovoked,Y,FATAL
+614,M,Adult,Diving,AUSTRALIA,1,2013,White shark,Unprovoked,N,OTHERS
+615,M,Adult,Surfing,USA,1,2013,White shark,Unprovoked,N,OTHERS
+616,M,Children,Wading,USA,1,2013,Bull shark,Unprovoked,N,OTHERS
+622,M,Youth,Swimming,USA,9,2013,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+623,F,Children,Surfing,USA,9,2013,Non defined,Unprovoked,N,OTHERS
+625,M,Adult,Surfing,USA,9,2013,Non defined,Provoked,N,LOWER EXTREMITIES
+626,M,Young Adult,Standing,USA,9,2013,Non defined,Unprovoked,N,OTHERS
+630,M,Children,Casting,USA,9,2013,White shark,Unprovoked,N,OTHERS
+639,F,Youth,Snorkeling,USA,8,2013,Tiger shark,Unprovoked,Y,FATAL
+641,M,Children,Surfing,USA,8,2013,Bull shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+643,M,Youth,Fishing,USA,8,2013,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+646,M,Adult,Spearfishing,BAHAMAS,7,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+648,M,Youth,Surfing,USA,7,2013,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+649,M,Adult,Cleaning,BAHAMAS,7,2013,Non defined,Unprovoked,N,OTHERS
+663,M,Children,Swimming,USA,6,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+664,M,Young Adult,Swimming,USA,6,2013,Tiger shark,Unprovoked,N,OTHERS
+668,F,Children,Boarding,USA,6,2013,Non defined,Unprovoked,N,OTHERS
+675,M,Young Adult,Surfing,ECUADOR,5,2013,Non defined,Unprovoked,N,OTHERS
+677,M,Adult,boarding,REUNION,5,2013,Bull shark,Unprovoked,Y,FATAL
+678,M,Youth,Surfing,USA,5,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+680,F,Young Adult,Swimming,MEXICO,4,2013,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+681,M,Adult,Fishing,AUSTRALIA,4,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+682,M,Children,Playing,USA,4,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+684,M,Youth,Surfing,USA,4,2013,Bull shark,Unprovoked,N,OTHERS
+686,M,Adult,boarding,FRENCH POLYNESIA,4,2013,Non defined,Unprovoked,N,LOWER EXTREMITIES
+689,M,Adult,Surfing,USA,4,2013,White shark,Unprovoked,N,OTHERS
+694,M,Young Adult,Fishing,SOUTH AFRICA,3,2013,Raggedtooth shark,Provoked,N,OTHERS
+696,M,Senior,Spearfishing,JAMAICA,3,2013,Tiger shark,Unprovoked,Y,FATAL
+697,M,Young Adult,Spearfishing,AUSTRALIA,3,2013,Non defined,Unprovoked,N,OTHERS
+700,M,Adult,Swimming,NEW ZEALAND,2,2013,White shark,Unprovoked,Y,FATAL
+703,M,Youth,Surfing,USA,2,2013,Non defined,Unprovoked,N,OTHERS
+704,M,Adult,diving,FRENCH POLYNESIA,2,2013,Non defined,Unprovoked,N,OTHERS
+709,M,Adult,Surfing,USA,1,2013,Tiger shark,Unprovoked,N,OTHERS
+713,M,Youth,Surfing,AUSTRALIA,12,2012,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+714,M,Young Adult,boarding,AUSTRALIA,12,2012,Bull shark,Unprovoked,N,OTHERS
+716,M,Young Adult,Surfing,AUSTRALIA,12,2012,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+717,M,Adult,Surfing,USA,12,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+718,M,Young Adult,Spearfishing,AUSTRALIA,12,2012,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+720,M,Adult,Snorkeling,USA,11,2012,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+722,M,Young Adult,Swimming,MEXICO,11,2012,Non defined,Unprovoked,Y,FATAL
+723,M,Children,Surfing,USA,11,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+724,M,Young Adult,Diving,USA,11,2012,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+725,M,Adult,Surfing,USA,11,2012,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+726,M,Young Adult,Surfing,USA,1,2012,White shark,Unprovoked,N,OTHERS
+727,F,Adult,Swimming,USA,1,2012,Tiger shark,Unprovoked,N,OTHERS
+728,M,Adult,Surfing,USA,1,2012,White shark,Unprovoked,Y,FATAL
+731,M,Adult,boarding,USA,1,2012,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+735,M,Children,Bodyboarding,AUSTRALIA,1,2012,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+736,M,Youth,Surfing,USA,9,2012,Non defined,Unprovoked,N,OTHERS
+737,M,Youth,Surfing,USA,9,2012,White shark,Unprovoked,N,LOWER EXTREMITIES
+746,F,Children,boarding,USA,9,2012,White shark,Unprovoked,N,OTHERS
+748,F,Adult,Swimming,USA,9,2012,White shark,Unprovoked,N,LOWER EXTREMITIES
+754,M,Adult,diving,USA,8,2012,Non defined,Unprovoked,N,OTHERS
+758,M,Adult,Surfing,AUSTRALIA,7,2012,White shark,Unprovoked,N,OTHERS
+760,M,Adult,surfing,USA,7,2012,White shark,Unprovoked,N,LOWER EXTREMITIES
+765,M,Youth,Surfing,AUSTRALIA,7,2012,White shark,Unprovoked,Y,FATAL
+769,M,Adult,Kayaking,USA,7,2012,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+770,M,Young Adult,Surfing,SOUTH AFRICA,7,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+772,M,Children,Swimming,USA,6,2012,Bull shark,Unprovoked,N,OTHERS
+774,F,Youth,Sitting,USA,6,2012,Non defined,Unprovoked,N,OTHERS
+777,M,Adult,skiing,AUSTRALIA,6,2012,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+780,M,Youth,Fishing,USA,6,2012,Non defined,Provoked,N,OTHERS
+781,F,Youth,Swimming,USA,6,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+784,M,Youth,Swimming,USA,6,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+785,M,Adult,Surfing,AUSTRALIA,6,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+787,M,Young Adult,skiing,AUSTRALIA,6,2012,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+790,F,Young Adult,Wading,USA,5,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+791,M,Adult,diving,MEXICO,5,2012,Bull shark,Unprovoked,N,OTHERS
+792,M,Youth,Surfing,USA,5,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+795,M,Young Adult,Kayaking,USA,5,2012,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+797,F,Youth,boarding,USA,5,2012,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+798,M,Young Adult,Surfing,USA,4,2012,Non defined,Unprovoked,N,OTHERS
+799,M,Youth,boarding,SOUTH AFRICA,4,2012,White shark,Unprovoked,Y,FATAL
+801,M,Young Adult,Surfing,USA,4,2012,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+803,M,Young Adult,diving,AUSTRALIA,3,2012,White shark,Unprovoked,Y,FATAL
+806,M,Youth,Surfing,AUSTRALIA,3,2012,Bull shark,Unprovoked,N,OTHERS
+807,M,Adult,Surfing,USA,3,2012,Bull shark,Unprovoked,N,OTHERS
+808,F,Youth,Surfing,USA,3,2012,Non defined,Unprovoked,N,LOWER EXTREMITIES
+809,M,Youth,Surfing,USA,3,2012,Non defined,Unprovoked,N,OTHERS
+811,F,Young Adult,Diving,AUSTRALIA,3,2012,Non defined,Provoked,N,OTHERS
+813,M,Youth,Surfing,USA,3,2012,White shark,Unprovoked,N,OTHERS
+821,M,Young Adult,Snorkeling,AUSTRALIA,1,2012,Tiger shark,Unprovoked,N,OTHERS
+824,M,Adult,Surfing,AUSTRALIA,1,2012,White shark,Unprovoked,N,OTHERS
+825,M,Young Adult,Swimming,SOUTH AFRICA,1,2012,Bull shark,Unprovoked,Y,FATAL
+827,M,Young Adult,Surfing,AUSTRALIA,1,2012,Non defined,Unprovoked,N,OTHERS
+828,M,Young Adult,Spearfishing,AUSTRALIA,1,2012,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+835,M,Adult,Surfing,AUSTRALIA,12,2011,White shark,Unprovoked,N,OTHERS
+842,M,Children,Swimming,AUSTRALIA,11,2011,Non defined,Unprovoked,N,LOWER EXTREMITIES
+850,M,Young Adult,Diving,AUSTRALIA,1,2011,White shark,Unprovoked,Y,FATAL
+852,M,Adult,Diving,AUSTRALIA,1,2011,Non defined,Unprovoked,N,OTHERS
+861,M,Adult,Swimming,SOUTH AFRICA,9,2011,White shark,Unprovoked,N,LOWER EXTREMITIES
+862,M,Youth,Spearfishing,USA,9,2011,Bull shark,Unprovoked,N,OTHERS
+867,M,Young Adult,Surfing,USA,9,2011,Non defined,Unprovoked,N,OTHERS
+869,M,Young Adult,Surfing,PAPUA NEW GUINEA,9,2011,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+871,M,Youth,boarding,AUSTRALIA,9,2011,White shark,Unprovoked,Y,FATAL
+872,M,Youth,Surfing,USA,9,2011,Non defined,Unprovoked,N,LOWER EXTREMITIES
+873,M,Youth,Surfing,USA,8,2011,Non defined,Unprovoked,N,LOWER EXTREMITIES
+879,M,Adult,Surfing,SOUTH AFRICA,8,2011,White shark,Unprovoked,Y,FATAL
+881,F,Children,Wading,USA,8,2011,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+883,M,Young Adult,Swimming,RUSSIA,8,2011,Non defined,Unprovoked,N,OTHERS
+884,M,Young Adult,Surfing,FRENCH POLYNESIA,8,2011,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+886,M,Young Adult,Swimming,SEYCHELLES,8,2011,Bull shark,Unprovoked,Y,FATAL
+893,M,Young Adult,Surfing,SOUTH AFRICA,7,2011,White shark,Unprovoked,N,LOWER EXTREMITIES
+904,M,Youth,diving,SOUTH AFRICA,6,2011,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+905,F,Children,Playing,USA,6,2011,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+912,M,Young Adult,diving,USA,6,2011,Non defined,Unprovoked,N,OTHERS
+915,M,Youth,Wading,USA,6,2011,White shark,Unprovoked,N,OTHERS
+921,M,Young Adult,Spearfishing,SOUTH AFRICA,5,2011,Non defined,Unprovoked,Y,FATAL
+923,M,Youth,Boarding,NEW CALEDONIA,5,2011,Tiger shark,Unprovoked,Y,FATAL
+929,M,Youth,Washing,AUSTRALIA,4,2011,Non defined,Unprovoked,N,OTHERS
+930,M,Adult,Surfing,USA,4,2011,Non defined,Unprovoked,N,OTHERS
+931,M,Adult,Surfing,NEW ZEALAND,4,2011,Non defined,Unprovoked,N,OTHERS
+936,M,Adult,Surfing,AUSTRALIA,3,2011,Bull shark,Unprovoked,N,OTHERS
+939,F,Youth,Wakeboarding,AUSTRALIA,3,2011,Non defined,Unprovoked,N,OTHERS
+942,M,Adult,Fishing,AUSTRALIA,2,2011,Bull shark,Provoked,N,OTHERS
+943,M,Youth,Spearfishing,NEW CALEDONIA,2,2011,Non defined,Unprovoked,N,OTHERS
+945,M,Adult,Diving,AUSTRALIA,2,2011,White shark,Unprovoked,Y,FATAL
+950,F,Adult,Swimming,MEXICO,1,2011,Non defined,Unprovoked,N,LOWER EXTREMITIES
+952,M,Adult,diving,BAHAMAS,1,2011,Non defined,Unprovoked,N,OTHERS
+957,M,Youth,boarding,USA,12,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+960,F,Senior,Snorkeling,EGYPT,12,2010,White shark,Unprovoked,Y,FATAL
+962,M,Adult,Snorkeling,EGYPT,12,2010,Non defined,Unprovoked,N,OTHERS
+963,M,Adult,Snorkeling,EGYPT,12,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+964,F,Senior,Snorkeling,EGYPT,11,2010,White shark,Unprovoked,N,LOWER EXTREMITIES
+965,F,Adult,Snorkeling,EGYPT,11,2010,White shark,Unprovoked,N,LOWER EXTREMITIES
+972,F,Youth,Snorkeling,AUSTRALIA,1,2010,White shark,Unprovoked,N,OTHERS
+976,M,Young Adult,diving,USA,1,2010,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+978,M,Youth,boarding,USA,1,2010,White shark,Unprovoked,Y,FATAL
+980,M,Youth,Surfing,AUSTRALIA,1,2010,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+984,M,Young Adult,Surfing,USA,9,2010,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+987,M,Youth,Surfing,AUSTRALIA,9,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+996,M,Young Adult,Surfing,AUSTRALIA,8,2010,White shark,Unprovoked,Y,FATAL
+1005,F,Adult,Standing,USA,8,2010,White shark,Unprovoked,N,OTHERS
+1008,M,Children,Swimming,USA,7,2010,Non defined,Unprovoked,N,OTHERS
+1009,F,Children,Swimming,USA,7,2010,Tiger shark,Unprovoked,N,OTHERS
+1011,M,Children,Swimming,SPAIN,7,2010,Non defined,Provoked,N,LOWER EXTREMITIES
+1015,M,Youth,Fishing,USA,7,2010,Non defined,Provoked,N,OTHERS
+1016,M,Youth,Surfing,USA,7,2010,White shark,Unprovoked,N,LOWER EXTREMITIES
+1017,M,Adult,Paddleboarding,USA,7,2010,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1021,M,Youth,Swimming,VIETNAM,6,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1022,F,Youth,Boarding,USA,6,2010,White shark,Unprovoked,N,LOWER EXTREMITIES
+1025,M,Adult,Fishing,USA,5,2010,Non defined,Provoked,N,OTHERS
+1026,F,Adult,Rescuing,VIETNAM,5,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1027,F,Adult,Swimming,VIETNAM,5,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1030,F,Children,Wading,USA,5,2010,White shark,Unprovoked,N,LOWER EXTREMITIES
+1031,M,Young Adult,Measuring,USA,4,2010,Non defined,Provoked,N,OTHERS
+1032,M,Senior,Surfing,USA,4,2010,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1033,M,Young Adult,Surfing,SOUTH AFRICA,4,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1034,M,Youth,Swimming,EGYPT,4,2010,White shark,Unprovoked,N,LOWER EXTREMITIES
+1035,M,Young Adult,Surfing,REUNION,3,2010,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1039,F,Adult,Snorkeling,AUSTRALIA,2,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1040,M,Adult,Surfing,AUSTRALIA,2,2010,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1042,M,Youth,boarding,AUSTRALIA,2,2010,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1046,F,Children,Boarding,NEW ZEALAND,2,2010,Non defined,Provoked,N,OTHERS
+1051,M,Adult,Standing,SOUTH AFRICA,1,2010,White shark,Unprovoked,Y,FATAL
+1060,M,Young Adult,Swimming,MOZAMBIQUE,12,2009,Non defined,Unprovoked,N,OTHERS
+1062,M,Youth,Spearfishing,AUSTRALIA,12,2009,Bull shark,Unprovoked,N,OTHERS
+1068,M,Adult,Diving,USA,12,2009,Tiger shark,Provoked,N,LOWER EXTREMITIES
+1070,M,Children,Wading,USA,11,2009,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1071,M,Young Adult,Fishing,USA,11,2009,Non defined,Unprovoked,N,OTHERS
+1074,M,Youth,Surfing,USA,11,2009,White shark,Unprovoked,N,LOWER EXTREMITIES
+1075,M,Young Adult,Kayaking,AUSTRALIA,11,2009,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1077,M,Young Adult,Kayaking,AUSTRALIA,1,2009,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1081,M,Adult,Surfing,USA,1,2009,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1083,M,Youth,Diving,SCOTLAND,1,2009,Non defined,Provoked,N,OTHERS
+1086,M,Adult,Fishing,UNITED KINGDOM,1,2009,Non defined,Provoked,N,OTHERS
+1096,M,Young Adult,Surfing,SOUTH AFRICA,8,2009,White shark,Unprovoked,Y,FATAL
+1097,F,Youth,Swimming,USA,8,2009,White shark,Unprovoked,N,LOWER EXTREMITIES
+1101,M,Adult,Fishing,USA,8,2009,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1115,F,Adult,Swimming,USA,7,2009,Non defined,Provoked,N,OTHERS
+1116,M,Adult,Surfing,AUSTRALIA,6,2009,Non defined,Unprovoked,N,OTHERS
+1122,F,Adult,Snorkeling,EGYPT,6,2009,White shark,Unprovoked,Y,FATAL
+1123,M,Adult,Fishing,TAIWAN,5,2009,Non defined,Provoked,N,LOWER EXTREMITIES
+1125,M,Young Adult,Surfing,USA,5,2009,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1126,M,Adult,Surfing,USA,5,2009,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1127,M,Adult,Surfing,USA,5,2009,Non defined,Unprovoked,N,OTHERS
+1128,M,Young Adult,Spearfishing,GUAM,5,2009,Non defined,Provoked,N,OTHERS
+1135,M,Young Adult,Surfing,USA,4,2009,Non defined,Unprovoked,N,OTHERS
+1137,M,Adult,skiing,AUSTRALIA,4,2009,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1143,M,Youth,Surfing,AUSTRALIA,3,2009,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1146,F,Youth,Surfing,USA,3,2009,White shark,Unprovoked,N,LOWER EXTREMITIES
+1148,M,Adult,Swimming,USA,3,2009,Non defined,Unprovoked,N,OTHERS
+1151,M,Adult,Fishing,SOUTH AFRICA,3,2009,Non defined,Provoked,N,OTHERS
+1153,M,Youth,Surfing,AUSTRALIA,3,2009,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1156,M,Young Adult,Surfing,AUSTRALIA,2,2009,White shark,Unprovoked,N,OTHERS
+1157,M,Young Adult,Diving,AUSTRALIA,2,2009,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1159,M,Adult,Surfing,AUSTRALIA,2,2009,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1163,M,Youth,Spearfishing,CUBA,1,2009,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1166,M,Young Adult,Swimming,SOUTH AFRICA,1,2009,Tiger shark,Unprovoked,Y,FATAL
+1171,M,Youth,Snorkeling,AUSTRALIA,1,2009,Non defined,Unprovoked,N,OTHERS
+1172,F,Children,Surfing,AUSTRALIA,1,2009,White shark,Unprovoked,N,LOWER EXTREMITIES
+1173,M,Young Adult,Surfing,AUSTRALIA,1,2009,White shark,Unprovoked,N,OTHERS
+1176,M,Adult,Swimming,NEW ZEALAND,1,2009,Non defined,Unprovoked,N,OTHERS
+1181,M,Young Adult,Kayaking,AUSTRALIA,12,2008,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1182,M,Adult,Snorkeling,AUSTRALIA,12,2008,White shark,Unprovoked,Y,FATAL
+1185,M,Youth,Fishing,SOUTH AFRICA,12,2008,Raggedtooth shark,Provoked,N,LOWER EXTREMITIES
+1194,M,Young Adult,diving,AUSTRALIA,1,2008,Non defined,Provoked,N,OTHERS
+1199,M,Adult,Spearfishing,CROATIA,1,2008,White shark,Unprovoked,N,OTHERS
+1201,M,Adult,Surfing,USA,9,2008,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1202,M,Adult,Swimming,AUSTRALIA,9,2008,Non defined,Provoked,N,OTHERS
+1204,M,Adult,Surfing,USA,9,2008,Tiger shark,Unprovoked,N,OTHERS
+1206,M,Adult,Surfing,AUSTRALIA,9,2008,Non defined,Unprovoked,N,OTHERS
+1209,M,Adult,Surfing,USA,9,2008,White shark,Unprovoked,N,LOWER EXTREMITIES
+1215,M,Young Adult,Surfing,USA,8,2008,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1220,F,Adult,Treading,USA,8,2008,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1223,M,Young Adult,Surfing,AUSTRALIA,7,2008,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1231,F,Children,Wading,USA,7,2008,White shark,Unprovoked,N,LOWER EXTREMITIES
+1233,M,Youth,Wading,USA,7,2008,White shark,Unprovoked,N,LOWER EXTREMITIES
+1245,M,Adult,Swimming,USA,6,2008,Non defined,Unprovoked,N,OTHERS
+1247,F,Adult,Kayaking,USA,6,2008,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1252,F,Youth,surfing,USA,6,2008,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1253,M,Children,Swimming,BRAZIL,6,2008,Bull shark,Unprovoked,N,OTHERS
+1256,M,Adult,Surfing,MEXICO,5,2008,Non defined,Unprovoked,N,OTHERS
+1259,M,Adult,Swimming,AUSTRALIA,5,2008,White shark,Unprovoked,N,LOWER EXTREMITIES
+1260,M,Adult,Fishing,NEW CALEDONIA,5,2008,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1263,M,Youth,Surfing,MEXICO,4,2008,Tiger shark,Unprovoked,Y,FATAL
+1264,M,Youth,Surfing,USA,4,2008,White shark,Unprovoked,N,LOWER EXTREMITIES
+1266,M,Young Adult,Swimming,NEW CALEDONIA,4,2008,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1268,M,Senior,Swimming,USA,4,2008,White shark,Unprovoked,Y,FATAL
+1274,M,Young Adult,Surfing,USA,4,2008,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1278,M,Youth,boarding,AUSTRALIA,4,2008,Bull shark,Unprovoked,Y,FATAL
+1281,M,Adult,Surfing,USA,3,2008,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1283,M,Children,Walking,USA,3,2008,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1285,M,Children,skiing,USA,3,2008,Non defined,Unprovoked,N,OTHERS
+1286,M,Young Adult,Surfing,USA,3,2008,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1287,M,Adult,Diving,BAHAMAS,2,2008,Bull shark,Unprovoked,Y,LOWER EXTREMITIES
+1294,M,Youth,attempting,AUSTRALIA,1,2008,Non defined,Provoked,N,LOWER EXTREMITIES
+1302,M,Young Adult,Surfing,AUSTRALIA,12,2007,Non defined,Unprovoked,N,OTHERS
+1305,M,Adult,Surfing,USA,12,2007,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1310,M,Children,Surfing,SOUTH AFRICA,11,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1311,M,Youth,Surfing,USA,11,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1312,M,Adult,Surfing,USA,11,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1313,M,Adult,Surfing,SOUTH AFRICA,11,2007,White shark,Unprovoked,N,OTHERS
+1315,M,Young Adult,Floating,USA,1,2007,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1316,F,Adult,skiing,AUSTRALIA,1,2007,White shark,Unprovoked,N,OTHERS
+1317,M,Young Adult,Spearfishing,AUSTRALIA,1,2007,Non defined,Unprovoked,N,OTHERS
+1318,M,Youth,Surfing,USA,1,2007,White shark,Unprovoked,N,OTHERS
+1319,M,Youth,Surfing,USA,1,2007,Non defined,Unprovoked,N,OTHERS
+1322,F,Youth,Swimming,NEW CALEDONIA,9,2007,Tiger shark,Unprovoked,Y,FATAL
+1323,F,Adult,Spearfishing,BAHAMAS,9,2007,Non defined,Unprovoked,N,OTHERS
+1325,F,Children,Swimming,EGYPT,9,2007,White shark,Unprovoked,N,LOWER EXTREMITIES
+1328,M,Youth,Surfing,USA,9,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1331,F,Children,Surfing,USA,9,2007,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1332,M,Children,Snorkeling,USA,9,2007,Non defined,Unprovoked,N,OTHERS
+1336,F,Children,Jumping,USA,9,2007,Non defined,Unprovoked,N,OTHERS
+1337,M,Adult,Swimming,USA,9,2007,Non defined,Unprovoked,N,OTHERS
+1338,M,Youth,boarding,USA,8,2007,Tiger shark,Unprovoked,N,OTHERS
+1339,M,Youth,Surfing,USA,8,2007,White shark,Unprovoked,N,OTHERS
+1340,M,Adult,Surfing,USA,8,2007,Non defined,Unprovoked,N,OTHERS
+1341,M,Young Adult,Surfing,USA,8,2007,Non defined,Unprovoked,N,OTHERS
+1345,M,Youth,Surfing,USA,8,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1347,M,Youth,Floating,USA,8,2007,Bull shark,Unprovoked,N,OTHERS
+1348,F,Youth,Swimming,USA,8,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1352,F,Youth,Undefined,USA,8,2007,Bull shark,Unprovoked,N,OTHERS
+1357,M,Adult,Snorkeling,USA,7,2007,Non defined,Unprovoked,N,OTHERS
+1358,M,Youth,Wading,AUSTRALIA,7,2007,Non defined,Unprovoked,N,OTHERS
+1359,M,Children,Swimming,USA,7,2007,Non defined,Unprovoked,N,OTHERS
+1362,F,Young Adult,Wading,USA,7,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1363,F,Adult,Spearfishing,BAHAMAS,7,2007,Bull shark,Unprovoked,N,OTHERS
+1369,M,Youth,Surfing,USA,6,2007,White shark,Unprovoked,N,OTHERS
+1375,F,Adult,Reviving,USA,5,2007,Non defined,Provoked,N,OTHERS
+1376,M,Adult,Fishing,ENGLAND,5,2007,Non defined,Provoked,N,OTHERS
+1377,F,Adult,Wading,AUSTRALIA,5,2007,Non defined,Unprovoked,N,OTHERS
+1378,M,Youth,Surfing,AUSTRALIA,5,2007,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1379,F,Youth,Surfing,USA,5,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1382,F,Adult,Snorkeling,USA,5,2007,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1383,M,Senior,Swimming,USA,5,2007,Non defined,Unprovoked,N,OTHERS
+1386,F,Children,Swimming,AUSTRALIA,4,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1387,M,Children,boarding,USA,4,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1388,M,Youth,Surfing,USA,4,2007,White shark,Unprovoked,N,OTHERS
+1390,M,Young Adult,Surfing,NEW CALEDONIA,4,2007,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1392,M,Young Adult,Surfing,USA,3,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1395,M,Children,Surfing,USA,3,2007,Non defined,Unprovoked,N,OTHERS
+1396,F,Adult,Surfing,AUSTRALIA,3,2007,Non defined,Unprovoked,N,OTHERS
+1398,F,Adult,Swimming,AUSTRALIA,3,2007,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1404,M,Young Adult,Spearfishing,NEW CALEDONIA,1,2007,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1406,M,Adult,Diving,AUSTRALIA,1,2007,White shark,Unprovoked,N,OTHERS
+1408,M,Youth,Swimming,SOUTH AFRICA,1,2007,Tiger shark,Unprovoked,Y,FATAL
+1411,M,Youth,Surfing,USA,1,2007,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1412,M,Young Adult,Surfing,AUSTRALIA,12,2006,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1413,M,Children,Surfing,NEW ZEALAND,12,2006,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1414,M,Adult,Surfing,USA,12,2006,White shark,Unprovoked,N,OTHERS
+1415,M,Young Adult,Fishing,SOUTH AFRICA,12,2006,Raggedtooth shark,Provoked,N,OTHERS
+1416,M,Youth,boarding,AUSTRALIA,12,2006,White shark,Unprovoked,N,LOWER EXTREMITIES
+1418,M,Young Adult,Swimming,USA,11,2006,Non defined,Unprovoked,N,OTHERS
+1420,M,Youth,Surfing,USA,1,2006,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1424,M,Youth,Playing,USA,1,2006,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1431,M,Adult,Swimming,USA,9,2006,Non defined,Unprovoked,N,OTHERS
+1435,M,Young Adult,Standing,USA,9,2006,Non defined,Unprovoked,N,OTHERS
+1446,M,Youth,Lifesaving,SOUTH AFRICA,8,2006,White shark,Unprovoked,N,LOWER EXTREMITIES
+1450,M,Adult,Surfing,USA,7,2006,White shark,Unprovoked,N,OTHERS
+1453,M,Youth,skiing,SOUTH AFRICA,7,2006,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1454,M,Children,Surfing,USA,7,2006,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1457,M,Adult,Standing,USA,7,2006,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1463,F,Children,boarding,USA,7,2006,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1470,F,Youth,Surfing,USA,6,2006,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1473,M,Youth,Surfing,USA,6,2006,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1474,F,Children,Playing,USA,6,2006,White shark,Unprovoked,N,LOWER EXTREMITIES
+1475,M,Adult,Surfing,AUSTRALIA,6,2006,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1476,M,Young Adult,Spearfishing,USA,5,2006,Tiger shark,Unprovoked,N,OTHERS
+1479,M,Youth,Spearfishing,USA,5,2006,Non defined,Provoked,N,LOWER EXTREMITIES
+1481,F,Children,diving,USA,5,2006,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1484,M,Adult,Snorkeling,AUSTRALIA,5,2006,Non defined,Provoked,N,OTHERS
+1488,M,Young Adult,Fishing,USA,4,2006,Bull shark,Provoked,N,LOWER EXTREMITIES
+1489,M,Youth,Surfing,AUSTRALIA,4,2006,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1490,M,Youth,boarding,SOUTH AFRICA,4,2006,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+1491,M,Young Adult,Swimming,BRAZIL,4,2006,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1494,F,Young Adult,Surfing,USA,3,2006,Tiger shark,Unprovoked,N,OTHERS
+1496,M,Youth,Surfing,FIJI,3,2006,Tiger shark,Unprovoked,N,OTHERS
+1497,M,Youth,Surfing,AUSTRALIA,3,2006,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1498,F,Youth,Standing,USA,2,2006,Non defined,Unprovoked,N,OTHERS
+1503,M,Youth,Surfing,SOUTH AFRICA,2,2006,Raggedtooth shark,Unprovoked,N,OTHERS
+1504,F,Youth,Swimming,TONGA,2,2006,Tiger shark,Unprovoked,Y,LOWER EXTREMITIES
+1505,M,Adult,Kayaking,USA,2,2006,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1510,M,Adult,diving,AUSTRALIA,1,2006,White shark,Unprovoked,N,OTHERS
+1512,F,Youth,Swimming,AUSTRALIA,1,2006,Bull shark,Unprovoked,Y,FATAL
+1513,M,Youth,Surfing,USA,1,2006,White shark,Unprovoked,N,OTHERS
+1515,M,Young Adult,Surfing,USA,12,2005,White shark,Unprovoked,N,LOWER EXTREMITIES
+1516,M,Young Adult,Swimming,USA,12,2005,Tiger shark,Unprovoked,N,OTHERS
+1518,M,Adult,Spearfishing,AUSTRALIA,12,2005,White shark,Unprovoked,N,OTHERS
+1521,M,Youth,Surfing,USA,11,2005,White shark,Unprovoked,N,OTHERS
+1523,M,Youth,Surfing,AUSTRALIA,11,2005,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1526,M,Children,Surfing,USA,11,2005,White shark,Unprovoked,N,LOWER EXTREMITIES
+1529,M,Young Adult,Fishing,SOUTH AFRICA,11,2005,Raggedtooth shark,Provoked,N,LOWER EXTREMITIES
+1530,M,Youth,Surfing,USA,11,2005,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1532,M,Young Adult,Surfing,USA,11,2005,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1534,M,Adult,Standing,ST. MAARTIN,1,2005,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1535,M,Youth,Standing,SOUTH AFRICA,1,2005,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1536,M,Adult,Surfing,USA,1,2005,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1537,F,Youth,Surfing,USA,1,2005,White shark,Unprovoked,N,LOWER EXTREMITIES
+1539,M,Youth,Surfing,USA,1,2005,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1540,F,Adult,diving,GRAND CAYMAN,1,2005,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1543,M,Adult,skiing,SOUTH AFRICA,1,2005,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1545,M,Young Adult,Surfing,AUSTRALIA,9,2005,White shark,Unprovoked,N,LOWER EXTREMITIES
+1546,M,Adult,Surfing,AUSTRALIA,9,2005,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1548,F,Senior,surfing,USA,9,2005,White shark,Unprovoked,N,OTHERS
+1551,F,Youth,Wading,USA,9,2005,Bull shark,Unprovoked,N,OTHERS
+1552,M,Adult,Surfing,AUSTRALIA,9,2005,White shark,Unprovoked,N,OTHERS
+1555,M,Youth,diving,AUSTRALIA,8,2005,White shark,Unprovoked,Y,FATAL
+1556,M,Adult,Surfing,USA,8,2005,White shark,Unprovoked,N,LOWER EXTREMITIES
+1558,M,Children,Swimming,USA,8,2005,Non defined,Unprovoked,N,OTHERS
+1561,M,Youth,Surfing,USA,8,2005,Non defined,Unprovoked,N,OTHERS
+1570,M,Youth,Swimming,USA,7,2005,Non defined,Unprovoked,N,OTHERS
+1571,F,Children,Holding,USA,7,2005,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1573,M,Youth,Fishing,USA,6,2005,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1574,F,Children,Swimming,USA,6,2005,Bull shark,Unprovoked,Y,LOWER EXTREMITIES
+1575,F,Children,Swimming,VANUATU,6,2005,Non defined,Unprovoked,Y,FATAL
+1578,M,Youth,Swimming,USA,6,2005,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1582,M,Youth,Spearfishing,SOUTH AFRICA,6,2005,White shark,Unprovoked,Y,FATAL
+1584,M,Young Adult,Swimming,USA,5,2005,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1586,M,Young Adult,Surfing,SOUTH AFRICA,5,2005,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+1591,M,Adult,Surfing,USA,5,2005,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1592,M,Young Adult,Fishing,AUSTRALIA,4,2005,Non defined,Provoked,N,OTHERS
+1595,M,Adult,Surfing,AUSTRALIA,4,2005,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1601,M,Young Adult,Surfing,SOUTH AFRICA,3,2005,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1604,M,Young Adult,Snorkeling,AUSTRALIA,3,2005,White shark,Unprovoked,Y,FATAL
+1605,M,Adult,Diving,USA,3,2005,Tiger shark,Provoked,N,OTHERS
+1617,M,Adult,Fishing,NEW ZEALAND,1,2005,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1619,M,Youth,Scurfing,AUSTRALIA,12,2004,White shark,Unprovoked,Y,FATAL
+1620,M,Adult,Spearfishing,AUSTRALIA,12,2004,Bull shark,Unprovoked,Y,LOWER EXTREMITIES
+1621,M,Youth,Surfing,SOUTH AFRICA,11,2004,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+1623,F,Senior,Swimming,SOUTH AFRICA,11,2004,White shark,Unprovoked,Y,FATAL
+1624,lli,Adult,Surfing,USA,11,2004,White shark,Unprovoked,N,LOWER EXTREMITIES
+1627,M,Adult,Diving,CUBA,1,2004,Bull shark,Unprovoked,N,OTHERS
+1629,M,Adult,Chumming,SOUTH AFRICA,1,2004,White shark,Unprovoked,N,LOWER EXTREMITIES
+1630,M,Adult,Surfing,AUSTRALIA,1,2004,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1632,M,Young Adult,Spearfishing,USA,1,2004,Tiger shark,Unprovoked,N,OTHERS
+1633,M,Young Adult,Surfing,SOUTH AFRICA,1,2004,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+1634,M,Youth,boarding,REUNION,1,2004,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1638,M,Young Adult,Surfing,USA,9,2004,White shark,Unprovoked,N,LOWER EXTREMITIES
+1641,F,Youth,Jumping,USA,9,2004,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1643,M,Youth,Bathing,BRAZIL,8,2004,Tiger shark,Unprovoked,N,OTHERS
+1645,M,Adult,Diving,USA,8,2004,White shark,Unprovoked,Y,FATAL
+1646,M,Adult,Swimming,USA,8,2004,Non defined,Unprovoked,N,OTHERS
+1652,F,Children,Swimming,USA,7,2004,Non defined,Unprovoked,N,OTHERS
+1653,F,Youth,Swimming,USA,7,2004,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1654,M,Children,Wading,USA,7,2004,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1657,M,Young Adult,Surfing,AUSTRALIA,7,2004,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+1659,M,Children,Wading,USA,7,2004,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1660,M,Adult,Surfing,USA,6,2004,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1663,M,Youth,boarding,AUSTRALIA,6,2004,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1664,M,Children,Swimming,USA,6,2004,Non defined,Unprovoked,N,OTHERS
+1665,M,Youth,Swimming,SOUTH AFRICA,6,2004,White shark,Unprovoked,Y,LOWER EXTREMITIES
+1666,M,Youth,Wading,USA,5,2004,Non defined,Unprovoked,N,OTHERS
+1667,M,Youth,Swimming,BRAZIL,5,2004,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1668,M,Adult,Surfing,USA,5,2004,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1673,M,Adult,diving,BAHAMAS,5,2004,Non defined,Provoked,N,OTHERS
+1674,M,Young Adult,surfing,USA,5,2004,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1680,M,Adult,Surfing,USA,4,2004,Tiger shark,Unprovoked,Y,FATAL
+1681,M,Youth,Surfing,SOUTH AFRICA,4,2004,White shark,Unprovoked,N,LOWER EXTREMITIES
+1684,M,Youth,Surfing,USA,3,2004,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1685,M,Youth,boarding,BRAZIL,3,2004,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1687,M,Youth,Surfing,REUNION,3,2004,Non defined,Unprovoked,N,OTHERS
+1691,M,Adult,Surfing,USA,3,2004,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1694,M,Youth,Surfing,NEW ZEALAND,2,2004,Non defined,Unprovoked,N,OTHERS
+1699,M,Adult,diving,AUSTRALIA,1,2004,White shark,Unprovoked,N,LOWER EXTREMITIES
+1703,M,Adult,Spearfishing,VENEZUELA,1,2004,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1717,M,Youth,Spearfishing,SOUTH AFRICA,11,2003,Tiger shark,Unprovoked,Y,FATAL
+1718,F,Young Adult,Surfing,USA,11,2003,White shark,Unprovoked,N,OTHERS
+1725,M,Youth,Surfing,USA,1,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1726,M,Youth,Surfing,AUSTRALIA,1,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1727,F,Children,Surfing,USA,1,2003,Tiger shark,Unprovoked,N,OTHERS
+1730,M,Youth,Surfing,USA,1,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1736,F,Adult,Wading,USA,1,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1742,M,Young Adult,Surfing,USA,9,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1745,M,Youth,boarding,USA,9,2003,Non defined,Unprovoked,N,OTHERS
+1746,M,Youth,Standing,USA,9,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1747,M,Youth,boarding,SOUTH AFRICA,9,2003,White shark,Unprovoked,Y,FATAL
+1750,F,Adult,Swimming,USA,8,2003,White shark,Unprovoked,Y,LOWER EXTREMITIES
+1752,M,Youth,Sitting,SOUTH AFRICA,8,2003,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1756,M,Adult,Spearfishing,BAHAMAS,7,2003,Non defined,Unprovoked,N,OTHERS
+1757,M,Children,Walking,USA,7,2003,Non defined,Provoked,N,LOWER EXTREMITIES
+1759,M,Adult,Spearfishing,BAHAMAS,7,2003,Bull shark,Unprovoked,N,OTHERS
+1763,M,Youth,Surfing,USA,6,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1764,M,Youth,Surfing,USA,6,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1766,F,Children,Standing,USA,6,2003,Non defined,Unprovoked,N,OTHERS
+1767,M,Adult,Swimming,USA,6,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1769,M,Young Adult,Surfing,USA,6,2003,Non defined,Unprovoked,N,OTHERS
+1773,M,Youth,Wading,USA,5,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1774,M,Youth,Swimming,USA,5,2003,Non defined,Unprovoked,N,OTHERS
+1775,M,Young Adult,Surfing,USA,5,2003,Non defined,Provoked,N,LOWER EXTREMITIES
+1780,M,Youth,Surfing,BRAZIL,4,2003,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1782,M,Adult,Surfing,USA,4,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1783,M,Youth,Surfing,USA,4,2003,Non defined,Unprovoked,N,OTHERS
+1784,M,Young Adult,Surfing,USA,4,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1785,M,Youth,Surfing,USA,4,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1786,M,Youth,Surfing,USA,4,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1787,M,Children,Jumping,USA,4,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1788,M,Children,Surfing,USA,4,2003,Non defined,Unprovoked,N,OTHERS
+1789,M,Youth,Swimming,USA,4,2003,Non defined,Unprovoked,N,OTHERS
+1790,M,Young Adult,Surfing,VENEZUELA,4,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1792,M,Adult,Surfing,USA,4,2003,Non defined,Unprovoked,N,OTHERS
+1794,M,Adult,diving,NEW ZEALAND,2,2003,White shark,Unprovoked,N,OTHERS
+1795,M,Adult,Wading,AUSTRALIA,2,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1796,M,Adult,Swimming,USA,2,2003,Non defined,Unprovoked,N,OTHERS
+1797,M,Youth,Swimming,AUSTRALIA,2,2003,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1798,M,Senior,Swimming,AUSTRALIA,2,2003,Bull shark,Unprovoked,Y,FATAL
+1803,M,Young Adult,Snorkeling,SOUTH AFRICA,12,2002,White shark,Unprovoked,N,OTHERS
+1806,M,Youth,Swimming,AUSTRALIA,12,2002,Bull shark,Unprovoked,Y,FATAL
+1809,M,Adult,boarding,USA,11,2002,White shark,Unprovoked,N,LOWER EXTREMITIES
+1810,F,Young Adult,Swimming,USA,11,2002,Non defined,Unprovoked,N,OTHERS
+1811,F,Adult,Snorkeling,TURKS & CAICOS,11,2002,Non defined,Unprovoked,N,OTHERS
+1812,M,Youth,Surfing,USA,11,2002,Non defined,Unprovoked,N,OTHERS
+1813,M,Youth,boarding,USA,11,2002,White shark,Unprovoked,N,LOWER EXTREMITIES
+1815,F,Adult,Swimming,USA,1,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1816,M,Adult,Swimming,BRAZIL,1,2002,Tiger shark,Unprovoked,Y,FATAL
+1818,M,Children,Surfing,USA,1,2002,Non defined,Unprovoked,N,OTHERS
+1819,M,Young Adult,Surfing,USA,1,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1820,M,Youth,Surfing,USA,1,2002,White shark,Unprovoked,N,OTHERS
+1821,M,Adult,Surfing,USA,9,2002,Non defined,Unprovoked,N,OTHERS
+1823,M,Adult,Fishing,USA,9,2002,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1824,M,Children,Fishing,USA,9,2002,Non defined,Provoked,N,OTHERS
+1825,M,Children,Swimming,TONGA,9,2002,Tiger shark,Provoked,N,OTHERS
+1826,M,Youth,boarding,USA,9,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1827,M,Young Adult,Surfing,USA,9,2002,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1828,M,Youth,Swimming,BRAZIL,9,2002,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1830,M,Adult,skiing,SOUTH AFRICA,9,2002,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+1831,M,Youth,boarding,USA,9,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1832,M,Adult,Wading,USA,9,2002,Non defined,Provoked,N,LOWER EXTREMITIES
+1833,M,Youth,Surfing,USA,8,2002,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1835,M,Young Adult,Surfing,USA,8,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1836,M,Youth,Surfing,USA,8,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1839,M,Children,Standing,USA,8,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1840,M,Children,Surfing,USA,7,2002,Non defined,Unprovoked,N,OTHERS
+1841,F,Youth,Swimming,USA,7,2002,Bull shark,Unprovoked,N,OTHERS
+1843,M,Adult,Fishing,USA,7,2002,Non defined,Provoked,Y,OTHERS
+1844,M,Youth,Surfing,BRAZIL,7,2002,Tiger shark,Unprovoked,N,OTHERS
+1845,F,Children,Standing,USA,7,2002,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+1852,M,Young Adult,Surfing,USA,6,2002,Non defined,Unprovoked,N,OTHERS
+1853,M,Adult,Surfing,USA,6,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1855,M,Adult,Snorkeling,SOUTH AFRICA,6,2002,Non defined,Unprovoked,N,OTHERS
+1856,M,Youth,Surfing,USA,5,2002,White shark,Unprovoked,N,LOWER EXTREMITIES
+1857,M,Youth,Floating,USA,5,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1858,M,Adult,Fishing,USA,5,2002,Non defined,Provoked,N,LOWER EXTREMITIES
+1865,M,Youth,diving,AUSTRALIA,4,2002,White shark,Unprovoked,Y,LOWER EXTREMITIES
+1867,M,Young Adult,Surfing,USA,4,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1870,M,Adult,Standing,BAHAMAS,4,2002,Bull shark,Unprovoked,N,OTHERS
+1871,M,Adult,Wading,USA,4,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1872,M,Young Adult,Swimming,USA,4,2002,Non defined,Unprovoked,N,OTHERS
+1873,M,Youth,boarding,USA,3,2002,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+1874,F,Children,Wading,USA,3,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1876,M,Youth,Swimming,USA,3,2002,White shark,Unprovoked,N,LOWER EXTREMITIES
+1877,M,Adult,Snorkeling,USA,3,2002,Non defined,Unprovoked,N,OTHERS
+1878,M,Young Adult,Surfing,USA,3,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1881,M,Children,Surfing,AUSTRALIA,2,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1883,M,Young Adult,Kayaking,AUSTRALIA,2,2002,Non defined,Unprovoked,N,OTHERS
+1884,M,Youth,Surfing,AUSTRALIA,1,2002,Tiger shark,Unprovoked,N,OTHERS
+1886,M,Youth,Fishing,SOUTH AFRICA,1,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1888,M,Young Adult,skiing,SOUTH AFRICA,1,2002,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1889,M,Young Adult,Snorkeling,USA,1,2002,Tiger shark,Unprovoked,N,OTHERS
+1895,F,Youth,Snorkeling,AUSTRALIA,1,2001,Non defined,Unprovoked,N,OTHERS
+1896,M,Young Adult,surfing,MEXICO,9,2001,Tiger shark,Unprovoked,N,OTHERS
+1898,M,Youth,Surfing,USA,9,2001,White shark,Provoked,N,LOWER EXTREMITIES
+1901,M,Adult,boarding,USA,9,2001,Non defined,Unprovoked,N,OTHERS
+1907,M,Young Adult,Swimming,USA,9,2001,White shark,Unprovoked,Y,FATAL
+1908,F,Youth,Swimming,USA,9,2001,White shark,Unprovoked,N,LOWER EXTREMITIES
+1909,M,Youth,Wading,USA,9,2001,Non defined,Unprovoked,N,OTHERS
+1910,M,Children,Swimming,USA,9,2001,Bull shark,Unprovoked,Y,FATAL
+1911,M,Adult,Spearfishing,BAHAMAS,8,2001,Bull shark,Unprovoked,N,OTHERS
+1916,M,Youth,Surfing,USA,8,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1921,M,Youth,Surfing,USA,8,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1922,M,Youth,Surfing,USA,8,2001,Non defined,Unprovoked,N,OTHERS
+1923,M,Youth,Surfing,USA,8,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1924,M,Adult,Spearfishing,BAHAMAS,8,2001,Bull shark,Unprovoked,N,OTHERS
+1934,M,Youth,boarding,USA,7,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1936,M,Children,Swimming,USA,7,2001,Bull shark,Unprovoked,N,OTHERS
+1940,M,Adult,Spearfishing,USA,6,2001,White shark,Provoked,N,"NO INJURY, SLIGHT SCARE!"
+1942,F,Young Adult,Wading,USA,6,2001,Non defined,Unprovoked,N,OTHERS
+1950,M,Adult,Surfing,USA,5,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1954,M,Children,Surfing,USA,4,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1957,M,Youth,Surfing,USA,4,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1958,M,Children,boarding,USA,4,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1959,M,Youth,Surfing,USA,4,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1960,M,Youth,Surfing,USA,4,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1964,M,Adult,Surfing,SOUTH AFRICA,4,2001,White shark,Unprovoked,N,LOWER EXTREMITIES
+1966,M,Young Adult,Standing,USA,4,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1968,M,Adult,Surfing,AUSTRALIA,4,2001,Non defined,Unprovoked,N,OTHERS
+1976,M,Adult,Surfing,AUSTRALIA,2,2001,Non defined,Unprovoked,N,LOWER EXTREMITIES
+1983,M,Adult,Swimming,FIJI,12,2000,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+1986,M,Adult,Spearfishing,AUSTRALIA,12,2000,Non defined,Unprovoked,N,OTHERS
+1990,M,Senior,Swimming,USA,11,2000,Non defined,Unprovoked,N,OTHERS
+1992,M,Adult,Swimming,AUSTRALIA,11,2000,White shark,Unprovoked,N,LOWER EXTREMITIES
+1993,M,Adult,Swimming,AUSTRALIA,11,2000,White shark,Unprovoked,Y,LOWER EXTREMITIES
+1994,M,Young Adult,Surfing,USA,11,2000,White shark,Unprovoked,N,OTHERS
+1997,F,Adult,Swimming,USA,1,2000,Tiger shark,Unprovoked,N,OTHERS
+1999,M,Youth,Surfing,USA,1,2000,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2000,M,Youth,Surfing,USA,1,2000,Non defined,Unprovoked,N,OTHERS
+2004,M,Youth,Surfing,AUSTRALIA,9,2000,White shark,Unprovoked,Y,FATAL
+2005,M,Young Adult,Surfing,AUSTRALIA,9,2000,White shark,Unprovoked,Y,FATAL
+2007,M,Young Adult,Surfing,OKINAWA,9,2000,White shark,Unprovoked,Y,FATAL
+2011,M,Young Adult,Swimming,USA,9,2000,Non defined,Unprovoked,N,OTHERS
+2013,M,Adult,diving,SOUTH AFRICA,9,2000,White shark,Unprovoked,N,OTHERS
+2015,M,Adult,Wading,USA,9,2000,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2016,M,Young Adult,Surfing,REUNION,9,2000,Tiger shark,Unprovoked,N,OTHERS
+2018,M,Adult,Swimming,USA,8,2000,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2019,M,Senior,Undefined,USA,8,2000,Bull shark,Unprovoked,Y,FATAL
+2022,M,Adult,Windsurfing,USA,8,2000,Tiger shark,Unprovoked,N,OTHERS
+2023,M,Young Adult,Surfing,USA,8,2000,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2024,F,Adult,Standing,USA,8,2000,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2039,F,Children,Playing,USA,7,2000,Tiger shark,Unprovoked,N,OTHERS
+2041,F,Adult,Spearfishing,USA,7,2000,Non defined,Unprovoked,N,OTHERS
+2042,F,Children,Wading,USA,7,2000,Non defined,Unprovoked,N,OTHERS
+2043,F,Youth,Standing,USA,7,2000,Non defined,Unprovoked,N,OTHERS
+2049,M,Youth,Surfing,USA,6,2000,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2050,M,Adult,Swimming,USA,6,2000,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+2051,M,Adult,Swimming,USA,6,2000,Bull shark,Unprovoked,N,OTHERS
+2061,M,Young Adult,Swimming,AUSTRALIA,3,2000,Non defined,Unprovoked,N,OTHERS
+2062,F,Children,boarding,USA,3,2000,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2063,M,Adult,Surfing,USA,3,2000,Non defined,Unprovoked,N,OTHERS
+2064,M,Young Adult,Spearfishing,NEW CALEDONIA,3,2000,Tiger shark,Unprovoked,Y,FATAL
+2070,M,Adult,Spearfishing,USA,1,2000,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2087,F,Adult,Swimming,USA,11,1999,Tiger shark,Unprovoked,N,OTHERS
+2090,M,Adult,Spearfishing,BRAZIL,11,1999,Non defined,Unprovoked,N,OTHERS
+2096,M,Youth,Surfing,USA,1,1999,Tiger shark,Unprovoked,N,OTHERS
+2099,M,Adult,Kayaking,USA,9,1999,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2105,M,Young Adult,Surfing,USA,8,1999,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2107,M,Youth,Fishing,MARSHALL ISLANDS,8,1999,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2109,M,Children,Lying,USA,8,1999,Non defined,Unprovoked,N,OTHERS
+2110,M,Adult,surfing,USA,8,1999,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2111,M,Young Adult,Spearfishing,BAHAMAS,8,1999,Bull shark,Unprovoked,N,OTHERS
+2112,M,Adult,Surfing,SOUTH AFRICA,7,1999,White shark,Unprovoked,N,OTHERS
+2113,M,Adult,Swimming,USA,7,1999,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+2114,M,Adult,Surfing,USA,7,1999,Tiger shark,Unprovoked,N,OTHERS
+2115,M,Children,boarding,SOUTH AFRICA,7,1999,White shark,Unprovoked,Y,FATAL
+2117,F,Young Adult,Wading,USA,7,1999,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2118,M,Young Adult,Surfing,SOUTH AFRICA,7,1999,White shark,Unprovoked,N,LOWER EXTREMITIES
+2120,M,Youth,Surfing,USA,6,1999,White shark,Unprovoked,N,OTHERS
+2122,M,Children,Splashing,USA,6,1999,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2123,M,Youth,Windsurfing,AUSTRALIA,5,1999,White shark,Unprovoked,Y,FATAL
+2124,M,Youth,Surfing,BRAZIL,5,1999,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2126,M,Adult,Swimming,REUNION,4,1999,Bull shark,Unprovoked,Y,FATAL
+2134,F,Young Adult,Swimming,USA,3,1999,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2136,M,Young Adult,Surfing,AUSTRALIA,2,1999,Tiger shark,Unprovoked,N,OTHERS
+2137,M,Young Adult,Surfing,USA,2,1999,Non defined,Unprovoked,N,OTHERS
+2143,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1999,White shark,Unprovoked,N,OTHERS
+2147,M,Youth,Surfing,SOUTH AFRICA,12,1998,White shark,Unprovoked,N,LOWER EXTREMITIES
+2150,M,Children,Swimming,USA,11,1998,Tiger shark,Unprovoked,Y,FATAL
+2151,M,Children,Surfing,USA,11,1998,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2152,M,Children,Walking,USA,11,1998,Non defined,Unprovoked,N,OTHERS
+2155,M,Youth,Surfing,BRAZIL,11,1998,White shark,Unprovoked,Y,FATAL
+2167,M,Young Adult,Surfing,USA,8,1998,White shark,Unprovoked,N,LOWER EXTREMITIES
+2169,M,Youth,boarding,USA,8,1998,White shark,Unprovoked,N,OTHERS
+2171,M,Young Adult,Spearfishing,BAHAMAS,8,1998,Non defined,Unprovoked,N,OTHERS
+2175,M,Youth,Spearfishing,SOUTH AFRICA,8,1998,White shark,Unprovoked,N,LOWER EXTREMITIES
+2179,M,Youth,Surfing,SOUTH AFRICA,7,1998,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2181,M,Young Adult,diving,AUSTRALIA,6,1998,White shark,Unprovoked,Y,LOWER EXTREMITIES
+2182,M,Youth,Boarding,SOUTH AFRICA,6,1998,White shark,Unprovoked,Y,FATAL
+2186,M,Youth,boarding,SOUTH AFRICA,5,1998,White shark,Unprovoked,N,OTHERS
+2187,M,Youth,boarding,SOUTH AFRICA,5,1998,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2188,M,Adult,Surfing,USA,5,1998,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2189,F,Children,Swimming,USA,5,1998,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2191,M,Youth,boarding,SOUTH AFRICA,5,1998,White shark,Unprovoked,N,LOWER EXTREMITIES
+2192,F,Young Adult,Towing,MOZAMBIQUE,4,1998,Non defined,Unprovoked,Y,FATAL
+2193,M,Adult,Surfing,USA,4,1998,White shark,Unprovoked,N,OTHERS
+2198,M,Young Adult,Snorkeling,SOUTH AFRICA,3,1998,White shark,Unprovoked,N,LOWER EXTREMITIES
+2199,M,Young Adult,Swimming,USA,3,1998,Non defined,Unprovoked,N,OTHERS
+2206,M,Youth,Surfing,MOZAMBIQUE,1,1998,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2210,M,Adult,Spearfishing,SOUTH AFRICA,12,1997,White shark,Unprovoked,Y,FATAL
+2214,M,Adult,diving,AUSTRALIA,11,1997,White shark,Unprovoked,N,OTHERS
+2218,M,Youth,boarding,USA,1,1997,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2219,M,Youth,Surfing,USA,1,1997,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2220,M,Children,Surfing,USA,1,1997,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2229,M,Young Adult,Surfing,USA,8,1997,White shark,Unprovoked,N,LOWER EXTREMITIES
+2239,M,Youth,surfing,USA,8,1997,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2240,M,Youth,Wading,USA,8,1997,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2242,M,Young Adult,Surfing,SOUTH AFRICA,7,1997,White shark,Unprovoked,Y,FATAL
+2244,M,Adult,Standing,USA,7,1997,Non defined,Unprovoked,N,OTHERS
+2248,F,Adult,Snorkeling,FIJI,6,1997,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2249,M,Youth,Surfing,USA,6,1997,Non defined,Unprovoked,N,OTHERS
+2251,M,Young Adult,surfing,USA,6,1997,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2252,M,Young Adult,Spearfishing,USA,5,1997,White shark,Unprovoked,N,OTHERS
+2253,M,Young Adult,Surfing,USA,5,1997,Non defined,Unprovoked,N,OTHERS
+2254,M,Children,Surfing,USA,5,1997,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2259,M,Children,diving,AUSTRALIA,2,1997,Tiger shark,Unprovoked,N,OTHERS
+2263,M,Young Adult,Snorkeling,AUSTRALIA,1,1997,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2264,M,Adult,Windsurfing,AUSTRALIA,1,1997,Tiger shark,Unprovoked,Y,FATAL
+2271,M,Adult,Surfing,USA,11,1996,White shark,Unprovoked,N,LOWER EXTREMITIES
+2276,M,Youth,Surfing,USA,1,1996,White shark,Unprovoked,N,LOWER EXTREMITIES
+2277,M,Youth,Surfing,USA,1,1996,Non defined,Unprovoked,N,OTHERS
+2278,M,Young Adult,Surfing,USA,1,1996,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2281,M,Youth,Diving,NEW ZEALAND,9,1996,White shark,Unprovoked,N,OTHERS
+2282,M,Youth,Surfing,USA,9,1996,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2286,M,Young Adult,Spearfishing,SOUTH AFRICA,9,1996,White shark,Provoked,N,"NO INJURY, SLIGHT SCARE!"
+2287,M,Youth,Boarding,USA,8,1996,Tiger shark,Unprovoked,N,OTHERS
+2288,M,Adult,diving,USA,8,1996,White shark,Unprovoked,N,OTHERS
+2289,M,Youth,fishing,USA,8,1996,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2297,F,Adult,Standing,USA,7,1996,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2302,M,Youth,Surfing,SOUTH AFRICA,5,1996,White shark,Unprovoked,N,LOWER EXTREMITIES
+2304,M,Youth,Surfing,USA,5,1996,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2306,M,Young Adult,Surfing,USA,5,1996,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2311,F,Adult,Swimming,AUSTRALIA,3,1996,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2313,M,Youth,Undefined,AUSTRALIA,2,1996,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2319,M,Children,Swimming,AUSTRALIA,2,1996,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2322,M,Adult,Swimming,USA,1,1996,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2325,M,Young Adult,Surfing,REUNION,1,1996,Tiger shark,Unprovoked,Y,FATAL
+2335,F,Youth,Playing,AUSTRALIA,1,1995,Non defined,Unprovoked,N,OTHERS
+2336,M,Adult,Surfing,USA,1,1995,Non defined,Unprovoked,N,OTHERS
+2337,M,Children,Surfing,USA,9,1995,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2339,M,Young Adult,Windsurfing,USA,9,1995,White shark,Unprovoked,N,LOWER EXTREMITIES
+2344,M,Young Adult,diving,AUSTRALIA,9,1995,White shark,Unprovoked,Y,FATAL
+2345,M,Young Adult,diving,USA,9,1995,White shark,Unprovoked,N,LOWER EXTREMITIES
+2350,M,Youth,Surfing,USA,8,1995,Non defined,Unprovoked,N,OTHERS
+2351,M,Youth,Surfing,USA,8,1995,Non defined,Unprovoked,N,OTHERS
+2352,M,Youth,Swimming,USA,8,1995,Non defined,Unprovoked,N,OTHERS
+2353,M,Youth,Swimming,USA,8,1995,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2354,M,Youth,Surfing,USA,8,1995,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2356,M,Youth,Fishing,TONGA,8,1995,Non defined,Unprovoked,N,OTHERS
+2357,M,Youth,Wading,USA,8,1995,Non defined,Unprovoked,N,OTHERS
+2361,M,Children,boarding,USA,8,1995,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2376,M,Young Adult,diving,USA,6,1995,White shark,Unprovoked,N,LOWER EXTREMITIES
+2380,M,Adult,Swimming,USA,6,1995,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2381,F,Children,Swimming,USA,6,1995,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2382,M,Adult,Swimming,USA,6,1995,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2384,M,Young Adult,Swimming,HONG KONG,6,1995,Non defined,Unprovoked,Y,FATAL
+2393,M,Adult,diving,JAPAN,4,1995,White shark,Unprovoked,Y,FATAL
+2395,M,Young Adult,Surfing,AUSTRALIA,3,1995,Non defined,Unprovoked,N,OTHERS
+2397,M,Youth,Swimming,SOUTH AFRICA,2,1995,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+2399,M,Children,Swimming,SOUTH AFRICA,1,1995,Tiger shark,Unprovoked,Y,FATAL
+2405,M,Young Adult,boarding,SOUTH AFRICA,12,1994,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2411,M,Adult,treading,USA,12,1994,White shark,Unprovoked,Y,LOWER EXTREMITIES
+2414,F,Young Adult,Surfing,USA,11,1994,Non defined,Unprovoked,N,OTHERS
+2418,F,Children,Wading,USA,1,1994,Non defined,Provoked,N,LOWER EXTREMITIES
+2421,M,Adult,Surfing,USA,9,1994,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2423,F,Children,Undefined,USA,9,1994,Non defined,Unprovoked,N,OTHERS
+2427,M,Youth,Windsurfing,REUNION,7,1994,Bull shark,Unprovoked,Y,FATAL
+2428,M,Youth,Surfing,SOUTH AFRICA,7,1994,White shark,Unprovoked,Y,LOWER EXTREMITIES
+2429,M,Young Adult,Surfing,SOUTH AFRICA,7,1994,White shark,Unprovoked,N,LOWER EXTREMITIES
+2431,M,Youth,Surfing,USA,7,1994,Non defined,Unprovoked,N,OTHERS
+2432,M,Young Adult,Spearfishing,BAHAMAS,6,1994,Non defined,Unprovoked,N,OTHERS
+2434,M,Children,Surfing,USA,5,1994,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2438,M,Youth,Surfing,USA,5,1994,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2449,M,Youth,Surfing,USA,2,1994,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2451,M,Youth,Surfing,SOUTH AFRICA,2,1994,White shark,Unprovoked,N,LOWER EXTREMITIES
+2458,M,Young Adult,Swimming,SOUTH AFRICA,1,1994,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2463,M,Young Adult,diving,AUSTRALIA,11,1993,Tiger shark,Unprovoked,Y,FATAL
+2466,M,Young Adult,Surfing,USA,1,1993,White shark,Unprovoked,N,LOWER EXTREMITIES
+2467,F,Young Adult,Swimming,USA,1,1993,Bull shark,Unprovoked,N,OTHERS
+2468,F,Young Adult,Kayaking,USA,1,1993,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2471,M,Adult,Spearfishing,SOUTH AFRICA,9,1993,White shark,Unprovoked,N,OTHERS
+2476,M,Senior,Swimming,SPAIN,9,1993,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2477,M,Adult,Spearfishing,BAHAMAS,8,1993,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2481,F,Youth,Riding,USA,8,1993,Bull shark,Unprovoked,N,OTHERS
+2483,M,Adult,diving,USA,8,1993,White shark,Unprovoked,N,OTHERS
+2486,M,Young Adult,Surfing,SOUTH AFRICA,7,1993,White shark,Unprovoked,N,OTHERS
+2487,F,Children,Playing,USA,7,1993,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2492,M,Youth,Paddling,USA,6,1993,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2493,M,Young Adult,diving,AUSTRALIA,6,1993,White shark,Unprovoked,Y,FATAL
+2494,F,Young Adult,diving,AUSTRALIA,6,1993,White shark,Unprovoked,Y,FATAL
+2496,F,Children,Swimming,USA,1,1993,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2503,M,Young Adult,Paddling,USA,3,1993,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2504,M,Adult,diving,USA,3,1993,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2510,M,Youth,Spearfishing,AUSTRALIA,1,1993,Non defined,Unprovoked,N,OTHERS
+2512,M,Young Adult,Surfing,USA,1,1993,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2517,M,Children,Standing,USA,12,1992,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2518,M,Young Adult,Lying,USA,12,1992,Tiger shark,Unprovoked,N,OTHERS
+2519,M,Young Adult,Spearfishing,USA,11,1992,Non defined,Unprovoked,N,OTHERS
+2520,M,Youth,Surfing,USA,11,1992,Non defined,Unprovoked,N,OTHERS
+2522,M,Adult,Kayaking,USA,11,1992,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2524,M,Adult,diving,USA,11,1992,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2526,M,Youth,boarding,USA,11,1992,Tiger shark,Unprovoked,Y,LOWER EXTREMITIES
+2527,M,Adult,diving,USA,1,1992,White shark,Unprovoked,N,LOWER EXTREMITIES
+2528,M,Young Adult,Surfing,USA,1,1992,Tiger shark,Unprovoked,N,OTHERS
+2531,M,Young Adult,Surfing,AUSTRALIA,1,1992,White shark,Unprovoked,Y,FATAL
+2533,M,Youth,Surfing,USA,9,1992,White shark,Unprovoked,N,OTHERS
+2538,M,Youth,Surfing,AUSTRALIA,8,1992,White shark,Unprovoked,N,OTHERS
+2540,M,Youth,Surfing,USA,8,1992,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2544,F,Adult,Standing,USA,7,1992,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2548,M,Youth,Surfing,REUNION,6,1992,Bull shark,Unprovoked,Y,FATAL
+2556,M,Young Adult,Surfing,SOUTH AFRICA,4,1992,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2557,F,Adult,Surfing,USA,3,1992,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2559,M,Adult,diving,JAPAN,3,1992,White shark,Unprovoked,Y,FATAL
+2561,M,Youth,Surfing,USA,3,1992,White shark,Unprovoked,N,OTHERS
+2566,M,Youth,boarding,AUSTRALIA,1,1992,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2567,M,Youth,Swimming,SOUTH AFRICA,1,1992,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2568,M,Adult,Spearfishing,SOUTH AFRICA,1,1992,Non defined,Unprovoked,N,OTHERS
+2573,M,Young Adult,diving,USA,12,1991,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2574,F,Adult,Snorkeling,USA,11,1991,Tiger shark,Unprovoked,Y,LOWER EXTREMITIES
+2579,M,Youth,Surfing,USA,1,1991,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2580,M,Young Adult,Surfing,USA,1,1991,White shark,Unprovoked,N,OTHERS
+2582,M,Youth,diving,AUSTRALIA,9,1991,White shark,Unprovoked,Y,FATAL
+2583,M,Adult,Finning,AUSTRALIA,8,1991,Non defined,Provoked,N,OTHERS
+2584,M,Youth,Swimming,USA,8,1991,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2585,F,Children,Wading,USA,8,1991,Non defined,Unprovoked,N,OTHERS
+2587,F,Adult,Canoeing,ITALY,7,1991,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2591,M,Young Adult,Surfing,REUNION,7,1991,Tiger shark,Unprovoked,N,OTHERS
+2592,M,Young Adult,Surfing,USA,7,1991,White shark,Unprovoked,N,LOWER EXTREMITIES
+2597,M,Young Adult,Swimming,USA,6,1991,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+2598,F,Senior,Swimming,HONG KONG,6,1991,Tiger shark,Unprovoked,Y,LOWER EXTREMITIES
+2599,M,Youth,Sitting,USA,5,1991,Non defined,Unprovoked,N,OTHERS
+2603,M,Youth,Surfing,USA,4,1991,Non defined,Unprovoked,N,OTHERS
+2606,M,Adult,Surfing,USA,2,1991,White shark,Unprovoked,N,OTHERS
+2607,M,Youth,Spearfishing,SOUTH AFRICA,2,1991,White shark,Unprovoked,N,LOWER EXTREMITIES
+2614,M,Youth,Surfing,USA,11,1990,Non defined,Unprovoked,N,OTHERS
+2615,M,Adult,Surfing,USA,1,1990,Non defined,Unprovoked,N,OTHERS
+2619,M,Young Adult,Surfing,USA,1,1990,Non defined,Unprovoked,N,OTHERS
+2620,M,Adult,Surfing,USA,1,1990,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2621,M,Youth,Surfing,USA,1,1990,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2622,M,Young Adult,Spearfishing,SOUTH AFRICA,9,1990,White shark,Unprovoked,N,OTHERS
+2623,M,Adult,diving,USA,9,1990,White shark,Unprovoked,N,OTHERS
+2624,M,Adult,Kayaking,USA,9,1990,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2626,M,Youth,Surfing,USA,8,1990,White shark,Unprovoked,N,LOWER EXTREMITIES
+2631,F,Youth,diving,SOUTH AFRICA,6,1990,White shark,Unprovoked,Y,FATAL
+2636,M,Youth,Resting,SOUTH AFRICA,5,1990,White shark,Unprovoked,N,OTHERS
+2637,M,Youth,Lying,SOUTH AFRICA,4,1990,White shark,Unprovoked,N,LOWER EXTREMITIES
+2638,M,Young Adult,Surfing,AUSTRALIA,4,1990,Tiger shark,Unprovoked,N,OTHERS
+2653,M,Young Adult,diving,SOUTH AFRICA,11,1989,White shark,Unprovoked,Y,FATAL
+2657,M,Youth,Surfing,AUSTRALIA,1,1989,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2659,M,Children,Surfing,USA,1,1989,White shark,Unprovoked,N,LOWER EXTREMITIES
+2662,M,Young Adult,diving,SOUTH AFRICA,9,1989,White shark,Unprovoked,N,OTHERS
+2663,M,Adult,Fishing,USA,9,1989,Non defined,Provoked,N,OTHERS
+2665,M,Adult,diving,USA,9,1989,White shark,Unprovoked,N,LOWER EXTREMITIES
+2668,M,Young Adult,Feeding,AUSTRALIA,8,1989,Non defined,Provoked,N,LOWER EXTREMITIES
+2670,M,Youth,Surfing,SOUTH AFRICA,8,1989,White shark,Unprovoked,N,OTHERS
+2671,M,Youth,Surfing,AUSTRALIA,8,1989,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2675,M,Young Adult,Surfing,SOUTH AFRICA,7,1989,White shark,Unprovoked,N,OTHERS
+2682,M,Youth,Surfing,SOUTH AFRICA,6,1989,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2683,M,Young Adult,diving,SOUTH AFRICA,6,1989,White shark,Unprovoked,N,OTHERS
+2690,M,Young Adult,Surfing,AUSTRALIA,3,1989,White shark,Unprovoked,Y,FATAL
+2694,M,Adult,diving,ITALY,2,1989,White shark,Unprovoked,Y,FATAL
+2696,F,Youth,Kayaking,USA,1,1989,White shark,Unprovoked,Y,FATAL
+2700,M,Youth,Surfing,AUSTRALIA,1,1989,Tiger shark,Unprovoked,N,OTHERS
+2707,M,Youth,Surfing,USA,1,1988,White shark,Unprovoked,N,LOWER EXTREMITIES
+2710,M,Young Adult,Surfing,USA,1,1988,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2711,M,Youth,Surfing,USA,1,1988,Non defined,Unprovoked,N,OTHERS
+2714,M,Youth,Surfing,USA,9,1988,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2716,M,Adult,Snorkeling,USA,9,1988,Bull shark,Unprovoked,Y,FATAL
+2720,M,Young Adult,Surfing,USA,8,1988,White shark,Unprovoked,N,OTHERS
+2728,M,Adult,Spearfishing,SOUTH AFRICA,6,1988,White shark,Unprovoked,N,OTHERS
+2730,M,Adult,Sittting,USA,6,1988,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2732,M,Young Adult,Surfing,USA,6,1988,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2745,M,Youth,Surfing,SOUTH AFRICA,3,1988,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2748,M,Youth,Surfing,SOUTH AFRICA,2,1988,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2749,F,Youth,Lying,SOUTH AFRICA,2,1988,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2755,M,Young Adult,Attempting,SOUTH AFRICA,1,1988,Non defined,Provoked,N,LOWER EXTREMITIES
+2759,M,Youth,Surfing,USA,12,1987,Non defined,Unprovoked,N,OTHERS
+2763,M,Youth,Surfing,USA,1,1987,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2765,M,Youth,Spearfishing,SOUTH AFRICA,1,1987,White shark,Unprovoked,N,OTHERS
+2768,M,Youth,Surfing,SOUTH AFRICA,9,1987,White shark,Unprovoked,N,OTHERS
+2769,M,Children,Wading,USA,8,1987,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2770,M,Adult,Surfing,USA,8,1987,White shark,Unprovoked,N,OTHERS
+2771,M,Young Adult,Surfing,USA,7,1987,White shark,Unprovoked,N,LOWER EXTREMITIES
+2772,F,Young Adult,surfing,USA,7,1987,White shark,Unprovoked,N,LOWER EXTREMITIES
+2773,F,Youth,Wading,USA,7,1987,White shark,Unprovoked,N,LOWER EXTREMITIES
+2784,M,Children,Swimming,VANUATU,4,1987,Non defined,Unprovoked,Y,FATAL
+2789,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1987,White shark,Unprovoked,N,OTHERS
+2794,M,Youth,boarding,SOUTH AFRICA,12,1986,White shark,Unprovoked,Y,LOWER EXTREMITIES
+2795,M,Adult,Surfing,USA,12,1986,Non defined,Unprovoked,N,OTHERS
+2797,M,Young Adult,diving,USA,12,1986,White shark,Unprovoked,N,OTHERS
+2804,F,Children,Swimming,USA,1,1986,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2805,M,Young Adult,Racing,SOUTH AFRICA,1,1986,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2817,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1986,Non defined,Unprovoked,N,OTHERS
+2823,M,Young Adult,Treading,SOUTH AFRICA,3,1986,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2825,M,Youth,Surfing,SOUTH AFRICA,2,1986,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2827,M,Adult,Swimming,SOUTH AFRICA,2,1986,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+2828,M,Young Adult,Spearfishing,SOUTH AFRICA,2,1986,Raggedtooth shark,Unprovoked,N,OTHERS
+2829,M,Young Adult,Surfing,AUSTRALIA,2,1986,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2830,M,Youth,Surfing,USA,1,1986,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2831,M,Youth,Surfing,USA,1,1986,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2837,M,Youth,boarding,SOUTH AFRICA,1,1985,White shark,Unprovoked,N,LOWER EXTREMITIES
+2838,M,Adult,diving,USA,1,1985,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2849,F,Children,Wading,USA,7,1985,Non defined,Unprovoked,N,OTHERS
+2853,M,Children,Snorkeling,ITALY,7,1985,White shark,Unprovoked,N,LOWER EXTREMITIES
+2857,F,Young Adult,diving,AUSTRALIA,3,1985,White shark,Unprovoked,Y,FATAL
+2858,M,Young Adult,Diving,USA,2,1985,White shark,Unprovoked,N,OTHERS
+2860,M,Youth,Swimming,SOUTH AFRICA,1,1985,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+2862,M,Youth,Surfing,SOUTH AFRICA,1,1985,White shark,Unprovoked,N,OTHERS
+2864,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1985,White shark,Unprovoked,N,OTHERS
+2866,M,Youth,Spearfishing,SOUTH AFRICA,1,1985,Non defined,Provoked,N,OTHERS
+2870,M,Youth,Sailing,AUSTRALIA,11,1984,Tiger shark,Unprovoked,Y,FATAL
+2874,F,Youth,Surfing,USA,1,1984,Non defined,Unprovoked,N,OTHERS
+2876,M,Youth,Surfing,USA,1,1984,Non defined,Unprovoked,N,OTHERS
+2877,M,Young Adult,Surfing,USA,9,1984,White shark,Unprovoked,N,LOWER EXTREMITIES
+2881,M,Youth,Surfing,USA,9,1984,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2884,M,Young Adult,Skindiving,USA,9,1984,White shark,Unprovoked,Y,FATAL
+2889,F,Youth,Swimming,USA,7,1984,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2893,M,Young Adult,Surfing,SOUTH AFRICA,6,1984,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2894,F,Children,Towing,USA,6,1984,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2902,M,Young Adult,diving,SOUTH AFRICA,2,1984,Non defined,Provoked,N,OTHERS
+2905,M,Children,Swimming,SOUTH AFRICA,1,1984,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+2913,M,Adult,Swimming,SOUTH AFRICA,12,1983,Raggedtooth shark,Unprovoked,N,OTHERS
+2922,M,Young Adult,Spearfishing,SOUTH AFRICA,8,1983,White shark,Unprovoked,N,OTHERS
+2923,F,Children,Swimming,USA,8,1983,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2925,F,Youth,Diving,USA,8,1983,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+2927,F,Youth,Swimming,AUSTRALIA,7,1983,Tiger shark,Unprovoked,Y,FATAL
+2928,M,Youth,Swimming,AUSTRALIA,7,1983,Tiger shark,Unprovoked,Y,LOWER EXTREMITIES
+2929,M,Young Adult,Undefined,AUSTRALIA,7,1983,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+2931,F,Adult,Windsurfing,USA,7,1983,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2940,M,Youth,skiing,USA,5,1983,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2944,M,Young Adult,Fishing,SOUTH AFRICA,4,1983,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+2947,M,Youth,Spearfishing,SOUTH AFRICA,3,1983,Non defined,Unprovoked,N,OTHERS
+2951,M,Youth,Paddleskiing,SOUTH AFRICA,2,1983,Non defined,Unprovoked,N,OTHERS
+2955,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1983,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2960,M,Young Adult,Windsurfing,USA,1,1982,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2962,M,Youth,Surfing,SOUTH AFRICA,9,1982,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2963,M,Youth,Surfing,USA,9,1982,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2964,M,Adult,Diving,USA,9,1982,White shark,Unprovoked,N,OTHERS
+2965,M,Young Adult,diving,USA,9,1982,White shark,Unprovoked,N,OTHERS
+2972,M,Adult,Paddleskiing,SOUTH AFRICA,7,1982,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2973,M,Young Adult,Boarding,USA,7,1982,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+2974,M,Youth,Swimming,USA,7,1982,Non defined,Unprovoked,N,LOWER EXTREMITIES
+2978,M,Young Adult,Surfing,SOUTH AFRICA,6,1982,White shark,Unprovoked,Y,FATAL
+2979,M,Youth,Swimming,USA,6,1982,Non defined,Unprovoked,N,OTHERS
+2995,M,Youth,Swimming,SOUTH AFRICA,1,1982,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+2999,M,Youth,Surfing,USA,12,1981,White shark,Unprovoked,Y,FATAL
+3005,M,Youth,Swimming,USA,1,1981,Non defined,Unprovoked,N,OTHERS
+3011,M,Young Adult,Swimming,USA,9,1981,Tiger shark,Unprovoked,Y,FATAL
+3019,M,Adult,Snorkeling,BAHAMAS,8,1981,Non defined,Unprovoked,N,OTHERS
+3021,M,Young Adult,Surfing,SOUTH AFRICA,7,1981,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3027,F,Young Adult,diving,SOUTH KOREA,5,1981,White shark,Unprovoked,Y,FATAL
+3028,M,Young Adult,Surfing,SOUTH AFRICA,5,1981,Raggedtooth shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3031,M,Youth,Surfing,SOUTH AFRICA,5,1981,Raggedtooth shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3034,M,Youth,Surfing,SOUTH AFRICA,5,1981,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+3035,M,Youth,Standing,USA,3,1981,Bull shark,Unprovoked,N,LOWER EXTREMITIES
+3036,M,Youth,Surfing,USA,3,1981,Non defined,Unprovoked,N,OTHERS
+3039,M,Young Adult,Swimming,SOUTH AFRICA,2,1981,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3042,M,Youth,Surfing,USA,2,1981,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3046,M,Young Adult,skiing,AUSTRALIA,1,1981,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3048,M,Young Adult,Paddleskiing,SOUTH AFRICA,3,1980,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3050,M,Youth,Spearfishing,REUNION,11,1980,White shark,Unprovoked,N,OTHERS
+3054,M,Young Adult,Surfing,USA,1,1980,White shark,Unprovoked,N,OTHERS
+3055,M,Youth,Surfing,USA,1,1980,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3061,F,Youth,Standing,USA,7,1980,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3065,M,Youth,Surfing,SOUTH AFRICA,5,1980,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3068,F,Children,surfing,MEXICO,1,1980,Tiger shark,Unprovoked,N,OTHERS
+3073,M,Youth,boarding,SOUTH AFRICA,1,1980,White shark,Unprovoked,N,LOWER EXTREMITIES
+3075,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1980,Non defined,Provoked,N,"NO INJURY, SLIGHT SCARE!"
+3077,M,Young Adult,Swimming,SOUTH AFRICA,1,1980,Raggedtooth shark,Unprovoked,N,OTHERS
+3086,M,Youth,Surfing,USA,11,1979,White shark,Unprovoked,N,OTHERS
+3096,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1979,White shark,Provoked,N,OTHERS
+3102,M,Young Adult,Surfing,USA,3,1979,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3106,M,Youth,Surfing,SOUTH AFRICA,2,1979,Non defined,Unprovoked,N,OTHERS
+3109,M,Youth,Spearfishing,SOUTH AFRICA,12,1978,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3113,M,Young Adult,Spearfishing,SOUTH AFRICA,9,1978,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3129,M,Youth,Surfing,SOUTH AFRICA,1,1978,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3135,M,Youth,Surfing,SOUTH AFRICA,12,1977,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+3138,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1977,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3139,M,Youth,Surfing,AUSTRALIA,8,1977,White shark,Unprovoked,N,OTHERS
+3142,M,Youth,diving,USA,8,1977,White shark,Unprovoked,N,LOWER EXTREMITIES
+3145,M,Young Adult,Spearfishing,USA,6,1977,Bull shark,Provoked,N,LOWER EXTREMITIES
+3160,M,Young Adult,diving,USA,12,1976,White shark,Unprovoked,N,LOWER EXTREMITIES
+3161,M,Youth,Thrashing,SOUTH AFRICA,11,1976,White shark,Unprovoked,N,OTHERS
+3163,M,Youth,Surfing,USA,11,1976,Bull shark,Unprovoked,N,OTHERS
+3167,M,Young Adult,Surfing,USA,1,1976,White shark,Unprovoked,N,LOWER EXTREMITIES
+3168,M,Youth,Surfing,SOUTH AFRICA,1,1976,White shark,Unprovoked,N,OTHERS
+3174,M,Youth,Surfing,USA,9,1976,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+3176,M,Youth,Surfing,USA,8,1976,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3181,M,Youth,Skindiving,USA,6,1976,White shark,Unprovoked,N,OTHERS
+3199,M,Young Adult,diving,USA,12,1975,White shark,Unprovoked,N,LOWER EXTREMITIES
+3202,M,Young Adult,Standing,SOUTH AFRICA,11,1975,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3209,M,Youth,Surfing,SOUTH AFRICA,8,1975,White shark,Unprovoked,N,LOWER EXTREMITIES
+3210,M,Youth,Floating,USA,8,1975,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3211,M,Adult,diving,USA,8,1975,White shark,Unprovoked,N,OTHERS
+3214,M,Adult,diving,AUSTRALIA,7,1975,White shark,Unprovoked,Y,FATAL
+3217,M,Youth,diving,USA,7,1975,White shark,Unprovoked,N,LOWER EXTREMITIES
+3218,M,Young Adult,diving,USA,7,1975,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3219,F,Children,Swimming,USA,7,1975,Non defined,Unprovoked,N,OTHERS
+3222,M,Youth,Swimming,USA,6,1975,White shark,Unprovoked,N,LOWER EXTREMITIES
+3238,M,Youth,Surfing,SOUTH AFRICA,2,1975,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3240,M,Children,Swimming,AUSTRALIA,2,1975,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3249,M,Youth,Surfing,USA,9,1974,White shark,Unprovoked,N,OTHERS
+3250,M,Young Adult,diving,USA,9,1974,White shark,Unprovoked,N,OTHERS
+3251,F,Youth,Swimming,ISRAEL,9,1974,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3252,M,Adult,diving,USA,9,1974,White shark,Unprovoked,N,OTHERS
+3253,M,Adult,diving,USA,9,1974,White shark,Unprovoked,N,LOWER EXTREMITIES
+3255,M,Youth,Surfing,USA,1,1974,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3266,M,Adult,diving,USA,5,1974,White shark,Unprovoked,N,LOWER EXTREMITIES
+3268,M,Youth,Spearfishing,SOUTH AFRICA,4,1974,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+3271,M,Youth,Surfing,SOUTH AFRICA,4,1974,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3272,M,Youth,Surfing,SOUTH AFRICA,3,1974,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3280,M,Young Adult,Swimming,SOUTH AFRICA,1,1974,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3294,M,Children,diving,BAHAMAS,9,1973,Bull shark,Unprovoked,N,OTHERS
+3296,M,Adult,diving,MEXICO,9,1973,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3305,M,Young Adult,Spearfishing,SOUTH AFRICA,1,1973,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3313,M,Young Adult,Swimming,MOZAMBIQUE,12,1972,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3332,M,Youth,Surfing,USA,6,1972,Non defined,Unprovoked,N,OTHERS
+3333,M,Young Adult,diving,USA,5,1972,White shark,Unprovoked,N,LOWER EXTREMITIES
+3340,M,Youth,Surfing,AUSTRALIA,2,1972,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3343,F,Young Adult,Sitting,SOUTH AFRICA,1,1972,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3344,M,Youth,Standing,MOZAMBIQUE,1,1972,White shark,Unprovoked,N,LOWER EXTREMITIES
+3348,F,Youth,Swimming,SOUTH AFRICA,12,1971,White shark,Unprovoked,N,OTHERS
+3352,M,Youth,Surfing,USA,1,1971,Non defined,Unprovoked,N,OTHERS
+3353,M,Young Adult,Swimming,SOUTH AFRICA,1,1971,Non defined,Unprovoked,N,OTHERS
+3354,M,Young Adult,diving,USA,1,1971,White shark,Unprovoked,N,LOWER EXTREMITIES
+3356,M,Young Adult,Swimming,CROATIA,9,1971,White shark,Unprovoked,Y,FATAL
+3358,M,Young Adult,diving,AUSTRALIA,8,1971,Non defined,Provoked,N,LOWER EXTREMITIES
+3361,M,Youth,Surfing,SOUTH AFRICA,6,1971,White shark,Unprovoked,N,LOWER EXTREMITIES
+3364,M,Children,Swimming,SOUTH AFRICA,4,1971,White shark,Unprovoked,Y,FATAL
+3369,M,Youth,Surfing,NEW ZEALAND,3,1971,White shark,Unprovoked,N,LOWER EXTREMITIES
+3381,M,Adult,Diving,MICRONESIA,9,1970,Non defined,Unprovoked,N,OTHERS
+3390,M,Young Adult,Diving,SOUTH AFRICA,6,1970,Raggedtooth shark,Provoked,N,LOWER EXTREMITIES
+3420,M,Adult,diving,USA,9,1969,White shark,Unprovoked,N,LOWER EXTREMITIES
+3424,M,Children,surfing,USA,8,1969,White shark,Unprovoked,N,LOWER EXTREMITIES
+3433,M,Youth,Diving,USA,5,1969,Non defined,Provoked,N,OTHERS
+3439,M,Youth,Surfing,USA,3,1969,White shark,Unprovoked,N,LOWER EXTREMITIES
+3440,M,Adult,Fishing,AUSTRALIA,2,1969,Non defined,Provoked,N,OTHERS
+3446,M,Young Adult,Feeding,AUSTRALIA,12,1968,Non defined,Provoked,N,OTHERS
+3447,M,Youth,Surfing,NEW ZEALAND,12,1968,White shark,Unprovoked,N,OTHERS
+3458,M,Youth,Spearfishing,NEW ZEALAND,9,1968,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3463,M,Youth,fishing,COLUMBIA,8,1968,Non defined,Unprovoked,N,OTHERS
+3464,M,Young Adult,diving,USA,7,1968,White shark,Unprovoked,N,OTHERS
+3466,M,Young Adult,Spearfishing,USA,7,1968,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3479,M,Young Adult,Wading,SOUTH AFRICA,3,1968,Non defined,Unprovoked,N,OTHERS
+3485,M,Young Adult,Spearfishing,AUSTRALIA,2,1968,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3492,M,Youth,Surfing,SOUTH AFRICA,12,1967,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3503,M,Youth,Standing,USA,1,1967,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3511,M,Youth,Pulling,USA,8,1967,Non defined,Provoked,N,OTHERS
+3514,M,Youth,Spearfishing,AUSTRALIA,8,1967,White shark,Unprovoked,Y,FATAL
+3518,M,Youth,Spearfishing,USA,8,1967,Non defined,Unprovoked,N,OTHERS
+3519,M,Adult,Photographing,BAHAMAS,1,1967,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3524,M,Young Adult,Spearfishing,USA,6,1967,Non defined,Provoked,N,LOWER EXTREMITIES
+3530,M,Young Adult,Spearfishing,SOUTH AFRICA,3,1967,White shark,Unprovoked,N,OTHERS
+3531,M,Adult,Spearfishing,AUSTRALIA,3,1967,Non defined,Provoked,N,OTHERS
+3533,M,Youth,Lifesaving,NEW ZEALAND,3,1967,White shark,Unprovoked,Y,FATAL
+3547,F,Children,Swimming,PAPUA NEW GUINEA,1,1966,Non defined,Unprovoked,Y,FATAL
+3548,F,Children,Bathing,PAPUA NEW GUINEA,1,1966,Non defined,Unprovoked,Y,FATAL
+3549,M,Young Adult,diving,AUSTRALIA,9,1966,Non defined,Unprovoked,N,OTHERS
+3553,M,Adult,Spearfishing,AUSTRALIA,9,1966,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3559,F,Children,Swimming,NEW BRITAIN,8,1966,Non defined,Unprovoked,Y,FATAL
+3560,F,Children,Diving,NEW BRITAIN,8,1966,Non defined,Unprovoked,Y,FATAL
+3565,M,Children,Wading,USA,1,1966,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3567,M,Young Adult,Killing,USA,7,1966,White shark,Provoked,N,OTHERS
+3573,M,Youth,Clamming,USA,6,1966,Non defined,Provoked,N,LOWER EXTREMITIES
+3574,M,Youth,Fishing,USA,6,1966,Non defined,Provoked,N,OTHERS
+3575,M,Youth,Swimming,USA,6,1966,Non defined,Unprovoked,N,OTHERS
+3586,M,Children,Treading,AUSTRALIA,2,1966,White shark,Unprovoked,N,LOWER EXTREMITIES
+3587,M,Young Adult,Helping,SOUTH AFRICA,1,1966,Non defined,Provoked,N,LOWER EXTREMITIES
+3589,M,Young Adult,diving,USA,1,1966,White shark,Unprovoked,N,OTHERS
+3592,M,Youth,Standing,SOUTH AFRICA,1,1966,Non defined,Unprovoked,N,OTHERS
+3594,M,Youth,surfing,SOUTH AFRICA,1,1966,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3596,M,Young Adult,Swimming,USA,1,1966,Non defined,Unprovoked,N,OTHERS
+3604,M,Youth,Surfing,AUSTRALIA,11,1965,Non defined,Unprovoked,N,OTHERS
+3630,M,Young Adult,Spearfishing,USA,4,1965,White shark,Unprovoked,N,OTHERS
+3631,M,Children,Walking,PALAU,4,1965,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+3632,M,Youth,Paddling,USA,4,1965,Non defined,Unprovoked,N,OTHERS
+3634,M,Youth,diving,USA,3,1965,Non defined,Unprovoked,N,OTHERS
+3635,M,Young Adult,Treading,SOUTH AFRICA,2,1965,Non defined,Unprovoked,N,OTHERS
+3636,M,Youth,diving,USA,2,1965,Non defined,Unprovoked,N,OTHERS
+3638,M,Youth,Paddling,SOUTH AFRICA,1,1965,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3649,M,Youth,Swimming,SOUTH AFRICA,12,1964,Raggedtooth shark,Unprovoked,N,LOWER EXTREMITIES
+3652,M,Young Adult,swimming,PAPUA NEW GUINEA,12,1964,Non defined,Unprovoked,N,OTHERS
+3654,M,Young Adult,diving,AUSTRALIA,11,1964,White shark,Unprovoked,N,LOWER EXTREMITIES
+3660,M,Youth,Surfing,AUSTRALIA,1,1964,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3663,M,Youth,Swimming,TAIWAN,9,1964,Non defined,Unprovoked,N,OTHERS
+3665,M,Youth,Floating,MEXICO,8,1964,Non defined,Unprovoked,N,OTHERS
+3668,M,Young Adult,Spearfishing,USA,8,1964,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3685,M,Young Adult,Spearfishing,FIJI,5,1964,Tiger shark,Unprovoked,Y,FATAL
+3690,M,Adult,diving,USA,3,1964,Non defined,Unprovoked,N,OTHERS
+3696,M,Young Adult,Spearfishing,NEW ZEALAND,2,1964,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3697,M,Young Adult,boarding,SOUTH AFRICA,2,1964,White shark,Unprovoked,N,LOWER EXTREMITIES
+3699,M,Youth,Swimming,NEW ZEALAND,2,1964,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3709,M,Youth,Spearfishing,USA,1,1964,White shark,Unprovoked,N,LOWER EXTREMITIES
+3715,F,Youth,Standing,SOUTH AFRICA,12,1963,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3716,M,Youth,Swimming,SOUTH AFRICA,12,1963,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3720,M,Children,Helping,SOUTH AFRICA,12,1963,Non defined,Provoked,N,LOWER EXTREMITIES
+3723,M,Youth,Splashing,SOUTH AFRICA,12,1963,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+3724,M,Youth,Spearfishing,AUSTRALIA,12,1963,White shark,Unprovoked,N,OTHERS
+3726,M,Youth,Treading,NEW ZEALAND,11,1963,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3727,F,Youth,Fishing,PAPUA NEW GUINEA,11,1963,Tiger shark,Provoked,N,OTHERS
+3728,F,Youth,Fishing,FIJI,11,1963,Tiger shark,Unprovoked,N,OTHERS
+3734,M,Young Adult,Fishing,PALAU,11,1963,Non defined,Unprovoked,N,OTHERS
+3735,M,Young Adult,fishing,USA,1,1963,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3739,M,Young Adult,Spearing,SOLOMON ISLANDS,9,1963,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+3740,M,Youth,Surfing,AUSTRALIA,9,1963,Non defined,Provoked,N,OTHERS
+3741,M,Youth,Spearfishing,USA,9,1963,Non defined,Provoked,N,OTHERS
+3743,M,Young Adult,Spearfishing,FEDERATED STATES OF MICRONESIA,7,1963,Tiger shark,Unprovoked,N,OTHERS
+3748,F,Adult,Swimming,GREECE,6,1963,White shark,Unprovoked,Y,FATAL
+3749,M,Young Adult,Fishing,PAPUA NEW GUINEA,6,1963,Non defined,Provoked,N,LOWER EXTREMITIES
+3753,M,Young Adult,Swimming,USA,4,1963,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+3756,M,Youth,Surfing,USA,4,1963,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3760,M,Youth,Spearfishing,AUSTRALIA,2,1963,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3761,M,Young Adult,Spearfishing,FIJI,2,1963,White shark,Unprovoked,N,OTHERS
+3765,F,Young Adult,Wading,AUSTRALIA,1,1963,Bull shark,Unprovoked,Y,FATAL
+3770,M,Young Adult,diving,SOUTH AFRICA,1,1963,Non defined,Unprovoked,N,OTHERS
+3771,M,Youth,Spearfishing,SOUTH AFRICA,1,1963,Non defined,Unprovoked,N,OTHERS
+3777,M,Youth,Spearfishing,AUSTRALIA,12,1962,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3781,M,Youth,Spearfishing,USA,11,1962,White shark,Unprovoked,N,LOWER EXTREMITIES
+3785,M,Young Adult,Wading,MEXICO,1,1962,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+3790,M,Youth,Spearfishing,BRITISH WEST INDIES,9,1962,Non defined,Unprovoked,N,OTHERS
+3793,M,Young Adult,Spearfishing,ITALY,9,1962,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3796,M,Adult,Fishing,PAPUA NEW GUINEA,8,1962,Non defined,Provoked,N,LOWER EXTREMITIES
+3797,M,Adult,Diving,USA,8,1962,Non defined,Provoked,N,OTHERS
+3800,M,Adult,fishing,USA,8,1962,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+3801,M,Youth,Standing,USA,8,1962,Non defined,Unprovoked,N,OTHERS
+3807,M,Youth,Fishing,USA,7,1962,Non defined,Provoked,N,OTHERS
+3813,M,Children,Undefined,USA,6,1962,Non defined,Unprovoked,N,OTHERS
+3820,M,Adult,diving,USA,6,1962,Non defined,Provoked,N,OTHERS
+3827,M,Children,Wading,SOUTH AFRICA,4,1962,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3831,M,Children,Swimming,PAPUA NEW GUINEA,3,1962,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+3836,M,Children,Treading,SOUTH AFRICA,2,1962,White shark,Unprovoked,Y,FATAL
+3837,M,Young Adult,Swimming,AUSTRALIA,2,1962,Non defined,Unprovoked,N,OTHERS
+3840,M,Youth,Splashing,NEW ZEALAND,1,1962,Non defined,Unprovoked,N,OTHERS
+3846,M,Young Adult,Spearfishing,USA,1,1962,White shark,Unprovoked,N,LOWER EXTREMITIES
+3848,M,Youth,Surfing,AUSTRALIA,1,1962,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3850,M,Youth,Spearfishing,PAPUA NEW GUINEA,1,1962,White shark,Unprovoked,N,LOWER EXTREMITIES
+3851,F,Adult,fishing,NEW ZEALAND,1,1962,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3858,M,Adult,Fishing,MARSHALL ISLANDS,1,1962,Non defined,Unprovoked,N,OTHERS
+3862,F,Youth,Standing,AUSTRALIA,12,1961,Non defined,Unprovoked,Y,FATAL
+3863,M,Youth,Standing,AUSTRALIA,12,1961,Non defined,Unprovoked,N,OTHERS
+3864,M,Youth,Treading,SOUTH AFRICA,12,1961,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3865,M,Youth,Spearfishing,AUSTRALIA,12,1961,Non defined,Provoked,N,"NO INJURY, SLIGHT SCARE!"
+3868,M,Youth,Surfing,AUSTRALIA,12,1961,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+3869,M,Youth,Swimming,AUSTRALIA,12,1961,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3876,M,Youth,Swimming,CROATIA,9,1961,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3882,M,Youth,Swimming,USA,8,1961,White shark,Unprovoked,N,LOWER EXTREMITIES
+3883,M,Youth,Wading,USA,8,1961,White shark,Unprovoked,N,LOWER EXTREMITIES
+3885,M,Adult,fishing,USA,8,1961,Non defined,Unprovoked,N,OTHERS
+3887,M,Adult,Spearfishing,USA,7,1961,Non defined,Provoked,N,OTHERS
+3890,M,Youth,Spearfishing,ITALY,1,1961,White shark,Unprovoked,N,LOWER EXTREMITIES
+3897,M,Youth,diving,USA,5,1961,White shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3899,M,Adult,Walking,USA,5,1961,Non defined,Unprovoked,N,OTHERS
+3903,M,Adult,Swimming,MOZAMBIQUE,4,1961,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3907,M,Adult,Checking,AUSTRALIA,4,1961,Non defined,Unprovoked,N,OTHERS
+3908,M,Adult,Swimming,MOZAMBIQUE,4,1961,Non defined,Unprovoked,Y,FATAL
+3913,M,Youth,Swimming,AUSTRALIA,3,1961,Non defined,Unprovoked,N,OTHERS
+3915,M,Youth,Spearfishing,AUSTRALIA,3,1961,White shark,Unprovoked,N,LOWER EXTREMITIES
+3916,M,Young Adult,diving,NORTH PACIFIC OCEAN,3,1961,Non defined,Unprovoked,N,OTHERS
+3922,M,Young Adult,Spearfishing,SOUTH AFRICA,2,1961,Non defined,Unprovoked,N,OTHERS
+3923,M,Children,Swimming,SOUTH AFRICA,2,1961,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+3927,M,Youth,Swimming,SOUTH AFRICA,1,1961,White shark,Unprovoked,N,OTHERS
+3928,M,Young Adult,Collecting,AUSTRALIA,1,1961,Non defined,Provoked,N,OTHERS
+3929,M,Children,Standing,SOUTH AFRICA,1,1961,White shark,Unprovoked,N,LOWER EXTREMITIES
+3943,M,Young Adult,Swimming,SOUTH AFRICA,12,1960,White shark,Unprovoked,Y,LOWER EXTREMITIES
+3944,M,Young Adult,Fishing,AUSTRALIA,12,1960,Non defined,Unprovoked,N,OTHERS
+3946,M,Adult,Swimming,AUSTRALIA,11,1960,Non defined,Unprovoked,N,OTHERS
+3974,M,Youth,Holding,USA,8,1960,Non defined,Provoked,N,OTHERS
+3980,M,Adult,Fishing,USA,7,1960,Non defined,Provoked,N,OTHERS
+3985,M,Adult,diving,USA,6,1960,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+3990,M,Young Adult,diving,BERMUDA,5,1960,Non defined,Unprovoked,N,LOWER EXTREMITIES
+3991,F,Youth,Swimming,USA,5,1960,White shark,Unprovoked,N,LOWER EXTREMITIES
+3994,M,Youth,Treading,SOUTH AFRICA,4,1960,White shark,Unprovoked,N,OTHERS
+3995,M,Adult,Skindiving,USA,4,1960,White shark,Unprovoked,N,LOWER EXTREMITIES
+3999,M,Youth,Surfing,AUSTRALIA,4,1960,White shark,Unprovoked,N,OTHERS
+4007,M,Adult,Treading,USA,3,1960,Non defined,Unprovoked,N,LOWER EXTREMITIES
+4009,M,Children,Wading,AUSTRALIA,2,1960,Non defined,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+4020,M,Children,diving,AUSTRALIA,1,1960,Bull shark,Unprovoked,Y,LOWER EXTREMITIES
+4043,M,Youth,surfing,AUSTRALIA,11,1959,Non defined,Unprovoked,N,OTHERS
+4044,M,Youth,Standing,AUSTRALIA,11,1959,Non defined,Unprovoked,N,LOWER EXTREMITIES
+4045,M,Youth,Trailing,AUSTRALIA,11,1959,Non defined,Unprovoked,N,LOWER EXTREMITIES
+4049,M,Youth,Swimming,USA,11,1959,Non defined,Unprovoked,N,OTHERS
+4054,M,Young Adult,Diving,USA,1,1959,White shark,Unprovoked,N,LOWER EXTREMITIES
+4056,M,Adult,Spearfishing,FIJI,1,1959,Tiger shark,Unprovoked,N,OTHERS
+4059,M,Young Adult,hanging,USA,9,1959,Non defined,Unprovoked,N,LOWER EXTREMITIES
+4075,M,Children,Swimming,JAPAN,8,1959,Non defined,Unprovoked,Y,FATAL
+4080,M,Young Adult,Spearfishing,USA,7,1959,Non defined,Unprovoked,N,OTHERS
+4091,M,Young Adult,diving,USA,6,1959,White shark,Unprovoked,Y,FATAL
+4095,M,Youth,Treading,USA,5,1959,White shark,Unprovoked,Y,FATAL
+4096,M,Youth,Spearfishing,USA,5,1959,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+4110,M,Children,Treading,SOUTH AFRICA,2,1959,Non defined,Unprovoked,N,LOWER EXTREMITIES
+4111,M,Youth,Working,AUSTRALIA,1,1959,Non defined,Unprovoked,N,OTHERS
+4114,M,Youth,Undefined,AUSTRALIA,1,1959,Non defined,Unprovoked,Y,FATAL
+4115,M,Youth,Surfing,AUSTRALIA,1,1959,Non defined,Unprovoked,N,LOWER EXTREMITIES
+4116,M,Youth,Swimming,SOUTH AFRICA,1,1959,White shark,Unprovoked,N,OTHERS
+4130,M,Youth,Surfing,USA,12,1958,Tiger shark,Unprovoked,Y,LOWER EXTREMITIES
+4131,M,Youth,Cleaning,AMERICAN SAMOA,12,1958,Tiger shark,Unprovoked,Y,LOWER EXTREMITIES
+4132,M,Youth,Swimming,AUSTRALIA,11,1958,Non defined,Unprovoked,Y,FATAL
+4141,M,Adult,Fishing,BAHAMAS,9,1958,Non defined,Unprovoked,N,OTHERS
+4146,M,Children,Swimming,USA,7,1958,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+4147,M,Children,Swimming,USA,7,1958,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+4151,M,Young Adult,Undefined,PACIFIC OCEAN,7,1958,Non defined,Unprovoked,N,OTHERS
+4152,M,Youth,diving,USA,7,1958,Non defined,Provoked,N,LOWER EXTREMITIES
+4154,M,Adult,Spearfishing,BAHAMAS,1,1958,Tiger shark,Unprovoked,N,"NO INJURY, SLIGHT SCARE!"
+4156,M,Adult,Wading,USA,6,1958,Non defined,Provoked,N,LOWER EXTREMITIES
+4157,M,Youth,Walking,USA,6,1958,Tiger shark,Unprovoked,N,LOWER EXTREMITIES
+4162,M,Young Adult,Diving,TAIWAN,4,1958,Non defined,Unprovoked,N,OTHERS
+4163,F,Young Adult,Paddling,SOUTH AFRICA,4,1958,Non defined,Unprovoked,Y,FATAL
+4164,M,Young Adult,Swimming,SOUTH AFRICA,4,1958,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+4169,M,Children,surfing,AUSTRALIA,1,1958,Non defined,Unprovoked,N,LOWER EXTREMITIES
+4182,F,Children,Standing,SOUTH AFRICA,12,1957,Non defined,Unprovoked,N,OTHERS
+4184,M,Youth,Floating,SOUTH AFRICA,12,1957,Non defined,Unprovoked,Y,FATAL
+4194,M,Adult,Swimming,USA,7,1957,White shark,Unprovoked,Y,LOWER EXTREMITIES
+4197,M,Young Adult,Competing,AUSTRALIA,5,1957,Non defined,Unprovoked,N,OTHERS
+4200,M,Young Adult,Swimming,USA,4,1957,White shark,Unprovoked,Y,FATAL
+4202,M,Youth,Standing,USA,4,1957,Non defined,Provoked,N,LOWER EXTREMITIES
+4203,M,Youth,Swimming,AUSTRALIA,4,1957,Non defined,Unprovoked,N,OTHERS
+4222,M,Youth,Spearfishing,PAPUA NEW GUINEA,12,1956,Tiger shark,Unprovoked,Y,LOWER EXTREMITIES
+4228,M,Youth,Skindiving,SENEGAL,1,1956,Non defined,Unprovoked,N,OTHERS
+4238,M,Children,Swimming,USA,8,1956,White shark,Unprovoked,N,OTHERS
+4258,M,Young Adult,Swimming,AUSTRALIA,3,1956,Non defined,Unprovoked,Y,FATAL
+4260,M,Youth,Diving,AUSTRALIA,2,1956,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+4275,M,Children,Swimming,PAPUA NEW GUINEA,11,1955,Non defined,Unprovoked,N,OTHERS
+4286,M,Young Adult,Swimming,AMERICAN SAMOA,8,1955,Non defined,Unprovoked,Y,FATAL
+4303,M,Youth,Spearfishing,USA,2,1955,White shark,Unprovoked,N,OTHERS
+4304,M,Young Adult,Swimming,AUSTRALIA,2,1955,White shark,Unprovoked,Y,LOWER EXTREMITIES
+4308,M,Children,Hunting,AUSTRALIA,1,1955,Non defined,Unprovoked,Y,LOWER EXTREMITIES
+4340,M,Young Adult,diving,AUSTRALIA,6,1954,Non defined,Unprovoked,N,OTHERS
+4349,M,Youth,Floating,ARGENTINA,1,1954,White shark,Unprovoked,N,LOWER EXTREMITIES
+4350,M,Young Adult,Crouching,PAPUA NEW GUINEA,1,1954,White shark,Unprovoked,N,OTHERS
+4370,M,Youth,Spearfishing,USA,7,1953,Non defined,Unprovoked,Y,FATAL
+4387,M,Young Adult,Spearfishing,AUSTRALIA,2,1953,Non defined,Unprovoked,N,OTHERS
+4395,M,Young Adult,Fishing,AUSTRALIA,12,1952,Non defined,Unprovoked,N,OTHERS
+4399,M,Youth,surfing,USA,12,1952,White shark,Unprovoked,Y,LOWER EXTREMITIES
+4426,M,Youth,Treading,AUSTRALIA,12,1951,Non defined,Unprovoked,Y,FATAL
+4427,M,Youth,Swimming,SOUTH AFRICA,11,1951,White shark,Unprovoked,N,OTHERS
+4429,M,Youth,Treading,SOUTH AFRICA,11,1951,White shark,Unprovoked,N,LOWER EXTREMITIES
+4446,M,Youth,Undefined,AUSTRALIA,3,1951,Non defined,Provoked,N,OTHERS
+4449,M,Young Adult,surfing,SOUTH AFRICA,2,1951,Non defined,Unprovoked,N,LOWER EXTREMITIES
+4459,M,Youth,surfing,AUSTRALIA,11,1950,White shark,Unprovoked,N,OTHERS
+4461,M,Young Adult,surfing,USA,1,1950,White shark,Unprovoked,N,LOWER EXTREMITIES
+4462,M,Young Adult,Fishing,AUSTRALIA,1,1950,White shark,Unprovoked,N,LOWER EXTREMITIES
+4463,M,Young Adult,fishing,EL SALVADOR,8,1950,Non defined,Provoked,N,OTHERS
+4482,M,Children,surfing,SOUTH AFRICA,2,1950,White shark,Unprovoked,Y,FATAL
+4489,M,Children,Bending,INDONESIA,1,1950,Tiger shark,Unprovoked,Y,FATAL
