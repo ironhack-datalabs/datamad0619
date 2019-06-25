@@ -1,6 +1,6 @@
 # Pandas Project
 
-![Shark Attack](shark-attack.jpg)
+![Shark Attack](./images/shark-attack.jpg)
 
 <p style="background-color:#e6e6e6;font-style:italic;padding:15px;">Este repositorio es un proyecto sobre la librería pandas de Python que he realizado como tarea durante el bootcamp de Data Analytics de <a href="https://www.ironhack.com/" title="Ironhack">Ironhack</a>. Se trata del primer proyecto que realizamos.</p>
 
