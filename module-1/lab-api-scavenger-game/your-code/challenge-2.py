@@ -17,13 +17,4 @@ headers = {
 owner = "ironhack-datalabs"
 repo="datamad0619"
 
-res1 = requests.get("{}/repos/{}/{}/forks".format(BASE_URL,owner,repo),headers=headers)
-fork = res1.json()
-languages = list(set([f["language"] for f in fork]))
-print (languages)
-
-
-
-
-
-
+res2 = requests.get("{}/repos/{}/{}/commits".format(BASE_URL,owner,repo),headers=headers, since="")
