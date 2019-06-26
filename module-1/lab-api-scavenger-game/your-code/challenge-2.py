@@ -16,5 +16,9 @@ headers = {
 
 owner = "ironhack-datalabs"
 repo="datamad0619"
+date="2019-06-19T17:30:00Z"
+query_params={"since":date}
 
-res2 = requests.get("{}/repos/{}/{}/commits".format(BASE_URL,owner,repo),headers=headers, since="")
+res2 = requests.get("{}/repos/{}/{}/commits".format(BASE_URL,owner,repo),headers=headers, params=query_params)
+commits=res2.json()
+print(len(commits))
