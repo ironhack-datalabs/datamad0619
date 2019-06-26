@@ -1,0 +1,3133 @@
+Year,Country,Area,Activity,Sex,Fatal (Y/N)
+2016,USA,Florida,Surfing,M,N
+2016,USA,Florida,Surfing,M,N
+2016,USA,Florida,Surfing,M,N
+2016,AUSTRALIA,Victoria,Surfing,M,N
+2016,AUSTRALIA,Victoria,Surfing,M,N
+2016,USA,Florida,Wading,M,N
+2016,USA,Hawaii,Swimming,F,N
+2016,USA,South Carolina,Boarding,F,N
+2016,AUSTRALIA,Western Australia,Surfing,M,N
+2016,USA,Florida,Boarding,M,N
+2016,USA,California,Fishing,M,N
+2016,USA,Florida,Surfing,M,N
+2016,USA,Florida,Surfing,M,N
+2016,USA,Florida,Wading,M,N
+2016,USA,Hawaii,Boarding,M,N
+2016,USA,Florida,Surfing,M,N
+2016,AUSTRALIA,Western Australia,Paddling,M,N
+2016,USA,Florida,Other,M,N
+2016,AUSTRALIA,New South Wales,Surfing,M,N
+2016,AUSTRALIA,Queensland,Fishing,M,N
+2016,USA,Florida,Surfing,F,N
+2016,USA,Florida,Unknown,F,N
+2016,USA,South Carolina,Swimming,M,N
+2016,USA,California,Fishing,M,N
+2016,USA,California,Fishing,M,N
+2016,USA,Florida,Swimming,F,N
+2016,AUSTRALIA,Queensland,Fishing,M,N
+2016,USA,South Carolina,Unknown,M,N
+2016,USA,North Carolina,Surfing,M,N
+2016,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+2016,USA,South Carolina,Swimming,M,N
+2016,USA,Florida,Wading,M,N
+2016,USA,Hawaii,Surfing,M,N
+2016,AUSTRALIA,Western Australia,Fishing,M,N
+2016,USA,Texas,Swimming,F,N
+2016,USA,North Carolina,Wading,M,N
+2016,USA,South Carolina,Surfing,M,N
+2016,USA,Florida,Swimming,M,N
+2016,AUSTRALIA,Western Australia,Diving,F,Y
+2016,AUSTRALIA,Western Australia,Surfing,M,Y
+2016,USA,California,Swimming,F,N
+2016,USA,Florida,Swimming,M,N
+2016,USA,Florida,Swimming,F,N
+2016,USA,Florida,Swimming,F,N
+2016,USA,Florida,Swimming,F,N
+2016,USA,Florida,Swimming,M,N
+2016,USA,Florida,Other,F,N
+2016,USA,Hawaii,Swimming,M,N
+2016,USA,Florida,Surfing,M,N
+2016,SOUTH AFRICA,Western Cape Province,Water-Ski,M,N
+2016,AUSTRALIA,New South Wales,Swimming,M,N
+2016,USA,Florida,Fishing,M,N
+2016,USA,Florida,Fishing,M,N
+2016,USA,Florida,Other,M,N
+2016,USA,Hawaii,Swimming,F,N
+2016,AUSTRALIA,New South Wales,Surfing,M,N
+2016,USA,Florida,Unknown,M,N
+2016,AUSTRALIA,New South Wales,Surfing,M,N
+2016,USA,Florida,Surfing,M,N
+2016,USA,Florida,Unknown,M,N
+2016,AUSTRALIA,South Australia,Fishing,M,N
+2016,AUSTRALIA,Queensland,Wading,F,N
+2016,AUSTRALIA,New South Wales,Surfing,M,N
+2016,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+2016,USA,Hawaii,Surfing,M,N
+2016,USA,Hawaii,Surfing,F,N
+2016,USA,Texas,Fishing,M,N
+2016,USA,Hawaii,Boarding,M,N
+2016,AUSTRALIA,Queensland,Surfing,M,N
+2016,AUSTRALIA,Queensland,Wading,M,N
+2016,AUSTRALIA,Queensland,Fishing,M,N
+2015,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+2015,USA,Hawaii,Boarding,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,BRAZIL,Pernambuco,Diving,M,N
+2015,SOUTH AFRICA,Eastern Cape Province,Swimming,F,N
+2015,USA,Florida,Surfing,M,N
+2015,USA,Florida,Swimming,F,N
+2015,USA,Florida,Surfing,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,USA,Florida,Surfing,F,N
+2015,USA,Hawaii,Swimming,M,N
+2015,USA,Florida,Wading,F,N
+2015,AUSTRALIA,Western Australia,Fishing,M,N
+2015,USA,Hawaii,Boarding,M,N
+2015,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2015,USA,Florida,Surfing,M,N
+2015,USA,Florida,Surfing,M,N
+2015,USA,Hawaii,Surfing,M,N
+2015,USA,Hawaii,Swimming,M,N
+2015,USA,California,Fishing,M,N
+2015,USA,South Carolina,Boarding,F,N
+2015,USA,Hawaii,Surfing,M,N
+2015,AUSTRALIA,Western Australia,Surfing,M,N
+2015,USA,Florida,Boarding,M,N
+2015,USA,Texas,Wading,M,N
+2015,USA,Florida,Surfing,M,N
+2015,USA,Florida,Surfing,M,N
+2015,AUSTRALIA,Queensland,Swimming,F,N
+2015,USA,California,Fishing,M,N
+2015,USA,Florida,Surfing,M,N
+2015,USA,Hawaii,Fishing,M,N
+2015,USA,Florida,Wading,M,N
+2015,USA,Florida,Other,M,N
+2015,USA,Florida,Swimming,M,N
+2015,USA,Florida,Surfing,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,USA,California,Boarding,F,N
+2015,USA,California,Fishing,M,N
+2015,AUSTRALIA,New South Wales,Water-Ski,M,N
+2015,USA,South Carolina,Unknown,M,N
+2015,USA,California,Surfing,F,N
+2015,USA,California,Surfing,M,N
+2015,USA,Florida,Unknown,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,USA,South Carolina,Surfing,M,N
+2015,USA,Florida,Wading,F,N
+2015,USA,California,Fishing,M,N
+2015,USA,California,Fishing,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,USA,Florida,Surfing,M,N
+2015,USA,South Carolina,Swimming,F,N
+2015,USA,California,Fishing,M,N
+2015,AUSTRALIA,Victoria,Surfing,M,N
+2015,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2015,USA,California,Surfing,M,N
+2015,USA,California,Swimming,M,N
+2015,USA,North Carolina,Unknown,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,AUSTRALIA,New South Wales,Boarding,M,N
+2015,USA,North Carolina,Swimming,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,USA,South Carolina,Other,M,N
+2015,USA,North Carolina,Swimming,M,N
+2015,SOUTH AFRICA,Western Cape Province,Boarding,M,N
+2015,USA,Florida,Swimming,F,N
+2015,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2015,USA,South Carolina,Wading,M,N
+2015,AUSTRALIA,Western Australia,Swimming,M,N
+2015,USA,North Carolina,Surfing,M,N
+2015,USA,North Carolina,Swimming,M,N
+2015,AUSTRALIA,Western Australia,Surfing,F,N
+2015,USA,South Carolina,Wading,M,N
+2015,USA,Florida,Swimming,M,N
+2015,USA,North Carolina,Wading,M,N
+2015,USA,North Carolina,Wading,F,N
+2015,USA,California,Unknown,F,N
+2015,USA,North Carolina,Boarding,F,N
+2015,USA,Florida,Other,M,N
+2015,USA,Florida,Other,F,N
+2015,USA,Florida,Wading,F,N
+2015,USA,Florida,Wading,F,N
+2015,USA,Florida,Swimming,F,N
+2015,USA,Florida,Surfing,M,N
+2015,USA,South Carolina,Unknown,M,N
+2015,USA,Florida,Swimming,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,SOUTH AFRICA,Eastern Cape Province,Diving,M,N
+2015,USA,Hawaii,Swimming,F,Y
+2015,USA,Florida,Wading,M,N
+2015,AUSTRALIA,South Australia,Surfing,M,N
+2015,AUSTRALIA,New South Wales,Water-Ski,M,N
+2015,USA,Florida,Other,M,N
+2015,AUSTRALIA,New South Wales,Boarding,M,N
+2015,BRAZIL,Pernambuco,Surfing,M,N
+2015,USA,Florida,Fishing,M,N
+2015,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+2015,USA,Hawaii,Swimming,M,N
+2015,AUSTRALIA,New South Wales,Fishing,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,Y
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,AUSTRALIA,Queensland,Paddling,M,N
+2015,USA,Hawaii,Fishing,M,N
+2015,AUSTRALIA,New South Wales,Surfing,M,N
+2015,USA,Florida,Fishing,M,N
+2015,AUSTRALIA,New South Wales,Surfing,F,N
+2015,AUSTRALIA,New South Wales,Fishing,M,N
+2015,AUSTRALIA,New South Wales,Other,M,N
+2015,USA,Florida,Swimming,M,N
+2015,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2015,USA,Florida,Unknown,M,N
+2014,AUSTRALIA,Western Australia,Fishing,M,Y
+2014,USA,California,Surfing,M,N
+2014,AUSTRALIA,Victoria,Fishing,M,N
+2014,AUSTRALIA,Queensland,Fishing,M,Y
+2014,AUSTRALIA,Western Australia,Surfing,M,N
+2014,AUSTRALIA,Western Australia,Fishing,M,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,Hawaii,Swimming,M,N
+2014,AUSTRALIA,New South Wales,Surfing,M,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,Hawaii,Surfing,F,N
+2014,AUSTRALIA,New South Wales,Surfing,M,N
+2014,USA,Hawaii,Boarding,F,N
+2014,USA,Hawaii,Boarding,M,N
+2014,USA,California,Paddling,F,N
+2014,USA,Hawaii,Surfing,M,N
+2014,AUSTRALIA,New South Wales,Surfing,F,N
+2014,USA,South Carolina,Wading,F,N
+2014,USA,Florida,Surfing,F,N
+2014,USA,Florida,Fishing,F,N
+2014,AUSTRALIA,Western Australia,Paddling,M,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,California,Paddling,M,N
+2014,USA,California,Paddling,M,N
+2014,USA,California,Surfing,M,N
+2014,AUSTRALIA,Western Australia,Surfing,M,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,California,Surfing,M,N
+2014,AUSTRALIA,New South Wales,Swimming,M,Y
+2014,USA,Florida,Fishing,M,N
+2014,USA,Florida,Surfing,F,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,North Carolina,Surfing,M,N
+2014,USA,South Carolina,Wading,F,N
+2014,USA,Florida,Fishing,M,N
+2014,AUSTRALIA,Western Australia,Fishing,M,N
+2014,USA,Florida,Wading,M,N
+2014,USA,Florida,Unknown,M,N
+2014,USA,Florida,Swimming,F,N
+2014,USA,South Carolina,Boarding,M,N
+2014,USA,Florida,Swimming,F,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,Florida,Boarding,M,N
+2014,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2014,USA,North Carolina,Swimming,M,N
+2014,USA,Florida,Wading,M,N
+2014,USA,Hawaii,Swimming,M,N
+2014,USA,Florida,Swimming,M,N
+2014,USA,North Carolina,Surfing,M,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,California,Swimming,M,N
+2014,USA,California,Surfing,M,N
+2014,USA,South Carolina,Surfing,M,N
+2014,AUSTRALIA,South Australia,Surfing,M,N
+2014,AUSTRALIA,South Australia,Boarding,M,N
+2014,AUSTRALIA,Western Australia,Other,M,N
+2014,AUSTRALIA,South Australia,Boarding,M,N
+2014,USA,Texas,Other,F,N
+2014,USA,Florida,Swimming,F,N
+2014,AUSTRALIA,New South Wales,Surfing,M,N
+2014,AUSTRALIA,Queensland,Other,F,N
+2014,AUSTRALIA,New South Wales,Other,M,N
+2014,USA,Florida,Boarding,F,N
+2014,AUSTRALIA,South Australia,Surfing,M,N
+2014,USA,Florida,Wading,F,N
+2014,USA,Florida,Diving,M,N
+2014,USA,South Carolina,Swimming,F,N
+2014,USA,Florida,Surfing,M,N
+2014,AUSTRALIA,Western Australia,Fishing,M,N
+2014,USA,Florida,Swimming,M,N
+2014,USA,Florida,Wading,M,N
+2014,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+2014,USA,Florida,Surfing,M,N
+2014,USA,Florida,Surfing,M,N
+2014,AUSTRALIA,New South Wales,Swimming,F,Y
+2014,AUSTRALIA,Western Australia,Diving,M,Y
+2014,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+2014,USA,Florida,Surfing,M,N
+2014,USA,Florida,Surfing,M,N
+2014,AUSTRALIA,Victoria,Surfing,M,N
+2014,AUSTRALIA,New South Wales,Unknown,F,N
+2014,AUSTRALIA,New South Wales,Swimming,M,N
+2014,USA,Florida,Surfing,M,N
+2014,AUSTRALIA,South Australia,Fishing,M,Y
+2014,AUSTRALIA,New South Wales,Fishing,M,N
+2013,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2013,USA,Hawaii,Boarding,M,N
+2013,USA,Florida,Surfing,M,N
+2013,AUSTRALIA,New South Wales,Surfing,M,N
+2013,USA,Hawaii,Fishing,M,Y
+2013,AUSTRALIA,New South Wales,Boarding,M,Y
+2013,USA,Hawaii,Swimming,F,N
+2013,AUSTRALIA,Western Australia,Surfing,M,Y
+2013,AUSTRALIA,Western Australia,Surfing,M,N
+2013,USA,Florida,Surfing,M,N
+2013,USA,Hawaii,Boarding,M,N
+2013,AUSTRALIA,Western Australia,Swimming,F,N
+2013,AUSTRALIA,Western Australia,Diving,M,N
+2013,AUSTRALIA,New South Wales,Surfing,M,N
+2013,USA,Hawaii,Diving,M,N
+2013,USA,Hawaii,Surfing,M,N
+2013,USA,Florida,Wading,M,N
+2013,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+2013,AUSTRALIA,Western Australia,Diving,M,N
+2013,USA,California,Surfing,M,N
+2013,USA,Florida,Wading,M,N
+2013,USA,Florida,Surfing,M,N
+2013,USA,Florida,Wading,M,N
+2013,USA,Florida,Swimming,M,N
+2013,USA,Florida,Surfing,M,N
+2013,USA,Florida,Swimming,M,N
+2013,USA,Florida,Surfing,F,N
+2013,USA,Florida,Surfing,M,N
+2013,USA,Florida,Wading,M,N
+2013,USA,Florida,Swimming,M,N
+2013,USA,Florida,Unknown,M,N
+2013,USA,Florida,Other,M,N
+2013,USA,California,Swimming,M,N
+2013,USA,California,Swimming,F,N
+2013,USA,Florida,Boarding,F,N
+2013,AUSTRALIA,New South Wales,Other,M,N
+2013,USA,Hawaii,Surfing,M,N
+2013,USA,California,Surfing,F,N
+2013,USA,Hawaii,Swimming,F,Y
+2013,USA,Hawaii,Boarding,F,N
+2013,USA,South Carolina,Surfing,M,N
+2013,USA,Florida,Fishing,M,N
+2013,USA,Hawaii,Swimming,F,N
+2013,USA,South Carolina,Swimming,M,N
+2013,USA,Hawaii,Surfing,M,N
+2013,BRAZIL,Pernambuco,Swimming,F,Y
+2013,USA,Florida,Swimming,M,N
+2013,USA,North Carolina,Wading,F,N
+2013,AUSTRALIA,Victoria,Surfing,M,N
+2013,USA,California,Fishing,M,N
+2013,USA,Florida,Swimming,M,N
+2013,USA,South Carolina,Swimming,M,N
+2013,USA,Hawaii,Swimming,M,N
+2013,USA,Texas,Swimming,M,N
+2013,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2013,USA,Florida,Surfing,F,N
+2013,USA,South Carolina,Boarding,F,N
+2013,USA,Florida,Fishing,M,N
+2013,AUSTRALIA,New South Wales,Surfing,M,N
+2013,USA,Hawaii,Diving,M,N
+2013,USA,Florida,Swimming,M,N
+2013,BRAZIL,Pernambuco,Unknown,M,Y
+2013,USA,California,Surfing,M,Y
+2013,USA,Florida,Surfing,M,N
+2013,AUSTRALIA,New South Wales,Fishing,M,N
+2013,AUSTRALIA,New South Wales,Fishing,M,N
+2013,USA,Florida,Other,M,N
+2013,SOUTH AFRICA,Western Cape Province,Diving,M,N
+2013,USA,Florida,Surfing,M,N
+2013,USA,Florida,Swimming,M,N
+2013,AUSTRALIA,Western Australia,Unknown,M,Y
+2013,USA,Hawaii,Surfing,M,N
+2013,AUSTRALIA,New South Wales,Surfing,M,N
+2013,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+2013,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2013,AUSTRALIA,Western Australia,Fishing,M,N
+2013,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+2013,USA,Hawaii,Surfing,M,N
+2013,USA,Florida,Surfing,M,N
+2013,AUSTRALIA,Victoria,Fishing,M,N
+2013,AUSTRALIA,Queensland,Surfing,M,N
+2013,AUSTRALIA,Queensland,Other,M,N
+2013,USA,Hawaii,Surfing,M,N
+2013,AUSTRALIA,Western Australia,Fishing,M,N
+2012,USA,Florida,Swimming,M,N
+2012,AUSTRALIA,New South Wales,Surfing,M,N
+2012,AUSTRALIA,New South Wales,Boarding,M,N
+2012,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+2012,AUSTRALIA,Western Australia,Surfing,M,N
+2012,USA,Hawaii,Surfing,M,N
+2012,AUSTRALIA,New South Wales,Fishing,M,N
+2012,USA,Hawaii,Swimming,M,N
+2012,AUSTRALIA,Queensland,Unknown,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Hawaii,Diving,M,N
+2012,USA,Hawaii,Surfing,M,N
+2012,USA,California,Surfing,M,N
+2012,USA,Hawaii,Swimming,F,N
+2012,USA,California,Surfing,M,Y
+2012,USA,Florida,Unknown,F,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Hawaii,Boarding,M,N
+2012,USA,Florida,Unknown,M,N
+2012,USA,California,Surfing,M,N
+2012,AUSTRALIA,Western Australia,Boarding,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Swimming,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Boarding,F,N
+2012,USA,Florida,Swimming,F,N
+2012,AUSTRALIA,Western Australia,Surfing,M,N
+2012,BRAZIL,Pernambuco,Swimming,M,Y
+2012,USA,Florida,Diving,M,N
+2012,USA,California,Surfing,M,N
+2012,AUSTRALIA,South Australia,Surfing,M,N
+2012,USA,Hawaii,Surfing,M,N
+2012,USA,North Carolina,Unknown,M,N
+2012,AUSTRALIA,Western Australia,Surfing,M,Y
+2012,USA,North Carolina,Swimming,F,N
+2012,AUSTRALIA,Victoria,Diving,F,Y
+2012,USA,California,Paddling,M,N
+2012,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2012,USA,Florida,Swimming,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Hawaii,Other,F,N
+2012,USA,Florida,Swimming,M,N
+2012,AUSTRALIA,Western Australia,Water-Ski,M,N
+2012,USA,South Carolina,Wading,M,N
+2012,USA,North Carolina,Wading,F,N
+2012,USA,Florida,Fishing,M,N
+2012,USA,South Carolina,Swimming,F,N
+2012,USA,South Carolina,Swimming,M,N
+2012,USA,South Carolina,Swimming,M,N
+2012,USA,South Carolina,Swimming,M,N
+2012,AUSTRALIA,Victoria,Surfing,M,N
+2012,AUSTRALIA,New South Wales,Water-Ski,M,N
+2012,USA,Florida,Surfing,F,N
+2012,USA,South Carolina,Boarding,M,N
+2012,USA,North Carolina,Wading,F,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Hawaii,Fishing,M,N
+2012,USA,California,Fishing,M,N
+2012,USA,Florida,Swimming,F,N
+2012,USA,California,Boarding,F,N
+2012,USA,Florida,Surfing,M,N
+2012,SOUTH AFRICA,Western Cape Province,Boarding,M,Y
+2012,AUSTRALIA,South Australia,Paddling,M,N
+2012,USA,Hawaii,Surfing,M,N
+2012,USA,Florida,Unknown,M,N
+2012,AUSTRALIA,Western Australia,Diving,M,Y
+2012,USA,Florida,Surfing,M,N
+2012,AUSTRALIA,Queensland,Surfing,M,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Surfing,F,N
+2012,USA,Florida,Surfing,M,N
+2012,AUSTRALIA,Victoria,Diving,F,N
+2012,USA,Florida,Surfing,M,N
+2012,USA,Florida,Surfing,M,N
+2012,AUSTRALIA,New South Wales,Fishing,M,N
+2012,AUSTRALIA,Queensland,Surfing,M,N
+2012,AUSTRALIA,Western Australia,Swimming,M,N
+2012,AUSTRALIA,New South Wales,Surfing,M,N
+2012,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+2012,AUSTRALIA,New South Wales,Surfing,M,N
+2012,AUSTRALIA,Queensland,Fishing,M,N
+2011,USA,Florida,Unknown,M,N
+2011,USA,Florida,Surfing,M,N
+2011,USA,Hawaii,Paddling,M,N
+2011,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+2011,AUSTRALIA,New South Wales,Surfing,M,N
+2011,SOUTH AFRICA,KwaZulu-Natal,Water-Ski,M,N
+2011,AUSTRALIA,New South Wales,Surfing,M,N
+2011,AUSTRALIA,New South Wales,Surfing,M,N
+2011,AUSTRALIA,Queensland,Swimming,M,N
+2011,USA,California,Paddling,M,N
+2011,BRAZIL,Pernambuco,Surfing,M,N
+2011,USA,California,Surfing,M,N
+2011,AUSTRALIA,Western Australia,Diving,M,Y
+2011,AUSTRALIA,Victoria,Diving,M,N
+2011,USA,Florida,Surfing,M,N
+2011,AUSTRALIA,Western Australia,Swimming,M,Y
+2011,USA,Florida,Fishing,M,N
+2011,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+2011,USA,Florida,Fishing,M,N
+2011,USA,South Carolina,Other,M,N
+2011,USA,Hawaii,Paddling,M,N
+2011,USA,Florida,Surfing,M,N
+2011,USA,California,Surfing,M,N
+2011,AUSTRALIA,Western Australia,Boarding,M,Y
+2011,USA,Florida,Surfing,M,N
+2011,USA,Florida,Surfing,M,N
+2011,AUSTRALIA,Queensland,Swimming,M,Y
+2011,USA,Texas,Fishing,F,N
+2011,USA,North Carolina,Surfing,M,N
+2011,USA,North Carolina,Unknown,M,N
+2011,SOUTH AFRICA,Western Cape Province,Surfing,M,Y
+2011,USA,North Carolina,Wading,F,N
+2011,USA,North Carolina,Unknown,M,N
+2011,USA,South Carolina,Other,M,N
+2011,USA,North Carolina,Swimming,M,N
+2011,BRAZIL,Pernambuco,Swimming,M,Y
+2011,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2011,USA,North Carolina,Boarding,F,N
+2011,USA,Texas,Fishing,M,N
+2011,USA,Texas,Swimming,M,N
+2011,USA,Texas,Fishing,M,N
+2011,BRAZIL,Pernambuco,Surfing,M,N
+2011,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+2011,USA,North Carolina,Other,F,N
+2011,USA,California,Surfing,M,N
+2011,USA,Florida,Water-Ski,M,N
+2011,USA,Florida,Diving,M,N
+2011,USA,California,Fishing,M,N
+2011,USA,Florida,Wading,M,N
+2011,USA,Texas,Boarding,F,N
+2011,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2011,USA,Hawaii,Surfing,F,N
+2011,USA,Hawaii,Boarding,F,N
+2011,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,Y
+2011,USA,Florida,Surfing,M,N
+2011,USA,Florida,Surfing,M,N
+2011,USA,Florida,Fishing,M,N
+2011,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+2011,USA,Florida,Fishing,M,N
+2011,AUSTRALIA,Western Australia,Other,M,N
+2011,USA,Florida,Surfing,M,N
+2011,USA,Texas,Wading,M,N
+2011,AUSTRALIA,New South Wales,Surfing,M,N
+2011,AUSTRALIA,New South Wales,Boarding,F,N
+2011,AUSTRALIA,New South Wales,Surfing,M,N
+2011,AUSTRALIA,Queensland,Fishing,M,N
+2011,AUSTRALIA,South Australia,Diving,M,Y
+2011,AUSTRALIA,Queensland,Fishing,M,N
+2011,AUSTRALIA,Western Australia,Swimming,M,N
+2011,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+2011,AUSTRALIA,New South Wales,Swimming,F,N
+2011,SOUTH AFRICA,Eastern Cape Province,Surfing,M,Y
+2010,USA,Hawaii,Boarding,M,N
+2010,USA,Hawaii,Surfing,M,N
+2010,AUSTRALIA,Western Australia,Swimming,M,Y
+2010,AUSTRALIA,Western Australia,Fishing,M,N
+2010,AUSTRALIA,Western Australia,Swimming,F,N
+2010,AUSTRALIA,Western Australia,Fishing,M,N
+2010,AUSTRALIA,Western Australia,Surfing,M,N
+2010,USA,California,Boarding,M,Y
+2010,AUSTRALIA,New South Wales,Surfing,M,N
+2010,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2010,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+2010,AUSTRALIA,New South Wales,Surfing,M,N
+2010,USA,Florida,Swimming,M,N
+2010,USA,Florida,Surfing,M,N
+2010,USA,Florida,Surfing,M,N
+2010,USA,Florida,Surfing,M,N
+2010,USA,Florida,Boarding,M,N
+2010,AUSTRALIA,Western Australia,Surfing,M,Y
+2010,USA,California,Fishing,M,N
+2010,AUSTRALIA,Queensland,Fishing,F,N
+2010,AUSTRALIA,New South Wales,Surfing,M,N
+2010,USA,North Carolina,Surfing,M,N
+2010,USA,Florida,Swimming,F,N
+2010,USA,California,Paddling,M,N
+2010,USA,Florida,Wading,F,N
+2010,USA,South Carolina,Wading,M,N
+2010,USA,Florida,Surfing,M,N
+2010,USA,South Carolina,Swimming,M,N
+2010,USA,North Carolina,Swimming,F,N
+2010,USA,Florida,Surfing,M,N
+2010,USA,Texas,Fishing,M,N
+2010,USA,Florida,Fishing,M,N
+2010,SOUTH AFRICA,KwaZulu-Natal,Swimming,F,N
+2010,USA,California,Surfing,M,N
+2010,USA,California,Boarding,M,N
+2010,USA,Texas,Surfing,M,N
+2010,USA,South Carolina,Boarding,F,N
+2010,USA,North Carolina,Swimming,F,N
+2010,USA,Florida,Boarding,F,N
+2010,AUSTRALIA,Western Australia,Surfing,M,N
+2010,USA,Florida,Surfing,M,N
+2010,USA,Florida,Fishing,M,N
+2010,AUSTRALIA,New South Wales,Surfing,M,N
+2010,USA,Florida,Wading,F,N
+2010,USA,Florida,Other,M,N
+2010,USA,Hawaii,Surfing,M,N
+2010,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2010,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2010,AUSTRALIA,Queensland,Swimming,F,N
+2010,AUSTRALIA,New South Wales,Surfing,M,N
+2010,AUSTRALIA,New South Wales,Boarding,M,N
+2010,USA,Florida,Fishing,M,N
+2010,USA,Florida,Boarding,M,Y
+2010,AUSTRALIA,Queensland,Surfing,M,N
+2010,AUSTRALIA,Victoria,Surfing,M,N
+2010,AUSTRALIA,Torres Strait,Swimming,F,N
+2010,USA,Florida,Fishing,M,N
+2009,AUSTRALIA,New South Wales,Swimming,M,N
+2009,AUSTRALIA,Queensland,Paddling,M,N
+2009,AUSTRALIA,Queensland,Fishing,M,N
+2009,SOUTH AFRICA,Eastern Cape Province,Other,M,Y
+2009,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,USA,California,Surfing,M,N
+2009,USA,Florida,Wading,M,N
+2009,USA,California,Fishing,M,N
+2009,USA,Florida,Surfing,M,N
+2009,USA,Florida,Surfing,F,N
+2009,USA,Florida,Surfing,M,N
+2009,AUSTRALIA,South Australia,Paddling,M,N
+2009,USA,California,Surfing,M,N
+2009,AUSTRALIA,Victoria,Paddling,M,N
+2009,AUSTRALIA,New South Wales,Boarding,F,N
+2009,USA,California,Surfing,M,N
+2009,USA,Hawaii,Surfing,M,N
+2009,AUSTRALIA,Western Australia,Diving,M,N
+2009,USA,California,Surfing,M,N
+2009,USA,Florida,Swimming,M,N
+2009,BRAZIL,Pernambuco,Unknown,M,Y
+2009,USA,North Carolina,Swimming,M,Y
+2009,BRAZIL,Pernambuco,Swimming,M,Y
+2009,USA,California,Surfing,M,N
+2009,SOUTH AFRICA,Western Cape Province,Surfing,M,Y
+2009,USA,California,Swimming,F,N
+2009,SOUTH AFRICA,KwaZulu-Natal,Boarding,M,N
+2009,USA,Florida,Swimming,M,N
+2009,USA,Hawaii,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,USA,Texas,Wading,F,N
+2009,USA,North Carolina,Swimming,F,N
+2009,USA,Florida,Swimming,F,N
+2009,USA,California,Surfing,M,N
+2009,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2009,USA,Florida,Boarding,F,N
+2009,USA,Florida,Swimming,F,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,USA,California,Surfing,M,N
+2009,USA,Florida,Other,M,N
+2009,USA,Florida,Swimming,M,N
+2009,USA,Florida,Surfing,M,N
+2009,USA,Florida,Surfing,M,N
+2009,USA,Florida,Surfing,M,N
+2009,USA,Florida,Unknown,F,N
+2009,USA,California,Surfing,M,N
+2009,USA,Florida,Surfing,M,N
+2009,USA,Florida,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Water-Ski,M,N
+2009,USA,Florida,Surfing,M,N
+2009,USA,Hawaii,Fishing,M,N
+2009,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+2009,USA,California,Fishing,M,N
+2009,USA,Florida,Wading,M,N
+2009,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+2009,SOUTH AFRICA,Eastern Cape Province,Surfing,M,Y
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,F,N
+2009,USA,Florida,Surfing,F,N
+2009,USA,Hawaii,Swimming,M,N
+2009,AUSTRALIA,Western Australia,Wading,M,N
+2009,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,AUSTRALIA,Queensland,Fishing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2009,AUSTRALIA,New South Wales,Swimming,M,N
+2009,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+2009,AUSTRALIA,Victoria,Fishing,M,N
+2009,AUSTRALIA,New South Wales,Swimming,M,N
+2009,AUSTRALIA,New South Wales,Surfing,M,N
+2008,AUSTRALIA,New South Wales,Boarding,M,N
+2008,AUSTRALIA,New South Wales,Paddling,M,N
+2008,AUSTRALIA,Western Australia,Swimming,M,Y
+2008,USA,California,Paddling,M,N
+2008,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+2008,AUSTRALIA,South Australia,Fishing,M,N
+2008,AUSTRALIA,New South Wales,Diving,M,N
+2008,AUSTRALIA,New South Wales,Surfing,M,N
+2008,USA,Florida,Fishing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Swimming,M,N
+2008,USA,Hawaii,Surfing,M,N
+2008,USA,California,Surfing,M,N
+2008,AUSTRALIA,New South Wales,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,AUSTRALIA,New South Wales,Surfing,M,N
+2008,USA,Hawaii,Swimming,M,Y
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,North Carolina,Surfing,F,N
+2008,USA,Florida,Swimming,M,N
+2008,USA,South Carolina,Unknown,M,N
+2008,USA,Florida,Wading,F,N
+2008,USA,Hawaii,Diving,M,N
+2008,AUSTRALIA,Victoria,Surfing,M,N
+2008,USA,Hawaii,Swimming,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Hawaii,Swimming,F,N
+2008,USA,North Carolina,Wading,M,N
+2008,USA,North Carolina,Wading,F,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Wading,M,N
+2008,USA,North Carolina,Surfing,M,N
+2008,USA,South Carolina,Surfing,M,N
+2008,USA,North Carolina,Swimming,F,N
+2008,USA,South Carolina,Unknown,F,N
+2008,USA,Hawaii,Wading,M,Y
+2008,SOUTH AFRICA,Western Cape Province,Water-Ski,M,N
+2008,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,South Carolina,Swimming,M,N
+2008,USA,California,Paddling,F,N
+2008,USA,Florida,Wading,F,N
+2008,BRAZIL,Pernambuco,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,South Carolina,Surfing,F,N
+2008,BRAZIL,Pernambuco,Swimming,M,N
+2008,USA,North Carolina,Surfing,M,N
+2008,AUSTRALIA,Western Australia,Swimming,M,N
+2008,USA,Florida,Wading,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,California,Swimming,M,Y
+2008,USA,Florida,Surfing,M,N
+2008,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+2008,AUSTRALIA,Queensland,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Boarding,M,N
+2008,AUSTRALIA,New South Wales,Boarding,M,Y
+2008,USA,Florida,Surfing,M,N
+2008,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Wading,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Wading,M,N
+2008,USA,Florida,Water-Ski,M,N
+2008,USA,California,Surfing,M,N
+2008,USA,Florida,Surfing,M,N
+2008,AUSTRALIA,New South Wales,Surfing,F,N
+2008,USA,Florida,Water-Ski,M,N
+2008,SOUTH AFRICA,KwaZulu-Natal,Water-Ski,M,N
+2008,AUSTRALIA,Queensland,Other,M,N
+2008,USA,Florida,Surfing,M,N
+2008,USA,Florida,Fishing,M,N
+2007,AUSTRALIA,New South Wales,Surfing,M,N
+2007,AUSTRALIA,Queensland,Swimming,M,N
+2007,AUSTRALIA,New South Wales,Swimming,M,N
+2007,USA,Hawaii,Surfing,M,N
+2007,BRAZIL,Pernambuco,Other,M,N
+2007,AUSTRALIA,Western Australia,Fishing,M,N
+2007,AUSTRALIA,New South Wales,Surfing,M,N
+2007,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,Florida,Surfing,M,N
+2007,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2007,USA,Hawaii,Swimming,M,N
+2007,AUSTRALIA,New South Wales,Water-Ski,F,N
+2007,AUSTRALIA,Queensland,Fishing,M,N
+2007,USA,California,Surfing,M,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,California,Surfing,M,N
+2007,USA,California,Surfing,F,N
+2007,USA,Florida,Diving,F,Y
+2007,USA,Florida,Surfing,F,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,Florida,Wading,M,N
+2007,USA,Florida,Surfing,F,N
+2007,USA,Florida,Swimming,M,N
+2007,USA,Florida,Wading,F,N
+2007,USA,Florida,Wading,F,N
+2007,USA,South Carolina,Wading,M,N
+2007,USA,Florida,Other,F,N
+2007,USA,Florida,Swimming,M,N
+2007,USA,Hawaii,Boarding,M,N
+2007,USA,California,Surfing,M,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,North Carolina,Diving,M,N
+2007,USA,Florida,Swimming,M,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,South Carolina,Other,M,N
+2007,USA,Florida,Swimming,M,N
+2007,USA,Florida,Swimming,F,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,South Carolina,Swimming,M,N
+2007,USA,South Carolina,Boarding,M,N
+2007,USA,Florida,Other,F,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,California,Surfing,M,N
+2007,USA,California,Other,M,N
+2007,USA,California,Fishing,M,N
+2007,USA,Hawaii,Swimming,M,N
+2007,USA,North Carolina,Swimming,M,N
+2007,USA,California,Swimming,F,N
+2007,USA,North Carolina,Wading,F,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,Florida,Other,M,N
+2007,USA,California,Swimming,F,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,Hawaii,Surfing,M,N
+2007,USA,Florida,Surfing,F,N
+2007,USA,Florida,Swimming,F,N
+2007,AUSTRALIA,New South Wales,Surfing,M,N
+2007,USA,South Carolina,Wading,F,N
+2007,AUSTRALIA,Western Australia,Wading,F,N
+2007,AUSTRALIA,Victoria,Surfing,M,N
+2007,USA,Florida,Surfing,F,N
+2007,AUSTRALIA,New South Wales,Swimming,M,Y
+2007,USA,Hawaii,Swimming,F,N
+2007,USA,Florida,Swimming,M,N
+2007,AUSTRALIA,Queensland,Swimming,F,N
+2007,USA,Florida,Boarding,M,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,Florida,Other,M,N
+2007,USA,Florida,Surfing,M,N
+2007,USA,Florida,Unknown,M,N
+2007,USA,Florida,Surfing,M,N
+2007,AUSTRALIA,New South Wales,Surfing,F,N
+2007,USA,Florida,Fishing,M,N
+2007,AUSTRALIA,Queensland,Swimming,F,N
+2007,USA,Florida,Surfing,M,N
+2007,AUSTRALIA,New South Wales,Boarding,M,N
+2007,AUSTRALIA,New South Wales,Diving,M,N
+2007,AUSTRALIA,New South Wales,Swimming,M,Y
+2007,SOUTH AFRICA,Eastern Cape Province,Surfing,M,Y
+2007,AUSTRALIA,New South Wales,Surfing,M,N
+2007,USA,Hawaii,Surfing,M,N
+2006,AUSTRALIA,Victoria,Surfing,M,N
+2006,USA,California,Surfing,M,N
+2006,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+2006,AUSTRALIA,Western Australia,Boarding,M,N
+2006,USA,Hawaii,Swimming,M,N
+2006,SOUTH AFRICA,Eastern Cape Province,Paddling,M,N
+2006,USA,Florida,Fishing,M,N
+2006,USA,Florida,Surfing,M,N
+2006,USA,Texas,Surfing,M,N
+2006,USA,Florida,Other,M,N
+2006,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+2006,USA,Florida,Surfing,M,N
+2006,USA,Florida,Diving,M,N
+2006,USA,North Carolina,Surfing,M,N
+2006,USA,Florida,Swimming,M,N
+2006,USA,Florida,Surfing,M,N
+2006,AUSTRALIA,Queensland,Diving,M,Y
+2006,USA,Florida,Wading,M,N
+2006,USA,Florida,Swimming,M,N
+2006,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2006,AUSTRALIA,South Australia,Surfing,M,N
+2006,BRAZIL,Pernambuco,Unknown,M,Y
+2006,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2006,SOUTH AFRICA,Western Cape Province,Other,M,N
+2006,USA,North Carolina,Wading,F,N
+2006,USA,California,Boarding,M,N
+2006,USA,Florida,Surfing,M,N
+2006,SOUTH AFRICA,Western Cape Province,Water-Ski,M,N
+2006,USA,Florida,Surfing,M,N
+2006,USA,Texas,Fishing,M,N
+2006,USA,South Carolina,Wading,M,N
+2006,USA,South Carolina,Swimming,F,N
+2006,BRAZIL,Pernambuco,Unknown,M,Y
+2006,USA,Florida,Wading,M,N
+2006,USA,Florida,Wading,M,N
+2006,USA,South Carolina,Boarding,F,N
+2006,USA,Florida,Swimming,M,N
+2006,USA,Florida,Fishing,F,N
+2006,USA,Florida,Fishing,M,N
+2006,USA,Florida,Boarding,F,N
+2006,USA,Florida,Fishing,M,N
+2006,USA,Florida,Surfing,F,N
+2006,BRAZIL,Pernambuco,Boarding,M,Y
+2006,USA,California,Diving,M,N
+2006,USA,Florida,Surfing,M,N
+2006,USA,South Carolina,Other,F,N
+2006,AUSTRALIA,South Australia,Surfing,M,N
+2006,USA,Hawaii,Fishing,M,N
+2006,USA,Hawaii,Surfing,M,N
+2006,USA,Hawaii,Fishing,M,N
+2006,BRAZIL,Pernambuco,Surfing,M,N
+2006,USA,Florida,Unknown,M,N
+2006,USA,Florida,Swimming,F,N
+2006,AUSTRALIA,Queensland,Swimming,M,N
+2006,USA,Florida,Unknown,M,Y
+2006,USA,Florida,Surfing,M,N
+2006,USA,Florida,Wading,F,N
+2006,USA,Florida,Fishing,M,N
+2006,AUSTRALIA,New South Wales,Surfing,M,N
+2006,SOUTH AFRICA,Eastern Cape Province,Boarding,M,N
+2006,BRAZIL,Pernambuco,Swimming,M,N
+2006,USA,Florida,Wading,M,N
+2006,USA,Hawaii,Surfing,F,N
+2006,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+2006,AUSTRALIA,New South Wales,Surfing,M,N
+2006,USA,Hawaii,Wading,F,N
+2006,USA,Hawaii,Diving,M,Y
+2006,AUSTRALIA,Queensland,Wading,M,N
+2006,AUSTRALIA,Queensland,Swimming,M,N
+2006,AUSTRALIA,South Australia,Fishing,M,N
+2006,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2006,USA,Hawaii,Paddling,M,N
+2006,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+2006,USA,California,Surfing,M,N
+2006,AUSTRALIA,Western Australia,Diving,M,N
+2006,AUSTRALIA,Queensland,Swimming,F,Y
+2006,USA,Florida,Surfing,M,N
+2006,SOUTH AFRICA,Western Cape Province,Diving,M,N
+2005,USA,Hawaii,Swimming,M,N
+2005,AUSTRALIA,Queensland,Fishing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,AUSTRALIA,Victoria,Surfing,M,N
+2005,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,USA,California,Surfing,M,N
+2005,USA,California,Surfing,M,N
+2005,USA,Florida,Wading,M,N
+2005,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2005,USA,California,Surfing,M,N
+2005,USA,California,Surfing,F,N
+2005,USA,Florida,Wading,M,N
+2005,USA,Hawaii,Surfing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,SOUTH AFRICA,Western Cape Province,Water-Ski,M,N
+2005,AUSTRALIA,New South Wales,Surfing,M,N
+2005,AUSTRALIA,South Australia,Surfing,M,N
+2005,AUSTRALIA,Western Australia,Surfing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,USA,South Carolina,Surfing,F,N
+2005,USA,South Carolina,Surfing,M,Y
+2005,AUSTRALIA,New South Wales,Wading,M,N
+2005,USA,North Carolina,Wading,F,N
+2005,AUSTRALIA,South Australia,Surfing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,AUSTRALIA,South Australia,Diving,M,Y
+2005,USA,California,Surfing,M,N
+2005,USA,South Carolina,Boarding,M,N
+2005,USA,South Carolina,Swimming,M,N
+2005,USA,Texas,Wading,M,N
+2005,USA,North Carolina,Surfing,M,N
+2005,USA,South Carolina,Swimming,M,N
+2005,USA,Florida,Wading,F,N
+2005,USA,Florida,Surfing,M,N
+2005,USA,Florida,Surfing,M,N
+2005,USA,North Carolina,Swimming,M,N
+2005,USA,Texas,Boat,F,N
+2005,USA,Florida,Wading,M,N
+2005,USA,Florida,Fishing,M,N
+2005,USA,Florida,Swimming,F,Y
+2005,USA,Hawaii,Swimming,M,N
+2005,USA,Florida,Swimming,M,N
+2005,USA,South Carolina,Boarding,F,N
+2005,SOUTH AFRICA,Western Cape Province,Fishing,M,Y
+2005,USA,Texas,Wading,M,N
+2005,USA,Florida,Swimming,M,N
+2005,USA,Florida,Other,F,N
+2005,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2005,AUSTRALIA,Queensland,Fishing,M,N
+2005,USA,South Carolina,Other,M,N
+2005,USA,Hawaii,Surfing,M,N
+2005,AUSTRALIA,New South Wales,Fishing,M,N
+2005,AUSTRALIA,New South Wales,Surfing,M,N
+2005,USA,Florida,Wading,F,N
+2005,USA,Florida,Surfing,M,N
+2005,USA,Texas,Surfing,M,N
+2005,USA,Florida,Unknown,F,N
+2005,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2005,AUSTRALIA,New South Wales,Surfing,M,N
+2005,AUSTRALIA,Western Australia,Swimming,M,Y
+2005,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,N
+2005,AUSTRALIA,Queensland,Swimming,M,N
+2005,USA,Florida,Fishing,M,N
+2005,USA,Hawaii,Surfing,M,N
+2005,USA,Florida,Fishing,M,N
+2005,AUSTRALIA,Victoria,Fishing,M,N
+2004,AUSTRALIA,South Australia,Surfing,M,Y
+2004,AUSTRALIA,Queensland,Fishing,M,Y
+2004,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2004,SOUTH AFRICA,Eastern Cape Province,Other,M,N
+2004,SOUTH AFRICA,Western Cape Province,Swimming,F,Y
+2004,SOUTH AFRICA,Western Cape Province,Other,M,N
+2004,AUSTRALIA,New South Wales,Surfing,M,N
+2004,USA,California,Surfing,M,N
+2004,USA,Hawaii,Fishing,M,N
+2004,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2004,USA,California,Surfing,M,N
+2004,USA,California,Surfing,M,N
+2004,USA,Texas,Fishing,M,N
+2004,USA,Florida,Wading,F,N
+2004,BRAZIL,Pernambuco,Swimming,M,N
+2004,USA,California,Surfing,M,N
+2004,USA,California,Diving,M,Y
+2004,USA,Florida,Swimming,M,N
+2004,AUSTRALIA,New South Wales,Fishing,M,N
+2004,USA,Florida,Surfing,F,N
+2004,USA,North Carolina,Surfing,F,N
+2004,USA,North Carolina,Swimming,F,N
+2004,USA,Texas,Swimming,F,N
+2004,USA,Texas,Fishing,M,N
+2004,AUSTRALIA,Western Australia,Surfing,M,Y
+2004,USA,California,Surfing,M,N
+2004,AUSTRALIA,Western Australia,Fishing,M,N
+2004,USA,Florida,Diving,F,N
+2004,AUSTRALIA,Western Australia,Boarding,M,N
+2004,USA,Florida,Swimming,M,N
+2004,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+2004,USA,Texas,Wading,M,N
+2004,BRAZIL,Pernambuco,Swimming,M,N
+2004,USA,California,Surfing,M,N
+2004,USA,Florida,Swimming,M,N
+2004,USA,Florida,Swimming,M,N
+2004,USA,Florida,Unknown,F,N
+2004,BRAZIL,Pernambuco,Wading,F,N
+2004,USA,Texas,Surfing,M,N
+2004,BRAZIL,Pernambuco,Swimming,M,Y
+2004,AUSTRALIA,New South Wales,Diving,M,N
+2004,USA,Hawaii,Surfing,M,Y
+2004,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2004,USA,Hawaii,Surfing,F,Y
+2004,USA,Florida,Unknown,M,N
+2004,USA,Florida,Surfing,M,N
+2004,BRAZIL,Pernambuco,Boarding,M,N
+2004,USA,Florida,Surfing,M,N
+2004,USA,Florida,Swimming,M,N
+2004,USA,Hawaii,Swimming,F,N
+2004,USA,Hawaii,Surfing,M,N
+2004,AUSTRALIA,Western Australia,Fishing,M,N
+2004,BRAZIL,Pernambuco,Swimming,M,Y
+2004,AUSTRALIA,New South Wales,Swimming,M,N
+2004,AUSTRALIA,Queensland,Fishing,M,N
+2004,AUSTRALIA,New South Wales,Swimming,M,N
+2004,AUSTRALIA,Western Australia,Diving,M,N
+2004,SOUTH AFRICA,KwaZulu-Natal,Water-Ski,M,N
+2004,AUSTRALIA,New South Wales,Diving,M,N
+2004,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2004,AUSTRALIA,Western Australia,Surfing,M,N
+2003,USA,Florida,Swimming,M,N
+2003,USA,Florida,Swimming,M,N
+2003,AUSTRALIA,Victoria,Surfing,M,N
+2003,AUSTRALIA,Western Australia,Swimming,M,N
+2003,AUSTRALIA,Western Australia,Swimming,M,N
+2003,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,Y
+2003,USA,Florida,Surfing,F,N
+2003,USA,Florida,Surfing,M,N
+2003,AUSTRALIA,New South Wales,Wading,M,N
+2003,USA,Florida,Surfing,M,N
+2003,AUSTRALIA,New South Wales,Surfing,M,N
+2003,USA,Hawaii,Surfing,F,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Hawaii,Swimming,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Swimming,M,Y
+2003,USA,Florida,Surfing,F,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Hawaii,Fishing,F,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Swimming,F,N
+2003,USA,Florida,Boarding,M,N
+2003,USA,South Carolina,Wading,M,N
+2003,SOUTH AFRICA,Western Cape Province,Boarding,M,Y
+2003,USA,Florida,Fishing,M,N
+2003,USA,Texas,Fishing,M,N
+2003,USA,California,Swimming,F,Y
+2003,USA,California,Swimming,M,N
+2003,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Wading,F,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Fishing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,BRAZIL,Pernambuco,Unknown,M,Y
+2003,USA,Florida,Wading,F,N
+2003,USA,Hawaii,Swimming,M,N
+2003,USA,North Carolina,Surfing,M,N
+2003,USA,South Carolina,Swimming,F,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Wading,M,N
+2003,USA,Hawaii,Swimming,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Wading,F,N
+2003,BRAZIL,Pernambuco,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Other,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Swimming,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Surfing,M,N
+2003,USA,Florida,Other,F,N
+2003,AUSTRALIA,South Australia,Wading,M,N
+2003,USA,Florida,Swimming,M,N
+2003,AUSTRALIA,New South Wales,Swimming,M,N
+2003,AUSTRALIA,Queensland,Swimming,M,Y
+2003,SOUTH AFRICA,Western Cape Province,Unknown,M,Y
+2003,AUSTRALIA,Western Australia,Surfing,F,N
+2002,AUSTRALIA,Queensland,Swimming,F,N
+2002,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+2002,AUSTRALIA,Queensland,Diving,M,N
+2002,AUSTRALIA,Queensland,Swimming,M,N
+2002,AUSTRALIA,Queensland,Swimming,M,Y
+2002,BRAZIL,Pernambuco,Surfing,M,Y
+2002,USA,California,Boarding,M,N
+2002,USA,Hawaii,Swimming,F,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Boarding,M,N
+2002,USA,Hawaii,Swimming,F,N
+2002,BRAZIL,Pernambuco,Swimming,M,Y
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Hawaii,Surfing,M,N
+2002,USA,Florida,Fishing,M,N
+2002,USA,California,Surfing,M,N
+2002,BRAZIL,Pernambuco,Swimming,M,N
+2002,SOUTH AFRICA,Western Cape Province,Water-Ski,M,N
+2002,USA,Florida,Boarding,M,N
+2002,USA,Florida,Wading,M,N
+2002,USA,Hawaii,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Wading,M,N
+2002,USA,North Carolina,Wading,M,N
+2002,USA,South Carolina,Surfing,M,N
+2002,USA,North Carolina,Swimming,F,N
+2002,USA,Florida,Surfing,M,N
+2002,BRAZIL,Pernambuco,Surfing,M,N
+2002,USA,North Carolina,Wading,F,N
+2002,AUSTRALIA,Queensland,Surfing,M,N
+2002,USA,Florida,Swimming,F,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Swimming,M,N
+2002,USA,California,Surfing,M,N
+2002,USA,Florida,Swimming,M,N
+2002,USA,Florida,Fishing,M,N
+2002,USA,Florida,Other,M,N
+2002,USA,Florida,Fishing,M,N
+2002,BRAZIL,Pernambuco,Surfing,M,N
+2002,AUSTRALIA,South Australia,Surfing,M,Y
+2002,AUSTRALIA,New South Wales,Fishing,M,Y
+2002,USA,Florida,Surfing,M,N
+2002,USA,Florida,Surfing,M,N
+2002,AUSTRALIA,New South Wales,Swimming,M,N
+2002,USA,Florida,Wading,M,N
+2002,USA,Florida,Swimming,M,N
+2002,USA,Hawaii,Boarding,M,N
+2002,USA,Florida,Wading,F,N
+2002,BRAZIL,Pernambuco,Swimming,M,Y
+2002,USA,Florida,Swimming,M,N
+2002,USA,Florida,Swimming,M,N
+2002,USA,Florida,Surfing,M,N
+2002,AUSTRALIA,Queensland,Surfing,M,N
+2002,AUSTRALIA,New South Wales,Paddling,M,N
+2002,AUSTRALIA,New South Wales,Surfing,M,N
+2002,AUSTRALIA,Western Australia,Swimming,M,N
+2002,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+2002,SOUTH AFRICA,KwaZulu-Natal,Water-Ski,M,N
+2002,USA,Hawaii,Swimming,M,N
+2001,AUSTRALIA,Western Australia,Surfing,M,N
+2001,AUSTRALIA,New South Wales,Surfing,M,N
+2001,AUSTRALIA,Western Australia,Water-Ski,M,N
+2001,SOUTH AFRICA,KwaZulu-Natal,Boarding,M,N
+2001,AUSTRALIA,Queensland,Swimming,F,N
+2001,AUSTRALIA,Queensland,Unknown,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Diving,M,Y
+2001,USA,Florida,Boarding,M,N
+2001,USA,North Carolina,Surfing,M,N
+2001,USA,Florida,Fishing,M,N
+2001,USA,Florida,Wading,M,N
+2001,USA,South Carolina,Swimming,F,N
+2001,USA,North Carolina,Swimming,M,Y
+2001,USA,North Carolina,Swimming,F,N
+2001,USA,Florida,Wading,M,N
+2001,USA,Florida,Wading,F,N
+2001,USA,Florida,Wading,M,N
+2001,USA,Florida,Boarding,M,N
+2001,USA,Florida,Boarding,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,F,N
+2001,USA,Florida,Surfing,F,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,South Carolina,Unknown,F,N
+2001,USA,South Carolina,Unknown,F,N
+2001,USA,Florida,Unknown,M,N
+2001,USA,Florida,Unknown,F,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Boarding,M,N
+2001,USA,Florida,Swimming,M,N
+2001,USA,Texas,Swimming,M,N
+2001,USA,California,Fishing,M,N
+2001,AUSTRALIA,New South Wales,Other,M,Y
+2001,USA,South Carolina,Wading,F,N
+2001,USA,Texas,Unknown,M,N
+2001,USA,South Carolina,Swimming,M,N
+2001,USA,South Carolina,Swimming,M,N
+2001,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2001,AUSTRALIA,New South Wales,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Boarding,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Unknown,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Boarding,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Florida,Surfing,M,N
+2001,USA,Hawaii,Surfing,M,N
+2001,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2001,AUSTRALIA,New South Wales,Swimming,M,N
+2001,USA,Florida,Surfing,M,N
+2001,AUSTRALIA,New South Wales,Surfing,M,N
+2001,USA,Hawaii,Boarding,M,N
+2001,USA,Florida,Surfing,M,N
+2001,BRAZIL,Pernambuco,Swimming,M,Y
+2001,AUSTRALIA,New South Wales,Surfing,M,N
+2001,AUSTRALIA,New South Wales,Paddling,M,N
+2001,USA,California,Surfing,M,N
+2000,AUSTRALIA,Queensland,Diving,M,N
+2000,AUSTRALIA,Queensland,Fishing,M,N
+2000,AUSTRALIA,Queensland,Diving,M,N
+2000,AUSTRALIA,South Australia,Boat,M,Y
+2000,USA,Florida,Swimming,M,N
+2000,USA,Florida,Wading,F,N
+2000,AUSTRALIA,Western Australia,Swimming,M,N
+2000,AUSTRALIA,Western Australia,Swimming,M,Y
+2000,USA,California,Surfing,M,N
+2000,USA,Florida,Surfing,M,N
+2000,USA,Hawaii,Swimming,F,N
+2000,USA,Florida,Swimming,M,N
+2000,USA,Florida,Surfing,M,N
+2000,USA,Florida,Surfing,M,N
+2000,USA,Florida,Surfing,M,N
+2000,USA,North Carolina,Surfing,M,N
+2000,USA,California,Surfing,M,N
+2000,AUSTRALIA,South Australia,Surfing,M,Y
+2000,AUSTRALIA,South Australia,Surfing,M,Y
+2000,AUSTRALIA,New South Wales,Other,M,N
+2000,USA,Florida,Surfing,M,N
+2000,USA,Florida,Surfing,F,N
+2000,USA,Florida,Surfing,M,N
+2000,USA,Florida,Swimming,M,N
+2000,SOUTH AFRICA,Western Cape Province,Diving,M,N
+2000,USA,Florida,Wading,M,N
+2000,USA,Florida,Swimming,M,N
+2000,USA,Florida,Other,M,Y
+2000,USA,North Carolina,Swimming,M,N
+2000,USA,Hawaii,Surfing,M,N
+2000,USA,Florida,Surfing,M,N
+2000,USA,Florida,Wading,F,N
+2000,USA,North Carolina,Swimming,M,N
+2000,USA,Florida,Other,M,Y
+2000,USA,Florida,Unknown,M,N
+2000,USA,Florida,Swimming,F,N
+2000,USA,North Carolina,Surfing,M,N
+2000,USA,North Carolina,Surfing,M,N
+2000,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2000,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+2000,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+2000,USA,Florida,Wading,M,N
+2000,USA,Florida,Swimming,M,N
+2000,USA,Texas,Other,M,N
+2000,USA,North Carolina,Other,F,N
+2000,USA,Florida,Wading,F,N
+2000,USA,Florida,Fishing,F,N
+2000,USA,Florida,Wading,F,N
+2000,USA,Florida,Wading,F,N
+2000,USA,Florida,Wading,M,N
+2000,USA,Texas,Surfing,M,N
+2000,USA,Florida,Swimming,M,N
+2000,USA,Florida,Wading,M,N
+2000,USA,Florida,Boarding,M,N
+2000,USA,Florida,Fishing,M,N
+2000,AUSTRALIA,Queensland,Swimming,M,N
+2000,USA,Florida,Boarding,F,N
+2000,USA,Florida,Surfing,M,N
+2000,AUSTRALIA,New South Wales,Surfing,M,N
+2000,AUSTRALIA,New South Wales,Swimming,M,N
+2000,USA,Florida,Unknown,M,N
+2000,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+2000,AUSTRALIA,South Australia,Surfing,M,N
+2000,USA,Florida,Fishing,M,N
+1999,BRAZIL,Pernambuco,Surfing,M,N
+1999,USA,California,Diving,M,Y
+1999,USA,Florida,Surfing,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,Hawaii,Swimming,F,N
+1999,USA,California,Surfing,M,N
+1999,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1999,USA,Florida,Boarding,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,Hawaii,Surfing,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,Florida,Wading,F,N
+1999,USA,South Carolina,Wading,F,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,Florida,Wading,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,North Carolina,Surfing,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,South Carolina,Other,M,N
+1999,USA,Florida,Surfing,M,N
+1999,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1999,USA,Florida,Swimming,M,N
+1999,USA,Hawaii,Surfing,M,N
+1999,SOUTH AFRICA,Western Cape Province,Boarding,M,Y
+1999,USA,South Carolina,Unknown,M,N
+1999,USA,Florida,Wading,F,N
+1999,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1999,USA,Florida,Other,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,Florida,Swimming,M,N
+1999,USA,Florida,Wading,M,N
+1999,AUSTRALIA,South Australia,Surfing,M,Y
+1999,BRAZIL,Pernambuco,Surfing,M,N
+1999,USA,Florida,Surfing,M,N
+1999,USA,Hawaii,Swimming,F,Y
+1999,USA,Hawaii,Surfing,M,N
+1999,USA,Hawaii,Swimming,F,N
+1999,AUSTRALIA,New South Wales,Surfing,M,N
+1999,USA,Florida,Surfing,M,N
+1999,SOUTH AFRICA,Eastern Cape Province,Water-Ski,M,N
+1999,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1998,USA,Florida,Surfing,M,N
+1998,AUSTRALIA,South Australia,Wading,F,N
+1998,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1998,SOUTH AFRICA,Eastern Cape Province,Other,M,N
+1998,AUSTRALIA,South Australia,Surfing,F,N
+1998,USA,Florida,Swimming,M,Y
+1998,USA,Florida,Surfing,M,N
+1998,USA,Florida,Wading,M,N
+1998,BRAZIL,Pernambuco,Surfing,M,Y
+1998,USA,Florida,Swimming,F,N
+1998,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1998,USA,Florida,Surfing,M,N
+1998,BRAZIL,Pernambuco,Surfing,M,N
+1998,USA,Florida,Unknown,M,N
+1998,USA,Florida,Surfing,M,N
+1998,USA,Florida,Surfing,M,N
+1998,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1998,USA,Florida,Surfing,M,N
+1998,USA,Florida,Surfing,M,N
+1998,USA,California,Boarding,M,N
+1998,USA,Florida,Boarding,M,N
+1998,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1998,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1998,BRAZIL,Pernambuco,Surfing,M,N
+1998,USA,Florida,Surfing,M,N
+1998,SOUTH AFRICA,Western Cape Province,Wading,M,N
+1998,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1998,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1998,AUSTRALIA,South Australia,Diving,M,Y
+1998,SOUTH AFRICA,Eastern Cape Province,Boarding,M,Y
+1998,USA,Florida,Surfing,M,N
+1998,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1998,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1998,SOUTH AFRICA,Eastern Cape Province,Boarding,M,N
+1998,SOUTH AFRICA,Eastern Cape Province,Boarding,M,N
+1998,USA,Florida,Surfing,M,N
+1998,USA,Florida,Swimming,F,N
+1998,USA,Florida,Surfing,M,N
+1998,SOUTH AFRICA,Western Cape Province,Boarding,M,N
+1998,USA,Florida,Diving,M,N
+1998,BRAZIL,Pernambuco,Swimming,M,Y
+1998,USA,Florida,Swimming,M,N
+1998,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1998,USA,Florida,Swimming,M,N
+1998,USA,Florida,Swimming,M,N
+1998,AUSTRALIA,New South Wales,Fishing,M,Y
+1998,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1998,AUSTRALIA,South Australia,Surfing,M,N
+1998,SOUTH AFRICA,Eastern Cape Province,Surfing,M,Y
+1997,SOUTH AFRICA,Western Cape Province,Fishing,M,Y
+1997,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1997,USA,Florida,Unknown,F,N
+1997,USA,Florida,Swimming,M,N
+1997,AUSTRALIA,Western Australia,Diving,M,N
+1997,USA,Florida,Swimming,M,N
+1997,AUSTRALIA,New South Wales,Unknown,M,Y
+1997,AUSTRALIA,Western Australia,Water-Ski,M,N
+1997,USA,Hawaii,Surfing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Swimming,F,N
+1997,BRAZIL,Pernambuco,Swimming,M,Y
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,California,Surfing,M,N
+1997,USA,Florida,Swimming,F,N
+1997,USA,Florida,Boarding,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Texas,Wading,F,N
+1997,USA,Florida,Fishing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,AUSTRALIA,Queensland,Surfing,M,N
+1997,SOUTH AFRICA,Eastern Cape Province,Surfing,M,Y
+1997,BRAZIL,Pernambuco,Surfing,M,N
+1997,USA,South Carolina,Wading,M,N
+1997,USA,Hawaii,Fishing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Fishing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,USA,Florida,Surfing,M,N
+1997,AUSTRALIA,Queensland,Swimming,F,N
+1997,AUSTRALIA,Queensland,Diving,M,N
+1997,AUSTRALIA,New South Wales,Paddling,F,N
+1997,AUSTRALIA,Queensland,Swimming,M,N
+1997,AUSTRALIA,Western Australia,Surfing,M,Y
+1996,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1996,USA,California,Surfing,M,N
+1996,USA,Florida,Surfing,M,N
+1996,BRAZIL,Pernambuco,Surfing,M,N
+1996,USA,California,Surfing,M,N
+1996,USA,Florida,Surfing,M,N
+1996,USA,California,Surfing,M,N
+1996,USA,Florida,Swimming,M,N
+1996,USA,Florida,Surfing,M,N
+1996,USA,Florida,Wading,M,N
+1996,USA,Florida,Surfing,M,N
+1996,USA,South Carolina,Boarding,F,N
+1996,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1996,USA,Hawaii,Boarding,M,N
+1996,USA,California,Diving,M,N
+1996,USA,Florida,Fishing,M,N
+1996,USA,Florida,Wading,F,N
+1996,USA,Florida,Swimming,M,N
+1996,USA,Florida,Unknown,M,N
+1996,USA,Florida,Wading,F,N
+1996,USA,South Carolina,Surfing,F,N
+1996,AUSTRALIA,Victoria,Surfing,M,N
+1996,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1996,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1996,AUSTRALIA,New South Wales,Diving,M,Y
+1996,USA,Florida,Surfing,M,N
+1996,USA,Florida,Surfing,M,N
+1996,AUSTRALIA,New South Wales,Swimming,M,N
+1996,AUSTRALIA,New South Wales,Swimming,F,N
+1996,BRAZIL,Pernambuco,Swimming,M,Y
+1996,AUSTRALIA,Queensland,Swimming,F,N
+1996,AUSTRALIA,New South Wales,Fishing,M,N
+1996,AUSTRALIA,New South Wales,Diving,M,N
+1996,AUSTRALIA,New South Wales,Swimming,M,N
+1996,USA,Florida,Wading,M,N
+1996,AUSTRALIA,Queensland,Swimming,F,N
+1996,USA,Hawaii,Swimming,M,N
+1996,USA,North Carolina,Surfing,M,N
+1995,USA,Hawaii,Unknown,M,N
+1995,AUSTRALIA,Queensland,Unknown,M,N
+1995,USA,Florida,Boarding,M,N
+1995,USA,Florida,Surfing,M,N
+1995,AUSTRALIA,Queensland,Wading,F,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,California,Surfing,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Swimming,F,N
+1995,USA,Florida,Diving,M,Y
+1995,AUSTRALIA,Western Australia,Diving,M,Y
+1995,USA,California,Surfing,M,N
+1995,USA,North Carolina,Swimming,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,South Carolina,Swimming,M,N
+1995,BRAZIL,Pernambuco,Surfing,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,North Carolina,Swimming,M,N
+1995,USA,North Carolina,Swimming,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Wading,M,N
+1995,USA,North Carolina,Swimming,M,Y
+1995,USA,Florida,Surfing,M,N
+1995,USA,South Carolina,Other,F,N
+1995,USA,Florida,Boarding,M,N
+1995,USA,California,Diving,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Wading,M,N
+1995,USA,South Carolina,Unknown,M,N
+1995,USA,South Carolina,Swimming,F,N
+1995,USA,Florida,Boarding,M,N
+1984,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1995,BRAZIL,Pernambuco,Surfing,M,Y
+1995,USA,Texas,Surfing,M,N
+1995,USA,South Carolina,Surfing,M,N
+1995,USA,California,Diving,M,N
+1995,USA,California,Paddling,F,N
+1995,USA,South Carolina,Surfing,M,N
+1995,USA,Florida,Swimming,M,N
+1995,USA,Florida,Swimming,F,N
+1995,USA,Hawaii,Swimming,M,N
+1995,USA,Florida,Surfing,M,N
+1995,USA,Florida,Unknown,M,N
+1995,USA,Florida,Unknown,M,N
+1995,AUSTRALIA,New South Wales,Diving,M,N
+1995,AUSTRALIA,New South Wales,Water-Ski,F,N
+1995,AUSTRALIA,South Australia,Surfing,M,N
+1995,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1995,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1995,BRAZIL,Pernambuco,Surfing,M,N
+1995,AUSTRALIA,Queensland,Swimming,M,N
+1995,USA,North Carolina,Diving,M,Y
+1994,SOUTH AFRICA,Western Cape Province,Boarding,M,N
+1994,BRAZIL,Pernambuco,Surfing,M,N
+1994,BRAZIL,Pernambuco,Surfing,M,N
+1994,AUSTRALIA,Queensland,Other,M,N
+1994,USA,California,Swimming,M,Y
+1994,BRAZIL,Pernambuco,Surfing,M,Y
+1994,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1994,USA,Hawaii,Surfing,F,N
+1994,BRAZIL,Pernambuco,Surfing,M,N
+1994,USA,Florida,Wading,F,N
+1994,USA,Florida,Surfing,M,N
+1994,USA,South Carolina,Swimming,F,N
+1994,USA,Florida,Other,M,Y
+1994,USA,Hawaii,Other,F,N
+1994,BRAZIL,Pernambuco,Surfing,M,N
+1994,BRAZIL,Pernambuco,Swimming,M,Y
+1994,SOUTH AFRICA,Eastern Cape Province,Surfing,M,Y
+1994,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1994,BRAZIL,Pernambuco,Surfing,M,N
+1994,USA,Florida,Surfing,M,N
+1994,USA,Florida,Surfing,M,N
+1994,USA,Florida,Surfing,M,N
+1994,USA,Florida,Fishing,M,N
+1994,USA,Florida,Wading,F,N
+1994,USA,Florida,Wading,M,N
+1994,USA,Florida,Surfing,M,N
+1994,USA,California,Unknown,F,Y
+1994,USA,Florida,Diving,M,N
+1994,SOUTH AFRICA,Western Cape Province,Fishing,M,Y
+1994,USA,California,Other,M,N
+1994,BRAZIL,Pernambuco,Surfing,M,N
+1994,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1994,USA,Florida,Surfing,M,N
+1994,USA,Hawaii,Fishing,M,N
+1994,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1994,BRAZIL,Pernambuco,Swimming,M,N
+1994,USA,Hawaii,Surfing,M,Y
+1994,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1994,AUSTRALIA,Queensland,Swimming,M,N
+1994,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1994,USA,Florida,Surfing,M,N
+1993,USA,Hawaii,Surfing,M,Y
+1993,USA,Florida,Swimming,M,N
+1993,AUSTRALIA,Western Australia,Diving,M,Y
+1993,USA,Hawaii,Surfing,M,N
+1993,USA,California,Surfing,M,N
+1993,USA,Florida,Swimming,F,N
+1993,USA,California,Paddling,F,N
+1993,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1993,USA,Florida,Wading,M,N
+1993,USA,Florida,Unknown,M,N
+1993,USA,Hawaii,Surfing,M,N
+1993,USA,North Carolina,Swimming,F,N
+1993,USA,California,Diving,M,N
+1993,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1993,USA,Florida,Other,F,N
+1993,BRAZIL,Pernambuco,Swimming,M,Y
+1993,USA,Hawaii,Surfing,M,N
+1993,AUSTRALIA,New South Wales,Diving,M,Y
+1993,USA,North Carolina,Swimming,F,N
+1993,BRAZIL,Pernambuco,Surfing,M,N
+1993,USA,Florida,Swimming,M,N
+1993,USA,Hawaii,Surfing,M,N
+1993,USA,California,Fishing,M,N
+1993,AUSTRALIA,Queensland,Fishing,M,N
+1993,BRAZIL,Pernambuco,Boarding,M,N
+1993,AUSTRALIA,Queensland,Fishing,M,N
+1992,USA,Hawaii,Wading,M,N
+1992,USA,Hawaii,Surfing,M,N
+1992,USA,California,Fishing,M,N
+1992,USA,Florida,Surfing,M,N
+1992,USA,Florida,Surfing,M,N
+1992,USA,California,Paddling,M,N
+1992,USA,California,Diving,M,N
+1992,USA,Florida,Surfing,M,N
+1992,USA,Hawaii,Boarding,M,Y
+1992,USA,California,Diving,M,N
+1992,USA,Hawaii,Surfing,M,N
+1992,AUSTRALIA,New South Wales,Diving,M,N
+1992,AUSTRALIA,Queensland,Surfing,M,Y
+1992,BRAZIL,Pernambuco,Boarding,M,N
+1992,USA,Florida,Wading,F,N
+1992,BRAZIL,Pernambuco,Swimming,M,Y
+1992,USA,Florida,Fishing,M,N
+1992,AUSTRALIA,South Australia,Surfing,M,N
+1992,USA,Hawaii,Fishing,M,Y
+1992,USA,California,Surfing,M,N
+1992,USA,Florida,Swimming,M,N
+1992,USA,Hawaii,Fishing,M,Y
+1992,USA,Florida,Wading,F,N
+1992,BRAZIL,Pernambuco,Swimming,M,Y
+1992,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1992,USA,Hawaii,Surfing,F,N
+1992,AUSTRALIA,Victoria,Surfing,M,N
+1992,USA,Hawaii,Boarding,M,Y
+1992,AUSTRALIA,New South Wales,Boarding,M,N
+1992,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1992,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1991,USA,California,Diving,M,N
+1991,USA,Hawaii,Swimming,F,Y
+1991,USA,Hawaii,Swimming,F,N
+1991,USA,Hawaii,Swimming,M,Y
+1991,USA,Florida,Fishing,M,N
+1991,AUSTRALIA,Western Australia,Boarding,M,N
+1991,USA,Florida,Surfing,M,N
+1991,USA,California,Surfing,M,N
+1991,AUSTRALIA,South Australia,Diving,M,Y
+1991,AUSTRALIA,Queensland,Other,M,N
+1991,USA,South Carolina,Swimming,M,N
+1991,USA,Florida,Wading,F,N
+1991,USA,Florida,Fishing,M,N
+1991,USA,Florida,Swimming,M,N
+1991,USA,Florida,Swimming,M,N
+1991,USA,Florida,Swimming,M,N
+1991,USA,California,Surfing,M,N
+1991,USA,Florida,Surfing,M,N
+1991,USA,Florida,Swimming,M,N
+1991,USA,Hawaii,Surfing,M,N
+1991,SOUTH AFRICA,Western Cape Province,Diving,M,N
+1991,USA,Florida,Surfing,M,N
+1991,USA,Hawaii,Surfing,M,N
+1991,AUSTRALIA,New South Wales,Diving,M,N
+1991,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1991,AUSTRALIA,Queensland,Swimming,M,N
+1991,AUSTRALIA,Western Australia,Water-Ski,M,N
+1991,AUSTRALIA,Queensland,Surfing,M,N
+1990,SOUTH AFRICA,Eastern Cape Province,Unknown,M,N
+1990,AUSTRALIA,Queensland,Swimming,M,N
+1990,USA,California,Surfing,F,N
+1990,USA,Florida,Surfing,M,N
+1990,USA,Florida,Surfing,M,N
+1990,USA,Florida,Surfing,M,N
+1990,AUSTRALIA,Queensland,Swimming,M,N
+1990,AUSTRALIA,South Australia,Surfing,M,N
+1990,USA,Florida,Surfing,M,N
+1990,USA,Hawaii,Surfing,M,N
+1990,USA,Florida,Surfing,M,N
+1990,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1990,USA,California,Surfing,M,N
+1990,USA,California,Paddling,M,N
+1990,USA,Florida,Diving,M,Y
+1990,USA,California,Surfing,M,N
+1990,USA,Texas,Surfing,M,N
+1990,USA,Texas,Fishing,M,N
+1990,USA,Texas,Wading,F,N
+1990,USA,Florida,Surfing,M,N
+1990,SOUTH AFRICA,Western Cape Province,Surfing,F,Y
+1990,AUSTRALIA,Queensland,Swimming,F,N
+1990,AUSTRALIA,Queensland,Swimming,M,N
+1990,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1990,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1990,AUSTRALIA,Queensland,Surfing,M,N
+1990,AUSTRALIA,Queensland,Diving,M,Y
+1990,AUSTRALIA,Queensland,Surfing,M,N
+1990,AUSTRALIA,Queensland,Surfing,M,N
+1990,USA,Hawaii,Surfing,M,N
+1990,USA,Hawaii,Fishing,M,Y
+1990,USA,Florida,Paddling,M,N
+1990,USA,California,Surfing,M,N
+1989,USA,Hawaii,Fishing,M,N
+1989,AUSTRALIA,Queensland,Swimming,M,Y
+1989,AUSTRALIA,Victoria,Surfing,M,N
+1989,SOUTH AFRICA,Western Cape Province,Fishing,M,Y
+1989,USA,Hawaii,Wading,M,Y
+1989,AUSTRALIA,Queensland,Swimming,M,N
+1989,USA,Hawaii,Diving,M,Y
+1989,USA,Texas,Surfing,M,N
+1989,USA,North Carolina,Diving,M,Y
+1989,SOUTH AFRICA,Western Cape Province,Diving,M,N
+1989,USA,Florida,Fishing,M,N
+1989,USA,California,Diving,M,N
+1989,USA,North Carolina,Surfing,M,N
+1989,USA,California,Other,M,N
+1989,AUSTRALIA,Queensland,Other,M,N
+1989,USA,Florida,Swimming,M,N
+1989,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1989,AUSTRALIA,New South Wales,Surfing,M,N
+1989,AUSTRALIA,Queensland,Fishing,M,N
+1989,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1989,USA,Florida,Surfing,M,N
+1989,USA,Texas,Other,F,N
+1989,USA,Hawaii,Surfing,M,N
+1989,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1989,SOUTH AFRICA,Eastern Cape Province,Diving,M,N
+1989,USA,Florida,Swimming,M,N
+1989,USA,Hawaii,Surfing,M,N
+1989,USA,Hawaii,Surfing,M,N
+1989,AUSTRALIA,South Australia,Surfing,M,Y
+1989,AUSTRALIA,Western Australia,Paddling,M,N
+1989,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1989,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1989,USA,California,Paddling,M,Y
+1989,USA,California,Paddling,F,Y
+1989,USA,Hawaii,Boarding,M,N
+1989,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1989,USA,Hawaii,Swimming,M,Y
+1989,AUSTRALIA,New South Wales,Surfing,M,N
+1988,AUSTRALIA,Queensland,Other,M,Y
+1988,AUSTRALIA,Queensland,Other,M,Y
+1988,AUSTRALIA,Victoria,Surfing,M,N
+1988,USA,Florida,Surfing,M,N
+1988,USA,Florida,Surfing,M,N
+1988,USA,Florida,Surfing,M,N
+1988,AUSTRALIA,South Australia,Surfing,M,N
+1988,USA,Florida,Wading,F,N
+1988,USA,Florida,Surfing,M,N
+1988,USA,Florida,Wading,F,N
+1988,USA,Florida,Swimming,M,Y
+1988,USA,California,Surfing,M,N
+1988,USA,Florida,Swimming,F,N
+1988,USA,Florida,Boarding,M,N
+1988,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1988,USA,North Carolina,Diving,M,N
+1988,USA,South Carolina,Other,M,N
+1988,USA,Florida,Swimming,M,N
+1988,USA,Florida,Surfing,M,N
+1988,USA,Florida,Surfing,M,N
+1988,USA,Florida,Surfing,M,N
+1988,USA,California,Surfing,M,N
+1988,USA,Florida,Swimming,M,N
+1988,USA,Hawaii,Boat,M,Y
+1988,USA,Florida,Surfing,M,N
+1988,USA,Florida,Surfing,M,N
+1988,SOUTH AFRICA,KwaZulu-Natal,Unknown,F,Y
+1988,USA,Florida,Wading,F,N
+1988,USA,Hawaii,Surfing,M,N
+1988,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1988,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1988,SOUTH AFRICA,KwaZulu-Natal,Surfing,F,N
+1988,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1988,AUSTRALIA,Torres Strait,Fishing,M,Y
+1988,SOUTH AFRICA,Western Cape Province,Other,M,N
+1988,AUSTRALIA,New South Wales,Surfing,M,N
+1987,USA,Florida,Surfing,M,N
+1987,AUSTRALIA,New South Wales,Unknown,F,Y
+1987,USA,Florida,Surfing,M,N
+1987,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,N
+1987,USA,California,Surfing,M,N
+1987,SOUTH AFRICA,KwaZulu-Natal,Boarding,M,N
+1987,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1987,AUSTRALIA,South Australia,Diving,M,Y
+1987,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1987,USA,Florida,Wading,M,N
+1987,USA,California,Surfing,M,N
+1987,USA,Florida,Surfing,M,N
+1987,USA,Texas,Surfing,F,N
+1987,USA,Texas,Wading,F,N
+1987,USA,Florida,Fishing,M,N
+1987,USA,South Carolina,Unknown,M,N
+1987,USA,Florida,Surfing,M,N
+1987,AUSTRALIA,New South Wales,Fishing,M,N
+1987,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,Y
+1987,USA,Texas,Swimming,F,N
+1987,USA,Hawaii,Swimming,M,Y
+1987,AUSTRALIA,Western Australia,Surfing,M,N
+1987,USA,Florida,Surfing,M,N
+1987,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1987,AUSTRALIA,Queensland,Swimming,M,N
+1986,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1986,SOUTH AFRICA,Western Cape Province,Boarding,M,Y
+1986,USA,Florida,Surfing,M,N
+1986,USA,California,Fishing,M,N
+1986,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1986,USA,Florida,Surfing,M,N
+1986,USA,Florida,Surfing,M,N
+1986,USA,Florida,Surfing,M,N
+1986,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1986,USA,Florida,Swimming,F,N
+1986,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1986,USA,Florida,Surfing,M,N
+1986,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1986,AUSTRALIA,New South Wales,Diving,F,N
+1986,USA,South Carolina,Unknown,M,N
+1986,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1986,AUSTRALIA,New South Wales,Diving,M,N
+1986,USA,Hawaii,Fishing,M,Y
+1986,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1986,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1986,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1986,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1986,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1986,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1986,AUSTRALIA,Victoria,Surfing,M,N
+1986,USA,Florida,Surfing,M,N
+1986,USA,California,Surfing,M,N
+1985,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1985,USA,North Carolina,Unknown,M,N
+1985,AUSTRALIA,Queensland,Fishing,M,N
+1985,USA,California,Fishing,M,N
+1985,SOUTH AFRICA,Eastern Cape Province,Boarding,M,N
+1985,USA,California,Diving,M,N
+1985,USA,Hawaii,Boarding,M,N
+1985,USA,Hawaii,Swimming,M,N
+1985,USA,California,Fishing,M,N
+1985,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1985,USA,Florida,Diving,M,N
+1985,USA,Florida,Swimming,M,N
+1985,USA,South Carolina,Wading,M,N
+1985,USA,Florida,Wading,M,N
+1985,USA,Florida,Diving,M,Y
+1985,USA,Florida,Wading,F,N
+1985,USA,Florida,Surfing,M,N
+1985,USA,South Carolina,Other,F,N
+1985,USA,California,Surfing,M,N
+1985,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1985,USA,Florida,Surfing,M,N
+1985,AUSTRALIA,South Australia,Diving,F,Y
+1985,USA,California,Surfing,M,N
+1985,USA,Florida,Surfing,M,N
+1985,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1985,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,Y
+1985,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1985,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1985,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1984,AUSTRALIA,Queensland,Paddling,M,Y
+1984,USA,Florida,Surfing,M,N
+1984,USA,Florida,Fishing,M,N
+1984,USA,Florida,Swimming,M,Y
+1984,USA,Florida,Surfing,F,N
+1984,USA,Florida,Wading,F,N
+1984,USA,Florida,Surfing,M,N
+1984,USA,California,Surfing,M,N
+1984,USA,Florida,Surfing,M,N
+1984,USA,Florida,Swimming,M,N
+1984,USA,Florida,Surfing,M,N
+1984,USA,California,Wading,M,N
+1984,USA,California,Diving,M,Y
+1984,USA,Florida,Boat,F,Y
+1984,USA,Texas,Swimming,F,N
+1984,USA,Texas,Swimming,F,N
+1984,SOUTH AFRICA,Western Cape Province,Fishing,M,Y
+1984,USA,Florida,Fishing,M,N
+1984,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1984,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1984,USA,Hawaii,Other,F,N
+1984,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1984,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1984,SOUTH AFRICA,Eastern Cape Province,Paddling,M,N
+1984,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1984,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+1984,AUSTRALIA,Queensland,Fishing,M,N
+1984,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1984,SOUTH AFRICA,KwaZulu-Natal,Unknown,F,Y
+1984,USA,California,Other,M,N
+1984,USA,Florida,Surfing,M,N
+1983,USA,Florida,Surfing,M,N
+1983,AUSTRALIA,South Australia,Diving,M,N
+1983,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1983,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1983,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,N
+1983,USA,Florida,Surfing,M,N
+1983,SOUTH AFRICA,KwaZulu-Natal,Swimming,F,Y
+1983,USA,Florida,Surfing,M,N
+1983,USA,Florida,Wading,M,N
+1983,USA,Florida,Wading,M,N
+1983,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1983,USA,Florida,Diving,M,N
+1983,USA,Florida,Diving,F,N
+1983,AUSTRALIA,Queensland,Swimming,F,Y
+1983,AUSTRALIA,Queensland,Swimming,M,Y
+1983,AUSTRALIA,Queensland,Other,M,N
+1983,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1983,USA,Florida,Surfing,F,N
+1983,USA,Florida,Swimming,M,N
+1983,USA,Florida,Surfing,M,N
+1983,USA,Florida,Water-Ski,M,N
+1983,USA,Florida,Surfing,M,N
+1983,USA,Florida,Surfing,M,N
+1983,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1983,USA,Florida,Surfing,M,N
+1983,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,N
+1983,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1983,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1983,USA,Florida,Surfing,M,N
+1983,SOUTH AFRICA,KwaZulu-Natal,Water-Ski,M,N
+1983,USA,South Carolina,Fishing,M,N
+1983,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,Y
+1983,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1983,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1982,USA,South Carolina,Other,M,N
+1982,USA,Florida,Surfing,M,N
+1982,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1982,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1982,USA,Florida,Surfing,M,N
+1982,USA,California,Diving,M,N
+1982,USA,California,Diving,M,N
+1982,USA,Florida,Unknown,M,Y
+1982,USA,California,Surfing,M,N
+1982,SOUTH AFRICA,Western Cape Province,Swimming,F,N
+1982,SOUTH AFRICA,KwaZulu-Natal,Boarding,M,N
+1982,SOUTH AFRICA,Eastern Cape Province,Water-Ski,M,N
+1982,USA,California,Boarding,M,N
+1982,USA,Florida,Swimming,M,N
+1982,USA,California,Swimming,M,N
+1982,USA,Florida,Swimming,F,N
+1982,SOUTH AFRICA,Eastern Cape Province,Surfing,M,Y
+1982,USA,South Carolina,Swimming,M,N
+1982,USA,Florida,Unknown,F,N
+1982,USA,Hawaii,Boarding,M,N
+1982,USA,South Carolina,Unknown,F,Y
+1982,USA,Florida,Surfing,M,N
+1982,AUSTRALIA,New South Wales,Surfing,M,Y
+1982,USA,Florida,Surfing,M,N
+1982,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1982,USA,Hawaii,Wading,F,N
+1982,USA,Hawaii,Swimming,F,N
+1982,USA,Florida,Swimming,F,Y
+1982,USA,California,Diving,M,N
+1982,USA,Florida,Diving,M,Y
+1982,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1981,USA,California,Surfing,M,Y
+1981,USA,Hawaii,Surfing,M,N
+1981,SOUTH AFRICA,Western Cape Province,Other,M,N
+1981,USA,Hawaii,Diving,M,N
+1981,USA,Florida,Swimming,M,N
+1981,USA,Florida,Surfing,M,N
+1981,USA,Florida,Surfing,M,N
+1981,USA,Florida,Surfing,M,N
+1981,USA,Florida,Swimming,M,Y
+1981,USA,Florida,Surfing,M,N
+1981,USA,Florida,Surfing,M,N
+1981,USA,Florida,Surfing,M,N
+1981,USA,Florida,Fishing,M,N
+1981,USA,Hawaii,Fishing,M,Y
+1981,USA,Florida,Diving,M,N
+1981,USA,Florida,Swimming,F,Y
+1981,USA,Florida,Swimming,F,N
+1981,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1981,USA,Florida,Fishing,M,N
+1981,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1981,USA,Hawaii,Unknown,M,Y
+1981,USA,Hawaii,Fishing,M,Y
+1981,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1981,USA,Florida,Diving,M,N
+1981,USA,Florida,Diving,M,N
+1981,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1981,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1981,USA,Florida,Wading,M,N
+1981,USA,Florida,Surfing,M,N
+1981,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1981,AUSTRALIA,Western Australia,Other,M,N
+1981,USA,Florida,Surfing,M,N
+1981,USA,Florida,Fishing,M,N
+1981,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1981,AUSTRALIA,New South Wales,Water-Ski,M,N
+1980,SOUTH AFRICA,Eastern Cape Province,Water-Ski,M,N
+1980,AUSTRALIA,Western Australia,Swimming,M,N
+1980,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1980,BRAZIL,Pernambuco,Swimming,M,Y
+1980,USA,California,Surfing,M,N
+1980,USA,North Carolina,Wading,F,N
+1980,USA,Hawaii,Other,M,N
+1980,USA,North Carolina,Surfing,M,N
+1980,USA,Florida,Surfing,M,N
+1980,USA,California,Diving,F,N
+1980,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1980,SOUTH AFRICA,KwaZulu-Natal,Diving,M,Y
+1980,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1980,SOUTH AFRICA,KwaZulu-Natal,Boarding,M,N
+1980,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1980,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1980,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1980,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1979,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1979,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1979,AUSTRALIA,New South Wales,Diving,M,N
+1979,USA,Florida,Paddling,M,N
+1979,USA,Florida,Swimming,M,N
+1979,USA,Florida,Diving,M,Y
+1979,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1979,SOUTH AFRICA,KwaZulu-Natal,Diving,M,Y
+1979,USA,Florida,Swimming,M,N
+1979,USA,Florida,Surfing,M,N
+1979,USA,Florida,Surfing,M,N
+1979,USA,California,Diving,M,N
+1979,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1979,USA,Hawaii,Fishing,M,Y
+1978,AUSTRALIA,Queensland,Unknown,M,N
+1978,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,Y
+1978,USA,Hawaii,Surfing,M,N
+1978,USA,Florida,Surfing,M,N
+1978,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,Y
+1978,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1978,USA,California,Wading,M,N
+1978,USA,Florida,Swimming,M,N
+1978,USA,South Carolina,Boat,M,N
+1978,USA,California,Fishing,M,N
+1978,USA,Florida,Surfing,M,N
+1978,USA,Florida,Surfing,M,N
+1978,SOUTH AFRICA,Western Cape Province,Diving,M,N
+1978,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1978,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,Y
+1978,USA,Florida,Surfing,F,N
+1977,USA,Hawaii,Swimming,M,N
+1977,USA,Florida,Surfing,M,N
+1977,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1977,SOUTH AFRICA,Western Cape Province,Wading,M,N
+1977,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1977,AUSTRALIA,South Australia,Surfing,M,N
+1977,AUSTRALIA,Queensland,Swimming,M,Y
+1977,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1977,USA,California,Surfing,M,N
+1977,USA,Florida,Wading,M,N
+1977,USA,California,Fishing,M,N
+1977,USA,Florida,Fishing,M,N
+1977,USA,Texas,Other,M,N
+1977,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1977,AUSTRALIA,Queensland,Unknown,M,N
+1977,AUSTRALIA,Queensland,Unknown,M,N
+1977,USA,Hawaii,Swimming,M,N
+1977,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1977,AUSTRALIA,Queensland,Other,M,N
+1977,AUSTRALIA,Queensland,Other,M,Y
+1977,AUSTRALIA,Queensland,Other,M,Y
+1977,AUSTRALIA,New South Wales,Surfing,M,N
+1977,AUSTRALIA,Victoria,Unknown,M,Y
+1976,AUSTRALIA,Queensland,Unknown,M,N
+1976,USA,California,Diving,M,N
+1976,SOUTH AFRICA,Western Cape Province,Other,M,N
+1976,USA,Florida,Surfing,M,N
+1976,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1976,USA,California,Surfing,M,N
+1976,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1976,AUSTRALIA,South Australia,Diving,M,N
+1976,USA,Florida,Swimming,M,Y
+1976,USA,Florida,Swimming,M,Y
+1976,USA,Florida,Surfing,M,N
+1976,USA,North Carolina,Surfing,M,N
+1976,USA,Florida,Fishing,M,N
+1976,USA,Hawaii,Diving,M,Y
+1976,USA,Florida,Fishing,M,N
+1976,USA,Florida,Diving,M,N
+1976,USA,Hawaii,Swimming,M,N
+1976,AUSTRALIA,Queensland,Boat,F,N
+1976,USA,Florida,Wading,M,N
+1976,AUSTRALIA,Queensland,Unknown,F,N
+1976,USA,Florida,Fishing,M,N
+1976,USA,Hawaii,Diving,M,Y
+1975,USA,California,Fishing,M,N
+1975,AUSTRALIA,New South Wales,Other,M,N
+1975,AUSTRALIA,New South Wales,Wading,M,N
+1975,SOUTH AFRICA,KwaZulu-Natal,Wading,M,N
+1975,AUSTRALIA,Queensland,Unknown,M,N
+1975,USA,Florida,Surfing,M,N
+1975,AUSTRALIA,New South Wales,Surfing,M,N
+1975,SOUTH AFRICA,KwaZulu-Natal,Water-Ski,M,N
+1975,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1975,USA,Florida,Swimming,M,N
+1975,USA,California,Diving,M,N
+1975,USA,Florida,Diving,M,N
+1975,AUSTRALIA,Queensland,Surfing,M,N
+1975,USA,California,Surfing,M,N
+1975,USA,California,Diving,M,N
+1975,USA,Florida,Swimming,F,N
+1975,AUSTRALIA,Western Australia,Fishing,M,N
+1975,USA,Florida,Surfing,M,N
+1975,USA,South Carolina,Swimming,M,N
+1975,USA,South Carolina,Wading,F,N
+1975,USA,Florida,Surfing,M,N
+1975,USA,Florida,Unknown,M,N
+1975,USA,Florida,Surfing,M,N
+1975,USA,Florida,Swimming,F,N
+1975,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,Y
+1975,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1975,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1975,AUSTRALIA,Queensland,Unknown,F,N
+1975,USA,Florida,Swimming,M,N
+1975,SOUTH AFRICA,Western Cape Province,Other,M,N
+1975,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1975,AUSTRALIA,South Australia,Swimming,M,Y
+1975,AUSTRALIA,Victoria,Fishing,M,N
+1975,AUSTRALIA,Queensland,Unknown,M,N
+1975,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1975,AUSTRALIA,South Australia,Surfing,M,Y
+1974,USA,Florida,Wading,M,N
+1974,USA,California,Surfing,M,N
+1974,USA,California,Diving,M,N
+1974,USA,California,Surfing,M,N
+1974,USA,California,Surfing,M,N
+1974,AUSTRALIA,Queensland,Fishing,M,N
+1974,USA,California,Surfing,M,N
+1974,USA,California,Diving,M,N
+1974,USA,Florida,Swimming,F,N
+1974,USA,California,Surfing,M,N
+1974,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1974,SOUTH AFRICA,Eastern Cape Province,Wading,M,N
+1974,USA,Florida,Swimming,F,N
+1974,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1974,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1974,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1974,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1974,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1974,AUSTRALIA,South Australia,Diving,M,Y
+1974,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1974,AUSTRALIA,Western Australia,Fishing,M,N
+1973,USA,Hawaii,Swimming,M,N
+1973,USA,Florida,Surfing,M,N
+1973,AUSTRALIA,Queensland,Surfing,M,N
+1973,AUSTRALIA,Queensland,Unknown,M,N
+1973,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1973,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1973,USA,Hawaii,Surfing,M,N
+1973,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1972,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1972,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1972,AUSTRALIA,Queensland,Unknown,M,N
+1972,AUSTRALIA,Queensland,Fishing,M,N
+1972,AUSTRALIA,New South Wales,Surfing,M,N
+1972,USA,Florida,Surfing,M,N
+1972,USA,California,Surfing,M,N
+1972,USA,Florida,Surfing,M,N
+1972,USA,Hawaii,Fishing,M,N
+1972,AUSTRALIA,Queensland,Unknown,M,Y
+1972,AUSTRALIA,Queensland,Unknown,M,Y
+1972,USA,Florida,Surfing,M,N
+1972,USA,California,Diving,M,N
+1972,AUSTRALIA,Queensland,Unknown,F,N
+1972,USA,Hawaii,Fishing,M,N
+1972,AUSTRALIA,Victoria,Surfing,M,N
+1972,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+1972,SOUTH AFRICA,KwaZulu-Natal,Other,F,N
+1971,SOUTH AFRICA,Western Cape Province,Swimming,F,N
+1971,AUSTRALIA,Queensland,Unknown,M,Y
+1971,USA,Florida,Surfing,M,N
+1971,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1971,USA,California,Diving,M,N
+1971,AUSTRALIA,South Australia,Fishing,M,Y
+1971,AUSTRALIA,New South Wales,Diving,M,N
+1971,USA,Florida,Wading,M,N
+1971,USA,California,Diving,M,N
+1971,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1971,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1971,AUSTRALIA,South Australia,Surfing,M,N
+1970,USA,Hawaii,Boat,M,N
+1970,USA,Hawaii,Surfing,M,N
+1970,USA,Florida,Surfing,M,N
+1970,USA,Florida,Swimming,M,N
+1970,AUSTRALIA,New South Wales,Unknown,M,N
+1970,USA,South Carolina,Swimming,M,N
+1970,USA,Florida,Diving,M,N
+1970,USA,Florida,Fishing,M,N
+1970,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+1970,USA,Hawaii,Surfing,M,Y
+1970,USA,Florida,Wading,M,N
+1969,AUSTRALIA,Western Australia,Swimming,M,N
+1969,USA,Hawaii,Diving,M,N
+1969,AUSTRALIA,New South Wales,Unknown,M,N
+1969,USA,Hawaii,Diving,M,N
+1969,USA,California,Diving,M,N
+1969,USA,Florida,Swimming,M,N
+1969,USA,Florida,Surfing,M,N
+1969,USA,Florida,Surfing,M,N
+1969,USA,Florida,Unknown,M,N
+1969,USA,California,Surfing,M,N
+1969,USA,Florida,Wading,M,N
+1969,USA,Texas,Fishing,M,N
+1969,USA,Florida,Diving,M,N
+1969,AUSTRALIA,New South Wales,Other,M,N
+1969,USA,Florida,Fishing,M,N
+1969,AUSTRALIA,New South Wales,Unknown,M,N
+1969,USA,Hawaii,Surfing,M,N
+1969,AUSTRALIA,New South Wales,Diving,M,N
+1969,AUSTRALIA,Victoria,Unknown,M,N
+1968,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+1968,AUSTRALIA,New South Wales,Other,M,N
+1968,AUSTRALIA,South Australia,Unknown,M,N
+1968,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1968,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,N
+1968,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1968,AUSTRALIA,Western Australia,Unknown,M,N
+1968,USA,Florida,Fishing,M,N
+1968,USA,Florida,Wading,M,N
+1968,USA,California,Diving,M,N
+1968,USA,Florida,Wading,M,N
+1968,USA,South Carolina,Fishing,M,N
+1968,USA,Florida,Other,M,N
+1968,USA,Florida,Wading,M,N
+1968,USA,Florida,Unknown,M,N
+1968,AUSTRALIA,New South Wales,Diving,M,N
+1968,AUSTRALIA,New South Wales,Unknown,M,N
+1968,SOUTH AFRICA,KwaZulu-Natal,Wading,M,N
+1968,USA,Florida,Surfing,M,N
+1968,USA,Florida,Swimming,M,N
+1968,USA,Florida,Surfing,M,N
+1968,AUSTRALIA,Western Australia,Swimming,F,N
+1968,AUSTRALIA,South Australia,Fishing,M,N
+1967,SOUTH AFRICA,Western Cape Province,Surfing,M,N
+1967,AUSTRALIA,Victoria,Swimming,M,Y
+1967,AUSTRALIA,New South Wales,Diving,M,N
+1967,AUSTRALIA,Queensland,Unknown,M,N
+1967,SOUTH AFRICA,KwaZulu-Natal,Unknown,F,Y
+1967,USA,Florida,Wading,M,N
+1967,USA,Hawaii,Boat,M,Y
+1967,USA,California,Other,M,N
+1967,AUSTRALIA,Western Australia,Swimming,M,Y
+1967,AUSTRALIA,New South Wales,Diving,M,Y
+1967,USA,Florida,Fishing,M,N
+1967,USA,Florida,Swimming,M,N
+1967,USA,South Carolina,Surfing,M,N
+1967,USA,Florida,Fishing,M,N
+1967,AUSTRALIA,South Australia,Unknown,M,N
+1967,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1967,AUSTRALIA,Victoria,Fishing,M,N
+1967,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1967,AUSTRALIA,Victoria,Other,M,N
+1966,AUSTRALIA,New South Wales,Fishing,M,N
+1966,AUSTRALIA,New South Wales,Fishing,M,N
+1966,AUSTRALIA,New South Wales,Fishing,M,N
+1966,AUSTRALIA,Queensland,Diving,M,N
+1966,USA,Hawaii,Fishing,M,N
+1966,AUSTRALIA,Western Australia,Fishing,M,N
+1966,AUSTRALIA,Western Australia,Fishing,M,N
+1966,USA,Florida,Other,M,N
+1966,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1966,USA,Florida,Wading,M,N
+1966,USA,Texas,Diving,M,N
+1966,USA,South Carolina,Other,M,N
+1966,USA,Texas,Fishing,M,N
+1966,USA,Florida,Diving,M,N
+1966,USA,Florida,Fishing,M,N
+1966,USA,Texas,Swimming,M,N
+1966,AUSTRALIA,New South Wales,Other,M,Y
+1966,AUSTRALIA,New South Wales,Fishing,M,N
+1966,USA,Florida,Fishing,M,N
+1966,AUSTRALIA,New South Wales,Other,M,N
+1966,AUSTRALIA,New South Wales,Swimming,M,N
+1966,SOUTH AFRICA,Western Cape Province,Other,M,N
+1966,USA,California,Surfing,M,N
+1966,AUSTRALIA,New South Wales,Fishing,M,N
+1966,SOUTH AFRICA,Eastern Cape Province,Wading,M,N
+1966,AUSTRALIA,Western Australia,Other,M,N
+1966,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1966,USA,Florida,Swimming,M,N
+1966,USA,California,Wading,F,N
+1965,AUSTRALIA,Western Australia,Fishing,M,N
+1965,AUSTRALIA,Queensland,Fishing,M,Y
+1965,AUSTRALIA,Queensland,Surfing,M,N
+1965,USA,Florida,Wading,M,N
+1965,USA,Florida,Diving,M,N
+1965,USA,Florida,Unknown,M,N
+1965,USA,California,Surfing,M,Y
+1965,USA,Florida,Fishing,M,N
+1965,USA,Florida,Surfing,M,N
+1965,USA,Florida,Diving,M,N
+1965,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1965,USA,California,Boat,M,Y
+1965,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1965,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1965,AUSTRALIA,Victoria,Swimming,M,N
+1965,USA,Texas,Wading,M,N
+1965,USA,California,Surfing,M,N
+1965,USA,Florida,Other,M,N
+1964,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1964,AUSTRALIA,Queensland,Swimming,M,Y
+1964,AUSTRALIA,New South Wales,Other,M,N
+1964,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1964,AUSTRALIA,Western Australia,Surfing,M,N
+1964,USA,Florida,Swimming,M,N
+1964,USA,Florida,Fishing,M,N
+1964,USA,Florida,Swimming,M,N
+1964,USA,Florida,Fishing,M,N
+1964,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1964,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,Y
+1964,USA,Florida,Other,M,N
+1964,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1964,AUSTRALIA,South Australia,Surfing,M,N
+1964,USA,Florida,Diving,M,N
+1964,SOUTH AFRICA,Western Cape Province,Boarding,M,N
+1964,AUSTRALIA,Queensland,Swimming,M,Y
+1964,USA,Florida,Swimming,M,N
+1964,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1964,SOUTH AFRICA,Eastern Cape Province,Wading,M,N
+1964,AUSTRALIA,Western Australia,Diving,M,N
+1964,USA,California,Surfing,M,N
+1964,SOUTH AFRICA,Western Cape Province,Diving,M,N
+1963,SOUTH AFRICA,KwaZulu-Natal,Wading,F,N
+1963,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1963,AUSTRALIA,Queensland,Boat,M,N
+1963,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+1963,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1963,AUSTRALIA,New South Wales,Fishing,M,N
+1963,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1963,SOUTH AFRICA,KwaZulu-Natal,Other,M,Y
+1963,AUSTRALIA,South Australia,Fishing,M,N
+1963,AUSTRALIA,Queensland,Other,M,N
+1963,USA,Florida,Other,M,N
+1963,USA,Florida,Fishing,M,N
+1963,AUSTRALIA,New South Wales,Surfing,M,N
+1963,USA,Florida,Fishing,M,N
+1963,USA,Florida,Swimming,M,N
+1963,USA,California,Swimming,M,N
+1963,AUSTRALIA,New South Wales,Fishing,M,N
+1963,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1963,AUSTRALIA,Western Australia,Surfing,M,N
+1963,USA,Hawaii,Surfing,M,N
+1963,USA,Hawaii,Other,M,Y
+1963,AUSTRALIA,New South Wales,Fishing,M,N
+1963,USA,Florida,Other,M,Y
+1963,AUSTRALIA,New South Wales,Wading,F,Y
+1963,AUSTRALIA,New South Wales,Swimming,M,Y
+1963,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1963,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+1963,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1962,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+1962,AUSTRALIA,South Australia,Fishing,M,Y
+1962,AUSTRALIA,New South Wales,Fishing,M,N
+1962,AUSTRALIA,Queensland,Unknown,M,Y
+1962,USA,California,Surfing,M,N
+1962,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1962,AUSTRALIA,South Australia,Other,M,N
+1962,USA,California,Fishing,F,N
+1962,USA,California,Diving,M,N
+1962,USA,Texas,Fishing,M,Y
+1962,USA,South Carolina,Wading,M,N
+1962,USA,California,Fishing,M,N
+1962,USA,Florida,Other,M,Y
+1962,USA,Florida,Other,M,N
+1962,USA,California,Other,M,N
+1962,USA,California,Other,M,Y
+1962,USA,California,Other,M,Y
+1962,USA,South Carolina,Wading,M,N
+1962,USA,California,Diving,M,N
+1962,USA,Florida,Diving,M,N
+1962,USA,Florida,Unknown,M,N
+1962,SOUTH AFRICA,KwaZulu-Natal,Wading,M,N
+1962,AUSTRALIA,Queensland,Fishing,M,N
+1962,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1962,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1962,AUSTRALIA,Queensland,Swimming,M,N
+1962,AUSTRALIA,New South Wales,Fishing,M,N
+1962,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,Y
+1962,USA,California,Surfing,M,N
+1962,AUSTRALIA,New South Wales,Surfing,M,N
+1962,AUSTRALIA,New South Wales,Swimming,M,Y
+1962,AUSTRALIA,South Australia,Diving,M,N
+1961,AUSTRALIA,Queensland,Wading,F,Y
+1961,AUSTRALIA,Queensland,Wading,M,N
+1961,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1961,AUSTRALIA,Western Australia,Fishing,M,N
+1961,AUSTRALIA,Queensland,Surfing,M,Y
+1961,AUSTRALIA,Torres Strait,Swimming,M,N
+1961,USA,Florida,Swimming,M,Y
+1961,USA,Florida,Unknown,M,Y
+1961,USA,Florida,Unknown,M,N
+1961,USA,California,Swimming,M,N
+1961,USA,South Carolina,Wading,M,N
+1961,USA,Hawaii,Fishing,M,N
+1961,USA,Florida,Fishing,M,Y
+1961,USA,Florida,Wading,M,N
+1961,USA,Florida,Fishing,M,N
+1961,USA,California,Diving,M,N
+1961,USA,Florida,Wading,M,N
+1961,AUSTRALIA,Western Australia,Fishing,M,N
+1961,USA,Florida,Other,M,N
+1961,AUSTRALIA,New South Wales,Fishing,M,N
+1961,SOUTH AFRICA,Eastern Cape Province,Diving,M,N
+1961,USA,Florida,Fishing,M,N
+1961,AUSTRALIA,New South Wales,Fishing,M,N
+1961,AUSTRALIA,New South Wales,Other,M,N
+1961,AUSTRALIA,Victoria,Fishing,M,N
+1961,AUSTRALIA,Western Australia,Fishing,M,N
+1961,AUSTRALIA,South Australia,Fishing,M,N
+1961,AUSTRALIA,Victoria,Swimming,M,N
+1961,AUSTRALIA,Western Australia,Fishing,F,N
+1961,AUSTRALIA,South Australia,Fishing,M,N
+1961,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1961,AUSTRALIA,Victoria,Wading,F,N
+1961,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1961,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+1961,AUSTRALIA,Western Australia,Other,M,N
+1961,USA,California,Unknown,M,N
+1961,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1961,AUSTRALIA,New South Wales,Other,M,N
+1961,SOUTH AFRICA,KwaZulu-Natal,Wading,M,N
+1961,SOUTH AFRICA,Western Cape Province,Wading,M,N
+1960,USA,Hawaii,Fishing,M,Y
+1960,AUSTRALIA,New South Wales,Unknown,F,N
+1960,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1960,AUSTRALIA,Queensland,Fishing,M,N
+1960,AUSTRALIA,Queensland,Fishing,M,N
+1960,AUSTRALIA,Queensland,Swimming,M,N
+1960,USA,Florida,Other,F,Y
+1960,AUSTRALIA,Queensland,Swimming,M,N
+1960,AUSTRALIA,Western Australia,Fishing,M,N
+1960,USA,California,Other,M,N
+1960,AUSTRALIA,New South Wales,Fishing,M,N
+1960,USA,Florida,Diving,M,Y
+1960,USA,South Carolina,Fishing,M,N
+1960,USA,Texas,Other,M,Y
+1960,USA,Florida,Wading,M,N
+1960,USA,South Carolina,Swimming,M,Y
+1960,USA,South Carolina,Fishing,M,N
+1960,USA,Florida,Diving,M,N
+1960,USA,California,Other,M,N
+1960,USA,California,Swimming,F,N
+1960,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1960,USA,California,Surfing,M,N
+1960,AUSTRALIA,Western Australia,Fishing,M,N
+1960,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1960,AUSTRALIA,New South Wales,Surfing,M,N
+1960,AUSTRALIA,Western Australia,Fishing,M,N
+1960,AUSTRALIA,Victoria,Fishing,M,N
+1960,AUSTRALIA,New South Wales,Other,M,N
+1960,USA,Florida,Swimming,M,N
+1960,USA,Hawaii,Fishing,M,N
+1960,AUSTRALIA,New South Wales,Fishing,M,N
+1960,AUSTRALIA,New South Wales,Diving,M,Y
+1960,AUSTRALIA,Western Australia,Fishing,M,N
+1960,SOUTH AFRICA,Western Cape Province,Wading,F,N
+1960,SOUTH AFRICA,Eastern Cape Province,Wading,F,N
+1959,AUSTRALIA,Queensland,Diving,M,Y
+1959,AUSTRALIA,Victoria,Fishing,M,N
+1959,AUSTRALIA,South Australia,Fishing,M,N
+1959,AUSTRALIA,Victoria,Surfing,M,N
+1959,AUSTRALIA,Queensland,Wading,M,N
+1959,AUSTRALIA,Queensland,Other,M,N
+1959,USA,California,Surfing,M,N
+1959,AUSTRALIA,Western Australia,Fishing,M,N
+1959,USA,California,Diving,M,N
+1959,USA,Florida,Other,M,N
+1959,USA,Florida,Diving,M,N
+1959,USA,Florida,Fishing,M,Y
+1959,USA,South Carolina,Fishing,M,N
+1959,USA,California,Fishing,M,N
+1959,USA,California,Wading,M,N
+1959,USA,California,Surfing,M,N
+1959,USA,California,Other,M,N
+1959,USA,Florida,Diving,M,N
+1959,USA,California,Diving,M,Y
+1959,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1959,USA,Florida,Unknown,F,N
+1959,USA,California,Swimming,M,Y
+1959,USA,Florida,Fishing,M,N
+1959,AUSTRALIA,New South Wales,Fishing,M,N
+1959,AUSTRALIA,Torres Strait,Diving,M,N
+1959,USA,Hawaii,Fishing,M,N
+1959,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1959,AUSTRALIA,New South Wales,Fishing,M,N
+1959,USA,Florida,Swimming,M,N
+1959,USA,Florida,Diving,M,N
+1959,AUSTRALIA,Victoria,Fishing,M,N
+1959,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1959,AUSTRALIA,Western Australia,Other,M,N
+1959,AUSTRALIA,Queensland,Surfing,M,N
+1959,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1958,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1958,USA,Hawaii,Surfing,M,Y
+1958,AUSTRALIA,Queensland,Swimming,M,Y
+1958,SOUTH AFRICA,Western Cape Province,Fishing,M,N
+1958,USA,California,Swimming,M,N
+1958,USA,Florida,Unknown,M,N
+1958,USA,Florida,Swimming,M,N
+1958,USA,Florida,Swimming,M,N
+1958,USA,Florida,Unknown,M,Y
+1958,USA,Florida,Diving,M,N
+1958,USA,Florida,Unknown,M,N
+1958,USA,Florida,Wading,M,N
+1958,USA,Florida,Wading,M,N
+1958,USA,Florida,Swimming,M,N
+1958,AUSTRALIA,Queensland,Swimming,F,N
+1958,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,N
+1958,USA,Florida,Diving,M,N
+1958,SOUTH AFRICA,KwaZulu-Natal,Other,F,Y
+1958,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1958,AUSTRALIA,New South Wales,Fishing,M,Y
+1958,AUSTRALIA,New South Wales,Surfing,M,N
+1958,AUSTRALIA,New South Wales,Surfing,M,N
+1958,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1958,SOUTH AFRICA,KwaZulu-Natal,Fishing,M,Y
+1957,AUSTRALIA,South Australia,Fishing,M,N
+1957,SOUTH AFRICA,KwaZulu-Natal,Wading,F,N
+1957,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+1957,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1957,SOUTH AFRICA,KwaZulu-Natal,Wading,M,Y
+1957,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1957,USA,Florida,Other,M,N
+1957,USA,California,Fishing,M,N
+1957,USA,North Carolina,Swimming,M,Y
+1957,AUSTRALIA,Torres Strait,Diving,M,N
+1957,AUSTRALIA,New South Wales,Fishing,M,N
+1957,USA,Florida,Other,M,N
+1957,USA,California,Swimming,M,Y
+1957,AUSTRALIA,New South Wales,Surfing,M,N
+1957,USA,Florida,Wading,M,N
+1957,AUSTRALIA,Torres Strait,Swimming,M,N
+1957,USA,Florida,Swimming,M,N
+1957,USA,Florida,Diving,M,N
+1957,SOUTH AFRICA,KwaZulu-Natal,Wading,M,Y
+1957,USA,Florida,Diving,M,N
+1956,SOUTH AFRICA,Western Cape Province,Diving,M,N
+1956,USA,Florida,Fishing,M,N
+1956,AUSTRALIA,Queensland,Diving,M,N
+1956,USA,California,Swimming,M,N
+1956,SOUTH AFRICA,KwaZulu-Natal,Diving,M,N
+1956,USA,California,Fishing,M,N
+1956,USA,Florida,Wading,F,N
+1956,USA,South Carolina,Swimming,M,N
+1956,AUSTRALIA,Torres Strait,Surfing,M,N
+1956,AUSTRALIA,New South Wales,Swimming,M,N
+1956,AUSTRALIA,Victoria,Swimming,M,Y
+1956,AUSTRALIA,Western Australia,Other,M,N
+1956,AUSTRALIA,Queensland,Diving,M,Y
+1956,AUSTRALIA,Victoria,Swimming,M,N
+1956,AUSTRALIA,Torres Strait,Diving,M,N
+1956,AUSTRALIA,New South Wales,Water-Ski,M,N
+1955,AUSTRALIA,Queensland,Fishing,M,N
+1955,USA,Hawaii,Other,M,N
+1955,USA,California,Swimming,M,N
+1955,USA,California,Unknown,M,N
+1955,USA,California,Surfing,M,N
+1955,USA,South Carolina,Fishing,M,N
+1955,USA,California,Fishing,M,N
+1955,USA,Hawaii,Fishing,M,N
+1955,AUSTRALIA,New South Wales,Surfing,M,Y
+1955,AUSTRALIA,Western Australia,Wading,M,N
+1955,USA,California,Diving,M,N
+1955,USA,California,Fishing,M,N
+1955,AUSTRALIA,New South Wales,Swimming,M,Y
+1955,AUSTRALIA,New South Wales,Other,M,Y
+1955,SOUTH AFRICA,KwaZulu-Natal,Other,M,Y
+1954,AUSTRALIA,Victoria,Swimming,M,Y
+1954,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1954,USA,California,Swimming,M,N
+1954,AUSTRALIA,Torres Strait,Fishing,M,Y
+1954,USA,California,Other,M,N
+1954,AUSTRALIA,Queensland,Diving,M,N
+1954,USA,Hawaii,Fishing,M,Y
+1954,AUSTRALIA,New South Wales,Swimming,M,Y
+1954,AUSTRALIA,New South Wales,Swimming,M,N
+1954,AUSTRALIA,Torres Strait,Fishing,M,N
+1954,USA,Hawaii,Fishing,M,N
+1953,SOUTH AFRICA,Eastern Cape Province,Swimming,F,N
+1953,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1953,AUSTRALIA,Queensland,Swimming,M,N
+1953,AUSTRALIA,New South Wales,Water-Ski,M,N
+1953,AUSTRALIA,New South Wales,Unknown,M,N
+1953,USA,California,Diving,M,N
+1953,USA,Hawaii,Other,M,N
+1953,USA,Hawaii,Fishing,M,Y
+1953,USA,California,Fishing,M,N
+1953,USA,Florida,Wading,F,N
+1953,USA,Hawaii,Other,M,N
+1953,AUSTRALIA,Queensland,Boat,M,N
+1953,USA,Texas,Swimming,F,N
+1953,AUSTRALIA,New South Wales,Fishing,M,N
+1953,AUSTRALIA,South Australia,Fishing,M,N
+1953,USA,Hawaii,Other,M,N
+1953,AUSTRALIA,New South Wales,Fishing,M,N
+1953,AUSTRALIA,South Australia,Fishing,M,N
+1953,USA,Florida,Wading,F,N
+1952,AUSTRALIA,Victoria,Surfing,M,N
+1952,AUSTRALIA,South Australia,Fishing,M,N
+1952,USA,Hawaii,Swimming,M,Y
+1952,USA,California,Surfing,M,Y
+1952,USA,Hawaii,Swimming,M,Y
+1952,SOUTH AFRICA,Eastern Cape Province,Unknown,M,Y
+1952,USA,South Carolina,Fishing,M,N
+1952,USA,South Carolina,Fishing,M,N
+1952,USA,California,Boat,M,Y
+1952,USA,California,Fishing,M,N
+1952,USA,California,Surfing,M,N
+1952,AUSTRALIA,Western Australia,Fishing,M,N
+1952,AUSTRALIA,New South Wales,Surfing,M,N
+1952,USA,Florida,Swimming,M,Y
+1951,AUSTRALIA,New South Wales,Fishing,M,N
+1951,AUSTRALIA,New South Wales,Swimming,M,Y
+1951,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1951,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1951,AUSTRALIA,Queensland,Swimming,M,Y
+1951,AUSTRALIA,Queensland,Other,M,Y
+1951,USA,California,Unknown,M,N
+1951,USA,Hawaii,Fishing,M,Y
+1951,AUSTRALIA,New South Wales,Other,M,N
+1951,AUSTRALIA,New South Wales,Fishing,M,N
+1951,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1951,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1951,AUSTRALIA,New South Wales,Surfing,M,N
+1951,AUSTRALIA,New South Wales,Swimming,M,N
+1951,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1951,AUSTRALIA,New South Wales,Unknown,M,Y
+1950,AUSTRALIA,Queensland,Surfing,M,N
+1950,AUSTRALIA,Queensland,Swimming,M,Y
+1950,AUSTRALIA,Queensland,Surfing,M,N
+1950,AUSTRALIA,Queensland,Paddling,M,N
+1950,USA,California,Surfing,M,N
+1950,AUSTRALIA,Queensland,Fishing,M,N
+1950,USA,Texas,Swimming,M,N
+1950,USA,Texas,Unknown,M,Y
+1950,USA,Florida,Diving,M,N
+1950,USA,Florida,Other,M,Y
+1950,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1950,AUSTRALIA,Queensland,Fishing,M,Y
+1950,SOUTH AFRICA,Eastern Cape Province,Fishing,M,N
+1950,SOUTH AFRICA,Eastern Cape Province,Wading,M,N
+1950,SOUTH AFRICA,KwaZulu-Natal,Other,M,Y
+1950,AUSTRALIA,Western Australia,Other,M,Y
+1950,AUSTRALIA,Western Australia,Fishing,M,N
+1950,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,Y
+1950,USA,Hawaii,Fishing,M,Y
+1950,AUSTRALIA,Victoria,Swimming,M,N
+1950,USA,Florida,Wading,M,N
+1950,USA,Hawaii,Fishing,M,N
+1949,AUSTRALIA,Victoria,Other,M,N
+1949,AUSTRALIA,New South Wales,Diving,M,N
+1949,AUSTRALIA,Victoria,Other,M,Y
+1949,AUSTRALIA,Queensland,Swimming,M,N
+1949,AUSTRALIA,Queensland,Swimming,M,Y
+1949,USA,South Carolina,Swimming,M,N
+1949,USA,California,Fishing,M,N
+1949,AUSTRALIA,Western Australia,Swimming,F,N
+1949,AUSTRALIA,New South Wales,Other,M,N
+1949,AUSTRALIA,Queensland,Fishing,M,N
+1949,AUSTRALIA,Queensland,Swimming,M,Y
+1949,AUSTRALIA,New South Wales,Other,M,Y
+1949,AUSTRALIA,New South Wales,Surfing,M,N
+1949,AUSTRALIA,New South Wales,Water-Ski,M,N
+1948,AUSTRALIA,Western Australia,Swimming,M,Y
+1948,AUSTRALIA,Queensland,Swimming,M,Y
+1948,AUSTRALIA,Queensland,Fishing,M,N
+1948,AUSTRALIA,Torres Strait,Diving,M,N
+1948,USA,Hawaii,Swimming,M,N
+1948,USA,Hawaii,Fishing,M,N
+1948,SOUTH AFRICA,Western Cape Province,Boat,M,N
+1948,USA,Texas,Other,M,Y
+1948,AUSTRALIA,New South Wales,Swimming,M,Y
+1948,AUSTRALIA,New South Wales,Water-Ski,M,N
+1948,USA,Florida,Other,M,N
+1947,AUSTRALIA,New South Wales,Fishing,M,N
+1947,AUSTRALIA,New South Wales,Fishing,M,N
+1947,AUSTRALIA,New South Wales,Fishing,M,N
+1947,AUSTRALIA,New South Wales,Swimming,M,Y
+1947,AUSTRALIA,New South Wales,Swimming,M,N
+1947,BRAZIL,Pernambuco,Swimming,M,Y
+1947,USA,Florida,Swimming,M,Y
+1947,USA,California,Fishing,M,N
+1947,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1947,USA,Hawaii,Fishing,M,N
+1947,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1947,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,N
+1947,AUSTRALIA,New South Wales,Surfing,M,N
+1947,SOUTH AFRICA,KwaZulu-Natal,Wading,M,N
+1947,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1947,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1946,AUSTRALIA,South Australia,Swimming,M,N
+1946,AUSTRALIA,Torres Strait,Diving,M,Y
+1946,AUSTRALIA,New South Wales,Swimming,M,N
+1946,AUSTRALIA,Queensland,Swimming,M,Y
+1946,AUSTRALIA,Queensland,Swimming,M,Y
+1946,AUSTRALIA,South Australia,Fishing,M,N
+1946,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1946,AUSTRALIA,Western Australia,Wading,M,N
+1946,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1946,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1946,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1946,AUSTRALIA,Queensland,Unknown,M,N
+1946,SOUTH AFRICA,Western Cape Province,Other,M,N
+1946,AUSTRALIA,New South Wales,Swimming,F,Y
+1946,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1945,AUSTRALIA,Queensland,Swimming,M,Y
+1945,USA,North Carolina,Swimming,M,Y
+1945,SOUTH AFRICA,KwaZulu-Natal,Wading,M,N
+1944,AUSTRALIA,Queensland,Swimming,M,Y
+1944,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1944,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1944,USA,Florida,Swimming,F,N
+1944,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1944,SOUTH AFRICA,KwaZulu-Natal,Wading,M,Y
+1944,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1944,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1944,SOUTH AFRICA,KwaZulu-Natal,Surfing,M,Y
+1944,AUSTRALIA,Western Australia,Fishing,M,N
+1944,AUSTRALIA,New South Wales,Surfing,M,N
+1944,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1943,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1943,USA,South Carolina,Other,M,Y
+1943,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1943,USA,Florida,Unknown,M,N
+1943,USA,Florida,Swimming,M,Y
+1943,AUSTRALIA,Queensland,Other,M,Y
+1943,USA,Hawaii,Swimming,M,Y
+1943,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1943,USA,Hawaii,Fishing,M,N
+1943,USA,Hawaii,Fishing,M,N
+1942,AUSTRALIA,New South Wales,Wading,F,Y
+1942,SOUTH AFRICA,KwaZulu-Natal,Other,M,Y
+1942,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1942,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1942,AUSTRALIA,Queensland,Swimming,M,N
+1942,AUSTRALIA,Queensland,Diving,M,N
+1942,AUSTRALIA,New South Wales,Unknown,M,Y
+1942,AUSTRALIA,New South Wales,Swimming,F,Y
+1942,AUSTRALIA,New South Wales,Water-Ski,M,N
+1941,AUSTRALIA,Western Australia,Swimming,M,N
+1941,AUSTRALIA,Western Australia,Other,M,N
+1941,AUSTRALIA,New South Wales,Swimming,M,Y
+1941,USA,South Carolina,Swimming,M,N
+1941,USA,Hawaii,Fishing,M,N
+1941,USA,California,Fishing,M,N
+1941,AUSTRALIA,New South Wales,Fishing,M,N
+1940,AUSTRALIA,New South Wales,Wading,M,Y
+1940,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1940,AUSTRALIA,Queensland,Fishing,M,N
+1940,USA,South Carolina,Wading,M,N
+1940,USA,South Carolina,Wading,M,N
+1940,USA,North Carolina,Fishing,M,N
+1940,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1940,AUSTRALIA,New South Wales,Diving,M,N
+1940,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1940,AUSTRALIA,New South Wales,Wading,M,Y
+1940,AUSTRALIA,Queensland,Diving,M,N
+1940,AUSTRALIA,New South Wales,Swimming,M,Y
+1940,AUSTRALIA,Queensland,Swimming,M,N
+1940,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1940,AUSTRALIA,Queensland,Diving,M,N
+1940,SOUTH AFRICA,KwaZulu-Natal,Unknown,F,Y
+1940,SOUTH AFRICA,Eastern Cape Province,Wading,F,N
+1939,AUSTRALIA,New South Wales,Swimming,M,N
+1939,AUSTRALIA,Queensland,Swimming,M,Y
+1939,AUSTRALIA,Queensland,Swimming,M,N
+1939,USA,Hawaii,Fishing,M,N
+1939,USA,California,Fishing,M,N
+1939,USA,Texas,Other,M,N
+1939,AUSTRALIA,New South Wales,Other,M,N
+1938,AUSTRALIA,New South Wales,Swimming,M,Y
+1938,AUSTRALIA,Queensland,Fishing,M,N
+1938,USA,California,Fishing,M,N
+1938,USA,South Carolina,Swimming,M,N
+1938,USA,California,Fishing,M,N
+1938,AUSTRALIA,Torres Strait,Diving,M,Y
+1938,AUSTRALIA,New South Wales,Diving,M,N
+1938,AUSTRALIA,New South Wales,Fishing,M,N
+1938,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1938,AUSTRALIA,New South Wales,Diving,M,N
+1938,AUSTRALIA,New South Wales,Water-Ski,M,N
+1938,USA,North Carolina,Fishing,M,N
+1938,AUSTRALIA,Torres Strait,Diving,M,N
+1938,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1937,USA,North Carolina,Other,M,Y
+1937,AUSTRALIA,Queensland,Swimming,M,Y
+1937,AUSTRALIA,New South Wales,Swimming,M,N
+1937,AUSTRALIA,New South Wales,Water-Ski,M,N
+1937,AUSTRALIA,Torres Strait,Diving,M,N
+1937,AUSTRALIA,New South Wales,Fishing,M,N
+1937,USA,Texas,Swimming,M,Y
+1937,USA,Texas,Fishing,M,N
+1937,AUSTRALIA,Queensland,Swimming,M,Y
+1937,AUSTRALIA,New South Wales,Swimming,M,N
+1937,AUSTRALIA,Victoria,Swimming,M,Y
+1937,AUSTRALIA,New South Wales,Swimming,M,Y
+1937,AUSTRALIA,Queensland,Fishing,M,N
+1937,AUSTRALIA,South Australia,Other,M,Y
+1937,AUSTRALIA,New South Wales,Other,M,N
+1937,AUSTRALIA,Torres Strait,Unknown,M,N
+1936,USA,Hawaii,Diving,M,N
+1936,AUSTRALIA,New South Wales,Swimming,M,Y
+1936,AUSTRALIA,Victoria,Fishing,M,Y
+1936,AUSTRALIA,Torres Strait,Fishing,M,N
+1936,USA,Hawaii,Swimming,M,N
+1936,AUSTRALIA,Torres Strait,Surfing,M,N
+1936,AUSTRALIA,Torres Strait,Diving,M,N
+1936,USA,North Carolina,Fishing,M,N
+1936,AUSTRALIA,Torres Strait,Diving,M,N
+1936,AUSTRALIA,Torres Strait,Surfing,M,Y
+1936,USA,Florida,Swimming,M,Y
+1936,AUSTRALIA,Queensland,Diving,M,N
+1936,USA,Florida,Fishing,M,N
+1936,AUSTRALIA,Torres Strait,Paddling,M,N
+1936,AUSTRALIA,Queensland,Diving,M,N
+1936,AUSTRALIA,New South Wales,Other,F,N
+1936,AUSTRALIA,Queensland,Other,M,N
+1936,AUSTRALIA,New South Wales,Swimming,M,Y
+1936,AUSTRALIA,South Australia,Swimming,M,Y
+1936,AUSTRALIA,Queensland,Surfing,M,N
+1936,AUSTRALIA,New South Wales,Water-Ski,M,N
+1935,AUSTRALIA,Torres Strait,Diving,M,N
+1935,USA,North Carolina,Swimming,M,Y
+1935,AUSTRALIA,Queensland,Other,M,Y
+1935,AUSTRALIA,Torres Strait,Diving,M,Y
+1935,USA,California,Fishing,M,Y
+1935,USA,California,Fishing,M,Y
+1935,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1935,AUSTRALIA,Torres Strait,Diving,M,N
+1935,AUSTRALIA,New South Wales,Other,M,N
+1935,USA,California,Unknown,M,N
+1935,AUSTRALIA,Queensland,Diving,M,N
+1935,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1935,AUSTRALIA,Torres Strait,Diving,M,N
+1935,AUSTRALIA,Queensland,Other,M,N
+1935,AUSTRALIA,New South Wales,Surfing,M,N
+1935,AUSTRALIA,New South Wales,Swimming,M,Y
+1935,AUSTRALIA,New South Wales,Wading,M,Y
+1935,AUSTRALIA,New South Wales,Surfing,M,N
+1935,AUSTRALIA,New South Wales,Fishing,M,N
+1935,AUSTRALIA,Queensland,Unknown,M,N
+1934,AUSTRALIA,New South Wales,Other,F,N
+1934,AUSTRALIA,New South Wales,Swimming,M,Y
+1934,AUSTRALIA,New South Wales,Diving,M,Y
+1934,AUSTRALIA,New South Wales,Swimming,M,N
+1934,AUSTRALIA,Torres Strait,Diving,M,Y
+1934,AUSTRALIA,Queensland,Diving,M,Y
+1934,AUSTRALIA,New South Wales,Fishing,M,N
+1934,USA,Florida,Wading,M,Y
+1934,AUSTRALIA,Queensland,Surfing,M,N
+1934,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1934,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N
+1934,AUSTRALIA,New South Wales,Swimming,M,Y
+1934,AUSTRALIA,New South Wales,Swimming,M,Y
+1934,AUSTRALIA,Torres Strait,Other,M,N
+1934,AUSTRALIA,New South Wales,Swimming,M,N
+1934,AUSTRALIA,New South Wales,Swimming,M,N
+1933,AUSTRALIA,Torres Strait,Diving,M,Y
+1933,AUSTRALIA,Queensland,Diving,M,N
+1933,AUSTRALIA,Queensland,Diving,M,N
+1933,USA,California,Fishing,M,N
+1933,USA,South Carolina,Swimming,M,N
+1933,USA,California,Unknown,M,N
+1933,AUSTRALIA,Western Australia,Diving,M,N
+1933,USA,South Carolina,Other,M,N
+1933,USA,South Carolina,Wading,F,N
+1933,AUSTRALIA,Queensland,Fishing,M,N
+1933,AUSTRALIA,Queensland,Swimming,M,N
+1933,USA,Florida,Swimming,M,Y
+1933,AUSTRALIA,New South Wales,Wading,M,N
+1933,AUSTRALIA,Torres Strait,Surfing,M,N
+1933,AUSTRALIA,South Australia,Fishing,M,N
+1933,AUSTRALIA,Queensland,Swimming,M,Y
+1932,AUSTRALIA,New South Wales,Swimming,M,N
+1932,AUSTRALIA,New South Wales,Unknown,M,N
+1932,AUSTRALIA,New South Wales,Unknown,M,N
+1932,AUSTRALIA,Torres Strait,Diving,M,N
+1932,USA,Texas,Unknown,M,Y
+1932,AUSTRALIA,Torres Strait,Diving,M,Y
+1932,AUSTRALIA,Torres Strait,Diving,M,N
+1932,USA,Hawaii,Swimming,M,N
+1932,AUSTRALIA,Queensland,Fishing,M,N
+1932,AUSTRALIA,Queensland,Swimming,M,N
+1932,SOUTH AFRICA,Eastern Cape Province,Other,M,N
+1931,AUSTRALIA,Torres Strait,Diving,M,N
+1931,USA,Florida,Swimming,M,N
+1931,USA,Florida,Swimming,F,N
+1931,USA,Hawaii,Fishing,M,Y
+1931,USA,Hawaii,Unknown,M,Y
+1931,USA,Texas,Swimming,M,N
+1931,AUSTRALIA,Queensland,Other,M,Y
+1931,USA,Hawaii,Fishing,M,N
+1931,USA,Hawaii,Other,M,N
+1931,USA,Florida,Other,M,N
+1931,AUSTRALIA,Queensland,Fishing,M,Y
+1931,AUSTRALIA,South Australia,Fishing,M,N
+1931,AUSTRALIA,New South Wales,Swimming,M,Y
+1931,AUSTRALIA,Torres Strait,Unknown,M,N
+1931,AUSTRALIA,Torres Strait,Diving,M,N
+1931,AUSTRALIA,Queensland,Swimming,M,N
+1930,AUSTRALIA,New South Wales,Swimming,M,N
+1930,AUSTRALIA,New South Wales,Other,M,Y
+1930,AUSTRALIA,New South Wales,Unknown,M,Y
+1930,AUSTRALIA,Queensland,Fishing,M,N
+1930,AUSTRALIA,Western Australia,Fishing,M,N
+1930,USA,Florida,Swimming,M,N
+1930,USA,Florida,Swimming,M,N
+1930,AUSTRALIA,Torres Strait,Unknown,M,Y
+1930,USA,Texas,Swimming,M,N
+1930,SOUTH AFRICA,Eastern Cape Province,Unknown,M,Y
+1930,USA,Florida,Diving,M,N
+1930,AUSTRALIA,Torres Strait,Diving,M,N
+1930,AUSTRALIA,Victoria,Swimming,M,Y
+1930,AUSTRALIA,Western Australia,Other,M,N
+1930,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1930,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+1929,AUSTRALIA,New South Wales,Diving,M,Y
+1929,AUSTRALIA,Torres Strait,Diving,M,N
+1929,AUSTRALIA,New South Wales,Surfing,F,N
+1929,AUSTRALIA,Torres Strait,Diving,M,N
+1929,AUSTRALIA,Queensland,Unknown,M,Y
+1929,AUSTRALIA,Torres Strait,Diving,M,N
+1929,AUSTRALIA,Queensland,Other,M,Y
+1929,USA,South Carolina,Swimming,M,N
+1929,USA,Florida,Fishing,M,N
+1929,AUSTRALIA,Torres Strait,Diving,M,N
+1929,AUSTRALIA,Queensland,Diving,M,N
+1929,AUSTRALIA,Queensland,Diving,M,N
+1929,AUSTRALIA,Queensland,Wading,M,N
+1929,AUSTRALIA,Torres Strait,Unknown,M,Y
+1929,AUSTRALIA,Torres Strait,Swimming,M,Y
+1929,USA,Florida,Swimming,M,N
+1929,AUSTRALIA,Torres Strait,Swimming,M,Y
+1929,AUSTRALIA,South Australia,Paddling,M,N
+1929,AUSTRALIA,South Australia,Paddling,M,N
+1929,AUSTRALIA,New South Wales,Surfing,M,Y
+1929,AUSTRALIA,New South Wales,Swimming,M,Y
+1929,AUSTRALIA,Queensland,Swimming,M,Y
+1929,AUSTRALIA,New South Wales,Surfing,M,Y
+1929,AUSTRALIA,New South Wales,Swimming,M,N
+1929,AUSTRALIA,South Australia,Wading,M,N
+1929,USA,Florida,Fishing,M,N
+1929,AUSTRALIA,New South Wales,Unknown,M,N
+1929,USA,Florida,Diving,M,N
+1928,USA,Texas,Fishing,M,N
+1928,USA,Florida,Swimming,M,N
+1928,AUSTRALIA,Queensland,Fishing,M,N
+1928,AUSTRALIA,New South Wales,Swimming,M,N
+1928,AUSTRALIA,Queensland,Swimming,M,N
+1928,AUSTRALIA,New South Wales,Wading,M,Y
+1928,AUSTRALIA,Queensland,Unknown,M,N
+1928,AUSTRALIA,Torres Strait,Diving,M,Y
+1928,AUSTRALIA,Torres Strait,Other,M,Y
+1928,USA,Florida,Swimming,M,Y
+1928,SOUTH AFRICA,Eastern Cape Province,Unknown,F,N
+1928,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1928,SOUTH AFRICA,KwaZulu-Natal,Wading,M,N
+1927,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1927,AUSTRALIA,New South Wales,Other,M,N
+1927,AUSTRALIA,Queensland,Wading,M,Y
+1927,AUSTRALIA,Torres Strait,Diving,M,N
+1927,AUSTRALIA,Queensland,Diving,M,N
+1927,AUSTRALIA,New South Wales,Surfing,M,N
+1927,AUSTRALIA,Queensland,Paddling,M,N
+1927,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N
+1927,USA,California,Swimming,M,N
+1927,AUSTRALIA,New South Wales,Swimming,M,Y
+1927,AUSTRALIA,New South Wales,Swimming,M,Y
+1927,AUSTRALIA,Torres Strait,Diving,M,N
+1926,AUSTRALIA,Torres Strait,Diving,M,Y
+1926,AUSTRALIA,Torres Strait,Diving,M,N
+1926,AUSTRALIA,New South Wales,Swimming,M,N
+1926,USA,California,Swimming,M,N
+1926,USA,Hawaii,Swimming,M,Y
+1926,USA,Hawaii,Swimming,F,N
+1926,AUSTRALIA,South Australia,Swimming,F,Y
+1926,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1926,AUSTRALIA,Victoria,Unknown,M,N
+1925,AUSTRALIA,Western Australia,Swimming,M,Y
+1925,USA,South Carolina,Swimming,F,N
+1925,AUSTRALIA,New South Wales,Swimming,M,N
+1925,AUSTRALIA,New South Wales,Swimming,M,Y
+1925,USA,Florida,Swimming,M,N
+1924,AUSTRALIA,Victoria,Swimming,M,N
+1924,USA,South Carolina,Wading,M,N
+1924,USA,California,Fishing,M,N
+1924,USA,Florida,Other,M,N
+1924,AUSTRALIA,New South Wales,Swimming,M,Y
+1924,AUSTRALIA,Western Australia,Swimming,M,N
+1924,AUSTRALIA,New South Wales,Swimming,F,N
+1924,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1924,SOUTH AFRICA,Eastern Cape Province,Swimming,M,N
+1924,AUSTRALIA,New South Wales,Swimming,M,Y
+1923,AUSTRALIA,New South Wales,Swimming,M,N
+1923,AUSTRALIA,New South Wales,Fishing,M,Y
+1923,AUSTRALIA,Western Australia,Other,M,Y
+1923,AUSTRALIA,New South Wales,Fishing,M,Y
+1923,AUSTRALIA,New South Wales,Paddling,M,Y
+1923,AUSTRALIA,Torres Strait,Diving,M,N
+1923,AUSTRALIA,Queensland,Diving,M,N
+1923,AUSTRALIA,New South Wales,Swimming,M,Y
+1923,AUSTRALIA,Western Australia,Wading,M,N
+1923,AUSTRALIA,Queensland,Diving,M,Y
+1923,AUSTRALIA,Queensland,Diving,M,N
+1923,AUSTRALIA,Western Australia,Swimming,M,Y
+1922,AUSTRALIA,Queensland,Swimming,M,Y
+1922,USA,Hawaii,Diving,M,N
+1922,USA,Florida,Unknown,M,N
+1922,USA,Florida,Swimming,F,Y
+1922,SOUTH AFRICA,Western Cape Province,Swimming,M,N
+1922,AUSTRALIA,New South Wales,Swimming,M,Y
+1922,AUSTRALIA,New South Wales,Swimming,M,Y
+1922,AUSTRALIA,New South Wales,Swimming,M,Y
+1922,AUSTRALIA,New South Wales,Swimming,M,Y
+1922,AUSTRALIA,Queensland,Swimming,M,Y
+1922,AUSTRALIA,New South Wales,Wading,M,N
+1922,AUSTRALIA,New South Wales,Surfing,M,Y
+1921,AUSTRALIA,Queensland,Swimming,M,N
+1921,AUSTRALIA,Queensland,Other,M,Y
+1921,AUSTRALIA,Queensland,Wading,M,N
+1921,AUSTRALIA,Queensland,Diving,M,N
+1921,AUSTRALIA,Queensland,Diving,M,Y
+1921,AUSTRALIA,Torres Strait,Unknown,M,N
+1920,AUSTRALIA,Western Australia,Wading,M,N
+1920,AUSTRALIA,Western Australia,Wading,M,N
+1920,AUSTRALIA,Torres Strait,Diving,M,N
+1920,USA,Florida,Swimming,M,N
+1920,AUSTRALIA,Queensland,Swimming,M,N
+1920,AUSTRALIA,Torres Strait,Diving,M,N
+1920,SOUTH AFRICA,Eastern Cape Province,Swimming,F,N
+1920,AUSTRALIA,Torres Strait,Diving,M,Y
+1920,AUSTRALIA,New South Wales,Swimming,M,Y
+1920,SOUTH AFRICA,KwaZulu-Natal,Other,M,N
+1919,AUSTRALIA,Queensland,Swimming,M,N
+1919,AUSTRALIA,New South Wales,Swimming,M,Y
+1919,USA,Florida,Swimming,M,N
+1919,USA,South Carolina,Swimming,M,N
+1919,USA,Florida,Other,M,Y
+1919,AUSTRALIA,New South Wales,Swimming,M,N
+1919,AUSTRALIA,New South Wales,Wading,M,Y
+1919,AUSTRALIA,Queensland,Wading,M,Y
+1919,USA,Florida,Swimming,F,N
+1918,USA,Hawaii,Fishing,M,Y
+1918,AUSTRALIA,Queensland,Swimming,M,Y
+1918,AUSTRALIA,New South Wales,Surfing,M,N
+1918,AUSTRALIA,Queensland,Diving,M,N
+1917,AUSTRALIA,Western Australia,Swimming,M,N
+1917,USA,Hawaii,Other,M,N
+1917,USA,Florida,Diving,M,Y
+1917,USA,South Carolina,Swimming,M,N
+1916,AUSTRALIA,Queensland,Swimming,M,N
+1916,AUSTRALIA,New South Wales,Other,M,Y
+1916,AUSTRALIA,New South Wales,Swimming,F,N
+1916,AUSTRALIA,Queensland,Swimming,M,Y
+1916,AUSTRALIA,Queensland,Swimming,M,Y
+1916,USA,Florida,Fishing,M,Y
+1916,USA,North Carolina,Fishing,M,N
+1916,USA,Florida,Unknown,M,N
+1916,AUSTRALIA,New South Wales,Swimming,M,Y
+1916,AUSTRALIA,Victoria,Paddling,M,Y
+1916,AUSTRALIA,New South Wales,Swimming,M,N
+1915,AUSTRALIA,Torres Strait,Diving,M,N
+1915,AUSTRALIA,Queensland,Swimming,M,N
+1915,AUSTRALIA,New South Wales,Swimming,M,N
+1915,USA,Florida,Unknown,M,N
+1915,AUSTRALIA,Torres Strait,Surfing,M,N
+1915,AUSTRALIA,Queensland,Swimming,M,N
+1915,AUSTRALIA,New South Wales,Swimming,M,Y
+1914,AUSTRALIA,Queensland,Swimming,M,N
+1914,AUSTRALIA,Victoria,Swimming,M,Y
+1914,USA,Florida,Fishing,F,N
+1914,USA,Florida,Swimming,M,Y
+1914,USA,Hawaii,Other,M,Y
+1914,AUSTRALIA,South Australia,Wading,M,N
+1914,AUSTRALIA,New South Wales,Paddling,M,N
+1914,AUSTRALIA,Queensland,Wading,F,N
+1913,AUSTRALIA,Queensland,Swimming,M,N
+1913,USA,Florida,Unknown,M,N
+1913,USA,South Carolina,Unknown,M,Y
+1913,USA,Florida,Fishing,M,N
+1913,AUSTRALIA,New South Wales,Other,M,N
+1913,AUSTRALIA,Torres Strait,Diving,M,N
+1913,AUSTRALIA,Victoria,Unknown,M,N
+1912,USA,South Carolina,Swimming,M,N
+1912,AUSTRALIA,Western Australia,Diving,M,N
+1912,AUSTRALIA,New South Wales,Swimming,M,N
+1912,AUSTRALIA,New South Wales,Swimming,M,Y
+1912,AUSTRALIA,New South Wales,Unknown,M,N
+1912,AUSTRALIA,Queensland,Swimming,M,Y
+1911,USA,Florida,Unknown,M,Y
+1911,USA,South Carolina,Other,M,Y
+1911,AUSTRALIA,Queensland,Diving,M,N
+1911,USA,Texas,Other,M,Y
+1911,USA,Florida,Swimming,M,Y
+1911,USA,Florida,Swimming,M,N
+1911,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1911,USA,Texas,Fishing,M,N
+1911,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1911,AUSTRALIA,Torres Strait,Swimming,M,Y
+1911,AUSTRALIA,Western Australia,Other,M,N
+1911,USA,Texas,Swimming,M,N
+1910,AUSTRALIA,Western Australia,Boat,M,Y
+1910,AUSTRALIA,Queensland,Swimming,M,N
+1910,USA,Hawaii,Diving,M,N
+1910,AUSTRALIA,Western Australia,Swimming,M,N
+1910,AUSTRALIA,New South Wales,Unknown,M,Y
+1910,USA,Hawaii,Fishing,M,Y
+1909,USA,Florida,Unknown,M,N
+1909,AUSTRALIA,New South Wales,Other,M,Y
+1909,AUSTRALIA,New South Wales,Fishing,M,N
+1909,USA,Florida,Fishing,M,Y
+1909,USA,Florida,Swimming,M,N
+1909,SOUTH AFRICA,Western Cape Province,Unknown,M,Y
+1909,AUSTRALIA,Queensland,Other,M,Y
+1909,USA,Hawaii,Other,F,Y
+1908,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1908,AUSTRALIA,Torres Strait,Other,M,Y
+1908,USA,California,Fishing,M,N
+1908,USA,Florida,Unknown,M,Y
+1908,USA,Hawaii,Other,M,Y
+1907,AUSTRALIA,New South Wales,Swimming,M,Y
+1907,AUSTRALIA,Torres Strait,Swimming,M,Y
+1907,AUSTRALIA,New South Wales,Swimming,M,N
+1907,USA,Hawaii,Diving,M,N
+1907,AUSTRALIA,Queensland,Other,M,Y
+1907,USA,South Carolina,Swimming,M,N
+1907,USA,Florida,Fishing,M,Y
+1907,AUSTRALIA,Queensland,Swimming,M,Y
+1907,USA,Hawaii,Fishing,M,Y
+1906,USA,Hawaii,Unknown,M,N
+1906,USA,Hawaii,Swimming,M,Y
+1906,USA,Hawaii,Diving,M,N
+1906,USA,Hawaii,Swimming,M,Y
+1906,AUSTRALIA,Torres Strait,Swimming,M,Y
+1906,USA,California,Fishing,M,N
+1906,AUSTRALIA,Victoria,Other,M,N
+1906,AUSTRALIA,Queensland,Diving,M,Y
+1906,AUSTRALIA,New South Wales,Other,M,Y
+1906,AUSTRALIA,New South Wales,Swimming,M,Y
+1906,SOUTH AFRICA,KwaZulu-Natal,Other,M,Y
+1905,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1905,AUSTRALIA,Western Australia,Swimming,M,N
+1905,AUSTRALIA,New South Wales,Swimming,M,Y
+1905,USA,North Carolina,Wading,M,Y
+1905,USA,North Carolina,Fishing,M,Y
+1905,USA,Florida,Swimming,M,N
+1905,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y
+1905,AUSTRALIA,New South Wales,Swimming,M,N
+1905,AUSTRALIA,Victoria,Swimming,M,Y
+1905,AUSTRALIA,Victoria,Swimming,M,Y
+1904,USA,Texas,Swimming,M,Y
+1904,AUSTRALIA,Queensland,Swimming,M,Y
+1904,USA,Hawaii,Swimming,M,Y
+1903,AUSTRALIA,New South Wales,Swimming,M,Y
+1903,AUSTRALIA,New South Wales,Other,M,Y
+1903,AUSTRALIA,Queensland,Swimming,M,Y
+1903,AUSTRALIA,New South Wales,Unknown,M,Y
+1903,USA,Hawaii,Fishing,M,Y
+1902,AUSTRALIA,New South Wales,Swimming,M,Y
+1902,USA,Texas,Fishing,M,N
+1902,USA,Hawaii,Other,M,Y
+1902,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y
+1902,AUSTRALIA,New South Wales,Wading,M,Y
+1902,SOUTH AFRICA,KwaZulu-Natal,Unknown,M,Y
+1902,AUSTRALIA,Queensland,Swimming,M,N
+1901,AUSTRALIA,Queensland,Swimming,M,N
+1901,SOUTH AFRICA,Western Cape Province,Swimming,M,Y
+1901,AUSTRALIA,Queensland,Swimming,M,Y
+1901,USA,Florida,Swimming,M,N
