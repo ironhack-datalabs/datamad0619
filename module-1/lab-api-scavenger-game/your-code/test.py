@@ -1,4 +1,5 @@
 import os
+import base64
 import re
 import requests
 from dotenv import load_dotenv
@@ -32,5 +33,21 @@ for e in x:
     if "scavengerhunt" in l["path"]:
         lst.append(l["path"])
 
-las= sorted(lst, key=lambda x: int(x.rsplit('.0', 1)[-1]))
-print(las)
+#print(lst)
+las = sorted(lst, key=lambda x: x[7:11])
+#print(las)
+palabras=[]
+for dd in las:
+  resto = requests.get("{}/repos/{}/{}/contents/{}".format(BASE_URL,owner, repo,dd), headers=headers)
+  aver= resto.json()
+  palabras.append(aver["content"])
+#print(palabras)
+#palas= palabras.decode('base64')
+palas = list(map(base64.b64decode, palabras))
+#print(type(palas[1]))
+
+str1 = ' '.join(str(e) for e in palas)
+sas= str1.replace("b'","")
+sas1= sas.replace("\\n'","")
+print(sas1)
+#hecho
