@@ -17,5 +17,6 @@ headers = {
 }
 
 res = requests.get("{}/user".format(BASE_URL), headers=headers)
-res.json()
+
+
 
