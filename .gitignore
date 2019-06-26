@@ -2,3 +2,6 @@
 .idea
 venv/
 .ipynb_checkpoints
+.env
+__pycache__
+token.txt
