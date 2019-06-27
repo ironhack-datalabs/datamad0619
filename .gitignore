@@ -2,3 +2,7 @@
 .idea
 venv/
 .ipynb_checkpoints
+
+token.txt
+
+TOKEN.txt
