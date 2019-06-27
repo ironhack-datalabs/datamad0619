@@ -11,15 +11,11 @@ key = access[-1].strip()
 
 
 repo = 'ironhack-datalabs/madrid-oct-2018'
-url = "https://api.github.com/repos/"+ repo + "/forks"
+url = "https://api.github.com/repos/"+ repo + "/commits"
 
-res_fork = requests.get(url, auth=(user, key))
-results_fork = res_fork.json()
+res_commits = requests.get(url, auth=(user, key))
+results_commits = res_commits.json()
 
-languages = set()
-for i in range(len(results_fork)):
-    languages.add(results_fork[i]['language'])
+commits = len(results_commits)
 
-print(languages)
-
-
+print(commits)
