@@ -42,13 +42,13 @@ print(letras)
 print(orden)
 d=dict()
 for i in range(len(orden)):
-    d[str(orden[i])]=letras[i]
+    d[str(orden[i])]=str(letras[i],"utf-8")
 letrasOrdenadas=[]
 for i in range(len(orden)):
     letrasOrdenadas.append(d[str(i+1)])
 
-print(letrasOrdenadas)
-print(type(letrasOrdenadas))
+print(" ".join(letrasOrdenadas).replace("\n"," "))
+
 
 
 
