@@ -2,7 +2,7 @@
 import requests
 import json
 
-with open('/Users/emachado/datamad0619/module-1/lab-api-scavenger-game/token.txt', 'r') as file:
+with open('~/token.txt', 'r') as file:
     token = file.read()
 
 headers = {
