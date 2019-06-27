@@ -48,6 +48,7 @@ for i in range(len(orden)):
     letrasOrdenadas.append(d[str(i+1)])
 
 print(letrasOrdenadas)
+print(type(letrasOrdenadas))
 
 
 
