@@ -42,3 +42,5 @@ language = []
 for i in range(len(data)):
     language.append(data[i]['language'])
 print (list(set(language)))
+
+

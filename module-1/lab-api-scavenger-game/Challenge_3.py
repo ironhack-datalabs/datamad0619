@@ -25,6 +25,8 @@ headers = {
 res = requests.get("{}/user".format(BASE_URL), headers=headers)
 res.json()
 
+
+
 data_3 = requests.get("https://api.github.com/repos/{}/{}/contents/".format(owner, repo), headers=headers )
 data_3 = data_3.json()
 #print(data_3)
@@ -54,6 +56,8 @@ for p in path:
     for archivo in res_data:
         if 'scavengerhunt' in archivo['name']:
             responses.append(archivo['path'])
+        # esto sería lo mismo que decir:
+            # list(map(lambda x: x['name'],x['path'],  data['items]))
 #json.loads(rr.text)
 print(responses)
 
@@ -75,3 +79,11 @@ print(sorted)
 # https://www.programiz.com/python-programming/methods/list/sort
 responses = sorted(responses, key = lambda x: x.split('.')[1])
 print(responses)
+
+with open('res_data.json', 'w') as outfile:
+    json.dump(res_data, outfile)
+ 
+
+ # RAW 
+
+
