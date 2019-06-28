@@ -3,3 +3,4 @@
 venv/
 .env
 .ipynb_checkpoints
+token.txt
