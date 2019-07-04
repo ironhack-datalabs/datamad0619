@@ -22,22 +22,123 @@ skip:
 limit: 
 
 4
-query: 
-projection: 
+query: { $and: [ {total_money_raised: { $gte: "$100000000" }}, {founded_year: { $lte: 2010 }}]} 
+projection: {ipo: 1, name: 1, _id:0}
 sort: 
 skip: 
 limit: 
 
 5
+query: { $and: [ {number_of_employees: { $lte: 1000 }}, {founded_year: { $lte: 2005 }}]}
+projection: {number_of_employees: 1, name: 1, _id:0}
+sort: { number_of_employees: 1 }
+skip: 
+limit: 
+
+6
+query: { partners: { $exists: false } }
+projection: 
+sort: 
+skip: 
+limit: 
+
+7
+query: {category_code: {$type: ["null"]}}
+projection: 
+sort: 
+skip: 
+limit: 
+
+8 
+query: { $and: [ {number_of_employees: { $gte: 100 }}, {number_of_employees: { $gte: 1000 }}]}
+projection: {number_of_employees: 1, name: 1, _id:0}
+sort: 
+skip: 
+limit: 
+
+9
+query: 
+projection: 
+sort: { ipo: -1 }
+skip: 
+limit: 
+
+10
+query: 
+projection: 
+sort: { number_of_employees: 1 }
+skip: 
+limit: 10
+
+11
+query: {founded_month: {$in: [6, 12]}}
+projection: 
+sort: 
+skip: 
+limit: 1000
+
+12
 query: 
 projection: 
 sort: 
 skip: 
 limit: 
 
-6
-query: 
+13 
+query: { $and: [ {founded_year: { $lte: 2000 }}, { total_money_raised: { $gte: "10000000"}} ] }
 projection: 
 sort: 
 skip: 
 limit: 
+
+14 
+query: {acquisition: { $lte: 2015 }}
+projection: {acquisition: 1, name: 1, _id:0}
+sort: 
+skip: 
+limit: 
+
+15
+query: 
+projection: {founded_year: 1, name: 1, _id:0}
+sort: {founded_year: 1}
+skip: 
+limit: 
+
+16  
+query: {founded_day: {$in: [0, 7]}}
+projection: 
+sort: {"acquisitions.price_amount": -1}
+skip: 
+limit: 10
+
+17 
+query: { $and: [ {category_code: "web"}, { number_of_employees: { $gte: 4000}} ] }
+projection: 
+sort: {number_of_employees: 1}
+skip: 
+limit: 
+
+18   
+query: { $and: [ {total_money_raised: {$gte: "10000000"}}, { "acquisitions.price_currency_code": {$eq: 'EUR'}} ] }
+projection: 
+sort: 
+skip: 
+limit: 
+
+19  
+query: {founded_month: {$in: [0, 3]}}
+projection: {acquisition: 1, name: 1, _id:0}
+sort: 
+skip: 
+limit: 10
+
+20 
+query: { $and: [ {founded_year: {$in: [2000, 2010]}}, { "acquisition.acquired_year": {$gte: 2011}} ] }
+projection: 
+sort: 
+skip: 
+limit: 
+
+
+
