@@ -263,38 +263,17 @@ sort
 \cf6 \
 \pard\pardeftab720\partightenfactor0
 \cf2 \cb3 15. Order the companies by their \cb4 founded year\cb3 , retrieving only their \cb4 name\cb3  and \cb4 founded year\cb3 .\
-\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls15\ilvl0\cf7 \cb1 \
 \pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
 \ls15\ilvl0
 \f1\b\fs27\fsmilli13600 \cf7 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-query
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the query in here
-\f2\i0 /\cb1 \
-\ls15\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 projection
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the projection in here
-\f2\i0 /\cb1 \
+\f2\b0\fs32 \cb3 : \{name: 1, founded_year: 1\}\cb1 \
 \ls15\ilvl0
 \f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 sort
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the sort in here
-\f2\i0 /\cb1 \
-\ls15\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-skip
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the skip in here
-\f2\i0 /\cb1 \
-\ls15\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-limit
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the limit in here
-\f2\i0 /
+\f2\b0\fs32 \cb3 : \{founded_year: 1\}
 \f0\fs22 \cf2 \cb1 \
 \pard\pardeftab720\partightenfactor0
 \cf6 \
@@ -305,33 +284,15 @@ limit
 \ls16\ilvl0
 \f1\b\fs27\fsmilli13600 \cf7 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 query
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the query in here
-\f2\i0 /\cb1 \
-\ls16\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-projection
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the projection in here
-\f2\i0 /\cb1 \
+\f2\b0\fs32 \cb3 : \{$or: [\{founded_day: 1\}, \{founded_day: 2\}, \{founded_day: 3\}, \{founded_day: 4\}, \{founded_day: 5\}, \{founded_day: 6\}, \{founded_day: 7\}]\}\cb1 \
 \ls16\ilvl0
 \f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 sort
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the sort in here
-\f2\i0 /\cb1 \
-\ls16\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-skip
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the skip in here
-\f2\i0 /\cb1 \
+\f2\b0\fs32 \cb3 : \{"acquisition.price_amount": -1\}\cb1 \
 \ls16\ilvl0
 \f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 limit
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the limit in here
-\f2\i0 /
+\f2\b0\fs32 \cb3 : 10
 \f0\fs22 \cf2 \cb1 \
 \pard\pardeftab720\partightenfactor0
 \cf6 \
@@ -342,33 +303,11 @@ limit
 \ls17\ilvl0
 \f1\b\fs27\fsmilli13600 \cf7 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 query
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the query in here
-\f2\i0 /\cb1 \
-\ls17\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-projection
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the projection in here
-\f2\i0 /\cb1 \
+\f2\b0\fs32 \cb3 : \{$and: [\{category_code: 'web'\}, \{number_of_employees: \{$gt: 4000\}\}]\}\cb1 \
 \ls17\ilvl0
 \f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 sort
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the sort in here
-\f2\i0 /\cb1 \
-\ls17\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-skip
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the skip in here
-\f2\i0 /\cb1 \
-\ls17\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-limit
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the limit in here
-\f2\i0 /
+\f2\b0\fs32 \cb3 : \{number_of_employees: 1\}
 \f0\fs22 \cf2 \cb1 \
 \pard\pardeftab720\partightenfactor0
 \cf6 \
@@ -379,33 +318,7 @@ limit
 \ls18\ilvl0
 \f1\b\fs27\fsmilli13600 \cf7 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 query
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the query in here
-\f2\i0 /\cb1 \
-\ls18\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-projection
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the projection in here
-\f2\i0 /\cb1 \
-\ls18\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-sort
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the sort in here
-\f2\i0 /\cb1 \
-\ls18\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-skip
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the skip in here
-\f2\i0 /\cb1 \
-\ls18\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-limit
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the limit in here
-\f2\i0 /
+\f2\b0\fs32 \cb3 : \{$and: [\{"acquisition.price_amount": 10000000\}, \{"acquisition.price_currency_code": 'EUR'\}]\}
 \f0\fs22 \cf2 \cb1 \
 \pard\pardeftab720\partightenfactor0
 \cf6 \
@@ -416,33 +329,15 @@ limit
 \ls19\ilvl0
 \f1\b\fs27\fsmilli13600 \cf7 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 query
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the query in here
-\f2\i0 /\cb1 \
+\f2\b0\fs32 \cb3 : \{$or: [\{"acquisition.acquired_month": 1\}, \{"acquisition.acquired_month": 2\}, \{"acquisition.acquired_month": 3\}]\}\cb1 \
 \ls19\ilvl0
 \f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 projection
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the projection in here
-\f2\i0 /\cb1 \
-\ls19\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-sort
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the sort in here
-\f2\i0 /\cb1 \
-\ls19\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-skip
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the skip in here
-\f2\i0 /\cb1 \
+\f2\b0\fs32 \cb3 : \{name: 1, acquisition: 1\}\cb1 \
 \ls19\ilvl0
 \f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 limit
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the limit in here
-\f2\i0 /
+\f2\b0\fs32 \cb3 : 10
 \f0\fs22 \cf2 \cb1 \
 \pard\pardeftab720\partightenfactor0
 \cf6 \
@@ -453,30 +348,4 @@ limit
 \ls20\ilvl0
 \f1\b\fs27\fsmilli13600 \cf7 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
 query
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the query in here
-\f2\i0 /\cb1 \
-\ls20\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-projection
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the projection in here
-\f2\i0 /\cb1 \
-\ls20\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-sort
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the sort in here
-\f2\i0 /\cb1 \
-\ls20\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-skip
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the skip in here
-\f2\i0 /\cb1 \
-\ls20\ilvl0
-\f1\b\fs27\fsmilli13600 \cb4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-limit
-\f2\b0\fs32 \cb3 : /
-\f3\i You should copy/paste the limit in here
-\f2\i0 /}
+\f2\b0\fs32 \cb3 : \{$and: [\{founded_year: \{$gte: 2000\}\}, \{founded_year: \{$lte: 2010\}\}, \{"acquisitions.acquired_year": \{$gt: 2011\}\}]\}}
