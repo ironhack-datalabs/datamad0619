@@ -15,8 +15,8 @@ skip:
 limit: 20
 
 3
-query: 
-projection: 
+query: {founded_year: {$in: [2000, 2005]}}
+projection: {founded_year: 1, name: 1, _id:0}
 sort: 
 skip: 
 limit: 
