@@ -1,2 +1,43 @@
 # Queries used to solve the lab:
 
+1
+query: { name: { $eq: "Babelgum" } } #or { name: "Babelgum" }
+projection: 
+sort: 
+skip: 
+limit: 
+
+2
+query: {number_of_employees: {$gt: 5000} }
+projection: 
+sort: { number_of_employees: 1 }
+skip: 
+limit: 20
+
+3
+query: 
+projection: 
+sort: 
+skip: 
+limit: 
+
+4
+query: 
+projection: 
+sort: 
+skip: 
+limit: 
+
+5
+query: 
+projection: 
+sort: 
+skip: 
+limit: 
+
+6
+query: 
+projection: 
+sort: 
+skip: 
+limit: 
