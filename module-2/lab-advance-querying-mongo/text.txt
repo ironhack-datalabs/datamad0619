@@ -56,6 +56,8 @@ limit: 1000
 
 filter:
 
+All the companies that have been 'deadpooled' after the third year.
+
 13. 
 
 filter: {$and:[{founded_year:{$lt: 2000 }},{"acquisition.price_amount":{$gt:10000000}}]}
@@ -80,8 +82,19 @@ limit: 10
 
 17.
 
-filter:
-sort: 
+filter: {$and:[{category_code:"web"}, {number_of_employees:{$gt: 4000}}]}
+sort: {number_of_employees:-1}
 
+18.
 
-All the companies on the 'web' category that have more than 4000 employees. Sort them by the amount of employees in ascendant order
+filter: {$and:[{"acquisition.price_amount":{$gt:10000000}},{"acquisition.price_currency_code":"EUR"}]}
+
+19.
+
+filter: {"acquisitions.acquired_month":{$lt: 4}}
+project: {name:1, acquisition:1}
+limit: 10
+
+20.
+
+filter: {$and:[{founded_year:{$gt:2000}},{founded_year:{$lt:2010}}, {"acquisitions.acquired_year":{$gt:2011}}]}
