@@ -1,1 +1,100 @@
-# ex 1
+# ex 1: All the companies that it's name match 'Babelgum'. Retrieve only their name field.
+
+filter: {name: 'Babelgum'}
+project: {name: 1}
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 2
+
+filter: {number_of_employees : {$gt: 5000} }
+project: 
+sort: {number_of_employees:-1}
+collation: 
+skip:
+limit:20
+
+# ex 3
+
+filter: {$and: [ {founded_year : {$gte:2000} } , { founded_year: {$lte:2005} } ] } 
+project: {name:1 , founded_year:1, _id:0}
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 4
+
+filter: {$and: [ {total_money_raised: {$gte: "$100000000"}}, {founded_year: {$lte:2010}} ] }
+project: {name:1 , ipo:1, _id:0}
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 5
+
+filter: {$and: [ {number_of_employees: {$lte: 1000}}, {founded_year: {$lte:2005}} ] }
+project: 
+sort: {number_of_employees:-1}
+collation: 
+skip:
+limit: 10
+
+# ex 6
+
+filter: {partners: {$exists: false}}
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 7
+
+filter: 
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 4
+
+filter: 
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 4
+
+filter: 
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 4
+
+filter: 
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 4
+
+filter: 
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+
