@@ -54,6 +54,51 @@ limit:
 
 # ex 7
 
+filter: {category_code: {$type: ['null']}}
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 8
+
+filter: {$and: [ {number_of_employees : {$gte:100} } , { number_of_employees: {$lte:1000} } ] } 
+project: {name:1 , number_of_employees:1, _id:0}
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 9
+
+filter: {"ipo.valuation_amount":-1}
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 10
+
+filter: 
+project: 
+sort: {number_of_employees:-1}
+collation: 
+skip:
+limit: 10
+
+# ex 11
+
+filter: {founded_month:{lte:6}}
+project: 
+sort: 
+collation: 
+skip:
+limit: 1000
+
+# ex 12
+
 filter: 
 project: 
 sort: 
@@ -61,7 +106,52 @@ collation:
 skip:
 limit:
 
-# ex 4
+# ex 13
+
+filter: {$and: [ { founded_year: {$lt:2000} } , {total_money_raised : {$gte:'$10k'} }] } 
+project: 
+sort: 
+collation: 
+skip:
+limit:
+
+# ex 14
+
+filter: { "acquisition.acquired_year" :  { $gte:2015 } }
+project: {name:1 , acquisition:1, _id:0}
+sort:  {acquisition:-1}
+collation: 
+skip:
+limit:
+
+# ex 15
+
+filter: 
+project: {name:1 , founded_year:1, _id:0}
+sort: {founded_year:-1}
+collation: 
+skip:
+limit:
+
+# ex 16
+
+filter: { founded_day :  { $lte:7 } }
+project: 
+sort: {"acquisition.price_amount":-1}
+collation: 
+skip:
+limit:10
+
+# ex 17
+
+filter: {$and: [ {number_of_employees : {$gt:4000} } , {web: {$exists: true}} ] }
+project: 
+sort: {number_of_employees:-1}
+collation: 
+skip:
+limit:
+
+# ex 18
 
 filter: 
 project: 
@@ -70,27 +160,18 @@ collation:
 skip:
 limit:
 
-# ex 4
+# ex 19
 
-filter: 
-project: 
+filter: {founded_month:{lte:3}}
+project: {name:1, acquisition:1}
 sort: 
 collation: 
 skip:
-limit:
+limit:10
 
-# ex 4
+# ex 20
 
-filter: 
-project: 
-sort: 
-collation: 
-skip:
-limit:
-
-# ex 4
-
-filter: 
+filter: { $and: [ {founded_year : {$gte:2000} } , { founded_year: {$lt:2010} } , {"acquisition.acquired_year": {$gt: 2011}} ] }
 project: 
 sort: 
 collation: 
