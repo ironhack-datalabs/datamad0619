@@ -89,7 +89,7 @@ skip:
 limit:
 
 12
-filter: 
+filter: {$where:"this.deadpooled_year - this.founded_year > 3"}
 project:
 sort:
 collation:
