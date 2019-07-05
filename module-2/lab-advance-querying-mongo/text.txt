@@ -52,9 +52,9 @@ limit: 10
 filter: {$and:[{founded_month:{$gte: 7 }},{founded_month:{$lte: 12 }}]}
 limit: 1000
 
-12.
+12. (no conseguí sacarlo)
 
-filter:
+filter: {deadpooled_year:{$gt:3}} 
 
 All the companies that have been 'deadpooled' after the third year.
 
