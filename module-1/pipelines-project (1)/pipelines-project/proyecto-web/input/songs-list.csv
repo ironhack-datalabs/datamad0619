@@ -1,0 +1,100 @@
+Name,Artist,Decade,Rank,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,Country,City
+The Twist,Chubby Checker,60,1,0.533,0.638,4,-7.13,0.0341,0.202,0,0.0729,0.937,156.663,153760,4,United States,Philadelphia
+Hey Jude,The Beatles,60,2,0.462,0.632,5,-7.438,0.0248,0.091,0,0.397,0.585,74.268,238854,4,England,Liverpool
+Theme from “A Summer Place”,Percy Faith & His Orchestra,60,3,0.466,0.389,5,-12.825,0.0253,0.631,0.843,0.295,0.749,92.631,144893,4,Canada,Toronto
+Tossin’ and Turnin’,Bobby Lewis,60,4,0.569,0.722,0,-8.914,0.0393,0.255,0,0.108,0.965,142.736,159640,4,United States,Indianapolis
+I Want to Hold Your Hand,The Beatles,60,5,0.49,0.715,7,-5.549,0.0476,0.386,0,0.311,0.866,130.726,145747,4,England,Liverpool
+I’m a Believer,The Monkees,60,6,0.503,0.772,0,-6.205,0.0322,0.595,0.00000247,0.199,0.935,79.462,165613,4,United States,Los Angeles
+Aquarius/Let the Sun Shine In,The Fifth Dimension,60,7,0.293,0.74,7,-6.098,0.0399,0.446,0.00151,0.0998,0.516,118.23,289293,4,United States,Los Angeles
+"Sugar, Sugar",The Archies,60,8,0.736,0.871,2,-2.786,0.0278,0.466,0,0.108,0.967,122.395,167187,4,United States,New York City
+I Heard it Through the Grapevine,Marvin Gaye,60,9,0.724,0.346,3,-11.256,0.0366,0.199,0,0.111,0.637,117.188,196707,4,United States,Washington D.C.
+Are You Lonesome Tonight,Elvis Presley,60,10,0.355,0.0922,7,-17.747,0.0515,0.918,0.000702,0.106,0.191,65.952,187027,4,United States,Tupelo
+It’s Now or Never,Elvis Presley,60,11,0.643,0.491,4,-9.312,0.0344,0.642,0.00972,0.286,0.753,126.399,194600,4,United States,Tupelo
+I’m Sorry,Brenda Lee,60,13,0.528,0.112,10,-17.431,0.031,0.938,0.00519,0.117,0.305,102.148,159973,3,United States,Atlanta
+Love Is Blue (L'amour Est Bleu),Paul Mauriat and His Orchestra,60,14,0.485,0.492,7,-11.71,0.0273,0.175,0.838,0.118,0.266,104.353,155867,4,France,Marseille
+Hello Dolly!,Louis Armstrong,60,15,0.631,0.501,0,-6.639,0.0519,0.832,0.000284,0.245,0.682,77.706,144320,4,United States,New Orleans
+Big Girls Don’t Cry,The Four Seasons,60,16,0.815,0.606,7,-9.733,0.115,0.571,0,0.13,0.883,130.45,145973,4,United States,Newark
+Sugar Shack,Jimmy Gilmer and the Fireballs,60,17,0.686,0.92,7,-8.349,0.0424,0.617,0.00000184,0.236,0.94,133.375,120477,4,United States,Raton
+Honky Tonk Woman ,The Rolling Stones,60,18,0.559,0.766,7,-6.714,0.0589,0.421,0.0242,0.0541,0.965,120.465,179413,4,England,London
+(Sittin’ On) The Dock of the Bay,Otis Redding,60,19,0.742,0.367,2,-14.474,0.0301,0.572,0.0102,0.149,0.699,103.633,161667,4,United States,Dawson
+Big Bad John,Jimmy Dean,60,20,0.695,0.268,5,-13.877,0.0527,0.327,0.00000719,0.131,0.367,85.753,177086,4,United States,Plainview
+You Light Up My Life,Debbie Boone,70,1,0.333,0.367,2,-10.06,0.0291,0.831,0.0000119,0.262,0.0685,77.986,216287,4,United States,Hackensack
+Tonight’s the Night (Gonna Be Alright),Rod Stewart,70,2,0.517,0.717,11,-7.786,0.0541,0.425,0.0000733,0.164,0.767,136.731,236173,4,United Kingdom,London
+Le Feak,Chic,70,3,0.91,0.807,7,-6.535,0.0532,0.0352,0.0000428,0.246,0.901,118.512,328840,4,United States,New York City
+How Deep is Your Love,Bee Gees,70,4,0.633,0.357,5,-9.366,0.0264,0.105,0,0.133,0.674,104.938,245200,4,Australia,Redcliffe
+I Just Want to Be Your Everything,Andy Gibb,70,5,0.648,0.656,9,-7.393,0.0345,0.169,0.0000117,0.164,0.831,97.093,225667,4,Australia,Redcliffe
+Silly Love Songs,Wings,70,6,0.739,0.477,0,-11.009,0.0355,0.122,0.00459,0.151,0.872,124.988,354267,4,United Kingdom,London
+Let’s Get it On,Marvin Gaye,70,7,0.543,0.62,8,-10.629,0.0648,0.0379,0.00000119,0.0559,0.607,167.141,290960,4,United States,Washington D.C.
+Night Fever,Bee Gees,70,8,0.696,0.783,1,-6.341,0.0291,0.014,0.000101,0.0794,0.768,109.183,209400,4,Australia,Redcliffe
+Tie a Yellow Ribbon Round the Ole Oak Tree,Dawn ft. Tony Orlando,70,9,0.57,0.646,5,-11.165,0.0493,0.239,0,0.0457,0.642,89.237,207600,4,United States,New York City
+Shadow Dancing,Andy Gibb,70,10,0.742,0.6,7,-9.647,0.0319,0.142,0,0.0677,0.954,101.92,267000,4,Australia,Redcliffe
+Stayin’ Alive,Bee Gees,70,11,0.703,0.831,10,-7.225,0.0349,0.0328,0.00839,0.218,0.949,103.573,283147,4,Australia,Redcliffe
+Hot Stuff,Donna Summer,70,12,0.832,0.735,0,-13.937,0.0319,0.00635,0.0342,0.0702,0.965,120.455,314760,4,United States,Boston
+You’re So Vain,Carly Simon,70,13,0.659,0.678,0,-8.18,0.0313,0.157,0.00000669,0.0784,0.647,106.186,258411,4,United States,New York City
+Play That Funky Music,Wild Cherry,70,14,0.814,0.672,9,-12.068,0.0619,0.0435,0,0.061,0.933,109.394,300000,4,United States,Mingo Junction
+My Sharona,The Knack,70,15,0.586,0.7,0,-9.558,0.0363,0.0589,0.00125,0.0318,0.897,147.245,295400,4,United States,Los Angeles
+Killing Me Softly With His Song,Roberta Flack,70,16,0.477,0.381,5,-10.237,0.0342,0.727,0,0.0615,0.329,121.568,286920,4,United States,Black Mountain
+Best of My Love,The Emotions,70,17,0.784,0.713,0,-6.865,0.0339,0.447,0.14,0.0904,0.97,115.443,220560,4,United States,Chicago
+The Way We Were,Barbara Streisand,70,18,0.264,0.32,9,-11.716,0.0325,0.885,0.00141,0.134,0.171,138.108,211093,3,United States,New York City
+A Fifth of Beethoven,Walter Murphy,70,19,0.688,0.506,0,-13.311,0.0408,0.316,0.69,0.0611,0.784,108.753,182533,4,United States,New York City
+I Will Survive,Gloria Gaynor,70,20,0.775,0.731,0,-8.715,0.0536,0.0181,0.00952,0.253,0.558,116.66,198066,4,United States,Newark
+Physical,Olivia Newton-John,80,1,0.84,0.796,4,-6.18,0.0454,0.125,0.00000882,0.302,0.81,124.297,221933,4,Australia,Melbourne
+Bette Davis Eyes,Kim Carnes,80,2,0.675,0.649,5,-10.271,0.0319,0.0204,0,0.0959,0.596,116.624,228000,4,United States,Los Angeles
+Endless Love,Lionel Richie & Diana Ross,80,3,0.437,0.338,10,-10.108,0.0252,0.484,0.00042,0.188,0.215,93.511,265613,4,United States,Tuskegee
+Eye Of the Tiger,Survivor,80,4,0.817,0.599,0,-9.249,0.0328,0.132,0.000311,0.0873,0.548,108.873,245640,4,United States,Chicago
+Every Breath You Take,The Police,80,5,0.822,0.478,1,-8.746,0.0343,0.559,0.0073,0.0813,0.722,117.394,251573,4,United Kingdom,London
+Flashdance…What A Feeling,Irene Cara,80,6,0.644,0.624,7,-8.137,0.363,0.124,0.00000422,0.232,0.578,124.917,234040,4,United States,New York City
+Another One Bites the Dust,Queen,80,7,0.94,0.389,5,-12.193,0.136,0.0497,0.0694,0.116,0.771,109.874,215933,4,United Kingdom,London
+Say Say Say,Paul McCartney & Michael Jackson,80,8,0.813,0.54,10,-15.603,0.0565,0.0464,0.000507,0.0335,0.766,117.526,234160,4,United Kingdom,London
+Call Me,Blondie,80,9,0.554,0.883,2,-6.667,0.0347,0.000646,0.0025,0.0737,0.773,142.673,212227,4,United States,New York City
+Lady,Kenny Rogers,80,10,0.362,0.183,3,-16,0.0347,0.861,0.000234,0.0932,0.2,136.646,231867,4,United States,Houston
+Centerfold,The J. Geils Band,80,11,0.653,0.677,0,-12.244,0.0396,0.249,0,0.403,0.888,114.37,216533,4,United States,Worcester
+(Just Like) Starting Over,John Lennon,80,12,0.701,0.79,9,-6.16,0.0725,0.301,0.0000606,0.179,0.421,99.104,236547,4,United Kingdom,Liverpool
+I Love Rock ’N Roll,Joan Jett & The Blackhearts,80,13,0.535,0.716,4,-5.025,0.0431,0.326,0,0.659,0.901,94.379,175173,4,United States,Los Angeles
+Ebony & Ivory,Paul McCartney & Stevie Wonder,80,14,0.639,0.459,4,-15.045,0.0332,0.168,0,0.15,0.785,80.668,220773,4,United Kingdom,Liverpool
+That’s What Friends Are For,Dionne Warwick,80,15,0.683,0.284,0,-15.207,0.0314,0.333,0,0.0608,0.207,120.233,257360,4,United States,Orange
+Upside Down,Diana Ross,80,16,0.877,0.843,5,-8.518,0.0672,0.175,0.0522,0.0477,0.866,107.848,245600,4,United States,Detroit
+Abracadabra,Steve Miller Band,80,17,0.791,0.535,9,-13.261,0.0355,0.0749,0.00000196,0.156,0.963,127.488,308373,4,United States,San Francisco
+Billie Jean,Michael Jackson,80,18,0.92,0.654,11,-3.051,0.0401,0.0236,0.0158,0.0359,0.847,117.046,293827,4,United States,Gary
+"Say You, Say Me",Lionel Richie,80,19,0.64,0.406,8,-11.129,0.0274,0.367,0,0.0865,0.233,128.026,241067,4,United States,Tuskegee
+All Night Long (All Night),Lionel Richie,80,20,0.739,0.576,1,-12.024,0.0472,0.122,0.00206,0.0482,0.78,108.81,260427,4,United States,Tuskegee
+How Do I Live,LeAnne Rimes,90,1,0.577,0.462,2,-7.989,0.0279,0.128,0,0.0822,0.258,128.303,266973,4,United States,Jackson
+Macarena,Los Del Rio,90,2,0.737,0.93,1,-6.083,0.0534,0.237,0.00000157,0.0911,0.965,103.191,253107,4,Spain,Seville
+Un-Break My Heart,Toni Braxton,90,3,0.625,0.426,2,-8.392,0.0271,0.413,0,0.116,0.112,110.018,270333,4,United States,Severn
+Foolish Games,Jewel,90,4,0.298,0.0735,5,-16.472,0.0378,0.944,0.000401,0.0976,0.174,131.045,340667,4,United States,Homer
+(Everything I Do) I Do It For You,Bryan Adams,90,5,0.519,0.372,1,-12.635,0.0284,0.0816,0.0000467,0.0652,0.298,131.227,394133,4,Canada,Kingston
+I’ll Make Love To You,Boyz II Men,90,6,0.557,0.509,2,-7.298,0.0243,0.119,0,0.0794,0.244,142.408,236773,3,United States,Philadelphia
+Too Close,Next,90,7,0.847,0.402,7,-9.952,0.0641,0.0118,0,0.283,0.752,99.693,259440,4,United States,Minneapolis
+One Sweet Day,Mariah Carey & Boyz II Men,90,8,0.569,0.495,1,-8.964,0.03,0.353,0,0.0839,0.302,128.228,281067,4,United States,Huntington
+Truly Madly Deeply,Savage Garden,90,9,0.555,0.698,0,-8.874,0.0287,0.403,0,0.0851,0.816,168.12,277267,4,Australia,Brisbane
+Candle In the Wind,Elton John,90,10,0.602,0.53,4,-9.665,0.029,0.189,0.0000269,0.085,0.526,124.512,229533,4,United Kingdom,Pinner
+End Of the Road,Boyz II Men,90,11,0.642,0.423,5,-9.283,0.0249,0.079,0,0.0663,0.505,149.61,351467,3,United States,Philadelphia
+The Sign,Ace of Base,90,12,0.808,0.786,4,-6.897,0.0447,0.00928,0.0701,0.0574,0.899,96.987,191240,4,Sweden,Gothenburg
+The Boy is Mine,Brandy & Monica,90,13,0.704,0.707,1,-6.537,0.0391,0.539,0.00106,0.318,0.761,93.145,294787,4,United States,McComb
+Because I Love You,Stevie B,90,14,0.356,0.398,1,-8.158,0.0322,0.688,0,0.117,0.0888,124.921,260267,4,United States,Fort Lauderdale
+Whoomp! (There It Is),Tag Team,90,15,0.8,0.639,4,-7.406,0.0439,0.00123,0,0.0803,0.45,129.443,226027,4,United States,Atlanta
+Rush Rush,Paula Abdul,90,16,0.706,0.44,4,-11.577,0.0493,0.763,0,0.0958,0.395,90.012,292933,4,United States,San Fernando
+You’re Still the One,Shania Twain,90,17,0.551,0.527,3,-7.119,0.0302,0.45,0,0.0867,0.642,133.758,212560,4,Canada,Timmins
+I Will Always Love You,Whitney Houston,90,18,0.306,0.214,4,-12.518,0.0356,0.844,0.0000053,0.0839,0.108,66.98,271093,4,United States,Newark
+Gangsta’s Paradise,Coolio & LV,90,19,0.647,0.514,8,-10.05,0.0593,0.0655,0,0.398,0.387,79.974,240693,4,United States,Compton
+Nothing Compares 2 U,Sinead O’Connor,90,20,0.511,0.574,5,-7.016,0.0273,0.0425,0.0000233,0.105,0.161,119.917,280040,4,Ireland,Glenageary
+We Belong Together,Mariah Carey,2000,1,0.838,0.469,0,-7.992,0.0835,0.0358,0,0.0928,0.778,139.975,201400,4,United States,Huntington
+Yeah!,Usher,2000,2,0.894,0.791,2,-4.699,0.112,0.0183,0,0.0388,0.583,105.018,250373,4,United States,Atlanta
+Low,Flo Rida,2000,3,0.918,0.609,10,-5.64,0.0791,0.0928,0,0.139,0.304,128.008,231400,4,United States,Miami Gardens
+I Gotta Feeling,Black Eyed Peas,2000,4,0.741,0.748,0,-6.299,0.0264,0.0823,0,0.34,0.6,127.965,289133,4,United States,Los Angeles
+How You Remind Me,Nickelback,2000,5,0.432,0.795,10,-4.023,0.0321,0.00128,0,0.101,0.519,172.011,224173,4,Canada,Hanna
+No One,Alicia Keys,2000,6,0.644,0.548,1,-5.416,0.0286,0.0209,0.00000868,0.134,0.166,90.042,253813,4,United States,New York City
+Boom Boom Pow,Black Eyed Peas,2000,7,0.869,0.851,9,-6.201,0.0827,0.15,0.000873,0.136,0.395,130.09,251440,4,United States,Los Angeles
+Let Me Love You,Mario,2000,8,0.656,0.578,7,-8.97,0.0922,0.235,0,0.118,0.556,94.514,256733,4,United States,Baltimore
+Gold Digger,Kanye West & Jamie Foxx,2000,9,0.638,0.699,1,-5.54,0.384,0.0223,0,0.0917,0.66,92.939,207627,4,United States,Atlanta
+Apologize,Timbaland & One Republic,2000,10,0.654,0.61,8,-6.051,0.0285,0.0399,0,0.101,0.118,118.032,184400,4,United States,Norfolk
+Dillemma,Nelly & Kelly Rowland,2000,11,0.725,0.534,2,-8.364,0.167,0.211,0.0000291,0.221,0.621,168.119,289173,4,United States,Austin
+Family Affair,Mary J. Blige,2000,12,0.925,0.56,8,-3.795,0.0436,0.138,0.0000119,0.0861,0.966,92.895,265867,4,United States,New York City
+Big Girls Don’t Cry,Fergie,2000,13,0.712,0.647,7,-4.277,0.0336,0.239,0,0.0955,0.292,113.116,268120,4,United States,Hacienda Heights
+Maria Maria,Santana & The Product G&B,2000,14,0.777,0.601,2,-5.931,0.126,0.0406,0.00201,0.0348,0.68,97.911,261973,4,United States,San Francisco
+U Got It Bad,Usher,2000,15,0.816,0.5,1,-4.551,0.03,0.0227,0.00000153,0.0733,0.649,124.037,247840,4,United States,Atlanta
+Whatever You Like,T.I.,2000,16,0.68,0.687,9,-6.162,0.0709,0.0161,0,0.261,0.467,150.053,249533,4,United States,Atlanta
+Bleeding Love,Leona Lewis,2000,17,0.638,0.656,5,-5.886,0.0357,0.188,0,0.146,0.225,104.036,262467,4,United Kingdom,London
+"Independent Women, Part I",Destiny’s Child,2000,18,0.73,0.602,6,-3.782,0.206,0.362,0.00000369,0.169,0.927,97.954,221133,4,United States,Houston
+Foolish,Ashanti,2000,19,0.477,0.728,0,-5.71,0.0831,0.358,0,0.11,0.69,89.209,227387,4,United States,Glen Cove
+Hey Ya!,Outkast,2000,20,0.715,0.97,0,-2.206,0.0648,0.0644,0.000156,0.205,0.963,79.504,239240,4,United States,East Point
