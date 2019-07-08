@@ -1,0 +1,15 @@
+
+DOCUMENTACIÓN
+
+1.- ANÁLISIS POR REGISTROS: 
+
+Presenta diferentes KPI´s explicados a través de la dimensión REGISTROS, como los tipo de servicios que han sido contratados como la duración del contrato o el método de pago.
+
+URL: https://public.tableau.com/profile/javier.d.az#!/vizhome/HistoriaAnlisisRegistros/AnlisisRegistros?publish=yes
+
+
+2.- ANÁLISIS POR PERMANENCIA:
+
+Presenta diferentes KPI´s explicados a través de la dimensión TERNURE como los tipo de servicios que han sido contratados como la duración del contrato o el método de pago.
+
+URL: https://public.tableau.com/profile/javier.d.az#!/vizhome/HistoriaAnlisisRegistros/AnlisisPermanencia?publish=yes
