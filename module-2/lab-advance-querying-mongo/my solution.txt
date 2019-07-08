@@ -34,7 +34,6 @@
     query: {category_code: null}
     projection: {name:1,ipo:1}
     sort: {number_of_employees:-1}
-    skip: /You should copy/paste the skip in here/
     limit: 10 
 
 8.All the companies that have at least 100 employees but less than 1000. Retrieve only the name and number of employees fields.
