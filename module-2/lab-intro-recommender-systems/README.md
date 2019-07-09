@@ -6,6 +6,7 @@
 
 In the Intro to Recommender Systems lesson, we learned about collaborative filtering and walked through how to generate recommendations based on user similarity. In this lab, we will continue practicing how to create a user-based collaborative filtering recommender system in a step-by-step fashion.
 
+
 ## Getting Started
 
 Open the `main.ipynb` file in the `your-code` directory. There are a bunch of questions to be solved. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
