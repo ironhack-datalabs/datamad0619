@@ -5,3 +5,6 @@ venv/
 .env
 __pycache__
 companies.json
+companies_broken.json
+companies_dislike.json
+filtered_companies.json
