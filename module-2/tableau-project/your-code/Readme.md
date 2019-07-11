@@ -25,19 +25,18 @@ This new jupyter notebook uploads the json file and creates a query with most of
 - over 1M of "total_money_raised"
 - that have a catergory code: "web", "social", "games_videos", "mobile", "news", "network_hosting", "ecommerce" or "advertising"
 
+With the exact columns I want to draw in my Tableau sheet, I export that last data frame into a json file and import it to Tableau to get my first map with the 61 companies that match all criteria defined in the query. 
 
-With the exact columns I want to draw in my Tableau sheet, I export that last data frame into a json file. 
+Google Places API: 
 
-API.ipynb
+- Search1: shows Starbucks in a 2km radius
+- Search2: shows vegan restaurants in a 2km radius
+- Search3: shows nurseries in a 2km radius
+- Search4: shows the bars in a 2km radius
+- Search5: shows night clubs in a 2km radius
+- Search6: shows basketball stadiums in a 5km radius
+- Search7: shows the closest airports in a 20km radius
 
-
-
-tableaupublic.com/akjshdjashdashduhash
-- Sheet1: shows the records that are still in my dataframe and localizes them with their latitude and longitude
-- Sheet2: shows the records that have a Starbucks in a 2km radius
-- Sheet3: shows the records that have party areas in a 5km radius
-- Sheet4: shows the records that have a basketball stadisum in a 8km radius
-- Sheet5: shows the records that have a vegan restaurant in a 3km radius
-
-Finally, the location of the office of our company VIDEOGAMUS is: 
+https://public.tableau.com/profile/alejandra.aranzadi#!/vizhome/CompaniesCrunchbase/Selection?publish=yes
+Finally, the location of the office of our company VIDEOGAMUS is: the San Francisco Area
 
