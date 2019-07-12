@@ -1,5 +1,0 @@
-.env
-__pycache__
-pipeline/__pycache__
-html/*
-!html/.gitkeep 
