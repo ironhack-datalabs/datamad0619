@@ -29,11 +29,11 @@ He seguido los siguientes pasos:
 9. He realizado una serie de visualizaciones con Tableau.
 
 
-![SUM_TOTAL](SUM_TOTAL_DEFINITIVO.PNG)
-![SUM](SUM_DEFINITIVO.PNG)
-![0_compañías_SUM_TOTAL](0_SUM_TOTAL_DEFINITIVO.PNG)
-![0_compañías_SUM](0_SUM_DEFINITIVO.PNG)
-![0_sin_tamaño](0_sin_tamaño.PNG)
+![SUM_TOTAL](maps/SUM_TOTAL_DEFINITIVO.PNG)
+![SUM](maps/SUM_DEFINITIVO.PNG)
+![0_compañías_SUM_TOTAL](maps/0_SUM_TOTAL_DEFINITIVO.PNG)
+![0_compañías_SUM](maps/0_SUM_DEFINITIVO.PNG)
+![0_sin_tamaño](maps/0_sin_tamaño.PNG)
 
 
 
