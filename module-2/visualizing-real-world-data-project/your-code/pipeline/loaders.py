@@ -21,6 +21,8 @@ def draw_html(df_score, df_top5, df_norm_bis, dir_path):
     <html>
     <head>
         <style>
+        
+
         body {
             margin: 0;
             padding: 0;
@@ -29,10 +31,10 @@ def draw_html(df_score, df_top5, df_norm_bis, dir_path):
 
         header, footer{
             background-color: #474747;
-            padding: 15px 50px;
+            padding: 15px 5%;
             color: #fff;
             display: inline-flex;
-            width: 100%;
+            width: 90%;
         }
         
         header img, header p{
@@ -45,7 +47,7 @@ def draw_html(df_score, df_top5, df_norm_bis, dir_path):
         }
 
         #content{
-            margin: 30px 60px;
+            padding: 30px 60px;
         }
 
         li {
@@ -62,6 +64,14 @@ def draw_html(df_score, df_top5, df_norm_bis, dir_path):
         }
         table{
             margin-bottom: 30px;
+        }
+
+	    table td{
+            border: 1px solid #000;
+        }
+   
+        .tablecontent{
+            display: inline;
         }
         </style>
         <script src="https://maps.googleapis.com/maps/api/js?key="""+gkey+""""">
@@ -111,8 +121,7 @@ def draw_html(df_score, df_top5, df_norm_bis, dir_path):
             <li>Cerca del nº  """+places[e]["address_components"][0]["long_name"]+"""</li>
         </ul>
 
-        """ + df_score.drop_duplicates().loc[df_norm_bis.index[e],:].to_frame().to_html(header=False, justify="center")+"""
-        """ + df_top5.loc[df_norm_bis.index[e],:].to_frame().to_html(header=False, justify="center")+"""
+        <div class="tablecontent">""" + pd.concat([df_score.drop_duplicates().loc[df_norm_bis.index[e],:].to_frame(),df_top5.loc[df_norm_bis.index[e],:].to_frame()]).to_html(header=False, justify="center")+"""</div>
  
         <div id="map"""+str(e)+"""" style="width: 1000px; height: 600px"></div> 
         <script type="text/javascript">
