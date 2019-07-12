@@ -22,7 +22,7 @@ def connect():
 
     return df
 
-def find_companies(geopoint, query, radio_max_meters=1000):
+def find_companies(geopoint, query, argparse, radio_max_meters=1000):
 
     if query == "companies_near":
         return (db.companies_cleaned.find({
@@ -32,7 +32,7 @@ def find_companies(geopoint, query, radio_max_meters=1000):
                     "$maxDistance": radio_max_meters
                     }
                 }},
-                {"category_code":"games_video"}
+                {"category_code":argparse["type"]}
             ]
         }).count())
     elif query == "employees":
@@ -43,7 +43,7 @@ def find_companies(geopoint, query, radio_max_meters=1000):
                     "$maxDistance": radio_max_meters
                     }
                 }},
-                {"number_of_employees":{"$gte":87}}
+                {"number_of_employees":{"$gte":argparse["employees"]}}
             ]
         }).count())
     elif query == "year":
@@ -54,7 +54,7 @@ def find_companies(geopoint, query, radio_max_meters=1000):
                     "$maxDistance": radio_max_meters
                     }
                 }},
-                {"founded_year":{"$gt":2009}}
+                {"founded_year":{"$gt":argparse["year"]}}
             ]
         }).count())
     elif query == "money":
@@ -65,7 +65,7 @@ def find_companies(geopoint, query, radio_max_meters=1000):
                     "$maxDistance": radio_max_meters
                     }
                 }},
-                {"total_money_raised":{"$gte":1000000}}
+                {"total_money_raised":{"$gte":argparse["money"]}}
             ]
         }).count())
     elif query == "deadpool":

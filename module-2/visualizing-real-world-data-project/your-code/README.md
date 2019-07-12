@@ -78,4 +78,8 @@ Tras limpiar los datos, exporté los archivos de `companies_cleaned` a csv para 
 
 Esto me permitía elegir los mejores lugares para ubicar la empresa. Sin embargo, a ojo era fácil equivocarse. Por ello busqué una forma de realizarlo de manera automática, otorgándole una puntuación a cada ubicación.
 
+## TO-DOs
 
+* Incluir un `argparse` para que los datos de la compañía puedan ser introducidor por el usuario.
+* Dar una puntuación según varios radios de distancia para dar más importancia cuanto más cerca se encuentre.
+* Pasar el pipeline basado en funciones a uno basado en objetos.

@@ -11,14 +11,14 @@ if not "GOOGLE_KEY" in os.environ:
     raise ValueError("Necesitas una API key de Google")
 
 gkey = os.environ["GOOGLE_KEY"]
-def create_df_score(df):
+def create_df_score(df, argparse):
     print("Calculando puntuaciones...")
     df_score = pd.DataFrame()
-    df_score["companies_near"]=df["oficina"].apply(lambda x: int(find_companies(x, str('companies_near'))))
-    df_score["number_of_employees"]=df["oficina"].apply(lambda x: int(find_companies(x, 'employees')))
-    df_score["founded_year"]=df["oficina"].apply(lambda x: int(find_companies(x, 'year')))
-    df_score["total_money_raised"]=df["oficina"].apply(lambda x: int(find_companies(x, 'money')))
-    df_score["deadpooled_year"]=df["oficina"].apply(lambda x: int(find_companies(x, 'deadpool')))
+    df_score["companies_near"]=df["oficina"].apply(lambda x: int(find_companies(x, str('companies_near'), argparse)))
+    df_score["number_of_employees"]=df["oficina"].apply(lambda x: int(find_companies(x, 'employees', argparse)))
+    df_score["founded_year"]=df["oficina"].apply(lambda x: int(find_companies(x, 'year', argparse)))
+    df_score["total_money_raised"]=df["oficina"].apply(lambda x: int(find_companies(x, 'money', argparse)))
+    df_score["deadpooled_year"]=df["oficina"].apply(lambda x: int(find_companies(x, 'deadpool', argparse)))
     return df_score[["number_of_employees", "founded_year", "total_money_raised", "companies_near", "deadpooled_year"]].copy()
 
 def normalize(df):
@@ -59,6 +59,6 @@ def normalize_bis(df):
     df2.rename(columns= {0: "starbucks",1: "vegan",2: "clubs",3: "airport",4: "basketball",5: "kindergarten",6: "galleries"}, inplace=True)
 
     df2.set_index(df.index, inplace=True)
-    df2["total"] = df2.apply(lambda x: x.starbucks+x.vegan+x.clubs+x.airport-x.basketball+x.schools+x.galleries, axis=1)
+    df2["total"] = df2.apply(lambda x: x.starbucks+x.vegan+x.clubs+x.airport-x.basketball+x.kindergarten+x.galleries, axis=1)
     df2.sort_values("total", ascending=False, inplace=True)
     return df2
