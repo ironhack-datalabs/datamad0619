@@ -74,7 +74,7 @@ Los archivos que contiene el proyecto son (por orden de ejecución):
 
 Tras limpiar los datos, exporté los archivos de `companies_cleaned` a csv para importarlos a Tableau y cree mapas de calor como el siguiente:
 
-![Mapa de calor en Tableau](tableau-map.png)
+![Mapa de calor en Tableau](images/tableau-map.png)
 
 Esto me permitía elegir los mejores lugares para ubicar la empresa. Sin embargo, a ojo era fácil equivocarse. Por ello busqué una forma de realizarlo de manera automática, otorgándole una puntuación a cada ubicación.
 
