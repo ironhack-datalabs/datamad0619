@@ -35,19 +35,6 @@ def normalize(df):
     df2.drop_duplicates(inplace=True)
     return df2
 
-def normalize_bis(df):
-    print("Normalizando el nuevo resultado...")
-    x = df.values #returns a numpy array
-    min_max_scaler = preprocessing.MinMaxScaler()
-    x_scaled = min_max_scaler.fit_transform(x)
-    df2 = pd.DataFrame(x_scaled)
-    df2.rename(columns= {0: "starbucks",1: "vegan",2: "clubs",3: "airport",4: "basketball",5: "schools",6: "galleries"}, inplace=True)
-
-    df2.set_index(df.index, inplace=True)
-    df2["total"] = df2.apply(lambda x: x.starbucks+x.vegan+x.clubs+x.airport-x.basketball+x.schools+x.galleries, axis=1)
-    df2.sort_values("total", ascending=False, inplace=True)
-    return df2
-
 def call_places(top_five):
     print("Volviendo a calcular con los 5 mejores...")
     dic = {
@@ -56,9 +43,22 @@ def call_places(top_five):
         "night_clubs" : ("night_club", ""),
         "airport" : ("airport", "international_airport"),
         "basketball" : ("basketball_court", "basketball"),
-        "schools" : ("school", "day_care"),
+        "schools" : ("school", "kindergarten"),
         "galleries": ("art_gallery", "art_gallery")
     }
     for k, v in dic.items():
         top_five[k] = [len(requests.get(f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={e}&radius=500&type={v[0]}&keyword={v[1]}&key={gkey}").json()) for e in top_five.index]
     return top_five[dic.keys()]
+
+def normalize_bis(df):
+    print("Normalizando el nuevo resultado...")
+    x = df.values #returns a numpy array
+    min_max_scaler = preprocessing.MinMaxScaler()
+    x_scaled = min_max_scaler.fit_transform(x)
+    df2 = pd.DataFrame(x_scaled)
+    df2.rename(columns= {0: "starbucks",1: "vegan",2: "clubs",3: "airport",4: "basketball",5: "kindergarten",6: "galleries"}, inplace=True)
+
+    df2.set_index(df.index, inplace=True)
+    df2["total"] = df2.apply(lambda x: x.starbucks+x.vegan+x.clubs+x.airport-x.basketball+x.schools+x.galleries, axis=1)
+    df2.sort_values("total", ascending=False, inplace=True)
+    return df2
