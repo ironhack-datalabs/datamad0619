@@ -1,5 +1,0 @@
-,_id,category_code,deadpooled_year,founded_year,lat,lng,name,number_of_employees,oficina,tag_list,total_money_raised
-0,5d245689f82093f85a6eff50,design,,2008.0,37.7955307,-122.4005983,99designs,100.0,"{'type': 'Point', 'coordinates': [-122.4005983, 37.7955307]}","graphic-design, crowdsourcing, online-marketplace, marketplace, crowdsourced-design",35000000.0
-1,5d245689f82093f85a6eff51,design,,2008.0,-37.8026587,144.9868546,99designs,100.0,"{'type': 'Point', 'coordinates': [144.9868546, -37.8026587]}","graphic-design, crowdsourcing, online-marketplace, marketplace, crowdsourced-design",35000000.0
-2,5d245689f82093f85a6eff52,design,,2008.0,52.4986199,13.4469031,99designs,100.0,"{'type': 'Point', 'coordinates': [13.4469031, 52.4986199]}","graphic-design, crowdsourcing, online-marketplace, marketplace, crowdsourced-design",35000000.0
-3,5d245689f82093f85a6f1d7b,design,,2009.0,45.7968414,-122.6931439,Graticle,1.0,"{'type': 'Point', 'coordinates': [-122.6931439, 45.7968414]}","web-design, web-hosting, graphic-design, web-development, seo, search-engine-optimization",
