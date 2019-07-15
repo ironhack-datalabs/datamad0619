@@ -1,6 +1,0 @@
-.DS_Store
-.idea
-venv/
-.ipynb_checkpoints
-.env
-token.txt
